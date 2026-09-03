@@ -253,7 +253,9 @@ export function RomanHistoryReader({
       try {
         let nextBook = bookCache.current.get(key);
         if (!nextBook) {
-          const response = await fetch(publicDataUrl(basePath, volume.path));
+          const response = await fetch(publicDataUrl(basePath, volume.path), {
+            cache: 'no-store',
+          });
           if (!response.ok) throw new Error(`Failed to load ${key}`);
           nextBook = (await response.json()) as BookData;
           bookCache.current.set(key, nextBook);
@@ -403,6 +405,7 @@ export function RomanHistoryReader({
             const collection = collections.get(sourceId)!;
             const response = await fetch(
               publicDataUrl(basePath, collection.searchPath),
+              { cache: 'no-store' },
             );
             if (!response.ok) throw new Error(`Search index ${sourceId} failed`);
             index = (await response.json()) as SearchRow[];
