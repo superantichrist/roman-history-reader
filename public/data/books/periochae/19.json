@@ -1,0 +1,307 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 19,
+  "bookLabel": "제19권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 264–219년",
+  "chapterCount": 1,
+  "passageCount": 15,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-19-per-001",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 19.1",
+      "original": "CAECILIUS METELLUS rebus adversus Poenos prospere gestis speciosum egit triumphum, xiii ducibus hostium et cxx elephantis in eo ductis.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-002",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 19.2",
+      "original": "Claudius Pulcher cos. contra auspicia profectus—iussit mergi pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit, sortis ultimate hominem, qui coactus abdicare se magistratu pbstea ludos praetextatus spectavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-003",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 19.3",
+      "original": "A. Atilius Calatinns primus dictator extra Italiam exercitum duxit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-004",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 19.4",
+      "original": "commutatio captivorum cum Poenis facta est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-005",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 19.5",
+      "original": "coloniae deductae sunt Fregenae, in agro Sallentino Brundisium.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-006",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 19.6",
+      "original": "lustrum a censoribus conditum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-007",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 19.7",
+      "original": "censa sunt civium capita C̅C̅X̅L̅I̅ CCXII.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-008",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 19.8",
+      "original": "Claudia, soror P. Claudi, qui contemptis auspiciis male pugnaverat, a ludis revertens cum turba premeretur, dixit: Utinam frater meus viveret; iterum classem duceret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-009",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 19.9",
+      "original": "ob eam causam multa ei dicta est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-010",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 19.10",
+      "original": "duo praetores tunc primum creati sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-011",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 19.11",
+      "original": "Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idem et flamen Martialis erat, cum is ad bellum gerendum proficisci vellet, 'in urbe tenuit nec passus est a sacris recedere.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-012",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 19.12",
+      "original": "rebus adversus Poenos a pluribus ducibus prospere gestis, summam victoriae C. Lutatius cos. victa ad Aegates insulas classe Poenorum imposuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-013",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 19.13",
+      "original": "petentibus Carthaginiensibus pax data est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-014",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 19.14",
+      "original": "cum templum Vestae arderet, Caecilius Metellus, pontifex maximus, ex incendio sacra rapuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-19-per-015",
+      "sourceId": "periochae",
+      "book": 19,
+      "chapter": "per",
+      "section": "15",
+      "sectionStart": "15",
+      "sectionEnd": "15",
+      "sectionRefs": [
+        "15"
+      ],
+      "paragraph": 15,
+      "ref": "Liv. Per. 19.15",
+      "original": "duae tribus adiectae sunt, Velina et Quirina.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

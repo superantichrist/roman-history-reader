@@ -1,0 +1,136 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 12,
+  "bookLabel": "제12권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 292–267년",
+  "chapterCount": 1,
+  "passageCount": 6,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-12-per-001",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 12.1",
+      "original": "cum legati Romanorum a Gallis Senonibus interfecti essent, bello ob id Gallis indicto, L. Caecilius praetor ab his cum legionibus caesus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-12-per-002",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 12.2",
+      "original": "cum a Tarentinis classis Romana direpta esset, IIviro qui praeerat classi occiso, legati ad eos a senatu, ut de his iniuriis quererelitur, missi pulsati sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-12-per-003",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 12.3",
+      "original": "ob id bellum his indictum est. Samnites defecerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-12-per-004",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 12.4",
+      "original": "adversus eos et Lucanos et Brittios et Etruscos aliquot proeliis a conpluribus ducibus bene pugnatum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-12-per-005",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 12.5",
+      "original": "Pyrrhus, Epirotarum rex, ut auxilium Tarentinis ferret, in Italiam venit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-12-per-006",
+      "sourceId": "periochae",
+      "book": 12,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 12.6",
+      "original": "cum in praesidium Reginorum legio Campana cum praefecto Decio Vibellio missa esset, occisis Reginis Regium occupavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

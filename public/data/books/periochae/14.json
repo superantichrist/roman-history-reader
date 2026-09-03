@@ -1,0 +1,212 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 14,
+  "bookLabel": "제14권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 292–267년",
+  "chapterCount": 1,
+  "passageCount": 10,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-14-per-001",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 14.1",
+      "original": "PYRRHUS in Siciliam traiecit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-002",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 14.2",
+      "original": "cum inter alia prodigia fulmine deiectum esset in Capitolio Iovis signum, caput eius per haruspices inventum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-003",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 14.3",
+      "original": "Curius Dentatus cos. cum dilectum haberet, eius qui citatus non responderat bona primus vendidit; iterum Pyrrhum ex Sicilia in Italiam reversum vicit et Italia expulit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-004",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 14.4",
+      "original": "Fabricius censor P. Cornelium Rufinum consularem senatu movit, quod is x pondo argenti facti haberet.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-005",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 14.5",
+      "original": "lustro a censoribus condito censa sunt civium capita C̅C̅L̅X̅X̅I̅ ccxxiiii.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-006",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 14.6",
+      "original": "cum Ptolemaeo, Aegypti rege, societas iuncta est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-007",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 14.7",
+      "original": "sextilia, virgo Vestalis, damnata incesti viva defossa est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-008",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 14.8",
+      "original": "coloniae deductae sunt Posidonia et Cosa.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-009",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 14.9",
+      "original": "carthaginiensium classis auxilio Tarentinis venit, quo facto ab his foedus violatum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-14-per-010",
+      "sourceId": "periochae",
+      "book": 14,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 14.10",
+      "original": "res praeterea contra Lucanos et Bruttios et Samnites feliciter gestas et Pyrrhi regis mortem continet.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

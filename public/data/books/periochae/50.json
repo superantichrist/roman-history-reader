@@ -1,0 +1,288 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 50,
+  "bookLabel": "제50권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 14,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-50-per-001",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 50.1",
+      "original": "Thessalia, cum et illam invadere armis atque occupare Pseudophilippus vellet, per legatos Romanorum auxiliis Achaeorum defensa est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-002",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 50.2",
+      "original": "Prusias rex Bithyniae, omnium humillimorumque vitiorum, a Nicomede filio, adiuvante Attalo rege Pergami, occisus, habebat alterum filium, qui pro superiore ordine dentium enatum habuisse unum os continens dicitur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-003",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 50.3",
+      "original": "cum III legati ad pacem inter Nicomeden et Prusiam faciendam ab Romanis missi essent, cum unus ex his multis cicatricibus sparsum caput haberet, alter pedibus aeger esset, tertius ingenio socors haberetur, M. Cato dixit eam in legationem, nec caput nec pedes nec cor habere.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-004",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 50.4",
+      "original": "in Syria, quae eo tempore stirpe generis parem Macedonum regis, inertia socordiaque similem Prusiae regem habebat, iacente eo in ganea et lustris Hammonius regnabat, per quem et amici omnes regis et Laodice regina et Antigonus Demetri filius occisi sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-005",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 50.5",
+      "original": "Masinissa Numidiae rex maior nonaginta annis decessit, vir insignis.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-006",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 50.6",
+      "original": "inter cetera iuvenalia opera, quae ad ultimum edidit, adeo etiam veneris usu in senecta viguit, ut post sextum et octogesimum annum filium genuerit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-007",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 50.7",
+      "original": "inter tres liberos eius (maximus natu Micipsa, Gulussa, Mastanabal, qui etiam Graecis litteris eruditus erat) P. Scipio Aemilianus, cum commune his regnum pater reliquisset et dividere eos arbitro Scipione iussisset, partes administrandi regni divisit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-008",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 50.8",
+      "original": "item Phameae Himilconi, praefecto equitum Carthaginiensium, viro forti et cuius praecipua opera Poeni utebantur, persuasit, ut ad Romanos cum equitatu suo transiret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-009",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 50.9",
+      "original": "ex tribus legatis, qui ad Masinissam missi erant, M. Claudius Marcellus coorta tempestate fluctibus obrutus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-010",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 50.10",
+      "original": "Carthaginienses Hasdrubalem, Masinissae nepotem, quem praetorem habebant, hominem proditionis suspectum in curia occiderunt; quae suspicio inde manavit, quod propincus esset Gulussae Romanorum auxilia iuvantis.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-011",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 50.11",
+      "original": "P. Scipio Aemilianus cum aedilitatem peteret, consul a populo dictus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-012",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 50.12",
+      "original": "quoniam per annos consuli fieri non licebat, cum magno certamine suffragantis plebis et repugnantibus ei aliquamdiu patribus, legibus solutus et consul creatus. M'.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-013",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 50.13",
+      "original": "Manilius aliquot urbes circumpositas Carthagini expugnavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-50-per-014",
+      "sourceId": "periochae",
+      "book": 50,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 50.14",
+      "original": "Pseudophilippus in Macedonia, caeso cum exercitu P. Iuventio praetore, ab Q. Caecilio victus captusque est, et recepta Macedonia.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

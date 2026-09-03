@@ -1,0 +1,288 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 46,
+  "bookLabel": "제46권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 14,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-46-per-001",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 46.1",
+      "original": "Eumenes rex Romam venit, qui Macedonico bello medium egerat.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-002",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 46.2",
+      "original": "ne aut hostis iudicatus videretur, si exclusus esset, aut liberatus crimine, si admitteretur, in commune lex lata est, ne cui regi Romam venire liceret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-003",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 46.3",
+      "original": "Claudius Marcellus consul Alpinos Gallos, C. Sulpicius Gallus consul Liguras subegit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-004",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 46.4",
+      "original": "legati Prusiae regis questi sunt de Eumene, quod fines suos popularetur, dixeruntque eum conspirasse cum Antiocho adversus populum Romanum.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-005",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 46.5",
+      "original": "societas cum Rhodiis deprecantibus iuncta est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-006",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 46.6",
+      "original": "lustrum a censoribus conditum: censa sunt civium capita CCCXXXVII XXII.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-007",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 46.7",
+      "original": "princeps senatus M. Aemilius Lepidus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-008",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 46.8",
+      "original": "Ptolemaeus Aegypti rex, pulsus regno a minore fratre missis ad cum legatis restitutus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-009",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 46.9",
+      "original": "Ariarathe, Cappadociae rege, mortuo filius eius Ariarathes regnum accepit et amicitiam cum populo Romano per legatos renovavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-010",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 46.10",
+      "original": "res praeterea adversus Liguras et Corsos et Lusitanos vario eventu gestas et motus Syriae mortuo Antiocho, qui filium Antiochum puerum admodum reliquerat, continet.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-011",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 46.11",
+      "original": "hunc Antiochum puerum cum Lysia tutore Demetrius Seleuci filius, qui Romae obses fuerat, clam, quia non dimittebatur, a Roma ⟦…⟧ interemit et ipse in regnum receptus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-012",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 46.12",
+      "original": "L. Aemilius Paulus, qui Persen vicerat, mortuus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-013",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 46.13",
+      "original": "cuius tanta abstinentia fuit, ut, cum ex Hispania et ex Macedonia immensas opes rettulisset, vix ex auctione eius redactum sit, unde uxori eius dos solveretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-46-per-014",
+      "sourceId": "periochae",
+      "book": 46,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 46.14",
+      "original": "Pomptinae paludes a Cornelio Cethego consule, cui ea provincia evenerat, siccatae, agerque ex his factus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

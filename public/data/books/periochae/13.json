@@ -1,0 +1,250 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 13,
+  "bookLabel": "제13권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 292–267년",
+  "chapterCount": 1,
+  "passageCount": 12,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-13-per-001",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 13.1",
+      "original": "VALERIUS LAEVINUS COS. parum prospere adversus Pyrrhum pugnavit, elephantorum maxime inusitata facie territis militibus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-002",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 13.2",
+      "original": "post id proelium cum corpora Romanorum qui in acie ceciderant Pyrrhuis inspiceret, omnia versa in hosted invenit populabundusque ad urbem Romanam processit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-003",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 13.3",
+      "original": "C. Fabricius missus ad eum a senatu, ut de redimendis captivis ageret, frustra ut patriam desereret a rege temptatus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-004",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 13.4",
+      "original": "captivi sine pretio remissi sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-005",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 13.5",
+      "original": "cineas legatus a Pyrrho ad senatum missus petit ut conponendae pacis causa rex in urbem reciperetur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-006",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 13.6",
+      "original": "de qua re cum ad frequentiorem senatum referri placuisset, Appius Claudius, qui propter valetudinem oculorum iam diu consiliis publicis se abstinuerat, venit in curiam et sententia sua tenuit ut id Pyrrho negaretur. Cn.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-007",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 13.7",
+      "original": "Domitius censor primus ex plebe lustrum condidit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-008",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 13.8",
+      "original": "censa sunt civium capita ccxxxxvii ccxxii.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-009",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 13.9",
+      "original": "iterum adversus Pyrrhum dubio eventu pugnatum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-010",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 13.10",
+      "original": "cum Carthaginiensibus quarto foedus renovatum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-011",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 13.11",
+      "original": "cum C. Fabricio consuli is qui ad eum a Pyrrho transfugerat polliceretur venenum se regi daturum, cum indicio ad regem remissus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-13-per-012",
+      "sourceId": "periochae",
+      "book": 13,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 13.12",
+      "original": "res praeterea contra Lucanos et Bruttios, Samnites et Etruscos prospere gestas continet.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

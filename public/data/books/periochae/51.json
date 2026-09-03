@@ -1,0 +1,155 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 51,
+  "bookLabel": "제51권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 7,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-51-per-001",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 51.1",
+      "original": "Carthago, in circuitum XXIII passuum patens.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-002",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 51.2",
+      "original": "magno labore obsessa et per partes capta est; primum a Mancino legato, deinde a Scipione consule, cui extra sortem Africa provincia data erat.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-003",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 51.3",
+      "original": "Carthaginienses portu novo, quia vetus obstructus a Scipione erat, facto et contracta clam exiguo tempore ampla classe infeliciter navali proelio pugnaverunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-004",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 51.4",
+      "original": "Hasdrubalis quoque, ducis eorum, castra ad Nepherim oppidum loco difficili sita cum exercitu deleta sunt a Scipione, qui tandem expugnavit septingentesimo anno quam erat condita, spoliorum maior pars Siculis, quibus ablata erant, reddita.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-005",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 51.5",
+      "original": "ultimo urbis excidio, cum se Hasdrubal Scipioni dedisset, uxor eius, quae paucis ante diebus de marito impetrare non potuerat, ut ad victorem transfugerent, in medium se flagrantis urbis incendium cum duobus liberis ex arce praecipitavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-006",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 51.6",
+      "original": "Scipio exemplo patris sui Aemilii Pauli, qui Macedoniam vicerat, ludos fecit transfugasque ac fugitivos bestiis obiecit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-51-per-007",
+      "sourceId": "periochae",
+      "book": 51,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 51.7",
+      "original": "belli Achaici semina referuntur haec, quod legati Romani ab Achaeis pulsati sint Corinthi, missi, ut eas civitates, quae sub dicione Philippi fuerant, ab Achaico concilio secernerent.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

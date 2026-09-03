@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "repositories": {
+    "canonicalLatinLit": {
+      "url": "https://github.com/PerseusDL/canonical-latinLit",
+      "commit": "0416bbecc6e882611eda7b71ca4e5d5edbe1c627"
+    },
+    "canonicalGreekLit": {
+      "url": "https://github.com/PerseusDL/canonical-greekLit",
+      "commit": "7b8a2c9636bd90c7684c00624a392d3058ae9d22"
+    }
+  },
+  "license": "Perseus Digital Library source data; see upstream repository licenses",
+  "sources": [
+    {
+      "id": "livy-01-40",
+      "filename": "livy-01-40.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi001/phi0914.phi001.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi001.perseus-lat2",
+      "edition": "Weissenborn–Mueller, Teubner, 1884–1911",
+      "localFile": "sources/raw/livy-01-40.xml",
+      "bytes": 7196899,
+      "sha256": "e923903efe38022a5c8c8e7da94df6da430a486c7149794c4c55e30465db9ded"
+    },
+    {
+      "id": "livy-41",
+      "filename": "livy-41.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00141/phi0914.phi00141.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00141.perseus-lat1",
+      "edition": "Weissenborn, Ab urbe condita, 1876–1888",
+      "localFile": "sources/raw/livy-41.xml",
+      "bytes": 129645,
+      "sha256": "f35ad8a1f84d792f9b6838582bc1ade9306ff7f7024010d1685ebdfc36f85f1f"
+    },
+    {
+      "id": "livy-42",
+      "filename": "livy-42.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00142/phi0914.phi00142.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00142.perseus-lat1",
+      "edition": "Weissenborn, Ab urbe condita, 1876–1888",
+      "localFile": "sources/raw/livy-42.xml",
+      "bytes": 255266,
+      "sha256": "827fc2cbec9a06418bcdb7032125dd8382d61fb91c71218d450af3f7a4f247ce"
+    },
+    {
+      "id": "livy-43",
+      "filename": "livy-43.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00143/phi0914.phi00143.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00143.perseus-lat1",
+      "edition": "Weissenborn, Ab urbe condita, 1876–1888",
+      "localFile": "sources/raw/livy-43.xml",
+      "bytes": 101348,
+      "sha256": "1ed8582afb4143d05bf9bb5ad29764faf61f902b893d5f052ef8ae0f2b779075"
+    },
+    {
+      "id": "livy-44",
+      "filename": "livy-44.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00144/phi0914.phi00144.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00144.perseus-lat1",
+      "edition": "Weissenborn, Ab urbe condita, 1876–1888",
+      "localFile": "sources/raw/livy-44.xml",
+      "bytes": 184367,
+      "sha256": "5762102f9792915a1f1cb064370ba250f9120b2a9a0ebf27957a28768c42479d"
+    },
+    {
+      "id": "livy-45",
+      "filename": "livy-45.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00145/phi0914.phi00145.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00145.perseus-lat1",
+      "edition": "Weissenborn, Ab urbe condita, 1876–1888",
+      "localFile": "sources/raw/livy-45.xml",
+      "bytes": 148568,
+      "sha256": "2d44e41c6076f21d305cf0fac02c76dca712151f22495c234c941849f0589545"
+    },
+    {
+      "id": "periocha-11",
+      "filename": "periocha-11.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00111s/phi0914.phi00111s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00111s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-11.xml",
+      "bytes": 6507,
+      "sha256": "b500904662b425d566cf30c2067e5fa579c60108c4860b830c1a5b0634feb510"
+    },
+    {
+      "id": "periocha-12",
+      "filename": "periocha-12.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00112s/phi0914.phi00112s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00112s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-12.xml",
+      "bytes": 4638,
+      "sha256": "fba50dd2211fc7b9249d3c736bef9db22d4e17a472960400e5255c5bf57227fa"
+    },
+    {
+      "id": "periocha-13",
+      "filename": "periocha-13.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00113s/phi0914.phi00113s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00113s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-13.xml",
+      "bytes": 5503,
+      "sha256": "60c83b6777e6a7ca74a01647e1ffcb4240b74886d86ea218c9f3a46dc01d64eb"
+    },
+    {
+      "id": "periocha-14",
+      "filename": "periocha-14.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00114s/phi0914.phi00114s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00114s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-14.xml",
+      "bytes": 4972,
+      "sha256": "c09c24cfb677fcedbcca8681fab3f92577c880a790f5adcab0f569d4ba58fd3c"
+    },
+    {
+      "id": "periocha-15",
+      "filename": "periocha-15.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00115s/phi0914.phi00115s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00115s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-15.xml",
+      "bytes": 5340,
+      "sha256": "df4a50efc37475d20c406545a98c6597c4a1fdc78e2135049bf6cbf9799541cd"
+    },
+    {
+      "id": "periocha-16",
+      "filename": "periocha-16.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00116s/phi0914.phi00116s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00116s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-16.xml",
+      "bytes": 4837,
+      "sha256": "2dce5cae76ffe951d0d713fe17e3830a8e4045e31f2b379c7b2b08c0202e1a38"
+    },
+    {
+      "id": "periocha-17",
+      "filename": "periocha-17.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00117s/phi0914.phi00117s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00117s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-17.xml",
+      "bytes": 4817,
+      "sha256": "9015099c8e593246096c85cd968fe9842a25ebf49f553f7594e56301773c084f"
+    },
+    {
+      "id": "periocha-18",
+      "filename": "periocha-18.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00118s/phi0914.phi00118s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00118s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-18.xml",
+      "bytes": 5881,
+      "sha256": "ced039e7e6d8dadf27807982eebc8aab61ee720a697f80ef9a5aba8cbb723be7"
+    },
+    {
+      "id": "periocha-19",
+      "filename": "periocha-19.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00119s/phi0914.phi00119s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00119s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-19.xml",
+      "bytes": 6110,
+      "sha256": "34d20a49a2dc6905e59c3160d7261302c44c6f91d24b3c74299c07d9f9d0cca5"
+    },
+    {
+      "id": "periocha-20",
+      "filename": "periocha-20.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi00120s/phi0914.phi00120s.perseus-lat2.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi00120s.perseus-lat2",
+      "edition": "Livy, Loeb vol. IV, Foster, 1926 (Latin text)",
+      "localFile": "sources/raw/periocha-20.xml",
+      "bytes": 7179,
+      "sha256": "88dbee116472fea720ccd101e458eb192e05638ab5c4ac6ca46fa3dc46d8f661"
+    },
+    {
+      "id": "livy-periochae-46-142",
+      "filename": "livy-periochae-46-142.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914/phi001fr/phi0914.phi001fr.perseus-lat1.xml",
+      "urn": "urn:cts:latinLit:phi0914.phi001fr.perseus-lat1",
+      "edition": "Weissenborn–Mueller, Teubner, 1911",
+      "localFile": "sources/raw/livy-periochae-46-142.xml",
+      "bytes": 107677,
+      "sha256": "151e1dd5f3acabb0ece94c52cdd0f81bf5178a05d5304bc88f5963a6461e60b8"
+    },
+    {
+      "id": "polybius-histories",
+      "filename": "polybius-histories.xml",
+      "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/7b8a2c9636bd90c7684c00624a392d3058ae9d22/data/tlg0543/tlg001/tlg0543.tlg001.perseus-grc2.xml",
+      "urn": "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2",
+      "edition": "Büttner-Wobst, Teubner, 1893–1905",
+      "localFile": "sources/raw/polybius-histories.xml",
+      "bytes": 5521531,
+      "sha256": "67a11bf37202f859561428af9dd6aceedf6a9608f0ae1a1e8359dfc9892382c7"
+    }
+  ]
+}

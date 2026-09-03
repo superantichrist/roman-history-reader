@@ -1,0 +1,260 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 11,
+  "bookLabel": "제11권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 292–267년",
+  "chapterCount": 1,
+  "passageCount": 12,
+  "translationCount": 12,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-11-per-001",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 11.1",
+      "original": "CUM Fabius Gurges cos. male adversus Samnites pugnasset et senatus de removendo eo ab exercitu ageret, Fabius Maximus pater deprecatus hanc fili ignominiam eo maxime senatum movit quod iturum se filio legatum pollicitus est, idque praestitit.",
+      "korean": "집정관 파비우스 구르게스가 삼니움인들과 싸워 패전했고 원로원이 그를 군 지휘에서 해임하려 하자, 그의 아버지 파비우스 막시무스는 아들이 이 치욕을 당하지 않게 해 달라고 간청했다. 특히 자신이 아들의 부관으로 가겠다고 약속했고 실제로 그대로 한 일이 원로원을 움직였다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-002",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 11.2",
+      "original": "eius consiliis et opera filius consul adiutus caesis Samnitibus triumphavit; C. Pontium, imperatorem Samnitium, ductum in triumpho, securi percussit.",
+      "korean": "아들인 집정관은 아버지의 조언과 노력에 힘입어 삼니움인들을 무찌르고 개선식을 거행했다. 그는 삼니움군의 지휘관 가이우스 폰티우스를 개선 행렬에 끌고 간 뒤 도끼로 처형했다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-003",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 11.3",
+      "original": "cum pestilentia civitas laboraret, missi legati ut Aesculapi signum Romam ab Epidauro transferrent, anguem, qui se in navem eorum contulerat, in quo ipsum numen esse constabat, deportaverunt; eoque in insulam Tiberis egresso eodem loco aedis Aesculapio constituta est.",
+      "korean": "역병으로 국가가 고통받자, 아스클레피오스의 신상을 에피다우로스에서 로마로 옮겨 오도록 사절들이 파견되었다. 그들은 자기들 배에 올라온 뱀을 데려왔는데, 그 뱀 안에 신 자신이 깃들어 있음이 분명하다고 여겨졌다. 뱀이 테베레강의 섬에 내리자 바로 그곳에 아스클레피오스 신전이 세워졌다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-004",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 11.4",
+      "original": "L. Postumius consularis, quoniam, cum exercitui praeesset, opera militum in agro suo usus erat, damnatus est.",
+      "korean": "전직 집정관 루키우스 포스투미우스는 군대를 지휘할 때 자기 영지에서 병사들의 노동력을 사용했다는 이유로 유죄 판결을 받았다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-005",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 11.5",
+      "original": "pacem petentibus Samnitibus foedus quarto renovatum est.",
+      "korean": "평화를 청한 삼니움인들과 조약이 네 번째로 갱신되었다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-006",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 11.6",
+      "original": "Curius Dentatus cos. Samnitibus caesis et Sabinis, qui rebellaverant, victis et in deditionem acceptis bis in eodem magistratu triumphavit.",
+      "korean": "집정관 쿠리우스 덴타투스는 삼니움인들을 무찌르고, 반란을 일으킨 사비니인들을 격파해 항복을 받아 낸 뒤, 같은 임기 중 두 차례 개선식을 거행했다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-007",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 11.7",
+      "original": "coloniae deductae sunt Castrum Sena Hadria.",
+      "korean": "카스트룸, 세나, 하드리아에 식민시가 건설되었다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-008",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 11.8",
+      "original": "triumviri capitales tunc primum creati sunt.",
+      "korean": "중죄 사건을 맡는 삼인위원이 이때 처음 선출되었다.",
+      "notes": [
+        {
+          "label": "삼인위원",
+          "text": "tresviri capitales. 구금·처형의 집행과 일부 중죄 사건을 맡은 로마의 하급 관직이다."
+        }
+      ],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-009",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 11.9",
+      "original": "censu acto lustrum conditum est.",
+      "korean": "인구조사를 마치고 정화 의식이 거행되었다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-010",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 11.10",
+      "original": "censa sunt civium capita C̅C̅L̅X̅X̅I̅I̅.",
+      "korean": "조사된 시민의 수는 27만 2천 명이었다.",
+      "notes": [
+        {
+          "label": "수치",
+          "text": "원문의 로마 숫자 위 가로줄은 해당 수를 천 배로 읽으라는 표지다."
+        }
+      ],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-011",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 11.11",
+      "original": "Plebs propter aes alienum post graves et longas seditiones ad ultimum secessit in Ianiculum, unde a Q. Hortensio dictatore deducta est; isque in ipso magistratu decessit.",
+      "korean": "평민들은 빚 문제로 격렬하고 오랜 분쟁을 겪은 끝에 마침내 야니쿨룸 언덕으로 철수했다. 독재관 퀸투스 호르텐시우스가 그들을 그곳에서 데리고 내려왔으며, 그는 바로 그 재임 중에 죽었다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-11-per-012",
+      "sourceId": "periochae",
+      "book": 11,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 11.12",
+      "original": "res praeterea contra Vulsinienses gestas continet, item adversus Lucanos, contra quos auxilium Thurinis ferre placuerat.",
+      "korean": "이 권은 그 밖에도 볼시니이인들을 상대로 벌인 일들과 루카니아인들을 상대로 벌인 일들을 담고 있다. 로마는 루카니아인들에 맞서 투리이인들에게 원군을 보내기로 결정했다.",
+      "notes": [],
+      "translationStatus": "first-pass",
+      "parallelRefs": []
+    }
+  ]
+}

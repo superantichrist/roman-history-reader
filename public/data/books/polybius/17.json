@@ -1,0 +1,19 @@
+{
+  "author": "Polybius",
+  "authorKo": "폴리비오스",
+  "workTitle": "Ἱστορίαι",
+  "workTitleKo": "역사",
+  "language": "grc",
+  "languageLabel": "고대 그리스어",
+  "sourceId": "polybius",
+  "book": 17,
+  "bookLabel": "제17권",
+  "sourceKind": "lost",
+  "preservationLabel": "본문 소실",
+  "periodLabel": "기원전 216–146년 · 부분 보존",
+  "chapterCount": 0,
+  "passageCount": 0,
+  "translationCount": 0,
+  "chapters": [],
+  "passages": []
+}

@@ -1,0 +1,155 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 18,
+  "bookLabel": "제18권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 264–219년",
+  "chapterCount": 1,
+  "passageCount": 7,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-18-per-001",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 18.1",
+      "original": "ATILIUS REGULUS in Africa serpentem portentosae magnitudinis cum magna clade militum occidit, et cum aliquot proeliis bene adversus Carthaginienses pugnasset, successorque ei a senatu prospere bellum gerenti non mitteretur, id ipsum per litteras ad senatum scriptas questus est, in quibus inter causas petendi successoris erat quod agellus eius a mercennariis desertus esset.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-002",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 18.2",
+      "original": "quaerente deinde Fortuna ut magnum utriusque casus exemplum in Regulo proderetur, arcessito a Carthaginiensibus Xanthippo, Lacedaemoniorum duce, victus proelio et captus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-003",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 18.3",
+      "original": "res deinde a ducibus Romanis omnibus terra marique prospere gestas deformaverunt naufragia classium. tib.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-004",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 18.4",
+      "original": "Coruncanius primus ex plebe pontifex maximus creatus est. M'.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-005",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 18.5",
+      "original": "Valerius Maximus P. Sempronius Sophus censores cum senatum legerent, xvi senatu moverunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-006",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 18.6",
+      "original": "lustrum condiderunt, quo censa sunt civium capita C̅C̅X̅C̅V̅I̅I̅ nccxcvii.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-18-per-007",
+      "sourceId": "periochae",
+      "book": 18,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 18.7",
+      "original": "Regulus missus a Carthaginiensibus ad senatum ut de pace, et si eam non posset impetrare, de commutandis captivis ageret, et iureiurando adstrictus rediturum se Carthaginem, si commutari captivos non placuisset, utrumque negandi auctor senatui fuit, et cum fide custodita reversus esset, supplicio a Carthaginiensibus de eo sumpto perit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

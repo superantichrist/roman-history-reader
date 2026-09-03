@@ -1,0 +1,61 @@
+{
+  "author": "Polybius",
+  "authorKo": "폴리비오스",
+  "workTitle": "Ἱστορίαι",
+  "workTitleKo": "역사",
+  "language": "grc",
+  "languageLabel": "고대 그리스어",
+  "sourceId": "polybius",
+  "book": 19,
+  "bookLabel": "제19권",
+  "sourceKind": "fragment",
+  "preservationLabel": "부분 보존",
+  "periodLabel": "기원전 216–146년 · 부분 보존",
+  "chapterCount": 2,
+  "passageCount": 2,
+  "translationCount": 0,
+  "chapters": [
+    "1",
+    "2"
+  ],
+  "passages": [
+    {
+      "id": "polybius-19-1-001",
+      "sourceId": "polybius",
+      "book": 19,
+      "chapter": "1",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Polyb. 19.1.1",
+      "original": "Πολύβιος μέν γέ φησι τῶν ἐντὸς Βαίτιος ποταμοῦ πόλεων ἡμέρᾳ μιᾷ τὰ τείχη κελεύσαντος αὐτοῦ περιαιρεθῆναι· πάμπολλαι δʼ ἦσαν αὗται καὶ γέμουσαι μαχίμων ἀνδρῶν.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "polybius-19-2-001",
+      "sourceId": "polybius",
+      "book": 19,
+      "chapter": "2",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 2,
+      "ref": "Polyb. 19.2.1",
+      "original": "ινγενς νυμερυς ερατ βελλο πυνιξο ξαπτορυμ, θυος ηαννιβαλ, ξυμ αβ συις νον ρεδιμερεντυρ, ϝενυμ δεδερατ. μυλτιτυδινις εορυμ αργυμεντυμ εστ, θυοδ πολψβιυς σξριβιτ ξεντυμ ταλεντις εαμ ρεμ αξηαεις στετισσε, ξυμ θυινγενος δεναριος πρετιυμ ιν ξαπιτα, θυοδ ρεδδερετυρ δομινις, στατυισσεντ.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

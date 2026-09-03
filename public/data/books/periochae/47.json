@@ -1,0 +1,326 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 47,
+  "bookLabel": "제47권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 16,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-47-per-001",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 47.1",
+      "original": "Cn.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-002",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 47.2",
+      "original": "Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido pontifice maximo iniuriose contenderat; sacrorumque quam magistratuum ius potentius fuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-003",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 47.3",
+      "original": "lex de ambitu lata.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-004",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 47.4",
+      "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXVIII CCCXVI.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-005",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 47.5",
+      "original": "princeps senatus sextum Aemilius Lepidus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-006",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 47.6",
+      "original": "inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto, alter Cyrenis regnaret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-007",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 47.7",
+      "original": "Ariarathes, Cappadociae rex, consilio Demetrii Syriae regis et viribus pulsus regno, a senatu restitutus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-008",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 47.8",
+      "original": "missi a senatu, qui inter Masinissam et Carthaginienses de agro iudicarent.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-009",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 47.9",
+      "original": "C. Marcius consul adversus Dalmatas primum parum prospere, postea, feliciter pugnavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-010",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 47.10",
+      "original": "cum quibus bello confligendi causa fuit, quod Illyrios, socios populi Romani, vastaverant; eandemque gentem Cornelius Nasica consul domuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-011",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 47.11",
+      "original": "Q. Opimius consul Transalpinos Liguras, qui Massiliensium oppida Antipolim et Nicaeam vastabant, subegit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-012",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 47.12",
+      "original": "praeterea res in Hispania a compluribus parum prospere gestas continet.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-013",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 47.13",
+      "original": "consules anno quingentesimo nonagesimo octavo ab urbe condita magistratum kal. Ian. inire coeperunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-014",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 47.14",
+      "original": "mutandi comitia causa fuit, quod Hispani rebellabant.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-015",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "15",
+      "sectionStart": "15",
+      "sectionEnd": "15",
+      "sectionRefs": [
+        "15"
+      ],
+      "paragraph": 15,
+      "ref": "Liv. Per. 47.15",
+      "original": "legati ad disceptandum inter Carthaginienses et Masinissam missi nuntiaverunt vim navalis materiae se Carthagine deprehendisse.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-47-per-016",
+      "sourceId": "periochae",
+      "book": 47,
+      "chapter": "per",
+      "section": "16",
+      "sectionStart": "16",
+      "sectionEnd": "16",
+      "sectionRefs": [
+        "16"
+      ],
+      "paragraph": 16,
+      "ref": "Liv. Per. 47.16",
+      "original": "aliquot praetores a provinciis avaritiae nomine accusati damnati sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

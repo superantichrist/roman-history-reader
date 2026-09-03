@@ -1,0 +1,345 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 20,
+  "bookLabel": "제20권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 264–219년",
+  "chapterCount": 1,
+  "passageCount": 17,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-20-per-001",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 20.1",
+      "original": "FALISCI cum rebellassent, sexto die perdomiti in deditionem venerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-002",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 20.2",
+      "original": "Spoletium colonia deducta est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-003",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 20.3",
+      "original": "adversus Liguras tunc primum exercitus promotus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-004",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 20.4",
+      "original": "sardi et Corsi cum rebellassent, subacti sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-005",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 20.5",
+      "original": "tuccia, virgo Vestalis, incesti damnata est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-006",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 20.6",
+      "original": "bellum Illyriis propter unum ex legatis qui ad eos missi erant occisum indictum est, subactique in deditionem venerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-007",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 20.7",
+      "original": "praetorum numerus ampliatus est, ut essent IIII.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-008",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 20.8",
+      "original": "Galli transalpini qui in Italiam inruperant caesi sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-009",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 20.9",
+      "original": "eo bello populum R. sui Latinique nominis D̅C̅C̅C̅ armatorum habuisse dicit Exercitibus Romanis tunc primum trans Padum ductis Galli Insubres aliquot proeliis fusi in deditionem venerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-010",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 20.10",
+      "original": "M. Claudius Marcellus cos. occiso Gallorum Insubrium duce, Vertomaro, opima spolia rettulit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-011",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 20.11",
+      "original": "Histri subacti sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-012",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 20.12",
+      "original": "iterum Illyri cum rebellassent, domiti in deditionem venerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-013",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 20.13",
+      "original": "lustrum a censoribus ter conditum est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-014",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 20.14",
+      "original": "primo lustro censa sunt civium capita C̅C̅L̅X̅X̅ ccxii ⟦…⟧ ⟦…⟧.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-015",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "15",
+      "sectionStart": "15",
+      "sectionEnd": "15",
+      "sectionRefs": [
+        "15"
+      ],
+      "paragraph": 15,
+      "ref": "Liv. Per. 20.15",
+      "original": "Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam Collinam.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-016",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "16",
+      "sectionStart": "16",
+      "sectionEnd": "16",
+      "sectionRefs": [
+        "16"
+      ],
+      "paragraph": 16,
+      "ref": "Liv. Per. 20.16",
+      "original": "C. Flaminius censor viam Flaminius muniit et circum Flaminium exstruxit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-20-per-017",
+      "sourceId": "periochae",
+      "book": 20,
+      "chapter": "per",
+      "section": "17",
+      "sectionStart": "17",
+      "sectionEnd": "17",
+      "sectionRefs": [
+        "17"
+      ],
+      "paragraph": 17,
+      "ref": "Liv. Per. 20.17",
+      "original": "coloniae deductae sunt in agro de Gallis capto Placentia et Cremona.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

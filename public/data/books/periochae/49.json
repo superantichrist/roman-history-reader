@@ -1,0 +1,554 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 49,
+  "bookLabel": "제49권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 28,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-49-per-001",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 49.1",
+      "original": "tertii Punici belli initium altero et sescentesimo ab urbe condita anno, intra quintum annum quam erat coeptum, consummati.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-002",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 49.2",
+      "original": "inter M. Porcium Catonem et Scipionem Nasicam, quorum alter sapientissimus vir in civitate habebatur, alter optimus vir etiam iudicatus a senatu erat, diversis certatum sententiis est, Catone suadente bellum et ut tolleretur delereturque Carthago, Nasica dissuadente.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-003",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 49.3",
+      "original": "placuit tamen, quod contra foedus naves haberent, quod exercitum extra fines duxissent, quod socio populi Romani et amico, Masinissae, arma intulissent, quod filium eius Gulussam, qui cum legatis Romanis erat, in oppidum non recepissent, bellum his indici.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-004",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 49.4",
+      "original": "priusquam ullae copiae in naves imponerentur, Uticenses legati Romam venerunt se suaque omnia dedentes.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-005",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 49.5",
+      "original": "ea legatio velut omen grata patribus, acerba Carthaginiensibus fuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-006",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 49.6",
+      "original": "ludi Diti patri ad Tarentum ex praecepto librorum facti, qui ante annum centesimum primo Punico bello, quingentesimo et altero anno ab urbe condita facti erant.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-007",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 49.7",
+      "original": "legati triginta Romam venerunt, per quos se Carthaginienses dedebant.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-008",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 49.8",
+      "original": "Catonis sententia evicit, ut in decreto perstaretur, et ut consules quam primum ad bellum proficiscerentur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-009",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 49.9",
+      "original": "qui ubi in Africam transierunt, acceptis quos imperaverant trecentis obsidibus et armis omnibus instrumentisque belli, si qua Carthagine erant, cum ex auctoritate patrum iuberent, ut in alio loco, dum a mari decem milia passuum ne minus remoto, oppidum facerent, indignitate rei ad bellandum Carthaginienses compulerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-010",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 49.10",
+      "original": "obsideri obpugnarique coepta est Carthago a L. Marcio M'. Manilio consulibus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-011",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 49.11",
+      "original": "in qua obpugnatione cum neglectos ab una parte muros duo tribuni temere cum cohortibus suis irrupissent et ab oppidanis graviter caederentur, a Scipione † Orfitiano expliciti sunt; per quem et castellum Romanorum, quod nocte expugnabant, paucis equitibus iuvantibus liberatum est, castrorumque, quae Carthaginienses omnibus copiis ab urbe pariter egressi obpugnabant, liberatorum is ipse praecipuam gloriam tulit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-012",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 49.12",
+      "original": "praeterea cum ab inrita obpugnatione Carthaginis consul — alter enim Romam ad comitia ierat — exercitum duceret adversus Hasdrubalem, qui cum ampla manu saltum inicum insederat, suasit primo consuli, ne tam inico loco confligeret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-013",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 49.13",
+      "original": "victus deinde complurum, qui et prudentiae et virtuti eius invidebant, sententiis et ipse saltum ingressus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-014",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 49.14",
+      "original": "cum, sicut praedixerat, fusus fugatusque esset Romanus exercitus et duae cohortes ab hoste obsiderentur, cum paucis equitum turmis in saltum reversus liberavit eas et incolumes reduxit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-015",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "15",
+      "sectionStart": "15",
+      "sectionEnd": "15",
+      "sectionRefs": [
+        "15"
+      ],
+      "paragraph": 15,
+      "ref": "Liv. Per. 49.15",
+      "original": "quam virtutem eius et Cato, vir promptioris ad vituperandum linguae, in senatu sic prosecutus est, ut diceret reliquos, qui in Africa militarent, umbras volitare, Scipionem vigere, et populus Romanus eo favore complexus, ut comitiis plurimae eum tribus consulem scriberent, cum hoc per aetatem non liceret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-016",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "16",
+      "sectionStart": "16",
+      "sectionEnd": "16",
+      "sectionRefs": [
+        "16"
+      ],
+      "paragraph": 16,
+      "ref": "Liv. Per. 49.16",
+      "original": "cum L. Scribonius tribunus plebis rogationem promulgasset, ut Lusitani, qui in fidem populo R. dediti ab Ser.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-017",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "17",
+      "sectionStart": "17",
+      "sectionEnd": "17",
+      "sectionRefs": [
+        "17"
+      ],
+      "paragraph": 17,
+      "ref": "Liv. Per. 49.17",
+      "original": "Galba in Gallia venissent, in libertatem restituerentur, M. Cato acerrime suasit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-018",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "18",
+      "sectionStart": "18",
+      "sectionEnd": "18",
+      "sectionRefs": [
+        "18"
+      ],
+      "paragraph": 18,
+      "ref": "Liv. Per. 49.18",
+      "original": "extat oratio in annalibus ipsius inclusa.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-019",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "19",
+      "sectionStart": "19",
+      "sectionEnd": "19",
+      "sectionRefs": [
+        "19"
+      ],
+      "paragraph": 19,
+      "ref": "Liv. Per. 49.19",
+      "original": "Q. Fulvius Nobilior ei, saepe ab eo in senatu laceratus, respondit pro Galba.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-020",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "20",
+      "sectionStart": "20",
+      "sectionEnd": "20",
+      "sectionRefs": [
+        "20"
+      ],
+      "paragraph": 20,
+      "ref": "Liv. Per. 49.20",
+      "original": "ipse quoque Galba, cum se damnari videret, complexus duos filios praetextatos et Sulpicii Gali filium, cuius tutor erat, ita miserabiliter pro se locutus est, ut rogatio antiquaretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-021",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "21",
+      "sectionStart": "21",
+      "sectionEnd": "21",
+      "sectionRefs": [
+        "21"
+      ],
+      "paragraph": 21,
+      "ref": "Liv. Per. 49.21",
+      "original": "extant tres orationes eius, duae adversus Libonem tribunum plebis rogationemque eius habitae de Lusitanis, una contra L. Cornelium Cethegum, in qua Lusitanos prope se castra habentis caesos fatetur, quod compertum habuerit equo atque homine suo ritu immolatis per speciem pacis adoriri exercitum suum in animo habuisse.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-022",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "22",
+      "sectionStart": "22",
+      "sectionEnd": "22",
+      "sectionRefs": [
+        "22"
+      ],
+      "paragraph": 22,
+      "ref": "Liv. Per. 49.22",
+      "original": "Andriscus quidam, ultimae sortis homo, Persei regis filium se ferens et mutato nomine Philippus vocatus, cum ab urbe Romana, quo illum Demetrius Syriae rex ob hoc ipsum mendacium miserat, clam profugisset, multis ad falsam eius fabulam velut ad veram coeuntibus, contracto exercitu totam Macedoniam aut voluntate incolentium aut armis occupavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-023",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "23",
+      "sectionStart": "23",
+      "sectionEnd": "23",
+      "sectionRefs": [
+        "23"
+      ],
+      "paragraph": 23,
+      "ref": "Liv. Per. 49.23",
+      "original": "fabulam autem talem finxerat: ex paelice se et Perseo rege ortum, traditum educandum Cretensi cuidam esse, ut in belli casus, quod ille cum Romanis gereret, aliquod velut semen regiae stirpis extaret.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-024",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "24",
+      "sectionStart": "24",
+      "sectionEnd": "24",
+      "sectionRefs": [
+        "24"
+      ],
+      "paragraph": 24,
+      "ref": "Liv. Per. 49.24",
+      "original": "Adramyti se educatum usque ad duodecimum aetatis annum, patrem eum esse credentem, a quo educaretur, ignarum generis fuisse sui.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-025",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "25",
+      "sectionStart": "25",
+      "sectionEnd": "25",
+      "sectionRefs": [
+        "25"
+      ],
+      "paragraph": 25,
+      "ref": "Liv. Per. 49.25",
+      "original": "adfecto deinde eo, cum prope ad ultimum finem vitae esset, detectam tandem sibi originem suam falsaeque matri libellum datum signo Persei regis signatum, quem sibi traderet, cum ad puberem aetatem venisset, obtestationesque ultimas adiectas, ut res in occulto ad id tempus servaretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-026",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "26",
+      "sectionStart": "26",
+      "sectionEnd": "26",
+      "sectionRefs": [
+        "26"
+      ],
+      "paragraph": 26,
+      "ref": "Liv. Per. 49.26",
+      "original": "pubescenti libellum traditum, in quo relicti sibi duo thensauri a patre dicerentur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-027",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "27",
+      "sectionStart": "27",
+      "sectionEnd": "27",
+      "sectionRefs": [
+        "27"
+      ],
+      "paragraph": 27,
+      "ref": "Liv. Per. 49.27",
+      "original": "tum scienti mulierem se subditum esse, veram stirpem ignoranti edidisse genus atque obtestatam, ut prius quam manaret ad Eumenen res, Perseo inimicum, excederet his locis, ne interficeretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-49-per-028",
+      "sourceId": "periochae",
+      "book": 49,
+      "chapter": "per",
+      "section": "28",
+      "sectionStart": "28",
+      "sectionEnd": "28",
+      "sectionRefs": [
+        "28"
+      ],
+      "paragraph": 28,
+      "ref": "Liv. Per. 49.28",
+      "original": "eo se exterritum, simul sperantem aliquod a Demetrio auxilium in Syriam se contulisse atque ibi primum, quis esset, palam expromere ausum.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

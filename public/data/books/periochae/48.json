@@ -1,0 +1,497 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 48,
+  "bookLabel": "제48권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 25,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-48-per-001",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 48.1",
+      "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXIIII.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-002",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 48.2",
+      "original": "semina tertii Punici belli referuntur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-003",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 48.3",
+      "original": "cum in finibus Carthaginiensium ingens Numidarum exercitus duce Ariobarzane Syphacis nepote diceretur esse, M. Porcius Cato suasit, ut Carthaginiensibus, qui exercitum specie contra Masinissam, re contra Romanos accitum in finibus haberent, bellum indiceretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-004",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 48.4",
+      "original": "contra dicente P. Cornelio Nasica placuit legatos mitti Carthaginem, qui specularentur, quid ageretur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-005",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 48.5",
+      "original": "castigato senatu Carthaginiensium, quod contra foedus et exercitum et navales materias haberent, pacem inter eos et Masinissam facere voluerunt, Masinissa agro, de quo lis erat, cedente.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-006",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 48.6",
+      "original": "sed Gisgo Hamilcaris filius, homo seditiosus, qui tum in magistratu erat, cum senatus parturum se iudicio legatis dixisset, ita populum concitavit bellum adversus Romanos suadendo, ut legatos, quo minus violarentur, fuga explicuerit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-007",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 48.7",
+      "original": "id nuntiantes infestum iam senatum Carthaginiensibus festiorem fecerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-008",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 48.8",
+      "original": "M. Porcius Cato filii in praetura mortui funus tenuissimo, ut potuit—nam pauper erat —, sumptu fecit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-009",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 48.9",
+      "original": "Andriscus, qui se Persei filium, regis quondam Macedoniae, ingenti adserveratione mentiretur, Romam missus.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-010",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 48.10",
+      "original": "M. Aemilius Lepidus, qui princeps senatus sextis iam censoribus lectus erat, antequam expiraret, praecepit filiis, lecto se strato [sine] linteis sine purpura efferrent; in relicum funus ne plus quam aeris decus consumerent: imaginum specie, non sumptibus nobilitari magnorum virorum funera solere.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-011",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 48.11",
+      "original": "de veneficiis quaesitum.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-012",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 48.12",
+      "original": "Publilia et Licinia, nobiles feminae, quae viros suos consulares necasse insimulabantur, cognita causa, cum praetori praedes vades dedissent, cognatorum decreto necatae sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-013",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 48.13",
+      "original": "Gulussa Masinissae filius nuntiavit Carthagine dilectus agi, classem comparari et haud dubie bellum strui.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-014",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "14",
+      "sectionStart": "14",
+      "sectionEnd": "14",
+      "sectionRefs": [
+        "14"
+      ],
+      "paragraph": 14,
+      "ref": "Liv. Per. 48.14",
+      "original": "cum Cato suaderet, ut his bellum indiceretur, P. Cornelio Nasica dicente nihil temere faciundum, placuit decem legatos mitti exploratum.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-015",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "15",
+      "sectionStart": "15",
+      "sectionEnd": "15",
+      "sectionRefs": [
+        "15"
+      ],
+      "paragraph": 15,
+      "ref": "Liv. Per. 48.15",
+      "original": "L. Licinius Lucullus A. Postumius Albinus consules cum dilectum severe agerent nec quemquam gratia dimitterent, ab tribunis plebis, qui pro amicis suis vacationem impetrare non poterant, in carcerem coniecti sunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-016",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "16",
+      "sectionStart": "16",
+      "sectionEnd": "16",
+      "sectionRefs": [
+        "16"
+      ],
+      "paragraph": 16,
+      "ref": "Liv. Per. 48.16",
+      "original": "cum Hispaniense bellum parum prospere aliquotiens gestum ita confudisset civitatem Romanam, ut ne hi quidem invenirentur, qui aut tribunatum exciperent aut legati ire vellent, P. Cornelius Aemilianus processit et exceptaturum se militiae genus, quodcumque imperatum esset, professus est; quo exemplo omnes ad studium militandi concitavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-017",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "17",
+      "sectionStart": "17",
+      "sectionEnd": "17",
+      "sectionRefs": [
+        "17"
+      ],
+      "paragraph": 17,
+      "ref": "Liv. Per. 48.17",
+      "original": "Lucullus consul, cum Claudius Marcellus, cui successerat, pacasse omnes Celtiberiae populos videretur, Vaccaeos et Cantabros et alias incognitas adhuc in Hispania gentes subegit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-018",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "18",
+      "sectionStart": "18",
+      "sectionEnd": "18",
+      "sectionRefs": [
+        "18"
+      ],
+      "paragraph": 18,
+      "ref": "Liv. Per. 48.18",
+      "original": "ibi P. Cornelius [Africanus] Scipio Aemilianus, L. [Corneli] Pauli filius, Africani nepos, sed adoptivus, provocatorem barbarum tribunus militum occidit et in expugnatione Intercatiae urbis maius etiamnum periculum adit: nam murum primus transcendit. Ser.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-019",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "19",
+      "sectionStart": "19",
+      "sectionEnd": "19",
+      "sectionRefs": [
+        "19"
+      ],
+      "paragraph": 19,
+      "ref": "Liv. Per. 48.19",
+      "original": "Sulpicius Galba praetor male adversus Lusitanos pugnavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-020",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "20",
+      "sectionStart": "20",
+      "sectionEnd": "20",
+      "sectionRefs": [
+        "20"
+      ],
+      "paragraph": 20,
+      "ref": "Liv. Per. 48.20",
+      "original": "cum legati ex Africa cum oratoribus Carthaginiensium et Gulussa Masinissae filio redissent dicerentque et exercitum se et classem Carthagine deprehendisse, perrogari sententias placuit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-021",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "21",
+      "sectionStart": "21",
+      "sectionEnd": "21",
+      "sectionRefs": [
+        "21"
+      ],
+      "paragraph": 21,
+      "ref": "Liv. Per. 48.21",
+      "original": "Catone et aliis principibus senatus suadentibus, ut in Africam confestim transportaretur exercitus, quoniam Cornelius Nasica dicebat nondum sibi iustam causam belli videri, placuit, ut bello abstinerent, si Carthaginienses classem exussissent et exercitum dimisissent: si minus, proximi consules de bello Punico referrent.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-022",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "22",
+      "sectionStart": "22",
+      "sectionEnd": "22",
+      "sectionRefs": [
+        "22"
+      ],
+      "paragraph": 22,
+      "ref": "Liv. Per. 48.22",
+      "original": "cum locatum a censoribus theatrum exstrueretur, P. Cornelio Nasica auctore tamquam inutile et nociturum publicis moribus ex senatus consulto destructum est, populusque aliquamdiu stans ludos spectavit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-023",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "23",
+      "sectionStart": "23",
+      "sectionEnd": "23",
+      "sectionRefs": [
+        "23"
+      ],
+      "paragraph": 23,
+      "ref": "Liv. Per. 48.23",
+      "original": "Carthaginienses cum adversus foedus bellum Masinissae intulissent, victi ab eo annos habente XCII et sine pulpamine mandere et siccum gustare panem tantum solito, insuper Romanum bellum meruerunt.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-024",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "24",
+      "sectionStart": "24",
+      "sectionEnd": "24",
+      "sectionRefs": [
+        "24"
+      ],
+      "paragraph": 24,
+      "ref": "Liv. Per. 48.24",
+      "original": "motus praeterea Syriae et bella inter reges gesta referuntur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-48-per-025",
+      "sourceId": "periochae",
+      "book": 48,
+      "chapter": "per",
+      "section": "25",
+      "sectionStart": "25",
+      "sectionEnd": "25",
+      "sectionRefs": [
+        "25"
+      ],
+      "paragraph": 25,
+      "ref": "Liv. Per. 48.25",
+      "original": "inter quos motus Demetrius Syriae rex occisus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

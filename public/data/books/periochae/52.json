@@ -1,0 +1,269 @@
+{
+  "author": "Anonymus epitomator Livii",
+  "authorKo": "리비우스 요약자",
+  "workTitle": "Periochae librorum Ab urbe condita",
+  "workTitleKo": "리비우스 《로마사》 요약",
+  "language": "la",
+  "languageLabel": "라틴어",
+  "sourceId": "periochae",
+  "book": 52,
+  "bookLabel": "제52권",
+  "sourceKind": "epitome",
+  "preservationLabel": "후대 요약",
+  "periodLabel": "기원전 166–146년",
+  "chapterCount": 1,
+  "passageCount": 13,
+  "translationCount": 0,
+  "chapters": [
+    "per"
+  ],
+  "passages": [
+    {
+      "id": "periochae-52-per-001",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Liv. Per. 52.1",
+      "original": "cum Achaeis, qui in auxilio Boeotos et Chalcidenses habebant, Q. Caecilius Metellus ad Thermopylas bello conflixit; quibus victis dux eorum Critolaus mortem sibi veneno conscivit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-002",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "2",
+      "sectionStart": "2",
+      "sectionEnd": "2",
+      "sectionRefs": [
+        "2"
+      ],
+      "paragraph": 2,
+      "ref": "Liv. Per. 52.2",
+      "original": "in cuius locum Diaeus, Achaici motus primus auctor, ab Achaeis dux creatus ad Isthmon a L. Mummio consule victus est.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-003",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "3",
+      "sectionStart": "3",
+      "sectionEnd": "3",
+      "sectionRefs": [
+        "3"
+      ],
+      "paragraph": 3,
+      "ref": "Liv. Per. 52.3",
+      "original": "qui omni Achaia in deditionem accepta Corinthon ex senatus consulto diruit, quia ibi legati Romani violati erant.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-004",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "4",
+      "sectionStart": "4",
+      "sectionEnd": "4",
+      "sectionRefs": [
+        "4"
+      ],
+      "paragraph": 4,
+      "ref": "Liv. Per. 52.4",
+      "original": "Thebae quoque et Chalcis, quae auxilio fuerant, dirutae.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-005",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "5",
+      "sectionStart": "5",
+      "sectionEnd": "5",
+      "sectionRefs": [
+        "5"
+      ],
+      "paragraph": 5,
+      "ref": "Liv. Per. 52.5",
+      "original": "ipse L. Mummius abstinentissimum virum egit, nec quicquam ex his operibus ornamentisque, quae praedives Corinthos habuit, in domum eius pervenit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-006",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "6",
+      "sectionStart": "6",
+      "sectionEnd": "6",
+      "sectionRefs": [
+        "6"
+      ],
+      "paragraph": 6,
+      "ref": "Liv. Per. 52.6",
+      "original": "Q. Caecilius Metellus de Andrisco triumphavit, P. Cornelius [Africanus] Scipio Aemilianus de Carthagine et Hasdrubale.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-007",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "7",
+      "sectionStart": "7",
+      "sectionEnd": "7",
+      "sectionRefs": [
+        "7"
+      ],
+      "paragraph": 7,
+      "ref": "Liv. Per. 52.7",
+      "original": "Viriathus in Hispania primum ex pastore venator, ex venatore latro, mox iusti quoque exercitus dux factus, totam Lusitaniam occupavit, M. Vetilium praetorem fuso eius exercitu cepit; post quem C. Plautius praetor nihilo felicius rem gessit; tantumque terroris is hostis intulit, ut adversus eum consulari opus esset et duce et exercitu.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-008",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "8",
+      "sectionStart": "8",
+      "sectionEnd": "8",
+      "sectionRefs": [
+        "8"
+      ],
+      "paragraph": 8,
+      "ref": "Liv. Per. 52.8",
+      "original": "praeterea motus Syriae et bella inter reges gesta referuntur.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-009",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "9",
+      "sectionStart": "9",
+      "sectionEnd": "9",
+      "sectionRefs": [
+        "9"
+      ],
+      "paragraph": 9,
+      "ref": "Liv. Per. 52.9",
+      "original": "Alexander, homo ignotus et incertae stirpis, occiso, sicut ante dictum est, Demetrio rege in Syria regnabat.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-010",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "10",
+      "sectionStart": "10",
+      "sectionEnd": "10",
+      "sectionRefs": [
+        "10"
+      ],
+      "paragraph": 10,
+      "ref": "Liv. Per. 52.10",
+      "original": "hunc Demetrius Demetri filius, qui a patre quondam ob incertos belli casus ablegatus Cnidon fuerat, contempta socordia inertiaque eius, adiuvante Ptolemaeo Aegypti rege, cuius filiam Cleopatram in matrimonium acceperat, bello interemit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-011",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "11",
+      "sectionStart": "11",
+      "sectionEnd": "11",
+      "sectionRefs": [
+        "11"
+      ],
+      "paragraph": 11,
+      "ref": "Liv. Per. 52.11",
+      "original": "Ptolemaeus graviter in caput vulneratus inter curationem, dum ossa medici terebrare conantur, expiravit, atque in locum eius frater minor Ptolemaeus, qui Cyrenis regnabat, successit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-012",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "12",
+      "sectionStart": "12",
+      "sectionEnd": "12",
+      "sectionRefs": [
+        "12"
+      ],
+      "paragraph": 12,
+      "ref": "Liv. Per. 52.12",
+      "original": "Demetrius ob crudelitatem, quam in suos per tormenta exercebat, ab Diodoto quodam, uno ex subiectis, qui Alexandri filio bimulo admodum regnum adserebat, bello superatus Seleuceam confugit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    },
+    {
+      "id": "periochae-52-per-013",
+      "sourceId": "periochae",
+      "book": 52,
+      "chapter": "per",
+      "section": "13",
+      "sectionStart": "13",
+      "sectionEnd": "13",
+      "sectionRefs": [
+        "13"
+      ],
+      "paragraph": 13,
+      "ref": "Liv. Per. 52.13",
+      "original": "L. Mummius de Achaeis triumphavit, signa aerea marmoreaque et tabulas pictas in triumpho tulit.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}

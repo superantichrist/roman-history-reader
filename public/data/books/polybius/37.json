@@ -1,0 +1,41 @@
+{
+  "author": "Polybius",
+  "authorKo": "폴리비오스",
+  "workTitle": "Ἱστορίαι",
+  "workTitleKo": "역사",
+  "language": "grc",
+  "languageLabel": "고대 그리스어",
+  "sourceId": "polybius",
+  "book": 37,
+  "bookLabel": "제37권",
+  "sourceKind": "fragment",
+  "preservationLabel": "부분 보존",
+  "periodLabel": "기원전 216–146년 · 부분 보존",
+  "chapterCount": 1,
+  "passageCount": 1,
+  "translationCount": 0,
+  "chapters": [
+    "1"
+  ],
+  "passages": [
+    {
+      "id": "polybius-37-1-001",
+      "sourceId": "polybius",
+      "book": 37,
+      "chapter": "1",
+      "section": "1",
+      "sectionStart": "1",
+      "sectionEnd": "1",
+      "sectionRefs": [
+        "1"
+      ],
+      "paragraph": 1,
+      "ref": "Polyb. 37.1.1",
+      "original": "Μούσειον, τόπος περὶ τὸν Ὄλυμπον τὸν ἐν Μακεδονίᾳ· Πολύβιος τριακοστῷ ἑβδόμῳ.",
+      "korean": "",
+      "notes": [],
+      "translationStatus": "untranslated",
+      "parallelRefs": []
+    }
+  ]
+}
