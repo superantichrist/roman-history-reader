@@ -425,8 +425,8 @@ export function RomanHistoryReader({
     void loadBook(result.sourceId, result.book, result.id);
   };
 
-  const goToTimeline = (item: TimelineItem) => {
-    const target = parseTimelineTarget(item.primary[0]);
+  const goToTimeline = (value: string) => {
+    const target = parseTimelineTarget(value);
     setFilter('all');
     void loadBook(target.sourceId, target.book);
   };
@@ -448,18 +448,20 @@ export function RomanHistoryReader({
   const timeline = (
     <nav className="timeline-list" aria-label="연대별 사료 지도">
       {manifest.timeline.map((item) => (
-        <button type="button" key={item.id} onClick={() => goToTimeline(item)}>
+        <section className="timeline-entry" key={item.id}>
           <span>{item.label}</span>
           <strong>{item.description}</strong>
-          <small>
-            {item.primary
-              .map((target) => {
+          <div className="timeline-targets">
+            {item.primary.map((target) => {
                 const parsed = parseTimelineTarget(target);
-                return `${SOURCE_LABELS[parsed.sourceId].short} ${target.split(':')[1]}`;
-              })
-              .join(' · ')}
-          </small>
-        </button>
+                return (
+                  <button type="button" key={target} onClick={() => goToTimeline(target)}>
+                    {SOURCE_LABELS[parsed.sourceId].short} {target.split(':')[1]}
+                  </button>
+                );
+              })}
+          </div>
+        </section>
       ))}
     </nav>
   );
