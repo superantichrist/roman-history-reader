@@ -16,6 +16,7 @@ import {
   Search,
   X,
 } from 'lucide-react';
+import Image from 'next/image';
 import {
   useCallback,
   useEffect,
@@ -32,6 +33,12 @@ type ViewMode = 'parallel' | 'original' | 'korean';
 type TranslationNote = {
   label?: string;
   text: string;
+};
+
+type PassageIllustration = {
+  src: string;
+  alt: string;
+  caption: string;
 };
 
 type PassageChronology = {
@@ -65,6 +72,7 @@ type Passage = {
   translationStatus: 'untranslated' | 'first-pass' | 'reviewed';
   parallelRefs: string[];
   chronology?: PassageChronology | null;
+  illustration?: PassageIllustration;
 };
 
 type Volume = {
@@ -749,6 +757,23 @@ export function RomanHistoryReader({
                       )}
                     </div>
                   </div>
+                  {passage.illustration && (
+                    <figure className="passage-illustration">
+                      <Image
+                        src={publicDataUrl(basePath, passage.illustration.src)}
+                        alt={passage.illustration.alt}
+                        width={1536}
+                        height={1024}
+                        unoptimized
+                        loading="lazy"
+                      />
+                      <figcaption>
+                        <strong>장면 재구성</strong>
+                        <span>{passage.illustration.caption}</span>
+                        <small>본문의 공간 관계를 이해하기 위한 생성 이미지이며 정밀한 고고학 복원도는 아닙니다.</small>
+                      </figcaption>
+                    </figure>
+                  )}
                 </article>
               ))}
             </div>

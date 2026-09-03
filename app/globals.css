@@ -140,6 +140,11 @@ button:disabled { cursor: default; opacity: 0.36; }
 .translation-notes { display: grid; gap: 7px; margin: 20px 0 0; padding: 14px 0 0; border-top: 1px solid var(--rule); list-style: none; color: var(--muted); font-size: 10px; line-height: 1.65; }
 .translation-notes li { display: grid; grid-template-columns: 20px 1fr; gap: 6px; }
 .translation-notes span { color: var(--bronze); font-family: Georgia, serif; font-weight: 700; }
+.passage-illustration { margin: 0; padding: clamp(14px, 2vw, 22px); border-top: 1px solid var(--rule); background: color-mix(in srgb, var(--ink) 4%, transparent); }
+.passage-illustration img { display: block; width: 100%; height: auto; max-height: 620px; object-fit: cover; border: 1px solid color-mix(in srgb, var(--rule) 82%, transparent); border-radius: 2px; background: #221b16; }
+.passage-illustration figcaption { display: grid; grid-template-columns: auto 1fr; gap: 4px 9px; padding: 10px 2px 0; color: var(--muted); font-size: 10px; line-height: 1.55; }
+.passage-illustration figcaption strong { color: var(--bronze); font: 700 9px/1.55 Georgia, serif; letter-spacing: .08em; }
+.passage-illustration figcaption small { grid-column: 2; color: color-mix(in srgb, var(--muted) 82%, transparent); font-size: 9px; }
 .passage-list[data-view='original'] .passage-columns { grid-template-columns: minmax(0, 720px); justify-content: center; }
 .passage-list[data-view='original'] .original-column { border-right: 0; }
 .passage-list[data-view='original'] .korean-column { display: none; }
@@ -239,6 +244,9 @@ button:disabled { cursor: default; opacity: 0.36; }
   .original-column { border-right: 0; border-bottom: 1px solid var(--rule); }
   .original-column p, .original-column[lang='grc'] p { font-size: 16px; line-height: 1.72; }
   .korean-column > p { font-size: 14px; line-height: 1.85; }
+  .passage-illustration { padding: 10px; }
+  .passage-illustration figcaption { grid-template-columns: 1fr; padding: 9px 2px 1px; }
+  .passage-illustration figcaption small { grid-column: 1; }
   .passage-list[data-view='original'] .passage-columns, .passage-list[data-view='korean'] .passage-columns { display: block; }
   .volume-navigation { display: none; }
   .swipe-hint { display: block; margin: 14px 0; color: var(--muted); text-align: center; font-size: 9px; }

@@ -17,6 +17,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_MANIFEST = ROOT / "sources" / "manifest.json"
 CHRONOLOGY_FILE = ROOT / "sources" / "chronology.json"
+ILLUSTRATIONS_FILE = ROOT / "sources" / "illustrations.json"
 RAW = ROOT / "sources" / "raw"
 TRANSLATIONS = ROOT / "translations" / "ko"
 OUTPUT = ROOT / "public" / "data"
@@ -103,6 +104,11 @@ PREFERRED_CHILDREN = {
 }
 
 CHRONOLOGY = json.loads(CHRONOLOGY_FILE.read_text(encoding="utf-8"))
+ILLUSTRATIONS = (
+    json.loads(ILLUSTRATIONS_FILE.read_text(encoding="utf-8"))
+    if ILLUSTRATIONS_FILE.exists()
+    else {}
+)
 
 
 def chronology_location(value: str) -> tuple[int, int] | None:
@@ -351,6 +357,9 @@ def make_passage(
         )
     if chronology is not None:
         passage["chronology"] = chronology
+    illustration = ILLUSTRATIONS.get(passage_id)
+    if illustration is not None:
+        passage["illustration"] = illustration
     return passage
 
 
@@ -737,6 +746,26 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
                 for note in passage["notes"]:
                     if not isinstance(note, dict) or not note.get("text"):
                         errors.append(f"Malformed note: {passage['id']}")
+                illustration = passage.get("illustration")
+                if illustration is not None:
+                    if not isinstance(illustration, dict):
+                        errors.append(f"Malformed illustration: {passage['id']}")
+                    else:
+                        for field in ("src", "alt", "caption"):
+                            if not illustration.get(field):
+                                errors.append(
+                                    f"Missing illustration {field}: {passage['id']}"
+                                )
+                        source_path = str(illustration.get("src", ""))
+                        if "://" not in source_path and not (
+                            ROOT / "public" / source_path.lstrip("/")
+                        ).is_file():
+                            errors.append(f"Missing illustration file: {passage['id']}")
+    unknown_illustrations = sorted(set(ILLUSTRATIONS) - ids)
+    if unknown_illustrations:
+        errors.append(
+            "Unknown illustration IDs: " + ", ".join(unknown_illustrations)
+        )
     if errors:
         raise ValueError("\n".join(errors))
 
