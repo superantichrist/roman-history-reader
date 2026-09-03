@@ -5,9 +5,9 @@
   "stats": {
     "collections": 3,
     "books": 91,
-    "passages": 10330,
+    "passages": 10325,
     "originalWords": 823112,
-    "translatedPassages": 434
+    "translatedPassages": 614
   },
   "timeline": [
     {
@@ -74,8 +74,8 @@
       "languageLabel": "라틴어",
       "id": "livy",
       "bookCount": 35,
-      "passageCount": 6315,
-      "translationCount": 216,
+      "passageCount": 6310,
+      "translationCount": 396,
       "searchPath": "data/search/livy.json",
       "volumes": [
         {
@@ -98,8 +98,8 @@
           "preservationLabel": "보존 본문",
           "periodLabel": "건국 전승–기원전 390년",
           "chapterCount": 65,
-          "passageCount": 224,
-          "translationCount": 0,
+          "passageCount": 223,
+          "translationCount": 180,
           "path": "data/books/livy/02.json"
         },
         {
@@ -122,7 +122,7 @@
           "preservationLabel": "보존 본문",
           "periodLabel": "건국 전승–기원전 390년",
           "chapterCount": 61,
-          "passageCount": 204,
+          "passageCount": 202,
           "translationCount": 0,
           "path": "data/books/livy/04.json"
         },
@@ -302,7 +302,7 @@
           "preservationLabel": "보존 본문",
           "periodLabel": "기원전 218–201년",
           "chapterCount": 38,
-          "passageCount": 153,
+          "passageCount": 152,
           "translationCount": 0,
           "path": "data/books/livy/29.json"
         },
@@ -326,7 +326,7 @@
           "preservationLabel": "보존 본문",
           "periodLabel": "기원전 200–179년",
           "chapterCount": 50,
-          "passageCount": 163,
+          "passageCount": 162,
           "translationCount": 0,
           "path": "data/books/livy/31.json"
         },

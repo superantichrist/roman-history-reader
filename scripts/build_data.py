@@ -270,6 +270,15 @@ def group_sections(
         current.append((section, text))
         current_length += len(text) + 1
         closes_sentence = bool(re.search(r"[.!?;·][\"'’”»)]?$", text))
+        # Perseus occasionally places a section boundary between a Roman
+        # praenomen abbreviation and the following nomen (for example
+        # ``Sex.</p> ... <p>Furius``).  The full stop belongs to the
+        # abbreviation, not to the sentence, so do not expose a dangling
+        # name as a standalone reading passage.
+        if re.search(
+            r"\b(?:Cn|Ti|Tib|Sp|Sex|Ser|Ap|Mam|M'|[A-Z])\.$", text
+        ):
+            closes_sentence = False
         if current_length >= target_chars and closes_sentence:
             groups.append(current)
             current = []
@@ -334,6 +343,13 @@ def parse_livy_main() -> list[dict[str, Any]]:
                     continue
                 section = str(section_node.get("n", ""))
                 original = rendered_text(section_node)
+                # Obvious typographical loss in the source transcription;
+                # the idiom is ``res aliter longe evenit`` ("things turned
+                # out very differently").
+                original = original.replace(
+                    "res liter longe evenit", "res aliter longe evenit"
+                )
+                original = original.replace(" | ", " ⟦…⟧ ")
                 if not original:
                     continue
                 section_rows.append((section, original))
