@@ -16,6 +16,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_MANIFEST = ROOT / "sources" / "manifest.json"
+CHRONOLOGY_FILE = ROOT / "sources" / "chronology.json"
 RAW = ROOT / "sources" / "raw"
 TRANSLATIONS = ROOT / "translations" / "ko"
 OUTPUT = ROOT / "public" / "data"
@@ -100,6 +101,68 @@ PREFERRED_CHILDREN = {
     "choice": ("corr", "reg", "expan", "orig", "sic", "abbr"),
     "app": ("lem", "rdg"),
 }
+
+CHRONOLOGY = json.loads(CHRONOLOGY_FILE.read_text(encoding="utf-8"))
+
+
+def chronology_location(value: str) -> tuple[int, int] | None:
+    chapter, separator, section = value.partition(".")
+    if not separator or not section.isdigit():
+        return None
+    if chapter == "per":
+        return 0, int(section)
+    if not chapter.isdigit():
+        return None
+    return int(chapter), int(section)
+
+
+def passage_chronology(
+    source_id: str, book: int, locations: list[str]
+) -> dict[str, Any] | None:
+    rules = [
+        rule
+        for rule in CHRONOLOGY["rules"]
+        if rule["sourceId"] == source_id and rule["book"] == book
+    ]
+    hits = []
+    for location in locations:
+        current = chronology_location(location)
+        if current is None:
+            continue
+        for rule in rules:
+            start = chronology_location(rule["start"])
+            end = chronology_location(rule["end"])
+            if start is not None and end is not None and start <= current <= end:
+                hits.append(rule)
+                break
+    if not hits:
+        return None
+
+    year_start = max(rule["yearStartBce"] for rule in hits)
+    year_end = min(rule["yearEndBce"] for rule in hits)
+    approximate = any(rule["certainty"] == "approximate" for rule in hits)
+    if year_start == year_end:
+        label = f"기원전 {year_start}년"
+    else:
+        label = f"기원전 {year_start}–{year_end}년"
+    if approximate:
+        label += "경"
+
+    scopes = list(dict.fromkeys(rule["scope"] for rule in hits))
+    sources = list(dict.fromkeys(rule["source"] for rule in hits))
+    return {
+        "label": label,
+        "yearStartBce": year_start,
+        "yearEndBce": year_end,
+        "certainty": (
+            "approximate"
+            if approximate
+            else "exact" if year_start == year_end else "range"
+        ),
+        "scope": scopes[0] if len(scopes) == 1 else "mixed",
+        "basis": "editorial",
+        "sourceIds": sources,
+    }
 
 
 def local_name(tag: str) -> str:
@@ -220,25 +283,45 @@ def make_passage(
     paragraph: int,
     original: str,
     translations: dict[str, Any],
+    chapter_end: str | None = None,
+    chapter_refs: list[str] | None = None,
+    locations: list[str] | None = None,
 ) -> dict[str, Any]:
+    chapter_end = chapter_end or chapter
+    chapter_refs = chapter_refs or [chapter]
+    locations = locations or [f"{chapter}.{section}" for section in section_refs]
     section_token = section_start.zfill(3)
-    if section_end != section_start:
+    if chapter_end != chapter:
+        section_token += f"-to-{chapter_end}-{section_end.zfill(3)}"
+    elif section_end != section_start:
         section_token += f"-{section_end.zfill(3)}"
     passage_id = f"{source_id}-{book:02d}-{chapter}-{section_token}"
     translated = translations.get(passage_id, {})
     korean = normalize(str(translated.get("korean", "")))
-    section_label = (
-        section_start
-        if section_end == section_start
-        else f"{section_start}–{section_end}"
-    )
+    chronology = passage_chronology(source_id, book, locations)
+    if chapter_end != chapter:
+        section_label = f"{chapter}.{section_start}–{chapter_end}.{section_end}"
+    else:
+        section_label = (
+            section_start
+            if section_end == section_start
+            else f"{section_start}–{section_end}"
+        )
     if source_id == "livy":
-        ref = f"Liv. {book}.{chapter}.{section_label}"
+        ref = (
+            f"Liv. {book}.{section_label}"
+            if chapter_end != chapter
+            else f"Liv. {book}.{chapter}.{section_label}"
+        )
     elif source_id == "periochae":
         ref = f"Liv. Per. {book}.{section_label}"
     else:
-        ref = f"Polyb. {book}.{chapter}.{section_label}"
-    return {
+        ref = (
+            f"Polyb. {book}.{section_label}"
+            if chapter_end != chapter
+            else f"Polyb. {book}.{chapter}.{section_label}"
+        )
+    passage = {
         "id": passage_id,
         "sourceId": source_id,
         "book": book,
@@ -257,6 +340,29 @@ def make_passage(
         ),
         "parallelRefs": translated.get("parallelRefs", []),
     }
+    if chapter_end != chapter:
+        passage.update(
+            {
+                "chapterStart": chapter,
+                "chapterEnd": chapter_end,
+                "chapterRefs": chapter_refs,
+                "locations": locations,
+            }
+        )
+    if chronology is not None:
+        passage["chronology"] = chronology
+    return passage
+
+
+def closes_sentence(text: str) -> bool:
+    closes = bool(re.search(r"[.!?;·][\"'’”»)]?$", text))
+    # Perseus occasionally places a section boundary between a Roman
+    # praenomen abbreviation and the following nomen (for example
+    # ``Sex.</p> ... <p>Furius``).  The full stop belongs to the
+    # abbreviation, not to the sentence.
+    if re.search(r"\b(?:Cn|Ti|Tib|Sp|Sex|Ser|Ap|Mam|M'|[A-Z])\.$", text):
+        return False
+    return closes
 
 
 def group_sections(
@@ -269,17 +375,7 @@ def group_sections(
     for section, text in rows:
         current.append((section, text))
         current_length += len(text) + 1
-        closes_sentence = bool(re.search(r"[.!?;·][\"'’”»)]?$", text))
-        # Perseus occasionally places a section boundary between a Roman
-        # praenomen abbreviation and the following nomen (for example
-        # ``Sex.</p> ... <p>Furius``).  The full stop belongs to the
-        # abbreviation, not to the sentence, so do not expose a dangling
-        # name as a standalone reading passage.
-        if re.search(
-            r"\b(?:Cn|Ti|Tib|Sp|Sex|Ser|Ap|Mam|M'|[A-Z])\.$", text
-        ):
-            closes_sentence = False
-        if current_length >= target_chars and closes_sentence:
+        if current_length >= target_chars and closes_sentence(text):
             groups.append(current)
             current = []
             current_length = 0
@@ -448,7 +544,7 @@ def parse_polybius() -> list[dict[str, Any]]:
             continue
         book = int(raw_book)
         translations = load_translations("polybius", book)
-        passages = []
+        chapter_groups: list[list[tuple[str, str, str]]] = []
         for chapter_node in book_node.iter(TEI + "div"):
             if chapter_node.get("subtype") != "chapter":
                 continue
@@ -459,24 +555,86 @@ def parse_polybius() -> list[dict[str, Any]]:
                     continue
                 section = str(section_node.get("n", ""))
                 original = rendered_text(section_node)
+                # The source XML breaks ἐξίκοντο, together with the rest of
+                # its clause, across the artificial 1.3/1.4 chapter boundary.
+                # Restore the word and keep the complete clause in 1.3.10.
+                if book == 1 and chapter == "3" and section == "10":
+                    original += "ίκοντο τῆς τῶν ὅλων ἀρχῆς καὶ δυναστείας."
+                if book == 1 and chapter == "4" and section == "1":
+                    original = re.sub(
+                        r"^ίκοντο τῆς τῶν ὅλων ἀρχῆς καὶ δυναστείας\.\s*",
+                        "",
+                        original,
+                    )
                 if not original:
                     continue
                 section_rows.append((section, original))
             for group in group_sections(section_rows):
-                section_refs = [section for section, _ in group]
-                passages.append(
-                    make_passage(
-                        "polybius",
-                        book,
-                        chapter,
-                        section_refs[0],
-                        section_refs[-1],
-                        section_refs,
-                        len(passages) + 1,
-                        normalize(" ".join(text for _, text in group)),
-                        translations,
-                    )
+                chapter_groups.append(
+                    [(chapter, section, text) for section, text in group]
                 )
+
+        # Book I's CTS transcription frequently places an editorial chapter
+        # boundary in the middle of Polybius' sentence, and occasionally in
+        # the middle of a Greek word. Preserve every CTS location but expose
+        # one continuous reading passage instead of two dangling fragments.
+        # Later books receive the same treatment only after their boundaries
+        # have been audited, so an uncertain word join is never guessed.
+        merged_groups: list[list[tuple[str, str, str]]] = []
+        for group in chapter_groups:
+            crosses_chapter = (
+                book == 1
+                and merged_groups
+                and merged_groups[-1][-1][0] != group[0][0]
+            )
+            if crosses_chapter and not closes_sentence(merged_groups[-1][-1][2]):
+                merged_groups[-1].extend(group)
+            else:
+                merged_groups.append(group)
+
+        word_joins = {
+            (1, "8", "5", "9", "1"),
+            (1, "20", "16", "21", "1"),
+            (1, "22", "11", "23", "1"),
+            (1, "25", "9", "26", "1"),
+            (1, "27", "13", "28", "1"),
+            (1, "36", "12", "37", "1"),
+            (1, "44", "7", "45", "1"),
+            (1, "49", "12", "50", "1"),
+            (1, "56", "11", "57", "1"),
+            (1, "60", "10", "61", "1"),
+            (1, "66", "12", "67", "1"),
+            (1, "70", "9", "71", "1"),
+            (1, "71", "8", "72", "1"),
+            (1, "73", "7", "74", "1"),
+            (1, "79", "14", "80", "1"),
+        }
+        passages = []
+        for group in merged_groups:
+            original = group[0][2]
+            for previous, current in zip(group, group[1:]):
+                key = (book, previous[0], previous[1], current[0], current[1])
+                separator = "" if key in word_joins else " "
+                original += separator + current[2]
+            chapter_refs = list(dict.fromkeys(chapter for chapter, _, _ in group))
+            section_refs = [section for _, section, _ in group]
+            locations = [f"{chapter}.{section}" for chapter, section, _ in group]
+            passages.append(
+                make_passage(
+                    "polybius",
+                    book,
+                    group[0][0],
+                    group[0][1],
+                    group[-1][1],
+                    section_refs,
+                    len(passages) + 1,
+                    normalize(original),
+                    translations,
+                    chapter_end=group[-1][0],
+                    chapter_refs=chapter_refs,
+                    locations=locations,
+                )
+            )
         books.append(build_book("polybius", book, passages, translations))
     return books
 
@@ -498,10 +656,10 @@ def build_book(
     chapters = []
     seen = set()
     for passage in passages:
-        chapter = passage["chapter"]
-        if chapter not in seen:
-            seen.add(chapter)
-            chapters.append(chapter)
+        for chapter in passage.get("chapterRefs", [passage["chapter"]]):
+            if chapter not in seen:
+                seen.add(chapter)
+                chapters.append(chapter)
     return {
         **meta,
         "sourceId": source_id,
@@ -526,6 +684,28 @@ def validate_sources(source_manifest: dict[str, Any]) -> None:
         actual = hashlib.sha256(path.read_bytes()).hexdigest()
         if actual != source["sha256"]:
             raise ValueError(f"Source hash mismatch: {source['id']}")
+
+
+def validate_chronology() -> None:
+    errors = []
+    grouped: dict[tuple[str, int], list[tuple[tuple[int, int], tuple[int, int]]]] = {}
+    for rule in CHRONOLOGY["rules"]:
+        start = chronology_location(rule["start"])
+        end = chronology_location(rule["end"])
+        key = (rule["sourceId"], rule["book"])
+        if start is None or end is None or start > end:
+            errors.append(f"Bad chronology location: {key} {rule['start']}–{rule['end']}")
+            continue
+        if rule["yearStartBce"] < rule["yearEndBce"]:
+            errors.append(f"Reversed BCE range: {key} {rule['start']}–{rule['end']}")
+        if rule["source"] not in CHRONOLOGY["sources"]:
+            errors.append(f"Unknown chronology source: {rule['source']}")
+        for existing_start, existing_end in grouped.setdefault(key, []):
+            if max(start, existing_start) <= min(end, existing_end):
+                errors.append(f"Overlapping chronology rules: {key} {rule['start']}")
+        grouped[key].append((start, end))
+    if errors:
+        raise ValueError("\n".join(errors))
 
 
 def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
@@ -585,6 +765,7 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
 def main() -> None:
     source_manifest = read_json(SOURCE_MANIFEST)
     validate_sources(source_manifest)
+    validate_chronology()
     corpus = {
         "livy": parse_livy_main(),
         "periochae": parse_periochae(),
@@ -656,6 +837,10 @@ def main() -> None:
         "subtitle": "리비우스 · 페리오카이 · 폴리비오스",
         "stats": stats,
         "timeline": TIMELINE,
+        "chronology": {
+            "method": CHRONOLOGY["method"],
+            "sources": CHRONOLOGY["sources"],
+        },
         "collections": collections,
         "sources": source_manifest,
     }

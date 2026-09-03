@@ -5,9 +5,9 @@
   "stats": {
     "collections": 3,
     "books": 91,
-    "passages": 10325,
-    "originalWords": 823112,
-    "translatedPassages": 614
+    "passages": 10295,
+    "originalWords": 823096,
+    "translatedPassages": 638
   },
   "timeline": [
     {
@@ -64,6 +64,23 @@
       "description": "리비우스 요약과 부분 보존된 폴리비오스"
     }
   ],
+  "chronology": {
+    "method": "기원전 연도는 고대 본문의 사건 순서, 로마 집정관 연도와 올림피아드 연대를 현대식으로 환산한 편집 정보다. 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니다.",
+    "sources": {
+      "livius-periochae": {
+        "title": "Livius.org, Livy: Periochae",
+        "url": "https://www.livius.org/sources/content/livy/livy-periochae-11-15/"
+      },
+      "attalus-polybius": {
+        "title": "Attalus, Polybius reference chronology",
+        "url": "https://www.attalus.org/refs/Polyb.html"
+      },
+      "polybius-text": {
+        "title": "Polybius, Historiae I",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0233:book=1"
+      }
+    }
+  },
   "collections": [
     {
       "author": "Titus Livius",
@@ -728,8 +745,8 @@
       "languageLabel": "고대 그리스어",
       "id": "polybius",
       "bookCount": 39,
-      "passageCount": 3797,
-      "translationCount": 0,
+      "passageCount": 3767,
+      "translationCount": 24,
       "searchPath": "data/search/polybius.json",
       "volumes": [
         {
@@ -740,8 +757,8 @@
           "preservationLabel": "보존 본문",
           "periodLabel": "기원전 264–220년",
           "chapterCount": 88,
-          "passageCount": 316,
-          "translationCount": 0,
+          "passageCount": 286,
+          "translationCount": 24,
           "path": "data/books/polybius/01.json"
         },
         {

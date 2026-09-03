@@ -23,4 +23,12 @@
 
 한국어는 현대 출판 번역을 복제하지 않고 이 프로젝트에서 원문으로부터 직접 작성한다. `first-pass`와 `reviewed` 상태를 분리하며, 번역이 없는 단락은 빈 문자열과 `untranslated` 상태로 남겨 원문 공개와 번역 진행을 혼동하지 않는다.
 
+## 연대 배지
+
+단락 옆의 기원전 연도는 원문 일부가 아니다. 고대 본문의 사건 순서, 로마 집정관 연도와 올림피아드 연대를 현대식 BCE 연도로 환산한 편집 정보다. 확정하기 어려운 대목에는 `경`을 붙이고, 회고·배경 설명은 현재의 주서술과 다른 색의 배지로 구분한다.
+
+- 《페리오카이》 연대 대조: [Livius.org, Livy: Periochae 11–15](https://www.livius.org/sources/content/livy/livy-periochae-11-15/)
+- 폴리비오스 절별 사건 연대 대조: [Attalus, Polybius reference chronology](https://www.attalus.org/refs/Polyb.html)
+- 실제 적용 규칙과 불확실성 표시는 `sources/chronology.json`에 고정해 둔다. 웹사이트가 외부 페이지를 실시간으로 스크래핑하지는 않는다.
+
 원문 데이터의 재사용 조건은 각 PerseusDL upstream 저장소의 라이선스를 따른다. 사이트 코드와 프로젝트에서 새로 작성한 한국어 번역은 별도 저작물이며, 명시적 허락 없이 상업 출판 번역으로 재배포할 수 없다.

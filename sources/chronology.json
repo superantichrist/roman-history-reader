@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "method": "기원전 연도는 고대 본문의 사건 순서, 로마 집정관 연도와 올림피아드 연대를 현대식으로 환산한 편집 정보다. 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니다.",
+  "sources": {
+    "livius-periochae": {
+      "title": "Livius.org, Livy: Periochae",
+      "url": "https://www.livius.org/sources/content/livy/livy-periochae-11-15/"
+    },
+    "attalus-polybius": {
+      "title": "Attalus, Polybius reference chronology",
+      "url": "https://www.attalus.org/refs/Polyb.html"
+    },
+    "polybius-text": {
+      "title": "Polybius, Historiae I",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0233:book=1"
+    }
+  },
+  "rules": [
+    {"sourceId": "periochae", "book": 12, "start": "per.1", "end": "per.1", "yearStartBce": 284, "yearEndBce": 284, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 12, "start": "per.2", "end": "per.2", "yearStartBce": 282, "yearEndBce": 282, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 12, "start": "per.3", "end": "per.3", "yearStartBce": 281, "yearEndBce": 281, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 12, "start": "per.4", "end": "per.4", "yearStartBce": 281, "yearEndBce": 281, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 12, "start": "per.5", "end": "per.6", "yearStartBce": 280, "yearEndBce": 280, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+
+    {"sourceId": "polybius", "book": 1, "start": "5.1", "end": "5.5", "yearStartBce": 264, "yearEndBce": 264, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "6.1", "end": "6.3", "yearStartBce": 387, "yearEndBce": 387, "certainty": "approximate", "scope": "background", "source": "polybius-text"},
+    {"sourceId": "polybius", "book": 1, "start": "6.4", "end": "6.8", "yearStartBce": 387, "yearEndBce": 275, "certainty": "approximate", "scope": "background", "source": "polybius-text"},
+    {"sourceId": "polybius", "book": 1, "start": "7.1", "end": "7.13", "yearStartBce": 288, "yearEndBce": 270, "certainty": "approximate", "scope": "background", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "8.1", "end": "9.8", "yearStartBce": 275, "yearEndBce": 269, "certainty": "approximate", "scope": "background", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "10.1", "end": "12.9", "yearStartBce": 264, "yearEndBce": 264, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "14.1", "end": "15.13", "yearStartBce": 264, "yearEndBce": 264, "certainty": "exact", "scope": "background", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "16.1", "end": "17.6", "yearStartBce": 263, "yearEndBce": 263, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "17.7", "end": "19.5", "yearStartBce": 262, "yearEndBce": 262, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "19.6", "end": "21.2", "yearStartBce": 261, "yearEndBce": 261, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "21.3", "end": "24.2", "yearStartBce": 260, "yearEndBce": 260, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "24.3", "end": "24.4", "yearStartBce": 259, "yearEndBce": 259, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "24.5", "end": "24.13", "yearStartBce": 258, "yearEndBce": 258, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "25.1", "end": "25.6", "yearStartBce": 257, "yearEndBce": 257, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "25.7", "end": "30.15", "yearStartBce": 256, "yearEndBce": 256, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "31.1", "end": "38.4", "yearStartBce": 255, "yearEndBce": 255, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "38.5", "end": "38.10", "yearStartBce": 254, "yearEndBce": 254, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "39.1", "end": "39.7", "yearStartBce": 253, "yearEndBce": 253, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "39.8", "end": "39.14", "yearStartBce": 252, "yearEndBce": 251, "certainty": "approximate", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "39.15", "end": "48.11", "yearStartBce": 250, "yearEndBce": 250, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "49.1", "end": "52.2", "yearStartBce": 249, "yearEndBce": 249, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "52.3", "end": "52.3", "yearStartBce": 248, "yearEndBce": 248, "certainty": "exact", "scope": "background", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "52.4", "end": "55.10", "yearStartBce": 249, "yearEndBce": 249, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "56.1", "end": "57.8", "yearStartBce": 247, "yearEndBce": 247, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "58.1", "end": "59.2", "yearStartBce": 244, "yearEndBce": 244, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "59.3", "end": "59.12", "yearStartBce": 242, "yearEndBce": 242, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "60.1", "end": "64.6", "yearStartBce": 241, "yearEndBce": 241, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "65.1", "end": "65.9", "yearStartBce": 241, "yearEndBce": 237, "certainty": "approximate", "scope": "overview", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "66.1", "end": "69.3", "yearStartBce": 241, "yearEndBce": 241, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "69.4", "end": "78.15", "yearStartBce": 240, "yearEndBce": 240, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "79.1", "end": "83.11", "yearStartBce": 239, "yearEndBce": 239, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "83.12", "end": "87.10", "yearStartBce": 238, "yearEndBce": 238, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "88.1", "end": "88.7", "yearStartBce": 237, "yearEndBce": 237, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
+    {"sourceId": "polybius", "book": 1, "start": "88.8", "end": "88.12", "yearStartBce": 238, "yearEndBce": 238, "certainty": "exact", "scope": "background", "source": "attalus-polybius"}
+  ]
+}

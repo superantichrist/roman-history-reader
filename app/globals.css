@@ -121,7 +121,10 @@ button:disabled { cursor: default; opacity: 0.36; }
 .passage { scroll-margin-top: 132px; border-bottom: 1px solid var(--rule); }
 .passage:last-child { border-bottom: 0; }
 .passage-meta { display: grid; grid-template-columns: 1fr auto auto; align-items: center; gap: 12px; min-height: 39px; padding: 7px 14px; border-bottom: 1px solid color-mix(in srgb, var(--rule) 75%, transparent); color: var(--muted); font-size: 9px; letter-spacing: .06em; }
+.passage-source { display: flex; align-items: center; flex-wrap: wrap; gap: 7px; min-width: 0; }
 .passage-meta a { width: max-content; color: var(--oxblood); text-decoration: none; font-family: Georgia, serif; font-weight: 700; }
+.chronology-badge { width: max-content; padding: 3px 6px; border: 1px solid color-mix(in srgb, var(--bronze) 55%, transparent); border-radius: 999px; color: #76501f; background: rgba(150,107,49,.075); font-weight: 700; letter-spacing: .015em; cursor: help; }
+.chronology-badge[data-scope='background'], .chronology-badge[data-scope='overview'], .chronology-badge[data-scope='mixed'] { color: var(--muted); border-style: dashed; background: rgba(116,105,92,.055); }
 .passage-meta button { display: flex; align-items: center; gap: 5px; border: 0; color: var(--oxblood); background: transparent; font-size: 9px; font-weight: 700; }
 .passage-meta svg { width: 13px; }
 .passage-columns { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
@@ -175,6 +178,8 @@ button:disabled { cursor: default; opacity: 0.36; }
 .volume-grid small { overflow: hidden; color: var(--muted); font-size: 9px; white-space: nowrap; text-overflow: ellipsis; }
 .volume-grid em { color: var(--bronze); font-size: 8px; font-style: normal; }
 .source-intro { margin: 18px 0; color: var(--muted); font-size: 11px; line-height: 1.75; word-break: keep-all; }
+.source-subheading { margin: 27px 0 0; padding-top: 21px; border-top: 1px solid var(--rule); font: 600 16px/1.35 Georgia, serif; }
+.source-intro.chronology-method { margin-top: 10px; }
 .source-cards { display: grid; gap: 10px; }
 .source-cards article { display: grid; gap: 7px; padding: 17px; border: 1px solid var(--rule); background: rgba(255,255,255,.22); }
 .source-cards article > span { color: var(--oxblood); font: 700 9px/1 Georgia, serif; letter-spacing: .08em; }

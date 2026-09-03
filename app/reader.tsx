@@ -34,15 +34,29 @@ type TranslationNote = {
   text: string;
 };
 
+type PassageChronology = {
+  label: string;
+  yearStartBce: number;
+  yearEndBce: number;
+  certainty: 'exact' | 'range' | 'approximate';
+  scope: 'narrative' | 'background' | 'overview' | 'mixed';
+  basis: 'editorial';
+  sourceIds: string[];
+};
+
 type Passage = {
   id: string;
   sourceId: SourceId;
   book: number;
   chapter: string;
+  chapterStart?: string;
+  chapterEnd?: string;
+  chapterRefs?: string[];
   section: string;
   sectionStart: string;
   sectionEnd: string;
   sectionRefs: string[];
+  locations?: string[];
   paragraph: number;
   ref: string;
   original: string;
@@ -50,6 +64,7 @@ type Passage = {
   notes: TranslationNote[];
   translationStatus: 'untranslated' | 'first-pass' | 'reviewed';
   parallelRefs: string[];
+  chronology?: PassageChronology | null;
 };
 
 type Volume = {
@@ -128,6 +143,10 @@ export type ReaderManifest = {
     translatedPassages: number;
   };
   timeline: TimelineItem[];
+  chronology: {
+    method: string;
+    sources: Record<string, { title: string; url: string }>;
+  };
   collections: Collection[];
   sources: {
     license: string;
@@ -150,6 +169,23 @@ const STATUS_EXPLANATIONS: Record<BookData['sourceKind'], string> = {
     '인용과 발췌 등을 통해 일부만 전하는 본문입니다. 빈틈을 임의로 메우지 않았습니다.',
   lost: '이 권의 본문은 현재 전하지 않습니다. 권 번호만 보존 상태와 함께 남겼습니다.',
 };
+
+const CHRONOLOGY_SCOPE: Record<PassageChronology['scope'], string> = {
+  narrative: '현재 서술',
+  background: '회고·배경',
+  overview: '기간 개관',
+  mixed: '복수 연대',
+};
+
+function chronologyTitle(chronology: PassageChronology) {
+  const certainty =
+    chronology.certainty === 'approximate'
+      ? '추정 연대'
+      : chronology.certainty === 'range'
+        ? '여러 해에 걸친 범위'
+        : '사건 연대';
+  return `${CHRONOLOGY_SCOPE[chronology.scope]} · ${certainty}. 고대의 사건 순서·집정관·올림피아드 연대를 현대식 기원전 연도로 환산한 편집 정보입니다.`;
+}
 
 function volumeKey(sourceId: SourceId, book: number) {
   return `${sourceId}:${book}`;
@@ -267,8 +303,9 @@ export function RomanHistoryReader({
               const [chapter, section] = targetId.slice(1).split('|');
               return nextBook.passages.find(
                 (candidate) =>
-                  candidate.chapter === chapter &&
-                  candidate.sectionRefs.includes(section),
+                  (candidate.locations?.includes(`${chapter}.${section}`) ??
+                    (candidate.chapter === chapter &&
+                      candidate.sectionRefs.includes(section))),
               );
             })()
           : targetId
@@ -378,7 +415,7 @@ export function RomanHistoryReader({
     url.searchParams.set('chapter', passage.chapter);
     url.searchParams.set('section', passage.sectionStart);
     const parts = [
-      `${currentCollection.authorKo} 《${currentCollection.workTitleKo}》 ${passage.ref}`,
+      `${currentCollection.authorKo} 《${currentCollection.workTitleKo}》 ${passage.ref}${passage.chronology ? ` · ${passage.chronology.label}` : ''}`,
       '',
       passage.original,
     ];
@@ -431,7 +468,10 @@ export function RomanHistoryReader({
   };
 
   const goToChapter = (chapter: string) => {
-    const passage = book.passages.find((candidate) => candidate.chapter === chapter);
+    const passage = book.passages.find(
+      (candidate) =>
+        candidate.chapterRefs?.includes(chapter) ?? candidate.chapter === chapter,
+    );
     if (!passage) return;
     setActivePassage(passage.paragraph);
     const url = new URL(window.location.href);
@@ -652,12 +692,26 @@ export function RomanHistoryReader({
                   data-paragraph={passage.paragraph}
                 >
                   <header className="passage-meta">
-                    <a
-                      href={`?source=${passage.sourceId}&book=${passage.book}&chapter=${encodeURIComponent(passage.chapter)}&section=${encodeURIComponent(passage.sectionStart)}`}
-                      aria-label={`${passage.ref} 영구 링크`}
-                    >
-                      {passage.ref}
-                    </a>
+                    <div className="passage-source">
+                      <a
+                        href={`?source=${passage.sourceId}&book=${passage.book}&chapter=${encodeURIComponent(passage.chapter)}&section=${encodeURIComponent(passage.sectionStart)}`}
+                        aria-label={`${passage.ref} 영구 링크`}
+                      >
+                        {passage.ref}
+                      </a>
+                      {passage.chronology && (
+                        <span
+                          className="chronology-badge"
+                          data-scope={passage.chronology.scope}
+                          title={chronologyTitle(passage.chronology)}
+                          aria-label={`편집 연대 ${passage.chronology.label}, ${CHRONOLOGY_SCOPE[passage.chronology.scope]}`}
+                        >
+                          {passage.chronology.scope === 'narrative'
+                            ? passage.chronology.label
+                            : `${CHRONOLOGY_SCOPE[passage.chronology.scope]} · ${passage.chronology.label}`}
+                        </span>
+                      )}
+                    </div>
                     <span>읽기 단락 {passage.paragraph}</span>
                     <button
                       type="button"
@@ -772,6 +826,17 @@ export function RomanHistoryReader({
                     <a href={source.url} target="_blank" rel="noreferrer">원문 파일 열기 <ArrowRight /></a>
                   </article>
                 ))}
+            </div>
+            <h3 className="source-subheading">연대 환산 근거</h3>
+            <p className="source-intro chronology-method">{manifest.chronology.method}</p>
+            <div className="source-cards chronology-sources">
+              {Object.entries(manifest.chronology.sources).map(([id, source]) => (
+                <article key={id}>
+                  <span>{id}</span>
+                  <h3>{source.title}</h3>
+                  <a href={source.url} target="_blank" rel="noreferrer">대조 자료 열기 <ArrowRight /></a>
+                </article>
+              ))}
             </div>
           </dialog>
         </div>
