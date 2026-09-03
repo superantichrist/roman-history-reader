@@ -7,7 +7,7 @@
     "books": 91,
     "passages": 10295,
     "originalWords": 823096,
-    "translatedPassages": 2577
+    "translatedPassages": 2705
   },
   "timeline": [
     {
@@ -746,7 +746,7 @@
       "id": "polybius",
       "bookCount": 39,
       "passageCount": 3767,
-      "translationCount": 1860,
+      "translationCount": 1988,
       "searchPath": "data/search/polybius.json",
       "volumes": [
         {
@@ -854,7 +854,7 @@
           "periodLabel": "기원전 216–146년 · 부분 보존",
           "chapterCount": 47,
           "passageCount": 128,
-          "translationCount": 0,
+          "translationCount": 128,
           "path": "data/books/polybius/09.json"
         },
         {
