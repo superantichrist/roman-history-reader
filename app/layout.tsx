@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description:
     '리비우스의 라틴어, 리비우스 페리오카이, 폴리비오스의 고대 그리스어를 사료의 층위와 출전을 보존해 읽는 병렬 독서판.',
   alternates: { canonical: publicUrl },
+  icons: { icon: '/roman-history-reader/favicon.svg' },
   openGraph: {
     title: '로마사 원전 읽기',
     description: '리비우스 · 페리오카이 · 폴리비오스 원문 병렬 독서판',

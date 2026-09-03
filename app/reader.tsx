@@ -187,6 +187,7 @@ export function RomanHistoryReader({
   const [searchQuery, setSearchQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const [searching, setSearching] = useState(false);
+  const [searchError, setSearchError] = useState('');
   const [searchResults, setSearchResults] = useState<
     Array<SearchRow & { sourceId: SourceId }>
   >([]);
@@ -224,6 +225,7 @@ export function RomanHistoryReader({
     100,
     (activePassage / Math.max(1, book.passageCount)) * 100,
   );
+  const activeRow = book.passages[Math.max(0, activePassage - 1)];
 
   const findVolume = useCallback(
     (sourceId: SourceId, volume: number) =>
@@ -389,6 +391,7 @@ export function RomanHistoryReader({
     const query = searchQuery.trim().toLocaleLowerCase();
     if (query.length < 2) return;
     setSearching(true);
+    setSearchError('');
     setSearchOpen(true);
     try {
       const ids: SourceId[] =
@@ -416,9 +419,23 @@ export function RomanHistoryReader({
         }),
       );
       setSearchResults(rows.flat().slice(0, 80));
+    } catch {
+      setSearchResults([]);
+      setSearchError('검색 색인을 불러오지 못했습니다. 잠시 뒤 다시 시도해 주세요.');
     } finally {
       setSearching(false);
     }
+  };
+
+  const goToChapter = (chapter: string) => {
+    const passage = book.passages.find((candidate) => candidate.chapter === chapter);
+    if (!passage) return;
+    setActivePassage(passage.paragraph);
+    const url = new URL(window.location.href);
+    url.searchParams.set('chapter', passage.chapter);
+    url.searchParams.set('section', passage.sectionStart);
+    window.history.replaceState({}, '', url);
+    scrollToPassage(passage.id);
   };
 
   const moveFromSearch = (result: SearchRow & { sourceId: SourceId }) => {
@@ -546,22 +563,36 @@ export function RomanHistoryReader({
           <div className="mobile-timeline">{timeline}</div>
 
           <section className="reader-toolbar" aria-label="읽기 설정">
-            <label className="volume-select">
-              <span className="sr-only">권 선택</span>
-              <select
-                value={requestedKey}
-                onChange={(event) => {
-                  const [sourceId, volume] = event.target.value.split(':') as [SourceId, string];
-                  void loadBook(sourceId, Number(volume));
-                }}
-              >
-                {visibleVolumes.map((volume) => (
-                  <option key={volumeKey(volume.sourceId, volume.book)} value={volumeKey(volume.sourceId, volume.book)}>
-                    {SOURCE_LABELS[volume.sourceId].label} · 제{volume.book}권 · {volume.preservationLabel}
-                  </option>
-                ))}
-              </select>
-            </label>
+            <div className="location-selects">
+              <label className="volume-select">
+                <span className="sr-only">권 선택</span>
+                <select
+                  value={requestedKey}
+                  onChange={(event) => {
+                    const [sourceId, volume] = event.target.value.split(':') as [SourceId, string];
+                    void loadBook(sourceId, Number(volume));
+                  }}
+                >
+                  {visibleVolumes.map((volume) => (
+                    <option key={volumeKey(volume.sourceId, volume.book)} value={volumeKey(volume.sourceId, volume.book)}>
+                      {SOURCE_LABELS[volume.sourceId].label} · 제{volume.book}권 · {volume.preservationLabel}
+                    </option>
+                  ))}
+                </select>
+              </label>
+              {book.chapters.length > 1 && (
+                <label className="chapter-select">
+                  <span className="sr-only">장 선택</span>
+                  <select value={activeRow?.chapter ?? book.chapters[0]} onChange={(event) => goToChapter(event.target.value)}>
+                    {book.chapters.map((chapter) => (
+                      <option key={chapter} value={chapter}>
+                        {chapter === 'pr' ? '서문' : chapter === 'per' ? '요약' : `제${chapter}장`}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              )}
+            </div>
 
             <div className="view-switch" aria-label="표시 방식">
               {(
@@ -751,7 +782,7 @@ export function RomanHistoryReader({
               <div><span>QUAERE</span><h2>“{searchQuery.trim()}” 검색</h2></div>
               <button type="button" onClick={() => setSearchOpen(false)} aria-label="닫기"><X /></button>
             </header>
-            <p className="search-summary">{searching ? '색인을 불러오는 중…' : `${searchResults.length}개 결과${searchResults.length === 80 ? ' (상위 80개)' : ''}`}</p>
+            <p className="search-summary">{searching ? '색인을 불러오는 중…' : searchError || `${searchResults.length}개 결과${searchResults.length === 80 ? ' (상위 80개)' : ''}`}</p>
             <div className="search-results">
               {!searching && searchResults.map((result) => (
                 <button type="button" key={`${result.sourceId}-${result.id}`} onClick={() => moveFromSearch(result)}>
@@ -760,7 +791,7 @@ export function RomanHistoryReader({
                   <ArrowRight />
                 </button>
               ))}
-              {!searching && searchResults.length === 0 && <p className="empty-search">검색 결과가 없습니다.</p>}
+              {!searching && !searchError && searchResults.length === 0 && <p className="empty-search">검색 결과가 없습니다.</p>}
             </div>
           </dialog>
         </div>
