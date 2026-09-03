@@ -16,11 +16,39 @@
     }
   },
   "rules": [
+    {"sourceId": "periochae", "book": 11, "start": "per.1", "end": "per.2", "yearStartBce": 292, "yearEndBce": 292, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.3", "end": "per.3", "yearStartBce": 293, "yearEndBce": 293, "certainty": "exact", "scope": "background", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.4", "end": "per.4", "yearStartBce": 291, "yearEndBce": 290, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.5", "end": "per.6", "yearStartBce": 290, "yearEndBce": 290, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.7", "end": "per.7", "yearStartBce": 290, "yearEndBce": 283, "certainty": "approximate", "scope": "overview", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.8", "end": "per.10", "yearStartBce": 289, "yearEndBce": 289, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.11", "end": "per.11", "yearStartBce": 287, "yearEndBce": 287, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 11, "start": "per.12", "end": "per.12", "yearStartBce": 285, "yearEndBce": 282, "certainty": "approximate", "scope": "overview", "source": "livius-periochae"},
+
     {"sourceId": "periochae", "book": 12, "start": "per.1", "end": "per.1", "yearStartBce": 284, "yearEndBce": 284, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
     {"sourceId": "periochae", "book": 12, "start": "per.2", "end": "per.2", "yearStartBce": 282, "yearEndBce": 282, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
     {"sourceId": "periochae", "book": 12, "start": "per.3", "end": "per.3", "yearStartBce": 281, "yearEndBce": 281, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
     {"sourceId": "periochae", "book": 12, "start": "per.4", "end": "per.4", "yearStartBce": 281, "yearEndBce": 281, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
     {"sourceId": "periochae", "book": 12, "start": "per.5", "end": "per.6", "yearStartBce": 280, "yearEndBce": 280, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+
+    {"sourceId": "periochae", "book": 13, "start": "per.1", "end": "per.8", "yearStartBce": 280, "yearEndBce": 280, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 13, "start": "per.9", "end": "per.9", "yearStartBce": 279, "yearEndBce": 279, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 13, "start": "per.10", "end": "per.11", "yearStartBce": 278, "yearEndBce": 278, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 13, "start": "per.12", "end": "per.12", "yearStartBce": 280, "yearEndBce": 278, "certainty": "approximate", "scope": "overview", "source": "livius-periochae"},
+
+    {"sourceId": "periochae", "book": 14, "start": "per.1", "end": "per.1", "yearStartBce": 278, "yearEndBce": 278, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 14, "start": "per.2", "end": "per.2", "yearStartBce": 278, "yearEndBce": 275, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 14, "start": "per.3", "end": "per.5", "yearStartBce": 275, "yearEndBce": 275, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 14, "start": "per.6", "end": "per.8", "yearStartBce": 273, "yearEndBce": 273, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 14, "start": "per.9", "end": "per.9", "yearStartBce": 272, "yearEndBce": 272, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 14, "start": "per.10", "end": "per.10", "yearStartBce": 272, "yearEndBce": 272, "certainty": "exact", "scope": "overview", "source": "livius-periochae"},
+
+    {"sourceId": "periochae", "book": 15, "start": "per.1", "end": "per.1", "yearStartBce": 272, "yearEndBce": 272, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 15, "start": "per.2", "end": "per.2", "yearStartBce": 270, "yearEndBce": 270, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 15, "start": "per.3", "end": "per.3", "yearStartBce": 270, "yearEndBce": 266, "certainty": "approximate", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 15, "start": "per.4", "end": "per.5", "yearStartBce": 268, "yearEndBce": 268, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 15, "start": "per.6", "end": "per.6", "yearStartBce": 269, "yearEndBce": 269, "certainty": "exact", "scope": "background", "source": "livius-periochae"},
+    {"sourceId": "periochae", "book": 15, "start": "per.7", "end": "per.8", "yearStartBce": 267, "yearEndBce": 267, "certainty": "exact", "scope": "narrative", "source": "livius-periochae"},
 
     {"sourceId": "polybius", "book": 1, "start": "5.1", "end": "5.5", "yearStartBce": 264, "yearEndBce": 264, "certainty": "exact", "scope": "narrative", "source": "attalus-polybius"},
     {"sourceId": "polybius", "book": 1, "start": "6.1", "end": "6.3", "yearStartBce": 387, "yearEndBce": 387, "certainty": "approximate", "scope": "background", "source": "polybius-text"},

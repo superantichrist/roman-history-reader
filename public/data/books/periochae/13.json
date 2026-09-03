@@ -35,7 +35,18 @@
       "korean": "집정관 발레리우스 라이비누스는 피로스를 상대로 싸워 좋지 못한 결과를 얻었다. 병사들은 무엇보다 전에 본 적 없는 코끼리의 모습에 겁을 먹었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-002",
@@ -59,7 +70,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-003",
@@ -78,7 +100,18 @@
       "korean": "가이우스 파브리키우스는 포로들의 몸값을 협상하도록 원로원에서 피로스에게 파견되었다. 왕은 그에게 조국을 버리라고 유혹했지만 뜻을 이루지 못했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-004",
@@ -97,7 +130,18 @@
       "korean": "포로들은 몸값 없이 돌려보내졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-005",
@@ -116,7 +160,18 @@
       "korean": "피로스가 원로원에 파견한 사절 키네아스는 평화를 맺기 위한 협상을 위해 왕을 로마시 안으로 받아 달라고 요청했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-006",
@@ -135,7 +190,18 @@
       "korean": "이 문제를 더 많은 의원이 참석한 원로원 회의에 부치기로 하자, 눈병 때문에 오래도록 공적 논의에 참여하지 않았던 아피우스 클라우디우스가 원로원 의사당에 나와 자신의 의견으로 피로스의 요청을 거절하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-007",
@@ -154,7 +220,18 @@
       "korean": "감찰관 그나이우스 도미티우스는 평민 출신으로서는 처음으로 인구조사를 마치고 정화 의식을 거행했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-008",
@@ -178,7 +255,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280년",
+        "yearStartBce": 280,
+        "yearEndBce": 280,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-009",
@@ -197,7 +285,18 @@
       "korean": "피로스를 상대로 두 번째 전투가 벌어졌으나 승패는 분명하지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 279년",
+        "yearStartBce": 279,
+        "yearEndBce": 279,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-010",
@@ -216,7 +315,18 @@
       "korean": "카르타고인들과 조약이 네 번째로 갱신되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 278년",
+        "yearStartBce": 278,
+        "yearEndBce": 278,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-011",
@@ -235,7 +345,18 @@
       "korean": "집정관 가이우스 파브리키우스에게 피로스 쪽에서 탈주해 온 자가 왕에게 독을 먹이겠다고 약속하자, 파브리키우스는 그 사실을 알리는 문서와 함께 그자를 왕에게 돌려보냈다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 278년",
+        "yearStartBce": 278,
+        "yearEndBce": 278,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-13-per-012",
@@ -254,7 +375,18 @@
       "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들, 에트루리아인들을 상대로 성공적으로 수행한 전쟁들을 담고 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 280–278년경",
+        "yearStartBce": 280,
+        "yearEndBce": 278,
+        "certainty": "approximate",
+        "scope": "overview",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     }
   ]
 }

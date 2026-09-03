@@ -35,7 +35,18 @@
       "korean": "피로스는 시칠리아로 건너갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 278년",
+        "yearStartBce": 278,
+        "yearEndBce": 278,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-002",
@@ -54,7 +65,18 @@
       "korean": "여러 불길한 징조 가운데 카피톨리움의 유피테르 신상이 벼락을 맞아 쓰러졌는데, 복점관들이 그 머리를 찾아냈다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 278–275년경",
+        "yearStartBce": 278,
+        "yearEndBce": 275,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-003",
@@ -73,7 +95,18 @@
       "korean": "집정관 쿠리우스 덴타투스는 징병을 실시하면서 소집 명령에 응하지 않은 사람의 재산을 처음으로 매각했다. 이어 시칠리아에서 이탈리아로 돌아온 피로스를 다시 격파하고 이탈리아에서 몰아냈다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 275년",
+        "yearStartBce": 275,
+        "yearEndBce": 275,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-004",
@@ -97,7 +130,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 275년",
+        "yearStartBce": 275,
+        "yearEndBce": 275,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-005",
@@ -116,7 +160,18 @@
       "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 27만 1,224명으로 집계되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 275년",
+        "yearStartBce": 275,
+        "yearEndBce": 275,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-006",
@@ -135,7 +190,18 @@
       "korean": "이집트 왕 프톨레마이오스와 동맹이 체결되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 273년",
+        "yearStartBce": 273,
+        "yearEndBce": 273,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-007",
@@ -154,7 +220,18 @@
       "korean": "베스타 여사제 섹스틸리아는 정결 의무를 어긴 죄로 유죄 판결을 받고 산 채로 매장되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 273년",
+        "yearStartBce": 273,
+        "yearEndBce": 273,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-008",
@@ -173,7 +250,18 @@
       "korean": "포시도니아와 코사에 식민시가 건설되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 273년",
+        "yearStartBce": 273,
+        "yearEndBce": 273,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-009",
@@ -192,7 +280,18 @@
       "korean": "카르타고 함대가 타렌툼인들을 돕기 위해 왔으며, 이 행동으로 카르타고인들은 조약을 위반했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 272년",
+        "yearStartBce": 272,
+        "yearEndBce": 272,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-14-per-010",
@@ -211,7 +310,18 @@
       "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들을 상대로 성공적으로 수행한 전쟁들과 피로스 왕의 죽음을 담고 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 272년",
+        "yearStartBce": 272,
+        "yearEndBce": 272,
+        "certainty": "exact",
+        "scope": "overview",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     }
   ]
 }

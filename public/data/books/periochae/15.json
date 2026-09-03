@@ -35,7 +35,18 @@
       "korean": "타렌툼인들을 격파한 뒤 그들에게 평화와 자유가 주어졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 272년",
+        "yearStartBce": 272,
+        "yearEndBce": 272,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-002",
@@ -54,7 +65,18 @@
       "korean": "레기움을 점령했던 캄파니아 군단은 포위된 끝에 항복했고, 병사들은 도끼로 처형되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 270년",
+        "yearStartBce": 270,
+        "yearEndBce": 270,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-003",
@@ -73,7 +95,18 @@
       "korean": "원로원에 파견된 아폴로니아 사절들을 몇몇 젊은이가 폭행하자, 그 젊은이들은 아폴로니아인들에게 넘겨졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 270–266년경",
+        "yearStartBce": 270,
+        "yearEndBce": 266,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-004",
@@ -92,7 +125,18 @@
       "korean": "피케눔인들을 격파한 뒤 그들에게 평화가 주어졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 268년",
+        "yearStartBce": 268,
+        "yearEndBce": 268,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-005",
@@ -111,7 +155,18 @@
       "korean": "피케눔의 아리미눔과 삼니움의 베네벤툼에 식민시가 건설되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 268년",
+        "yearStartBce": 268,
+        "yearEndBce": 268,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-006",
@@ -130,7 +185,18 @@
       "korean": "이때 로마 인민이 처음으로 은화를 사용하기 시작했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 269년",
+        "yearStartBce": 269,
+        "yearEndBce": 269,
+        "certainty": "exact",
+        "scope": "background",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-007",
@@ -149,7 +215,18 @@
       "korean": "움브리아인들과 살렌툼인들은 패배해 항복했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 267년",
+        "yearStartBce": 267,
+        "yearEndBce": 267,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     },
     {
       "id": "periochae-15-per-008",
@@ -168,7 +245,18 @@
       "korean": "재무관의 수가 늘어나 모두 여덟 명이 되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 267년",
+        "yearStartBce": 267,
+        "yearEndBce": 267,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "livius-periochae"
+        ]
+      }
     }
   ]
 }
