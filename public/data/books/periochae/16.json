@@ -13,7 +13,7 @@
   "periodLabel": "기원전 264–219년",
   "chapterCount": 1,
   "passageCount": 8,
-  "translationCount": 0,
+  "translationCount": 8,
   "chapters": [
     "per"
   ],
@@ -32,9 +32,9 @@
       "paragraph": 1,
       "ref": "Liv. Per. 16.1",
       "original": "ORIGO Carthaginiensium et primordia urbis eorum referuntur.",
-      "korean": "",
+      "korean": "카르타고인들의 기원과 그들 도시의 초창기가 서술된다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -51,9 +51,9 @@
       "paragraph": 2,
       "ref": "Liv. Per. 16.2",
       "original": "contra quos et Hieronem, regem Syracusanorum, auxilium Mamertinis ferendum senatus censuit, cum de ea re inter suadentes ut id fieret dissuadentesque contentio fuisset; transgressisque tunc primum mare equitibus Romanis adversus Hieronem saepius bene pugnatum.",
-      "korean": "",
+      "korean": "그들과 시라쿠사 왕 히에론을 상대로 마메르티니인들에게 원군을 보내야 한다고 원로원이 의결했다. 이 일을 해야 한다는 쪽과 말리는 쪽 사이에 논쟁이 있었으며, 로마 기병이 이때 처음으로 바다를 건넌 뒤 히에론을 상대로 여러 차례 승리했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -70,9 +70,9 @@
       "paragraph": 3,
       "ref": "Liv. Per. 16.3",
       "original": "petenti pax data est.",
-      "korean": "",
+      "korean": "히에론이 청하자 평화가 주어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -89,9 +89,9 @@
       "paragraph": 4,
       "ref": "Liv. Per. 16.4",
       "original": "lustrum a censoribus conditum est.",
-      "korean": "",
+      "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -108,9 +108,9 @@
       "paragraph": 5,
       "ref": "Liv. Per. 16.5",
       "original": "censa sunt civium capita C̅C̅C̅L̅X̅X̅X̅I̅I̅ ccxxxiiii.",
-      "korean": "",
+      "korean": "조사된 시민의 수는 38만 2,234명이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -127,9 +127,9 @@
       "paragraph": 6,
       "ref": "Liv. Per. 16.6",
       "original": "Decimus Iunius Brutus munus gladiatorium in honorem defuncti patris primus edidit.",
-      "korean": "",
+      "korean": "데키무스 유니우스 브루투스는 죽은 아버지를 기리기 위해 로마인으로서는 처음으로 검투사 경기를 열었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -146,9 +146,9 @@
       "paragraph": 7,
       "ref": "Liv. Per. 16.7",
       "original": "colonia Aesernia deducta est.",
-      "korean": "",
+      "korean": "아이세르니아에 식민시가 건설되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +165,9 @@
       "paragraph": 8,
       "ref": "Liv. Per. 16.8",
       "original": "res praeterea contra Poenos et Vulsinios prospere gestas continet.",
-      "korean": "",
+      "korean": "이 권은 그 밖에도 카르타고인들과 볼시니이인들을 상대로 성공적으로 수행한 전쟁들을 담고 있다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

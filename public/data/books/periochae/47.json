@@ -12,8 +12,8 @@
   "preservationLabel": "후대 요약",
   "periodLabel": "기원전 166–146년",
   "chapterCount": 1,
-  "passageCount": 16,
-  "translationCount": 0,
+  "passageCount": 15,
+  "translationCount": 15,
   "chapters": [
     "per"
   ],
@@ -31,10 +31,10 @@
       ],
       "paragraph": 1,
       "ref": "Liv. Per. 47.1",
-      "original": "Cn.",
-      "korean": "",
+      "original": "Cn. Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido pontifice maximo iniuriose contenderat; sacrorumque quam magistratuum ius potentius fuit.",
+      "korean": "법무관 그나이우스 트레멜리우스는 최고신관 마르쿠스 아이밀리우스 레피두스와 부당하게 다툰 일로 벌금형을 받았다. 신성한 직무의 권리가 정무관의 권한보다 더 강했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -50,10 +50,10 @@
       ],
       "paragraph": 2,
       "ref": "Liv. Per. 47.2",
-      "original": "Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido pontifice maximo iniuriose contenderat; sacrorumque quam magistratuum ius potentius fuit.",
-      "korean": "",
+      "original": "lex de ambitu lata.",
+      "korean": "선거 매수에 관한 법이 제정되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -69,10 +69,10 @@
       ],
       "paragraph": 3,
       "ref": "Liv. Per. 47.3",
-      "original": "lex de ambitu lata.",
-      "korean": "",
+      "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXVIII CCCXVI.",
+      "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 32만 8,316명으로 집계되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -88,10 +88,10 @@
       ],
       "paragraph": 4,
       "ref": "Liv. Per. 47.4",
-      "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXVIII CCCXVI.",
-      "korean": "",
+      "original": "princeps senatus sextum Aemilius Lepidus.",
+      "korean": "아이밀리우스 레피두스가 여섯 번째로 원로원 제일인자가 되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -107,10 +107,10 @@
       ],
       "paragraph": 5,
       "ref": "Liv. Per. 47.5",
-      "original": "princeps senatus sextum Aemilius Lepidus.",
-      "korean": "",
+      "original": "inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto, alter Cyrenis regnaret.",
+      "korean": "서로 불화하던 프톨레마이오스 형제 사이에 한 사람은 이집트를, 다른 사람은 퀴레네를 다스리기로 하는 조약이 체결되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -126,10 +126,10 @@
       ],
       "paragraph": 6,
       "ref": "Liv. Per. 47.6",
-      "original": "inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto, alter Cyrenis regnaret.",
-      "korean": "",
+      "original": "Ariarathes, Cappadociae rex, consilio Demetrii Syriae regis et viribus pulsus regno, a senatu restitutus est.",
+      "korean": "카파도키아 왕 아리아라테스는 시리아 왕 데메트리오스의 계책과 무력에 밀려 왕위에서 쫓겨났다가 원로원에 의해 복위되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -145,10 +145,10 @@
       ],
       "paragraph": 7,
       "ref": "Liv. Per. 47.7",
-      "original": "Ariarathes, Cappadociae rex, consilio Demetrii Syriae regis et viribus pulsus regno, a senatu restitutus est.",
-      "korean": "",
+      "original": "missi a senatu, qui inter Masinissam et Carthaginienses de agro iudicarent.",
+      "korean": "원로원은 마시니사와 카르타고인들 사이의 영토 분쟁을 판정할 사람들을 파견했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -164,10 +164,10 @@
       ],
       "paragraph": 8,
       "ref": "Liv. Per. 47.8",
-      "original": "missi a senatu, qui inter Masinissam et Carthaginienses de agro iudicarent.",
-      "korean": "",
+      "original": "C. Marcius consul adversus Dalmatas primum parum prospere, postea, feliciter pugnavit.",
+      "korean": "집정관 가이우스 마르키우스는 달마티아인들을 상대로 처음에는 성과 없이 싸웠으나 뒤에는 승리를 거두었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -183,10 +183,10 @@
       ],
       "paragraph": 9,
       "ref": "Liv. Per. 47.9",
-      "original": "C. Marcius consul adversus Dalmatas primum parum prospere, postea, feliciter pugnavit.",
-      "korean": "",
+      "original": "cum quibus bello confligendi causa fuit, quod Illyrios, socios populi Romani, vastaverant; eandemque gentem Cornelius Nasica consul domuit.",
+      "korean": "그들과 전쟁을 벌이게 된 까닭은 그들이 로마 인민의 동맹인 일리리아인들을 황폐화했기 때문이다. 집정관 코르넬리우스 나시카가 바로 그 종족을 굴복시켰다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -202,10 +202,10 @@
       ],
       "paragraph": 10,
       "ref": "Liv. Per. 47.10",
-      "original": "cum quibus bello confligendi causa fuit, quod Illyrios, socios populi Romani, vastaverant; eandemque gentem Cornelius Nasica consul domuit.",
-      "korean": "",
+      "original": "Q. Opimius consul Transalpinos Liguras, qui Massiliensium oppida Antipolim et Nicaeam vastabant, subegit.",
+      "korean": "집정관 퀸투스 오피미우스는 마실리아인들의 도시 안티폴리스와 니카이아를 황폐화하던 알프스 너머의 리구리아인들을 제압했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -221,10 +221,10 @@
       ],
       "paragraph": 11,
       "ref": "Liv. Per. 47.11",
-      "original": "Q. Opimius consul Transalpinos Liguras, qui Massiliensium oppida Antipolim et Nicaeam vastabant, subegit.",
-      "korean": "",
+      "original": "praeterea res in Hispania a compluribus parum prospere gestas continet.",
+      "korean": "그 밖에도 여러 지휘관이 히스파니아에서 별 성과 없이 벌인 전쟁들을 이 책은 담고 있다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -240,10 +240,15 @@
       ],
       "paragraph": 12,
       "ref": "Liv. Per. 47.12",
-      "original": "praeterea res in Hispania a compluribus parum prospere gestas continet.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "original": "consules anno quingentesimo nonagesimo octavo ab urbe condita magistratum kal. Ian. inire coeperunt.",
+      "korean": "로마 창건 제598년부터 집정관들은 1월의 칼렌다이에 취임하기 시작했다.",
+      "notes": [
+        {
+          "label": "1월의 칼렌다이",
+          "text": "Kalendae Ianuariae, 곧 1월 1일이다. 로마 창건 제598년은 통상 기원전 156년으로 환산한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -259,10 +264,10 @@
       ],
       "paragraph": 13,
       "ref": "Liv. Per. 47.13",
-      "original": "consules anno quingentesimo nonagesimo octavo ab urbe condita magistratum kal. Ian. inire coeperunt.",
-      "korean": "",
+      "original": "mutandi comitia causa fuit, quod Hispani rebellabant.",
+      "korean": "집정관 선거 일정을 바꾼 까닭은 히스파니아인들이 반란을 일으켰기 때문이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -278,10 +283,10 @@
       ],
       "paragraph": 14,
       "ref": "Liv. Per. 47.14",
-      "original": "mutandi comitia causa fuit, quod Hispani rebellabant.",
-      "korean": "",
+      "original": "legati ad disceptandum inter Carthaginienses et Masinissam missi nuntiaverunt vim navalis materiae se Carthagine deprehendisse.",
+      "korean": "카르타고인들과 마시니사의 분쟁을 판정하러 파견된 사절들은 카르타고에서 막대한 양의 함선용 목재를 발견했다고 보고했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -297,29 +302,10 @@
       ],
       "paragraph": 15,
       "ref": "Liv. Per. 47.15",
-      "original": "legati ad disceptandum inter Carthaginienses et Masinissam missi nuntiaverunt vim navalis materiae se Carthagine deprehendisse.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
-      "parallelRefs": []
-    },
-    {
-      "id": "periochae-47-per-016",
-      "sourceId": "periochae",
-      "book": 47,
-      "chapter": "per",
-      "section": "16",
-      "sectionStart": "16",
-      "sectionEnd": "16",
-      "sectionRefs": [
-        "16"
-      ],
-      "paragraph": 16,
-      "ref": "Liv. Per. 47.16",
       "original": "aliquot praetores a provinciis avaritiae nomine accusati damnati sunt.",
-      "korean": "",
+      "korean": "여러 법무관이 속주에서 탐욕을 부린 혐의로 기소되어 유죄 판결을 받았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

@@ -13,7 +13,7 @@
   "periodLabel": "기원전 292–267년",
   "chapterCount": 1,
   "passageCount": 10,
-  "translationCount": 0,
+  "translationCount": 10,
   "chapters": [
     "per"
   ],
@@ -32,9 +32,9 @@
       "paragraph": 1,
       "ref": "Liv. Per. 14.1",
       "original": "PYRRHUS in Siciliam traiecit.",
-      "korean": "",
+      "korean": "피로스는 시칠리아로 건너갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -51,9 +51,9 @@
       "paragraph": 2,
       "ref": "Liv. Per. 14.2",
       "original": "cum inter alia prodigia fulmine deiectum esset in Capitolio Iovis signum, caput eius per haruspices inventum est.",
-      "korean": "",
+      "korean": "여러 불길한 징조 가운데 카피톨리움의 유피테르 신상이 벼락을 맞아 쓰러졌는데, 복점관들이 그 머리를 찾아냈다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -70,9 +70,9 @@
       "paragraph": 3,
       "ref": "Liv. Per. 14.3",
       "original": "Curius Dentatus cos. cum dilectum haberet, eius qui citatus non responderat bona primus vendidit; iterum Pyrrhum ex Sicilia in Italiam reversum vicit et Italia expulit.",
-      "korean": "",
+      "korean": "집정관 쿠리우스 덴타투스는 징병을 실시하면서 소집 명령에 응하지 않은 사람의 재산을 처음으로 매각했다. 이어 시칠리아에서 이탈리아로 돌아온 피로스를 다시 격파하고 이탈리아에서 몰아냈다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -89,9 +89,14 @@
       "paragraph": 4,
       "ref": "Liv. Per. 14.4",
       "original": "Fabricius censor P. Cornelium Rufinum consularem senatu movit, quod is x pondo argenti facti haberet.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "감찰관 파브리키우스는 전직 집정관 푸블리우스 코르넬리우스 루피누스가 가공된 은을 열 리브라나 보유했다는 이유로 그를 원로원에서 제명했다.",
+      "notes": [
+        {
+          "label": "열 리브라",
+          "text": "약 3.3킬로그램에 해당한다. 여기서는 검소한 공화정의 규범을 어긴 사치의 증거로 제시된다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -108,9 +113,9 @@
       "paragraph": 5,
       "ref": "Liv. Per. 14.5",
       "original": "lustro a censoribus condito censa sunt civium capita C̅C̅L̅X̅X̅I̅ ccxxiiii.",
-      "korean": "",
+      "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 27만 1,224명으로 집계되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -127,9 +132,9 @@
       "paragraph": 6,
       "ref": "Liv. Per. 14.6",
       "original": "cum Ptolemaeo, Aegypti rege, societas iuncta est.",
-      "korean": "",
+      "korean": "이집트 왕 프톨레마이오스와 동맹이 체결되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -146,9 +151,9 @@
       "paragraph": 7,
       "ref": "Liv. Per. 14.7",
       "original": "sextilia, virgo Vestalis, damnata incesti viva defossa est.",
-      "korean": "",
+      "korean": "베스타 여사제 섹스틸리아는 정결 의무를 어긴 죄로 유죄 판결을 받고 산 채로 매장되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +170,9 @@
       "paragraph": 8,
       "ref": "Liv. Per. 14.8",
       "original": "coloniae deductae sunt Posidonia et Cosa.",
-      "korean": "",
+      "korean": "포시도니아와 코사에 식민시가 건설되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -184,9 +189,9 @@
       "paragraph": 9,
       "ref": "Liv. Per. 14.9",
       "original": "carthaginiensium classis auxilio Tarentinis venit, quo facto ab his foedus violatum est.",
-      "korean": "",
+      "korean": "카르타고 함대가 타렌툼인들을 돕기 위해 왔으며, 이 행동으로 카르타고인들은 조약을 위반했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -203,9 +208,9 @@
       "paragraph": 10,
       "ref": "Liv. Per. 14.10",
       "original": "res praeterea contra Lucanos et Bruttios et Samnites feliciter gestas et Pyrrhi regis mortem continet.",
-      "korean": "",
+      "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들을 상대로 성공적으로 수행한 전쟁들과 피로스 왕의 죽음을 담고 있다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

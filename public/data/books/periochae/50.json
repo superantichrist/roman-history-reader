@@ -13,7 +13,7 @@
   "periodLabel": "기원전 166–146년",
   "chapterCount": 1,
   "passageCount": 14,
-  "translationCount": 0,
+  "translationCount": 14,
   "chapters": [
     "per"
   ],
@@ -32,9 +32,9 @@
       "paragraph": 1,
       "ref": "Liv. Per. 50.1",
       "original": "Thessalia, cum et illam invadere armis atque occupare Pseudophilippus vellet, per legatos Romanorum auxiliis Achaeorum defensa est.",
-      "korean": "",
+      "korean": "가짜 필리포스가 무력으로 침입해 차지하려던 테살리아는 로마 사절들의 주선으로 아카이아인들의 지원을 받아 방어되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -51,9 +51,9 @@
       "paragraph": 2,
       "ref": "Liv. Per. 50.2",
       "original": "Prusias rex Bithyniae, omnium humillimorumque vitiorum, a Nicomede filio, adiuvante Attalo rege Pergami, occisus, habebat alterum filium, qui pro superiore ordine dentium enatum habuisse unum os continens dicitur.",
-      "korean": "",
+      "korean": "온갖 가장 비천한 악덕을 지녔던 비튀니아 왕 프루시아스는 페르가몬 왕 아탈로스의 도움을 받은 아들 니코메데스에게 살해되었다. 그에게는 아들이 하나 더 있었는데, 이 아들은 윗니 한 줄 대신 그것을 모두 담은 뼈 하나가 자라 있었다고 한다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -70,9 +70,14 @@
       "paragraph": 3,
       "ref": "Liv. Per. 50.3",
       "original": "cum III legati ad pacem inter Nicomeden et Prusiam faciendam ab Romanis missi essent, cum unus ex his multis cicatricibus sparsum caput haberet, alter pedibus aeger esset, tertius ingenio socors haberetur, M. Cato dixit eam in legationem, nec caput nec pedes nec cor habere.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "로마가 니코메데스와 프루시아스를 화해시키려고 사절 세 명을 보냈다. 그중 한 명은 머리가 수많은 흉터로 뒤덮였고, 다른 한 명은 다리가 아팠으며, 셋째는 머리가 둔하다고 여겨졌다. 마르쿠스 카토는 이 사절단에는 머리도 발도 가슴도 없다고 말했다.",
+      "notes": [
+        {
+          "label": "가슴",
+          "text": "cor는 신체의 ‘심장·가슴’과 함께 정신·판단력도 뜻한다. 카토의 말은 세 사절의 결함을 신체 부위에 맞춘 언어유희다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -89,9 +94,14 @@
       "paragraph": 4,
       "ref": "Liv. Per. 50.4",
       "original": "in Syria, quae eo tempore stirpe generis parem Macedonum regis, inertia socordiaque similem Prusiae regem habebat, iacente eo in ganea et lustris Hammonius regnabat, per quem et amici omnes regis et Laodice regina et Antigonus Demetri filius occisi sunt.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "당시 시리아에는 혈통의 정당성에서는 마케도니아 왕과 동급이고 무기력과 나태함에서는 프루시아스와 닮은 왕이 있었다. 그가 음식점과 유곽에 처박혀 있는 동안 함모니오스가 통치했으며, 왕의 모든 친구와 왕비 라오디케, 데메트리오스의 아들 안티고노스도 함모니오스에게 살해되었다.",
+      "notes": [
+        {
+          "label": "마케도니아 왕",
+          "text": "앞 권의 가짜 필리포스 안드리스코스를 가리킨다. 시리아 왕 알렉산드로스 역시 왕통을 자칭한 인물이라는 조롱이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -108,9 +118,9 @@
       "paragraph": 5,
       "ref": "Liv. Per. 50.5",
       "original": "Masinissa Numidiae rex maior nonaginta annis decessit, vir insignis.",
-      "korean": "",
+      "korean": "누미디아 왕 마시니사가 아흔 살을 넘겨 죽었다. 그는 뛰어난 인물이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -127,9 +137,9 @@
       "paragraph": 6,
       "ref": "Liv. Per. 50.6",
       "original": "inter cetera iuvenalia opera, quae ad ultimum edidit, adeo etiam veneris usu in senecta viguit, ut post sextum et octogesimum annum filium genuerit.",
-      "korean": "",
+      "korean": "그가 생애 마지막까지 보여 준 다른 젊은이다운 활력 가운데서도, 노년에 성적 능력이 대단히 왕성하여 여든여섯 살이 지난 뒤에도 아들을 낳았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -146,9 +156,9 @@
       "paragraph": 7,
       "ref": "Liv. Per. 50.7",
       "original": "inter tres liberos eius (maximus natu Micipsa, Gulussa, Mastanabal, qui etiam Graecis litteris eruditus erat) P. Scipio Aemilianus, cum commune his regnum pater reliquisset et dividere eos arbitro Scipione iussisset, partes administrandi regni divisit.",
-      "korean": "",
+      "korean": "마시니사는 맏아들 미킵사, 굴루사, 그리고 그리스 문학에도 정통한 마스타나발, 세 아들에게 공동 왕국을 남기고 스키피오의 판단에 따라 나누라고 명했다. 푸블리우스 스키피오 아이밀리아누스는 세 사람에게 왕국을 통치할 역할을 나누어 주었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +175,9 @@
       "paragraph": 8,
       "ref": "Liv. Per. 50.8",
       "original": "item Phameae Himilconi, praefecto equitum Carthaginiensium, viro forti et cuius praecipua opera Poeni utebantur, persuasit, ut ad Romanos cum equitatu suo transiret.",
-      "korean": "",
+      "korean": "스키피오는 또 카르타고 기병대장 파마이아스 히밀콘을 설득하여 자기 기병과 함께 로마 편으로 넘어오게 했다. 그는 용맹한 사람이었고 포에니인들이 특히 크게 의지하던 인물이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -184,9 +194,9 @@
       "paragraph": 9,
       "ref": "Liv. Per. 50.9",
       "original": "ex tribus legatis, qui ad Masinissam missi erant, M. Claudius Marcellus coorta tempestate fluctibus obrutus est.",
-      "korean": "",
+      "korean": "마시니사에게 파견된 사절 세 명 가운데 마르쿠스 클라우디우스 마르켈루스는 폭풍이 일어나 파도에 휩쓸려 죽었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -203,9 +213,9 @@
       "paragraph": 10,
       "ref": "Liv. Per. 50.10",
       "original": "Carthaginienses Hasdrubalem, Masinissae nepotem, quem praetorem habebant, hominem proditionis suspectum in curia occiderunt; quae suspicio inde manavit, quod propincus esset Gulussae Romanorum auxilia iuvantis.",
-      "korean": "",
+      "korean": "카르타고인들은 자기들의 장군이던 마시니사의 외손자 하스드루발을 배신 혐의가 있는 사람으로 여겨 원로원 회의장에서 죽였다. 그가 로마인들의 지원을 돕던 굴루사의 친척이라는 데서 의심이 생겼다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -222,9 +232,9 @@
       "paragraph": 11,
       "ref": "Liv. Per. 50.11",
       "original": "P. Scipio Aemilianus cum aedilitatem peteret, consul a populo dictus.",
-      "korean": "",
+      "korean": "푸블리우스 스키피오 아이밀리아누스는 조영관직에 출마했다가 인민에 의해 집정관으로 지명되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -240,10 +250,10 @@
       ],
       "paragraph": 12,
       "ref": "Liv. Per. 50.12",
-      "original": "quoniam per annos consuli fieri non licebat, cum magno certamine suffragantis plebis et repugnantibus ei aliquamdiu patribus, legibus solutus et consul creatus. M'.",
-      "korean": "",
+      "original": "quoniam per annos consuli fieri non licebat, cum magno certamine suffragantis plebis et repugnantibus ei aliquamdiu patribus, legibus solutus et consul creatus.",
+      "korean": "그는 나이 제한 때문에 집정관이 될 수 없었다. 인민이 그를 지지하고 원로원 의원들이 한동안 반대하면서 큰 다툼이 벌어진 끝에, 법률의 적용을 면제받고 집정관으로 선출되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -259,10 +269,10 @@
       ],
       "paragraph": 13,
       "ref": "Liv. Per. 50.13",
-      "original": "Manilius aliquot urbes circumpositas Carthagini expugnavit.",
-      "korean": "",
+      "original": "M'. Manilius aliquot urbes circumpositas Carthagini expugnavit.",
+      "korean": "마니우스 마닐리우스가 카르타고 주변의 여러 도시를 함락했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -279,9 +289,9 @@
       "paragraph": 14,
       "ref": "Liv. Per. 50.14",
       "original": "Pseudophilippus in Macedonia, caeso cum exercitu P. Iuventio praetore, ab Q. Caecilio victus captusque est, et recepta Macedonia.",
-      "korean": "",
+      "korean": "마케도니아의 가짜 필리포스는 법무관 푸블리우스 유벤티우스와 그의 군대를 살해했으나, 퀸투스 카이킬리우스에게 패해 사로잡혔으며 마케도니아는 되찾아졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

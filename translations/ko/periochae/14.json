@@ -1,0 +1,61 @@
+{
+  "sourceId": "periochae",
+  "book": 14,
+  "passages": {
+    "periochae-14-per-001": {
+      "status": "first-pass",
+      "korean": "피로스는 시칠리아로 건너갔다.",
+      "notes": []
+    },
+    "periochae-14-per-002": {
+      "status": "first-pass",
+      "korean": "여러 불길한 징조 가운데 카피톨리움의 유피테르 신상이 벼락을 맞아 쓰러졌는데, 복점관들이 그 머리를 찾아냈다.",
+      "notes": []
+    },
+    "periochae-14-per-003": {
+      "status": "first-pass",
+      "korean": "집정관 쿠리우스 덴타투스는 징병을 실시하면서 소집 명령에 응하지 않은 사람의 재산을 처음으로 매각했다. 이어 시칠리아에서 이탈리아로 돌아온 피로스를 다시 격파하고 이탈리아에서 몰아냈다.",
+      "notes": []
+    },
+    "periochae-14-per-004": {
+      "status": "first-pass",
+      "korean": "감찰관 파브리키우스는 전직 집정관 푸블리우스 코르넬리우스 루피누스가 가공된 은을 열 리브라나 보유했다는 이유로 그를 원로원에서 제명했다.",
+      "notes": [
+        {
+          "label": "열 리브라",
+          "text": "약 3.3킬로그램에 해당한다. 여기서는 검소한 공화정의 규범을 어긴 사치의 증거로 제시된다."
+        }
+      ]
+    },
+    "periochae-14-per-005": {
+      "status": "first-pass",
+      "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 27만 1,224명으로 집계되었다.",
+      "notes": []
+    },
+    "periochae-14-per-006": {
+      "status": "first-pass",
+      "korean": "이집트 왕 프톨레마이오스와 동맹이 체결되었다.",
+      "notes": []
+    },
+    "periochae-14-per-007": {
+      "status": "first-pass",
+      "korean": "베스타 여사제 섹스틸리아는 정결 의무를 어긴 죄로 유죄 판결을 받고 산 채로 매장되었다.",
+      "notes": []
+    },
+    "periochae-14-per-008": {
+      "status": "first-pass",
+      "korean": "포시도니아와 코사에 식민시가 건설되었다.",
+      "notes": []
+    },
+    "periochae-14-per-009": {
+      "status": "first-pass",
+      "korean": "카르타고 함대가 타렌툼인들을 돕기 위해 왔으며, 이 행동으로 카르타고인들은 조약을 위반했다.",
+      "notes": []
+    },
+    "periochae-14-per-010": {
+      "status": "first-pass",
+      "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들을 상대로 성공적으로 수행한 전쟁들과 피로스 왕의 죽음을 담고 있다.",
+      "notes": []
+    }
+  }
+}

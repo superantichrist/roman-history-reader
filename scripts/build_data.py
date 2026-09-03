@@ -281,6 +281,13 @@ def group_sections(
 
 def split_latin_sentences(text: str) -> list[str]:
     marker = "∯"
+    text = re.sub(
+        r"\b(Cn|Ti|Tib|Sp|Sex|Ser|Ap|Mam)\.",
+        rf"\1{marker}",
+        text,
+        flags=re.I,
+    )
+    text = re.sub(r"\bM'\.", f"M'{marker}", text, flags=re.I)
     protected = re.sub(r"\b([A-Z])\.", rf"\1{marker}", text)
     abbreviations = (
         "cos|coss|cons|pr|praet|dict|trib|leg|cens|aed|pont|max|"
@@ -378,6 +385,23 @@ def parse_periocha_book(book: int, book_node: ET.Element) -> dict[str, Any]:
     )
     text = re.sub(r"\btune\b", "tunc", text)
     text = re.sub(r"\blaniculum\b", "Ianiculum", text)
+    text = text.replace("quererelitur", "quererentur")
+    text = text.replace("Pyrrhuis", "Pyrrhus")
+    text = re.sub(r"\bhosted\b", "hostem", text)
+    text = text.replace("sortis ultimate", "sortis ultimae")
+    text = text.replace("pbstea", "postea")
+    text = text.replace("Calatinns", "Calatinus")
+    text = text.replace("'in urbe", "in urbe")
+    text = text.replace("viam Flaminius", "viam Flaminiam")
+    text = text.replace("dicit Exercitibus", "dicit. Exercitibus")
+    text = text.replace("missis ad cum legatis", "missis ad eum legatis")
+    text = text.replace("Carthaginiensibus festiorem", "Carthaginiensibus infestiorem")
+    text = text.replace("parturum se iudicio", "pariturum se iudicio")
+    text = text.replace("aeris decus", "aeris decem")
+    text = text.replace("in relicum funus", "in reliquum funus")
+    text = text.replace("exceptaturum se militiae", "excepturum se militiae")
+    text = text.replace("in circuitum XXIII passuum", "in circuitum XXIII milia passuum")
+    text = text.replace("**", "")
     text = text.replace("*", " ⟦…⟧ ")
     sentences = split_latin_sentences(normalize(text))
     passages = [

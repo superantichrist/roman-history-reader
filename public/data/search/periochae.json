@@ -127,7 +127,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "cum legati Romanorum a Gallis Senonibus interfecti essent, bello ob id Gallis indicto, L. Caecilius praetor ab his cum legionibus caesus est.",
-    "korean": ""
+    "korean": "로마 사절들이 세노네스 갈리아인들에게 살해되자, 그 일로 갈리아인들에게 전쟁이 선포되었다. 법무관 루키우스 카이킬리우스는 군단들과 함께 그들에게 전멸당했다."
   },
   {
     "id": "periochae-12-per-002",
@@ -136,8 +136,8 @@
     "chapter": "per",
     "section": "2",
     "sectionEnd": "2",
-    "original": "cum a Tarentinis classis Romana direpta esset, IIviro qui praeerat classi occiso, legati ad eos a senatu, ut de his iniuriis quererelitur, missi pulsati sunt.",
-    "korean": ""
+    "original": "cum a Tarentinis classis Romana direpta esset, IIviro qui praeerat classi occiso, legati ad eos a senatu, ut de his iniuriis quererentur, missi pulsati sunt.",
+    "korean": "타렌툼인들이 로마 함대를 약탈하고 함대 지휘관인 이인위원을 죽이자, 원로원은 그 부당한 행위들을 항의하도록 사절들을 보냈다. 그러나 사절들까지 폭행당했다."
   },
   {
     "id": "periochae-12-per-003",
@@ -147,7 +147,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "ob id bellum his indictum est. Samnites defecerunt.",
-    "korean": ""
+    "korean": "이 때문에 타렌툼인들에게 전쟁이 선포되었다. 삼니움인들도 이탈했다."
   },
   {
     "id": "periochae-12-per-004",
@@ -157,7 +157,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "adversus eos et Lucanos et Brittios et Etruscos aliquot proeliis a conpluribus ducibus bene pugnatum est.",
-    "korean": ""
+    "korean": "여러 지휘관이 그들과 루카니아인들, 브루티움인들, 에트루리아인들을 상대로 몇 차례 전투를 벌여 승리했다."
   },
   {
     "id": "periochae-12-per-005",
@@ -167,7 +167,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "Pyrrhus, Epirotarum rex, ut auxilium Tarentinis ferret, in Italiam venit.",
-    "korean": ""
+    "korean": "에페이로스인의 왕 피로스가 타렌툼인들에게 원군을 보내기 위해 이탈리아에 왔다."
   },
   {
     "id": "periochae-12-per-006",
@@ -177,7 +177,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "cum in praesidium Reginorum legio Campana cum praefecto Decio Vibellio missa esset, occisis Reginis Regium occupavit.",
-    "korean": ""
+    "korean": "캄파니아 군단 하나가 데키우스 비벨리우스 지휘 아래 레기움인들을 지키도록 파견되었으나, 그들은 레기움인들을 죽이고 도시를 점령했다."
   },
   {
     "id": "periochae-13-per-001",
@@ -187,7 +187,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "VALERIUS LAEVINUS COS. parum prospere adversus Pyrrhum pugnavit, elephantorum maxime inusitata facie territis militibus.",
-    "korean": ""
+    "korean": "집정관 발레리우스 라이비누스는 피로스를 상대로 싸워 좋지 못한 결과를 얻었다. 병사들은 무엇보다 전에 본 적 없는 코끼리의 모습에 겁을 먹었다."
   },
   {
     "id": "periochae-13-per-002",
@@ -196,8 +196,8 @@
     "chapter": "per",
     "section": "2",
     "sectionEnd": "2",
-    "original": "post id proelium cum corpora Romanorum qui in acie ceciderant Pyrrhuis inspiceret, omnia versa in hosted invenit populabundusque ad urbem Romanam processit.",
-    "korean": ""
+    "original": "post id proelium cum corpora Romanorum qui in acie ceciderant Pyrrhus inspiceret, omnia versa in hostem invenit populabundusque ad urbem Romanam processit.",
+    "korean": "그 전투가 끝난 뒤 피로스는 전장에서 쓰러진 로마인들의 시신을 살펴보았는데, 모두 적을 향한 채 쓰러져 있음을 발견했다. 그는 주변을 약탈하며 로마시를 향해 진군했다."
   },
   {
     "id": "periochae-13-per-003",
@@ -207,7 +207,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "C. Fabricius missus ad eum a senatu, ut de redimendis captivis ageret, frustra ut patriam desereret a rege temptatus est.",
-    "korean": ""
+    "korean": "가이우스 파브리키우스는 포로들의 몸값을 협상하도록 원로원에서 피로스에게 파견되었다. 왕은 그에게 조국을 버리라고 유혹했지만 뜻을 이루지 못했다."
   },
   {
     "id": "periochae-13-per-004",
@@ -217,7 +217,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "captivi sine pretio remissi sunt.",
-    "korean": ""
+    "korean": "포로들은 몸값 없이 돌려보내졌다."
   },
   {
     "id": "periochae-13-per-005",
@@ -227,7 +227,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "cineas legatus a Pyrrho ad senatum missus petit ut conponendae pacis causa rex in urbem reciperetur.",
-    "korean": ""
+    "korean": "피로스가 원로원에 파견한 사절 키네아스는 평화를 맺기 위한 협상을 위해 왕을 로마시 안으로 받아 달라고 요청했다."
   },
   {
     "id": "periochae-13-per-006",
@@ -236,8 +236,8 @@
     "chapter": "per",
     "section": "6",
     "sectionEnd": "6",
-    "original": "de qua re cum ad frequentiorem senatum referri placuisset, Appius Claudius, qui propter valetudinem oculorum iam diu consiliis publicis se abstinuerat, venit in curiam et sententia sua tenuit ut id Pyrrho negaretur. Cn.",
-    "korean": ""
+    "original": "de qua re cum ad frequentiorem senatum referri placuisset, Appius Claudius, qui propter valetudinem oculorum iam diu consiliis publicis se abstinuerat, venit in curiam et sententia sua tenuit ut id Pyrrho negaretur.",
+    "korean": "이 문제를 더 많은 의원이 참석한 원로원 회의에 부치기로 하자, 눈병 때문에 오래도록 공적 논의에 참여하지 않았던 아피우스 클라우디우스가 원로원 의사당에 나와 자신의 의견으로 피로스의 요청을 거절하게 했다."
   },
   {
     "id": "periochae-13-per-007",
@@ -246,8 +246,8 @@
     "chapter": "per",
     "section": "7",
     "sectionEnd": "7",
-    "original": "Domitius censor primus ex plebe lustrum condidit.",
-    "korean": ""
+    "original": "Cn. Domitius censor primus ex plebe lustrum condidit.",
+    "korean": "감찰관 그나이우스 도미티우스는 평민 출신으로서는 처음으로 인구조사를 마치고 정화 의식을 거행했다."
   },
   {
     "id": "periochae-13-per-008",
@@ -257,7 +257,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "censa sunt civium capita ccxxxxvii ccxxii.",
-    "korean": ""
+    "korean": "조사된 시민의 수는 28만 7,222명이었다."
   },
   {
     "id": "periochae-13-per-009",
@@ -267,7 +267,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "iterum adversus Pyrrhum dubio eventu pugnatum est.",
-    "korean": ""
+    "korean": "피로스를 상대로 두 번째 전투가 벌어졌으나 승패는 분명하지 않았다."
   },
   {
     "id": "periochae-13-per-010",
@@ -277,7 +277,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "cum Carthaginiensibus quarto foedus renovatum est.",
-    "korean": ""
+    "korean": "카르타고인들과 조약이 네 번째로 갱신되었다."
   },
   {
     "id": "periochae-13-per-011",
@@ -287,7 +287,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "cum C. Fabricio consuli is qui ad eum a Pyrrho transfugerat polliceretur venenum se regi daturum, cum indicio ad regem remissus est.",
-    "korean": ""
+    "korean": "집정관 가이우스 파브리키우스에게 피로스 쪽에서 탈주해 온 자가 왕에게 독을 먹이겠다고 약속하자, 파브리키우스는 그 사실을 알리는 문서와 함께 그자를 왕에게 돌려보냈다."
   },
   {
     "id": "periochae-13-per-012",
@@ -297,7 +297,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "res praeterea contra Lucanos et Bruttios, Samnites et Etruscos prospere gestas continet.",
-    "korean": ""
+    "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들, 에트루리아인들을 상대로 성공적으로 수행한 전쟁들을 담고 있다."
   },
   {
     "id": "periochae-14-per-001",
@@ -307,7 +307,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "PYRRHUS in Siciliam traiecit.",
-    "korean": ""
+    "korean": "피로스는 시칠리아로 건너갔다."
   },
   {
     "id": "periochae-14-per-002",
@@ -317,7 +317,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "cum inter alia prodigia fulmine deiectum esset in Capitolio Iovis signum, caput eius per haruspices inventum est.",
-    "korean": ""
+    "korean": "여러 불길한 징조 가운데 카피톨리움의 유피테르 신상이 벼락을 맞아 쓰러졌는데, 복점관들이 그 머리를 찾아냈다."
   },
   {
     "id": "periochae-14-per-003",
@@ -327,7 +327,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "Curius Dentatus cos. cum dilectum haberet, eius qui citatus non responderat bona primus vendidit; iterum Pyrrhum ex Sicilia in Italiam reversum vicit et Italia expulit.",
-    "korean": ""
+    "korean": "집정관 쿠리우스 덴타투스는 징병을 실시하면서 소집 명령에 응하지 않은 사람의 재산을 처음으로 매각했다. 이어 시칠리아에서 이탈리아로 돌아온 피로스를 다시 격파하고 이탈리아에서 몰아냈다."
   },
   {
     "id": "periochae-14-per-004",
@@ -337,7 +337,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "Fabricius censor P. Cornelium Rufinum consularem senatu movit, quod is x pondo argenti facti haberet.",
-    "korean": ""
+    "korean": "감찰관 파브리키우스는 전직 집정관 푸블리우스 코르넬리우스 루피누스가 가공된 은을 열 리브라나 보유했다는 이유로 그를 원로원에서 제명했다."
   },
   {
     "id": "periochae-14-per-005",
@@ -347,7 +347,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "lustro a censoribus condito censa sunt civium capita C̅C̅L̅X̅X̅I̅ ccxxiiii.",
-    "korean": ""
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 27만 1,224명으로 집계되었다."
   },
   {
     "id": "periochae-14-per-006",
@@ -357,7 +357,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "cum Ptolemaeo, Aegypti rege, societas iuncta est.",
-    "korean": ""
+    "korean": "이집트 왕 프톨레마이오스와 동맹이 체결되었다."
   },
   {
     "id": "periochae-14-per-007",
@@ -367,7 +367,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "sextilia, virgo Vestalis, damnata incesti viva defossa est.",
-    "korean": ""
+    "korean": "베스타 여사제 섹스틸리아는 정결 의무를 어긴 죄로 유죄 판결을 받고 산 채로 매장되었다."
   },
   {
     "id": "periochae-14-per-008",
@@ -377,7 +377,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "coloniae deductae sunt Posidonia et Cosa.",
-    "korean": ""
+    "korean": "포시도니아와 코사에 식민시가 건설되었다."
   },
   {
     "id": "periochae-14-per-009",
@@ -387,7 +387,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "carthaginiensium classis auxilio Tarentinis venit, quo facto ab his foedus violatum est.",
-    "korean": ""
+    "korean": "카르타고 함대가 타렌툼인들을 돕기 위해 왔으며, 이 행동으로 카르타고인들은 조약을 위반했다."
   },
   {
     "id": "periochae-14-per-010",
@@ -397,7 +397,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "res praeterea contra Lucanos et Bruttios et Samnites feliciter gestas et Pyrrhi regis mortem continet.",
-    "korean": ""
+    "korean": "이 권은 그 밖에도 루카니아인들, 브루티움인들, 삼니움인들을 상대로 성공적으로 수행한 전쟁들과 피로스 왕의 죽음을 담고 있다."
   },
   {
     "id": "periochae-15-per-001",
@@ -407,7 +407,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "VICTIS Tarentinis pax et libertas data est.",
-    "korean": ""
+    "korean": "타렌툼인들을 격파한 뒤 그들에게 평화와 자유가 주어졌다."
   },
   {
     "id": "periochae-15-per-002",
@@ -417,7 +417,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "legio Campana quae Regium occupaverat obsessa deditione facta securi percussa est.",
-    "korean": ""
+    "korean": "레기움을 점령했던 캄파니아 군단은 포위된 끝에 항복했고, 병사들은 도끼로 처형되었다."
   },
   {
     "id": "periochae-15-per-003",
@@ -427,7 +427,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "cum legatos Apolloniatium ad senatum missos quidam iuvenes pulsassent, dediti sunt Apolloniatibus.",
-    "korean": ""
+    "korean": "원로원에 파견된 아폴로니아 사절들을 몇몇 젊은이가 폭행하자, 그 젊은이들은 아폴로니아인들에게 넘겨졌다."
   },
   {
     "id": "periochae-15-per-004",
@@ -437,7 +437,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "Picentibus victis pax data est.",
-    "korean": ""
+    "korean": "피케눔인들을 격파한 뒤 그들에게 평화가 주어졌다."
   },
   {
     "id": "periochae-15-per-005",
@@ -447,7 +447,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "coloniae deductae Ariminum in Piceno, Beneventum in Samnio.",
-    "korean": ""
+    "korean": "피케눔의 아리미눔과 삼니움의 베네벤툼에 식민시가 건설되었다."
   },
   {
     "id": "periochae-15-per-006",
@@ -457,7 +457,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "tunc primum populus R. argento uti coepit.",
-    "korean": ""
+    "korean": "이때 로마 인민이 처음으로 은화를 사용하기 시작했다."
   },
   {
     "id": "periochae-15-per-007",
@@ -467,7 +467,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "Umbri et Sallentini victi in deditionem accepti sunt.",
-    "korean": ""
+    "korean": "움브리아인들과 살렌툼인들은 패배해 항복했다."
   },
   {
     "id": "periochae-15-per-008",
@@ -477,7 +477,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "quaestorum numerus ampliatus est, ut essent octo.",
-    "korean": ""
+    "korean": "재무관의 수가 늘어나 모두 여덟 명이 되었다."
   },
   {
     "id": "periochae-16-per-001",
@@ -487,7 +487,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "ORIGO Carthaginiensium et primordia urbis eorum referuntur.",
-    "korean": ""
+    "korean": "카르타고인들의 기원과 그들 도시의 초창기가 서술된다."
   },
   {
     "id": "periochae-16-per-002",
@@ -497,7 +497,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "contra quos et Hieronem, regem Syracusanorum, auxilium Mamertinis ferendum senatus censuit, cum de ea re inter suadentes ut id fieret dissuadentesque contentio fuisset; transgressisque tunc primum mare equitibus Romanis adversus Hieronem saepius bene pugnatum.",
-    "korean": ""
+    "korean": "그들과 시라쿠사 왕 히에론을 상대로 마메르티니인들에게 원군을 보내야 한다고 원로원이 의결했다. 이 일을 해야 한다는 쪽과 말리는 쪽 사이에 논쟁이 있었으며, 로마 기병이 이때 처음으로 바다를 건넌 뒤 히에론을 상대로 여러 차례 승리했다."
   },
   {
     "id": "periochae-16-per-003",
@@ -507,7 +507,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "petenti pax data est.",
-    "korean": ""
+    "korean": "히에론이 청하자 평화가 주어졌다."
   },
   {
     "id": "periochae-16-per-004",
@@ -517,7 +517,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "lustrum a censoribus conditum est.",
-    "korean": ""
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했다."
   },
   {
     "id": "periochae-16-per-005",
@@ -527,7 +527,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "censa sunt civium capita C̅C̅C̅L̅X̅X̅X̅I̅I̅ ccxxxiiii.",
-    "korean": ""
+    "korean": "조사된 시민의 수는 38만 2,234명이었다."
   },
   {
     "id": "periochae-16-per-006",
@@ -537,7 +537,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "Decimus Iunius Brutus munus gladiatorium in honorem defuncti patris primus edidit.",
-    "korean": ""
+    "korean": "데키무스 유니우스 브루투스는 죽은 아버지를 기리기 위해 로마인으로서는 처음으로 검투사 경기를 열었다."
   },
   {
     "id": "periochae-16-per-007",
@@ -547,7 +547,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "colonia Aesernia deducta est.",
-    "korean": ""
+    "korean": "아이세르니아에 식민시가 건설되었다."
   },
   {
     "id": "periochae-16-per-008",
@@ -557,7 +557,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "res praeterea contra Poenos et Vulsinios prospere gestas continet.",
-    "korean": ""
+    "korean": "이 권은 그 밖에도 카르타고인들과 볼시니이인들을 상대로 성공적으로 수행한 전쟁들을 담고 있다."
   },
   {
     "id": "periochae-17-per-001",
@@ -566,8 +566,8 @@
     "chapter": "per",
     "section": "1",
     "sectionEnd": "1",
-    "original": "CN.",
-    "korean": ""
+    "original": "CN. CORNELIUS consul a classe Punica circumventus et per fraudem, veluti in conloquium evocatus, captus est.",
+    "korean": "집정관 그나이우스 코르넬리우스는 카르타고 함대에 포위된 뒤, 회담에 불려 나가는 것처럼 속임수에 넘어가 사로잡혔다."
   },
   {
     "id": "periochae-17-per-002",
@@ -576,8 +576,8 @@
     "chapter": "per",
     "section": "2",
     "sectionEnd": "2",
-    "original": "CORNELIUS consul a classe Punica circumventus et per fraudem, veluti in conloquium evocatus, captus est.",
-    "korean": ""
+    "original": "C. Duillius consul adversus classem Poenorum prospere pugnavit, primusque omnium Romanorum ducum navalis victoriae duxit triumphum.",
+    "korean": "집정관 가이우스 두일리우스는 카르타고 함대를 상대로 싸워 승리했으며, 로마의 모든 장군 가운데 처음으로 해전 승리에 대한 개선식을 거행했다."
   },
   {
     "id": "periochae-17-per-003",
@@ -586,8 +586,8 @@
     "chapter": "per",
     "section": "3",
     "sectionEnd": "3",
-    "original": "C. Duillius consul adversus classem Poenorum prospere pugnavit, primusque omnium Romanorum ducum navalis victoriae duxit triumphum.",
-    "korean": ""
+    "original": "ob quam causam ei perpetuus quoque honos habitus est, ut revertenti a cena tibicine canente funale praeferretur.",
+    "korean": "그 공로로 그는 평생의 특별한 영예도 받았다. 저녁 식사를 마치고 돌아올 때 피리 연주자가 곡을 연주하고 횃불을 든 사람이 앞장서게 한 것이다."
   },
   {
     "id": "periochae-17-per-004",
@@ -596,8 +596,8 @@
     "chapter": "per",
     "section": "4",
     "sectionEnd": "4",
-    "original": "ob quam causam ei perpetuus quoque honos habitus est, ut revertenti a cena tibicine canente funale praeferretur.",
-    "korean": ""
+    "original": "L. Cornelius consul in Sardinia et Corsica contra Sardos et Corsos et Hannonem, Poenorum ducem, feliciter pugnavit.",
+    "korean": "집정관 루키우스 코르넬리우스는 사르디니아와 코르시카에서 사르디니아인들, 코르시카인들, 카르타고 지휘관 한노를 상대로 싸워 승리했다."
   },
   {
     "id": "periochae-17-per-005",
@@ -606,8 +606,8 @@
     "chapter": "per",
     "section": "5",
     "sectionEnd": "5",
-    "original": "L. Cornelius consul in Sardinia et Corsica contra Sardos et Corsos et Hannonem, Poenorum ducem, feliciter pugnavit.",
-    "korean": ""
+    "original": "Atilius Calatinus cos. cum in locum a Poenis circumsessum temere exercitum duxisset, M. Calpurni, tribuni militum, virtute et opera evasit, qui cum ccc militibus eruptione facta hostes in se converterat.",
+    "korean": "집정관 아틸리우스 칼라티누스는 카르타고인들에게 포위된 곳으로 군대를 경솔하게 이끌고 갔다가, 군사 호민관 마르쿠스 칼푸르니우스의 용맹과 활약 덕분에 빠져나왔다. 칼푸르니우스가 병사 300명과 함께 돌격하여 적의 공격을 자기 쪽으로 돌렸던 것이다."
   },
   {
     "id": "periochae-17-per-006",
@@ -616,8 +616,8 @@
     "chapter": "per",
     "section": "6",
     "sectionEnd": "6",
-    "original": "Atilius Calatinus cos. cum in locum a Poenis circumsessum temere exercitum duxisset, M. Calpurni, tribuni militum, virtute et opera evasit, qui cum ccc militibus eruptione facta hostes in se converterat.",
-    "korean": ""
+    "original": "Hannibal, dux Poenorum, victa classe cui praefuerat, a militibus suis in crucem sublatus est.",
+    "korean": "카르타고 지휘관 한니발은 자신이 지휘하던 함대가 패배하자 자기 병사들에 의해 십자가에 매달렸다."
   },
   {
     "id": "periochae-17-per-007",
@@ -626,18 +626,8 @@
     "chapter": "per",
     "section": "7",
     "sectionEnd": "7",
-    "original": "Hannibal, dux Poenorum, victa classe cui praefuerat, a militibus suis in crucem sublatus est.",
-    "korean": ""
-  },
-  {
-    "id": "periochae-17-per-008",
-    "book": 17,
-    "ref": "Liv. Per. 17.8",
-    "chapter": "per",
-    "section": "8",
-    "sectionEnd": "8",
     "original": "Atilius Regulus cos. victis navali proelio Poenis in Africam traiecit.",
-    "korean": ""
+    "korean": "집정관 아틸리우스 레굴루스는 해전에서 카르타고인들을 격파한 뒤 아프리카로 건너갔다."
   },
   {
     "id": "periochae-18-per-001",
@@ -647,7 +637,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "ATILIUS REGULUS in Africa serpentem portentosae magnitudinis cum magna clade militum occidit, et cum aliquot proeliis bene adversus Carthaginienses pugnasset, successorque ei a senatu prospere bellum gerenti non mitteretur, id ipsum per litteras ad senatum scriptas questus est, in quibus inter causas petendi successoris erat quod agellus eius a mercennariis desertus esset.",
-    "korean": ""
+    "korean": "아틸리우스 레굴루스는 아프리카에서 엄청나게 큰 뱀을 죽였으나 병사들도 큰 피해를 입었다. 그는 카르타고인들을 상대로 몇 차례 전투에서 승리했는데도 원로원이 전쟁을 잘 수행하고 있는 자신에게 후임자를 보내지 않자, 바로 그 일을 원로원에 보낸 편지에서 불평했다. 그가 후임자를 요청한 이유 가운데 하나는 자기의 작은 밭을 품팔이꾼들이 버리고 떠났다는 것이었다."
   },
   {
     "id": "periochae-18-per-002",
@@ -657,7 +647,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "quaerente deinde Fortuna ut magnum utriusque casus exemplum in Regulo proderetur, arcessito a Carthaginiensibus Xanthippo, Lacedaemoniorum duce, victus proelio et captus est.",
-    "korean": ""
+    "korean": "그러나 뒤이어 운명은 레굴루스에게서 행운과 불운 양쪽의 거대한 본보기를 드러내려 했다. 카르타고인들이 라케다이몬의 장군 크산티포스를 불러오자 레굴루스는 전투에서 패해 사로잡혔다."
   },
   {
     "id": "periochae-18-per-003",
@@ -666,8 +656,8 @@
     "chapter": "per",
     "section": "3",
     "sectionEnd": "3",
-    "original": "res deinde a ducibus Romanis omnibus terra marique prospere gestas deformaverunt naufragia classium. tib.",
-    "korean": ""
+    "original": "res deinde a ducibus Romanis omnibus terra marique prospere gestas deformaverunt naufragia classium.",
+    "korean": "그 뒤 로마의 여러 지휘관이 육지와 바다에서 거둔 성공은 함대들이 난파하면서 빛이 바랬다."
   },
   {
     "id": "periochae-18-per-004",
@@ -676,8 +666,8 @@
     "chapter": "per",
     "section": "4",
     "sectionEnd": "4",
-    "original": "Coruncanius primus ex plebe pontifex maximus creatus est. M'.",
-    "korean": ""
+    "original": "tib. Coruncanius primus ex plebe pontifex maximus creatus est.",
+    "korean": "티베리우스 코룬카니우스는 평민 출신으로서는 처음으로 최고신관에 선출되었다."
   },
   {
     "id": "periochae-18-per-005",
@@ -686,8 +676,8 @@
     "chapter": "per",
     "section": "5",
     "sectionEnd": "5",
-    "original": "Valerius Maximus P. Sempronius Sophus censores cum senatum legerent, xvi senatu moverunt.",
-    "korean": ""
+    "original": "M'. Valerius Maximus P. Sempronius Sophus censores cum senatum legerent, xvi senatu moverunt.",
+    "korean": "감찰관 마니우스 발레리우스 막시무스와 푸블리우스 셈프로니우스 소푸스는 원로원 의원 명부를 심사하면서 열여섯 명을 원로원에서 제명했다."
   },
   {
     "id": "periochae-18-per-006",
@@ -697,7 +687,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "lustrum condiderunt, quo censa sunt civium capita C̅C̅X̅C̅V̅I̅I̅ nccxcvii.",
-    "korean": ""
+    "korean": "그들은 인구조사를 마치고 정화 의식을 거행했으며, 시민은 29만 7,797명으로 집계되었다."
   },
   {
     "id": "periochae-18-per-007",
@@ -707,7 +697,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "Regulus missus a Carthaginiensibus ad senatum ut de pace, et si eam non posset impetrare, de commutandis captivis ageret, et iureiurando adstrictus rediturum se Carthaginem, si commutari captivos non placuisset, utrumque negandi auctor senatui fuit, et cum fide custodita reversus esset, supplicio a Carthaginiensibus de eo sumpto perit.",
-    "korean": ""
+    "korean": "레굴루스는 평화를 협상하고, 평화를 얻지 못하면 포로 교환을 협상하도록 카르타고인들에게서 원로원으로 파견되었다. 그는 포로를 교환하지 않기로 하면 카르타고로 돌아가겠다는 맹세에 묶여 있었다. 그런데도 두 제안을 모두 거절하라고 원로원에 권고했고, 신의를 지켜 돌아간 뒤 카르타고인들이 가한 형벌로 죽었다."
   },
   {
     "id": "periochae-19-per-001",
@@ -717,7 +707,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "CAECILIUS METELLUS rebus adversus Poenos prospere gestis speciosum egit triumphum, xiii ducibus hostium et cxx elephantis in eo ductis.",
-    "korean": ""
+    "korean": "카이킬리우스 메텔루스는 카르타고인들을 상대로 성공을 거둔 뒤 장관을 이루는 개선식을 거행했다. 적의 지휘관 열세 명과 코끼리 120마리가 그 행렬에 끌려갔다."
   },
   {
     "id": "periochae-19-per-002",
@@ -726,8 +716,8 @@
     "chapter": "per",
     "section": "2",
     "sectionEnd": "2",
-    "original": "Claudius Pulcher cos. contra auspicia profectus—iussit mergi pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit, sortis ultimate hominem, qui coactus abdicare se magistratu pbstea ludos praetextatus spectavit.",
-    "korean": ""
+    "original": "Claudius Pulcher cos. contra auspicia profectus—iussit mergi pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit, sortis ultimae hominem, qui coactus abdicare se magistratu postea ludos praetextatus spectavit.",
+    "korean": "집정관 클라우디우스 풀케르는 조짐을 거슬러 출전했다. 먹이를 먹지 않으려는 성스러운 닭들을 물에 빠뜨리라고 명령한 그는 카르타고인들과 해전을 벌여 참패했다. 원로원에 소환되어 독재관을 지명하라는 명령을 받자 가장 낮은 신분의 사람인 클라우디우스 글리키아를 지명했다. 글리키아는 강제로 관직에서 물러난 뒤에도 나중에 자주색 테두리 토가를 입고 경기를 구경했다."
   },
   {
     "id": "periochae-19-per-003",
@@ -736,8 +726,8 @@
     "chapter": "per",
     "section": "3",
     "sectionEnd": "3",
-    "original": "A. Atilius Calatinns primus dictator extra Italiam exercitum duxit.",
-    "korean": ""
+    "original": "A. Atilius Calatinus primus dictator extra Italiam exercitum duxit.",
+    "korean": "아울루스 아틸리우스 칼라티누스는 독재관으로서는 처음으로 군대를 이끌고 이탈리아 밖으로 나갔다."
   },
   {
     "id": "periochae-19-per-004",
@@ -747,7 +737,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "commutatio captivorum cum Poenis facta est.",
-    "korean": ""
+    "korean": "카르타고인들과 포로를 교환했다."
   },
   {
     "id": "periochae-19-per-005",
@@ -757,7 +747,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "coloniae deductae sunt Fregenae, in agro Sallentino Brundisium.",
-    "korean": ""
+    "korean": "프레게나이에, 그리고 살렌툼 영토의 브룬디시움에 식민시가 건설되었다."
   },
   {
     "id": "periochae-19-per-006",
@@ -767,7 +757,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "lustrum a censoribus conditum est.",
-    "korean": ""
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했다."
   },
   {
     "id": "periochae-19-per-007",
@@ -777,7 +767,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "censa sunt civium capita C̅C̅X̅L̅I̅ CCXII.",
-    "korean": ""
+    "korean": "조사된 시민의 수는 24만 1,212명이었다."
   },
   {
     "id": "periochae-19-per-008",
@@ -787,7 +777,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "Claudia, soror P. Claudi, qui contemptis auspiciis male pugnaverat, a ludis revertens cum turba premeretur, dixit: Utinam frater meus viveret; iterum classem duceret.",
-    "korean": ""
+    "korean": "불길한 조짐을 무시하고 싸웠다가 패한 푸블리우스 클라우디우스의 누이 클라우디아는 경기장에서 돌아오던 중 군중에 짓눌리자 이렇게 말했다. ‘내 오라비가 살아 있어서 다시 함대를 지휘하면 좋으련만.’"
   },
   {
     "id": "periochae-19-per-009",
@@ -797,7 +787,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "ob eam causam multa ei dicta est.",
-    "korean": ""
+    "korean": "그 말 때문에 클라우디아에게 벌금이 부과되었다."
   },
   {
     "id": "periochae-19-per-010",
@@ -807,7 +797,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "duo praetores tunc primum creati sunt.",
-    "korean": ""
+    "korean": "법무관 두 명이 이때 처음으로 선출되었다."
   },
   {
     "id": "periochae-19-per-011",
@@ -816,8 +806,8 @@
     "chapter": "per",
     "section": "11",
     "sectionEnd": "11",
-    "original": "Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idem et flamen Martialis erat, cum is ad bellum gerendum proficisci vellet, 'in urbe tenuit nec passus est a sacris recedere.",
-    "korean": ""
+    "original": "Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idem et flamen Martialis erat, cum is ad bellum gerendum proficisci vellet, in urbe tenuit nec passus est a sacris recedere.",
+    "korean": "최고신관 카이킬리우스 메텔루스는 집정관 아울루스 포스투미우스가 동시에 마르스의 제관이기도 했으므로, 그가 전쟁을 수행하러 떠나려 하자 로마시에 붙들어 두고 제의를 떠나지 못하게 했다."
   },
   {
     "id": "periochae-19-per-012",
@@ -827,7 +817,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "rebus adversus Poenos a pluribus ducibus prospere gestis, summam victoriae C. Lutatius cos. victa ad Aegates insulas classe Poenorum imposuit.",
-    "korean": ""
+    "korean": "여러 지휘관이 카르타고인들을 상대로 성공을 거둔 뒤, 집정관 가이우스 루타티우스가 아이가테스 제도 앞에서 카르타고 함대를 격파하여 승리를 완결했다."
   },
   {
     "id": "periochae-19-per-013",
@@ -837,7 +827,7 @@
     "section": "13",
     "sectionEnd": "13",
     "original": "petentibus Carthaginiensibus pax data est.",
-    "korean": ""
+    "korean": "카르타고인들이 청하자 평화가 주어졌다."
   },
   {
     "id": "periochae-19-per-014",
@@ -847,7 +837,7 @@
     "section": "14",
     "sectionEnd": "14",
     "original": "cum templum Vestae arderet, Caecilius Metellus, pontifex maximus, ex incendio sacra rapuit.",
-    "korean": ""
+    "korean": "베스타 신전이 불타자 최고신관 카이킬리우스 메텔루스는 불길 속에서 성물들을 꺼냈다."
   },
   {
     "id": "periochae-19-per-015",
@@ -857,7 +847,7 @@
     "section": "15",
     "sectionEnd": "15",
     "original": "duae tribus adiectae sunt, Velina et Quirina.",
-    "korean": ""
+    "korean": "벨리나와 퀴리나 두 트리부스가 새로 추가되었다."
   },
   {
     "id": "periochae-20-per-001",
@@ -867,7 +857,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "FALISCI cum rebellassent, sexto die perdomiti in deditionem venerunt.",
-    "korean": ""
+    "korean": "팔리스키인들은 반란을 일으켰다가 엿새 만에 완전히 제압되어 항복했다."
   },
   {
     "id": "periochae-20-per-002",
@@ -877,7 +867,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "Spoletium colonia deducta est.",
-    "korean": ""
+    "korean": "스폴레티움에 식민시가 건설되었다."
   },
   {
     "id": "periochae-20-per-003",
@@ -887,7 +877,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "adversus Liguras tunc primum exercitus promotus est.",
-    "korean": ""
+    "korean": "이때 처음으로 리구리아인들을 상대로 군대가 진군했다."
   },
   {
     "id": "periochae-20-per-004",
@@ -897,7 +887,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "sardi et Corsi cum rebellassent, subacti sunt.",
-    "korean": ""
+    "korean": "사르디니아인들과 코르시카인들은 반란을 일으켰다가 제압되었다."
   },
   {
     "id": "periochae-20-per-005",
@@ -907,7 +897,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "tuccia, virgo Vestalis, incesti damnata est.",
-    "korean": ""
+    "korean": "베스타 여사제 투키아는 정결 의무를 어긴 죄로 유죄 판결을 받았다."
   },
   {
     "id": "periochae-20-per-006",
@@ -917,7 +907,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "bellum Illyriis propter unum ex legatis qui ad eos missi erant occisum indictum est, subactique in deditionem venerunt.",
-    "korean": ""
+    "korean": "일리리아인들에게 파견된 사절 가운데 한 명이 살해되자 그들에게 전쟁이 선포되었다. 일리리아인들은 제압되어 항복했다."
   },
   {
     "id": "periochae-20-per-007",
@@ -927,7 +917,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "praetorum numerus ampliatus est, ut essent IIII.",
-    "korean": ""
+    "korean": "법무관의 수가 늘어나 모두 네 명이 되었다."
   },
   {
     "id": "periochae-20-per-008",
@@ -937,7 +927,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "Galli transalpini qui in Italiam inruperant caesi sunt.",
-    "korean": ""
+    "korean": "이탈리아로 침입한 알프스 너머의 갈리아인들이 섬멸되었다."
   },
   {
     "id": "periochae-20-per-009",
@@ -946,8 +936,8 @@
     "chapter": "per",
     "section": "9",
     "sectionEnd": "9",
-    "original": "eo bello populum R. sui Latinique nominis D̅C̅C̅C̅ armatorum habuisse dicit Exercitibus Romanis tunc primum trans Padum ductis Galli Insubres aliquot proeliis fusi in deditionem venerunt.",
-    "korean": ""
+    "original": "eo bello populum R. sui Latinique nominis D̅C̅C̅C̅ armatorum habuisse dicit.",
+    "korean": "이 전쟁 당시 로마 인민이 로마인과 라틴계 동맹군을 합쳐 무장 병력 80만 명을 보유했다고 저자는 말한다."
   },
   {
     "id": "periochae-20-per-010",
@@ -956,8 +946,8 @@
     "chapter": "per",
     "section": "10",
     "sectionEnd": "10",
-    "original": "M. Claudius Marcellus cos. occiso Gallorum Insubrium duce, Vertomaro, opima spolia rettulit.",
-    "korean": ""
+    "original": "Exercitibus Romanis tunc primum trans Padum ductis Galli Insubres aliquot proeliis fusi in deditionem venerunt.",
+    "korean": "로마군이 이때 처음으로 파두스강 너머로 진군했으며, 인수브레스 갈리아인들은 몇 차례 전투에서 패한 끝에 항복했다."
   },
   {
     "id": "periochae-20-per-011",
@@ -966,8 +956,8 @@
     "chapter": "per",
     "section": "11",
     "sectionEnd": "11",
-    "original": "Histri subacti sunt.",
-    "korean": ""
+    "original": "M. Claudius Marcellus cos. occiso Gallorum Insubrium duce, Vertomaro, opima spolia rettulit.",
+    "korean": "집정관 마르쿠스 클라우디우스 마르켈루스는 인수브레스 갈리아인의 지휘관 베르토마루스를 죽이고 최고 전리품을 바쳤다."
   },
   {
     "id": "periochae-20-per-012",
@@ -976,8 +966,8 @@
     "chapter": "per",
     "section": "12",
     "sectionEnd": "12",
-    "original": "iterum Illyri cum rebellassent, domiti in deditionem venerunt.",
-    "korean": ""
+    "original": "Histri subacti sunt.",
+    "korean": "히스트리아인들이 제압되었다."
   },
   {
     "id": "periochae-20-per-013",
@@ -986,8 +976,8 @@
     "chapter": "per",
     "section": "13",
     "sectionEnd": "13",
-    "original": "lustrum a censoribus ter conditum est.",
-    "korean": ""
+    "original": "iterum Illyri cum rebellassent, domiti in deditionem venerunt.",
+    "korean": "일리리아인들은 다시 반란을 일으켰다가 진압되어 항복했다."
   },
   {
     "id": "periochae-20-per-014",
@@ -996,8 +986,8 @@
     "chapter": "per",
     "section": "14",
     "sectionEnd": "14",
-    "original": "primo lustro censa sunt civium capita C̅C̅L̅X̅X̅ ccxii ⟦…⟧ ⟦…⟧.",
-    "korean": ""
+    "original": "lustrum a censoribus ter conditum est.",
+    "korean": "감찰관들은 세 차례 인구조사를 마치고 정화 의식을 거행했다."
   },
   {
     "id": "periochae-20-per-015",
@@ -1006,8 +996,8 @@
     "chapter": "per",
     "section": "15",
     "sectionEnd": "15",
-    "original": "Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam Collinam.",
-    "korean": ""
+    "original": "primo lustro censa sunt civium capita C̅C̅L̅X̅X̅ ccxii.",
+    "korean": "첫 번째 인구조사에서 시민은 27만 212명으로 집계되었다."
   },
   {
     "id": "periochae-20-per-016",
@@ -1016,8 +1006,8 @@
     "chapter": "per",
     "section": "16",
     "sectionEnd": "16",
-    "original": "C. Flaminius censor viam Flaminius muniit et circum Flaminium exstruxit.",
-    "korean": ""
+    "original": "Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam Collinam.",
+    "korean": "해방노예들은 그전까지 모든 트리부스에 흩어져 있었으나 에스퀼리나·팔라티나·수부라나·콜리나, 네 트리부스로 한정되었다."
   },
   {
     "id": "periochae-20-per-017",
@@ -1026,8 +1016,18 @@
     "chapter": "per",
     "section": "17",
     "sectionEnd": "17",
+    "original": "C. Flaminius censor viam Flaminiam muniit et circum Flaminium exstruxit.",
+    "korean": "감찰관 가이우스 플라미니우스는 플라미니아 가도를 닦고 플라미니우스 경기장을 세웠다."
+  },
+  {
+    "id": "periochae-20-per-018",
+    "book": 20,
+    "ref": "Liv. Per. 20.18",
+    "chapter": "per",
+    "section": "18",
+    "sectionEnd": "18",
     "original": "coloniae deductae sunt in agro de Gallis capto Placentia et Cremona.",
-    "korean": ""
+    "korean": "갈리아인들에게서 빼앗은 영토에 플라켄티아와 크레모나 식민시가 건설되었다."
   },
   {
     "id": "periochae-46-per-001",
@@ -1037,7 +1037,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "Eumenes rex Romam venit, qui Macedonico bello medium egerat.",
-    "korean": ""
+    "korean": "마케도니아 전쟁에서 중립적인 태도를 취했던 에우메네스 왕이 로마에 왔다."
   },
   {
     "id": "periochae-46-per-002",
@@ -1047,7 +1047,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "ne aut hostis iudicatus videretur, si exclusus esset, aut liberatus crimine, si admitteretur, in commune lex lata est, ne cui regi Romam venire liceret.",
-    "korean": ""
+    "korean": "그를 들여보내지 않으면 적으로 판정한 듯 보이고, 들여보내면 혐의를 벗겨 준 듯 보일 수 있었으므로, 어느 왕도 로마에 오는 것을 허용하지 않는다는 일반법이 제정되었다."
   },
   {
     "id": "periochae-46-per-003",
@@ -1057,7 +1057,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "Claudius Marcellus consul Alpinos Gallos, C. Sulpicius Gallus consul Liguras subegit.",
-    "korean": ""
+    "korean": "집정관 클라우디우스 마르켈루스는 알프스의 갈리아인들을, 집정관 가이우스 술피키우스 갈루스는 리구리아인들을 제압했다."
   },
   {
     "id": "periochae-46-per-004",
@@ -1067,7 +1067,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "legati Prusiae regis questi sunt de Eumene, quod fines suos popularetur, dixeruntque eum conspirasse cum Antiocho adversus populum Romanum.",
-    "korean": ""
+    "korean": "프루시아스 왕의 사절들은 에우메네스가 자기들의 영토를 황폐화하고 있다고 호소했으며, 그가 안티오코스와 함께 로마 인민을 상대로 음모를 꾸몄다고 말했다."
   },
   {
     "id": "periochae-46-per-005",
@@ -1077,7 +1077,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "societas cum Rhodiis deprecantibus iuncta est.",
-    "korean": ""
+    "korean": "용서를 간청한 로도스인들과 동맹이 맺어졌다."
   },
   {
     "id": "periochae-46-per-006",
@@ -1087,7 +1087,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "lustrum a censoribus conditum: censa sunt civium capita CCCXXXVII XXII.",
-    "korean": ""
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 33만 7,022명으로 집계되었다."
   },
   {
     "id": "periochae-46-per-007",
@@ -1097,7 +1097,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "princeps senatus M. Aemilius Lepidus.",
-    "korean": ""
+    "korean": "원로원 제일인자는 마르쿠스 아이밀리우스 레피두스였다."
   },
   {
     "id": "periochae-46-per-008",
@@ -1106,8 +1106,8 @@
     "chapter": "per",
     "section": "8",
     "sectionEnd": "8",
-    "original": "Ptolemaeus Aegypti rex, pulsus regno a minore fratre missis ad cum legatis restitutus est.",
-    "korean": ""
+    "original": "Ptolemaeus Aegypti rex, pulsus regno a minore fratre missis ad eum legatis restitutus est.",
+    "korean": "이집트 왕 프톨레마이오스는 동생에게 왕위에서 쫓겨났으나, 사절들이 파견된 뒤 복위되었다."
   },
   {
     "id": "periochae-46-per-009",
@@ -1117,7 +1117,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "Ariarathe, Cappadociae rege, mortuo filius eius Ariarathes regnum accepit et amicitiam cum populo Romano per legatos renovavit.",
-    "korean": ""
+    "korean": "카파도키아 왕 아리아라테스가 죽자 그의 아들 아리아라테스가 왕위를 이어받고, 사절을 통해 로마 인민과의 우호를 새롭게 했다."
   },
   {
     "id": "periochae-46-per-010",
@@ -1127,7 +1127,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "res praeterea adversus Liguras et Corsos et Lusitanos vario eventu gestas et motus Syriae mortuo Antiocho, qui filium Antiochum puerum admodum reliquerat, continet.",
-    "korean": ""
+    "korean": "그 밖에도 리구리아인·코르시카인·루시타니아인을 상대로 엇갈린 결과를 낳은 전쟁들과, 아직 아주 어린 아들 안티오코스를 남기고 안티오코스가 죽은 뒤 시리아에서 일어난 소요를 이 책은 담고 있다."
   },
   {
     "id": "periochae-46-per-011",
@@ -1137,7 +1137,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "hunc Antiochum puerum cum Lysia tutore Demetrius Seleuci filius, qui Romae obses fuerat, clam, quia non dimittebatur, a Roma ⟦…⟧ interemit et ipse in regnum receptus.",
-    "korean": ""
+    "korean": "한때 로마에 인질로 있었던 셀레우코스의 아들 데메트리오스는 풀려나지 않자 몰래 로마에서 [탈출하여 …], 이 어린 안티오코스와 그의 후견인 뤼시아스를 죽이고 자신이 왕위에 올랐다."
   },
   {
     "id": "periochae-46-per-012",
@@ -1147,7 +1147,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "L. Aemilius Paulus, qui Persen vicerat, mortuus.",
-    "korean": ""
+    "korean": "페르세우스를 무찔렀던 루키우스 아이밀리우스 파울루스가 죽었다."
   },
   {
     "id": "periochae-46-per-013",
@@ -1157,7 +1157,7 @@
     "section": "13",
     "sectionEnd": "13",
     "original": "cuius tanta abstinentia fuit, ut, cum ex Hispania et ex Macedonia immensas opes rettulisset, vix ex auctione eius redactum sit, unde uxori eius dos solveretur.",
-    "korean": ""
+    "korean": "그의 청렴함은 대단했다. 히스파니아와 마케도니아에서 막대한 재물을 가져왔는데도, 유산을 경매해 거둔 돈으로 아내의 지참금을 돌려주기에도 겨우 충분할 정도였다."
   },
   {
     "id": "periochae-46-per-014",
@@ -1167,7 +1167,7 @@
     "section": "14",
     "sectionEnd": "14",
     "original": "Pomptinae paludes a Cornelio Cethego consule, cui ea provincia evenerat, siccatae, agerque ex his factus.",
-    "korean": ""
+    "korean": "폰티네 습지는 그 지역을 관할지로 배정받은 집정관 코르넬리우스 케테구스에 의해 물이 빠졌고, 그곳은 농경지가 되었다."
   },
   {
     "id": "periochae-47-per-001",
@@ -1176,8 +1176,8 @@
     "chapter": "per",
     "section": "1",
     "sectionEnd": "1",
-    "original": "Cn.",
-    "korean": ""
+    "original": "Cn. Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido pontifice maximo iniuriose contenderat; sacrorumque quam magistratuum ius potentius fuit.",
+    "korean": "법무관 그나이우스 트레멜리우스는 최고신관 마르쿠스 아이밀리우스 레피두스와 부당하게 다툰 일로 벌금형을 받았다. 신성한 직무의 권리가 정무관의 권한보다 더 강했다."
   },
   {
     "id": "periochae-47-per-002",
@@ -1186,8 +1186,8 @@
     "chapter": "per",
     "section": "2",
     "sectionEnd": "2",
-    "original": "Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido pontifice maximo iniuriose contenderat; sacrorumque quam magistratuum ius potentius fuit.",
-    "korean": ""
+    "original": "lex de ambitu lata.",
+    "korean": "선거 매수에 관한 법이 제정되었다."
   },
   {
     "id": "periochae-47-per-003",
@@ -1196,8 +1196,8 @@
     "chapter": "per",
     "section": "3",
     "sectionEnd": "3",
-    "original": "lex de ambitu lata.",
-    "korean": ""
+    "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXVIII CCCXVI.",
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 32만 8,316명으로 집계되었다."
   },
   {
     "id": "periochae-47-per-004",
@@ -1206,8 +1206,8 @@
     "chapter": "per",
     "section": "4",
     "sectionEnd": "4",
-    "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXVIII CCCXVI.",
-    "korean": ""
+    "original": "princeps senatus sextum Aemilius Lepidus.",
+    "korean": "아이밀리우스 레피두스가 여섯 번째로 원로원 제일인자가 되었다."
   },
   {
     "id": "periochae-47-per-005",
@@ -1216,8 +1216,8 @@
     "chapter": "per",
     "section": "5",
     "sectionEnd": "5",
-    "original": "princeps senatus sextum Aemilius Lepidus.",
-    "korean": ""
+    "original": "inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto, alter Cyrenis regnaret.",
+    "korean": "서로 불화하던 프톨레마이오스 형제 사이에 한 사람은 이집트를, 다른 사람은 퀴레네를 다스리기로 하는 조약이 체결되었다."
   },
   {
     "id": "periochae-47-per-006",
@@ -1226,8 +1226,8 @@
     "chapter": "per",
     "section": "6",
     "sectionEnd": "6",
-    "original": "inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto, alter Cyrenis regnaret.",
-    "korean": ""
+    "original": "Ariarathes, Cappadociae rex, consilio Demetrii Syriae regis et viribus pulsus regno, a senatu restitutus est.",
+    "korean": "카파도키아 왕 아리아라테스는 시리아 왕 데메트리오스의 계책과 무력에 밀려 왕위에서 쫓겨났다가 원로원에 의해 복위되었다."
   },
   {
     "id": "periochae-47-per-007",
@@ -1236,8 +1236,8 @@
     "chapter": "per",
     "section": "7",
     "sectionEnd": "7",
-    "original": "Ariarathes, Cappadociae rex, consilio Demetrii Syriae regis et viribus pulsus regno, a senatu restitutus est.",
-    "korean": ""
+    "original": "missi a senatu, qui inter Masinissam et Carthaginienses de agro iudicarent.",
+    "korean": "원로원은 마시니사와 카르타고인들 사이의 영토 분쟁을 판정할 사람들을 파견했다."
   },
   {
     "id": "periochae-47-per-008",
@@ -1246,8 +1246,8 @@
     "chapter": "per",
     "section": "8",
     "sectionEnd": "8",
-    "original": "missi a senatu, qui inter Masinissam et Carthaginienses de agro iudicarent.",
-    "korean": ""
+    "original": "C. Marcius consul adversus Dalmatas primum parum prospere, postea, feliciter pugnavit.",
+    "korean": "집정관 가이우스 마르키우스는 달마티아인들을 상대로 처음에는 성과 없이 싸웠으나 뒤에는 승리를 거두었다."
   },
   {
     "id": "periochae-47-per-009",
@@ -1256,8 +1256,8 @@
     "chapter": "per",
     "section": "9",
     "sectionEnd": "9",
-    "original": "C. Marcius consul adversus Dalmatas primum parum prospere, postea, feliciter pugnavit.",
-    "korean": ""
+    "original": "cum quibus bello confligendi causa fuit, quod Illyrios, socios populi Romani, vastaverant; eandemque gentem Cornelius Nasica consul domuit.",
+    "korean": "그들과 전쟁을 벌이게 된 까닭은 그들이 로마 인민의 동맹인 일리리아인들을 황폐화했기 때문이다. 집정관 코르넬리우스 나시카가 바로 그 종족을 굴복시켰다."
   },
   {
     "id": "periochae-47-per-010",
@@ -1266,8 +1266,8 @@
     "chapter": "per",
     "section": "10",
     "sectionEnd": "10",
-    "original": "cum quibus bello confligendi causa fuit, quod Illyrios, socios populi Romani, vastaverant; eandemque gentem Cornelius Nasica consul domuit.",
-    "korean": ""
+    "original": "Q. Opimius consul Transalpinos Liguras, qui Massiliensium oppida Antipolim et Nicaeam vastabant, subegit.",
+    "korean": "집정관 퀸투스 오피미우스는 마실리아인들의 도시 안티폴리스와 니카이아를 황폐화하던 알프스 너머의 리구리아인들을 제압했다."
   },
   {
     "id": "periochae-47-per-011",
@@ -1276,8 +1276,8 @@
     "chapter": "per",
     "section": "11",
     "sectionEnd": "11",
-    "original": "Q. Opimius consul Transalpinos Liguras, qui Massiliensium oppida Antipolim et Nicaeam vastabant, subegit.",
-    "korean": ""
+    "original": "praeterea res in Hispania a compluribus parum prospere gestas continet.",
+    "korean": "그 밖에도 여러 지휘관이 히스파니아에서 별 성과 없이 벌인 전쟁들을 이 책은 담고 있다."
   },
   {
     "id": "periochae-47-per-012",
@@ -1286,8 +1286,8 @@
     "chapter": "per",
     "section": "12",
     "sectionEnd": "12",
-    "original": "praeterea res in Hispania a compluribus parum prospere gestas continet.",
-    "korean": ""
+    "original": "consules anno quingentesimo nonagesimo octavo ab urbe condita magistratum kal. Ian. inire coeperunt.",
+    "korean": "로마 창건 제598년부터 집정관들은 1월의 칼렌다이에 취임하기 시작했다."
   },
   {
     "id": "periochae-47-per-013",
@@ -1296,8 +1296,8 @@
     "chapter": "per",
     "section": "13",
     "sectionEnd": "13",
-    "original": "consules anno quingentesimo nonagesimo octavo ab urbe condita magistratum kal. Ian. inire coeperunt.",
-    "korean": ""
+    "original": "mutandi comitia causa fuit, quod Hispani rebellabant.",
+    "korean": "집정관 선거 일정을 바꾼 까닭은 히스파니아인들이 반란을 일으켰기 때문이다."
   },
   {
     "id": "periochae-47-per-014",
@@ -1306,8 +1306,8 @@
     "chapter": "per",
     "section": "14",
     "sectionEnd": "14",
-    "original": "mutandi comitia causa fuit, quod Hispani rebellabant.",
-    "korean": ""
+    "original": "legati ad disceptandum inter Carthaginienses et Masinissam missi nuntiaverunt vim navalis materiae se Carthagine deprehendisse.",
+    "korean": "카르타고인들과 마시니사의 분쟁을 판정하러 파견된 사절들은 카르타고에서 막대한 양의 함선용 목재를 발견했다고 보고했다."
   },
   {
     "id": "periochae-47-per-015",
@@ -1316,18 +1316,8 @@
     "chapter": "per",
     "section": "15",
     "sectionEnd": "15",
-    "original": "legati ad disceptandum inter Carthaginienses et Masinissam missi nuntiaverunt vim navalis materiae se Carthagine deprehendisse.",
-    "korean": ""
-  },
-  {
-    "id": "periochae-47-per-016",
-    "book": 47,
-    "ref": "Liv. Per. 47.16",
-    "chapter": "per",
-    "section": "16",
-    "sectionEnd": "16",
     "original": "aliquot praetores a provinciis avaritiae nomine accusati damnati sunt.",
-    "korean": ""
+    "korean": "여러 법무관이 속주에서 탐욕을 부린 혐의로 기소되어 유죄 판결을 받았다."
   },
   {
     "id": "periochae-48-per-001",
@@ -1337,7 +1327,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "lustrum a censoribus conditum est: censa sunt civium capita CCCXXIIII.",
-    "korean": ""
+    "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했으며, 시민은 32만 4,000명으로 집계되었다."
   },
   {
     "id": "periochae-48-per-002",
@@ -1347,7 +1337,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "semina tertii Punici belli referuntur.",
-    "korean": ""
+    "korean": "제3차 포에니 전쟁의 씨앗들이 서술된다."
   },
   {
     "id": "periochae-48-per-003",
@@ -1357,7 +1347,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "cum in finibus Carthaginiensium ingens Numidarum exercitus duce Ariobarzane Syphacis nepote diceretur esse, M. Porcius Cato suasit, ut Carthaginiensibus, qui exercitum specie contra Masinissam, re contra Romanos accitum in finibus haberent, bellum indiceretur.",
-    "korean": ""
+    "korean": "카르타고 영토 안에 쉬팍스의 손자 아리오바르자네스가 지휘하는 거대한 누미디아 군대가 있다는 말이 돌자, 마르쿠스 포르키우스 카토는 카르타고인들에게 전쟁을 선포하자고 주장했다. 그들은 겉으로는 마시니사에 맞서기 위해서지만 실제로는 로마인들에게 맞서기 위해 불러들인 군대를 자기 영토 안에 두고 있다는 것이었다."
   },
   {
     "id": "periochae-48-per-004",
@@ -1367,7 +1357,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "contra dicente P. Cornelio Nasica placuit legatos mitti Carthaginem, qui specularentur, quid ageretur.",
-    "korean": ""
+    "korean": "푸블리우스 코르넬리우스 나시카가 반대 의견을 말하자, 무슨 일이 벌어지고 있는지 살피도록 카르타고에 사절들을 보내기로 결정했다."
   },
   {
     "id": "periochae-48-per-005",
@@ -1377,7 +1367,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "castigato senatu Carthaginiensium, quod contra foedus et exercitum et navales materias haberent, pacem inter eos et Masinissam facere voluerunt, Masinissa agro, de quo lis erat, cedente.",
-    "korean": ""
+    "korean": "사절들은 조약을 어기고 군대와 함선용 물자를 보유한 카르타고 원로원을 꾸짖고, 마시니사가 분쟁 중인 영토를 양보하는 조건으로 양측을 화해시키려 했다."
   },
   {
     "id": "periochae-48-per-006",
@@ -1386,8 +1376,8 @@
     "chapter": "per",
     "section": "6",
     "sectionEnd": "6",
-    "original": "sed Gisgo Hamilcaris filius, homo seditiosus, qui tum in magistratu erat, cum senatus parturum se iudicio legatis dixisset, ita populum concitavit bellum adversus Romanos suadendo, ut legatos, quo minus violarentur, fuga explicuerit.",
-    "korean": ""
+    "original": "sed Gisgo Hamilcaris filius, homo seditiosus, qui tum in magistratu erat, cum senatus pariturum se iudicio legatis dixisset, ita populum concitavit bellum adversus Romanos suadendo, ut legatos, quo minus violarentur, fuga explicuerit.",
+    "korean": "그러나 당시 정무관이던 선동가, 하밀카르의 아들 기스고는 원로원이 사절들에게 판정에 따르겠다고 말했는데도 로마인들과 전쟁하자고 인민을 격동시켰다. 사절들은 해를 입지 않으려고 달아나야 했다."
   },
   {
     "id": "periochae-48-per-007",
@@ -1396,8 +1386,8 @@
     "chapter": "per",
     "section": "7",
     "sectionEnd": "7",
-    "original": "id nuntiantes infestum iam senatum Carthaginiensibus festiorem fecerunt.",
-    "korean": ""
+    "original": "id nuntiantes infestum iam senatum Carthaginiensibus infestiorem fecerunt.",
+    "korean": "그들이 이 일을 보고하자, 이미 카르타고인들에게 적대적이던 원로원은 더욱 적대적으로 변했다."
   },
   {
     "id": "periochae-48-per-008",
@@ -1407,7 +1397,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "M. Porcius Cato filii in praetura mortui funus tenuissimo, ut potuit—nam pauper erat —, sumptu fecit.",
-    "korean": ""
+    "korean": "마르쿠스 포르키우스 카토는 법무관 재임 중에 죽은 아들의 장례를 형편이 허락하는 한 가장 적은 비용으로 치렀다. 그는 가난했기 때문이다."
   },
   {
     "id": "periochae-48-per-009",
@@ -1417,7 +1407,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "Andriscus, qui se Persei filium, regis quondam Macedoniae, ingenti adserveratione mentiretur, Romam missus.",
-    "korean": ""
+    "korean": "한때 마케도니아 왕이었던 페르세우스의 아들이라고 완강하게 거짓 주장하던 안드리스코스가 로마로 보내졌다."
   },
   {
     "id": "periochae-48-per-010",
@@ -1426,8 +1416,8 @@
     "chapter": "per",
     "section": "10",
     "sectionEnd": "10",
-    "original": "M. Aemilius Lepidus, qui princeps senatus sextis iam censoribus lectus erat, antequam expiraret, praecepit filiis, lecto se strato [sine] linteis sine purpura efferrent; in relicum funus ne plus quam aeris decus consumerent: imaginum specie, non sumptibus nobilitari magnorum virorum funera solere.",
-    "korean": ""
+    "original": "M. Aemilius Lepidus, qui princeps senatus sextis iam censoribus lectus erat, antequam expiraret, praecepit filiis, lecto se strato [sine] linteis sine purpura efferrent; in reliquum funus ne plus quam aeris decem consumerent: imaginum specie, non sumptibus nobilitari magnorum virorum funera solere.",
+    "korean": "이미 여섯 차례 감찰관단에 의해 원로원 제일인자로 선출된 마르쿠스 아이밀리우스 레피두스는 숨을 거두기 전에 아들들에게 당부했다. 자신을 천도 자주색 천도 없이 맨 장례용 들것에 실어 내가고, 나머지 장례에는 열 아스보다 많이 쓰지 말라는 것이었다. 위대한 이들의 장례는 비용이 아니라 조상 가면의 행렬로 고귀해지는 법이라고 그는 말했다."
   },
   {
     "id": "periochae-48-per-011",
@@ -1437,7 +1427,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "de veneficiis quaesitum.",
-    "korean": ""
+    "korean": "독살 사건들에 대한 재판이 열렸다."
   },
   {
     "id": "periochae-48-per-012",
@@ -1447,7 +1437,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "Publilia et Licinia, nobiles feminae, quae viros suos consulares necasse insimulabantur, cognita causa, cum praetori praedes vades dedissent, cognatorum decreto necatae sunt.",
-    "korean": ""
+    "korean": "전직 집정관인 자기 남편들을 죽였다는 혐의를 받은 귀족 여성 푸블릴리아와 리키니아는 심리를 받은 뒤 법무관에게 보증인들을 세워 두었으나, 친족들의 결정에 따라 죽임을 당했다."
   },
   {
     "id": "periochae-48-per-013",
@@ -1457,7 +1447,7 @@
     "section": "13",
     "sectionEnd": "13",
     "original": "Gulussa Masinissae filius nuntiavit Carthagine dilectus agi, classem comparari et haud dubie bellum strui.",
-    "korean": ""
+    "korean": "마시니사의 아들 굴루사는 카르타고에서 징병이 이루어지고 함대가 마련되고 있으니 의심할 나위 없이 전쟁을 준비하는 것이라고 보고했다."
   },
   {
     "id": "periochae-48-per-014",
@@ -1467,7 +1457,7 @@
     "section": "14",
     "sectionEnd": "14",
     "original": "cum Cato suaderet, ut his bellum indiceretur, P. Cornelio Nasica dicente nihil temere faciundum, placuit decem legatos mitti exploratum.",
-    "korean": ""
+    "korean": "카토는 그들에게 전쟁을 선포하자고 주장했으나, 푸블리우스 코르넬리우스 나시카가 경솔하게 행동해서는 안 된다고 말하자 실상을 조사하도록 사절 열 명을 보내기로 결정했다."
   },
   {
     "id": "periochae-48-per-015",
@@ -1477,7 +1467,7 @@
     "section": "15",
     "sectionEnd": "15",
     "original": "L. Licinius Lucullus A. Postumius Albinus consules cum dilectum severe agerent nec quemquam gratia dimitterent, ab tribunis plebis, qui pro amicis suis vacationem impetrare non poterant, in carcerem coniecti sunt.",
-    "korean": ""
+    "korean": "집정관 루키우스 리키니우스 루쿨루스와 아울루스 포스투미우스 알비누스가 엄격하게 징병을 집행하고 청탁을 받고 누구도 면제해 주지 않자, 자기 친구들의 면제를 얻어 내지 못한 평민 호민관들이 두 사람을 감옥에 가두었다."
   },
   {
     "id": "periochae-48-per-016",
@@ -1486,8 +1476,8 @@
     "chapter": "per",
     "section": "16",
     "sectionEnd": "16",
-    "original": "cum Hispaniense bellum parum prospere aliquotiens gestum ita confudisset civitatem Romanam, ut ne hi quidem invenirentur, qui aut tribunatum exciperent aut legati ire vellent, P. Cornelius Aemilianus processit et exceptaturum se militiae genus, quodcumque imperatum esset, professus est; quo exemplo omnes ad studium militandi concitavit.",
-    "korean": ""
+    "original": "cum Hispaniense bellum parum prospere aliquotiens gestum ita confudisset civitatem Romanam, ut ne hi quidem invenirentur, qui aut tribunatum exciperent aut legati ire vellent, P. Cornelius Aemilianus processit et excepturum se militiae genus, quodcumque imperatum esset, professus est; quo exemplo omnes ad studium militandi concitavit.",
+    "korean": "히스파니아 전쟁에서 여러 차례 성과를 거두지 못해 로마 국가가 몹시 동요했고, 군사 호민관직을 맡거나 사령관의 부관으로 가려는 사람조차 찾을 수 없게 되었다. 그러자 푸블리우스 코르넬리우스 아이밀리아누스가 나서서 어떤 종류의 군복무든 명령받는 대로 맡겠다고 선언했다. 그의 본보기에 모두가 군복무에 열의를 품게 되었다."
   },
   {
     "id": "periochae-48-per-017",
@@ -1497,7 +1487,7 @@
     "section": "17",
     "sectionEnd": "17",
     "original": "Lucullus consul, cum Claudius Marcellus, cui successerat, pacasse omnes Celtiberiae populos videretur, Vaccaeos et Cantabros et alias incognitas adhuc in Hispania gentes subegit.",
-    "korean": ""
+    "korean": "집정관 루쿨루스는 전임자 클라우디우스 마르켈루스가 켈티베리아의 모든 종족을 평정한 듯 보였는데도 바카이인·칸타브리아인과 그 밖에 아직 히스파니아에서 알려지지 않았던 종족들을 제압했다."
   },
   {
     "id": "periochae-48-per-018",
@@ -1506,8 +1496,8 @@
     "chapter": "per",
     "section": "18",
     "sectionEnd": "18",
-    "original": "ibi P. Cornelius [Africanus] Scipio Aemilianus, L. [Corneli] Pauli filius, Africani nepos, sed adoptivus, provocatorem barbarum tribunus militum occidit et in expugnatione Intercatiae urbis maius etiamnum periculum adit: nam murum primus transcendit. Ser.",
-    "korean": ""
+    "original": "ibi P. Cornelius [Africanus] Scipio Aemilianus, L. [Corneli] Pauli filius, Africani nepos, sed adoptivus, provocatorem barbarum tribunus militum occidit et in expugnatione Intercatiae urbis maius etiamnum periculum adit: nam murum primus transcendit.",
+    "korean": "그곳에서 아프리카누스의 양손자이자 루키우스 아이밀리우스 파울루스의 친아들인 푸블리우스 코르넬리우스 스키피오 아이밀리아누스는 군사 호민관으로서 결투를 신청한 야만인을 죽였다. 그는 인테르카티아 공성전에서 그보다 더 큰 위험에도 뛰어들어 가장 먼저 성벽을 넘어갔다."
   },
   {
     "id": "periochae-48-per-019",
@@ -1516,8 +1506,8 @@
     "chapter": "per",
     "section": "19",
     "sectionEnd": "19",
-    "original": "Sulpicius Galba praetor male adversus Lusitanos pugnavit.",
-    "korean": ""
+    "original": "Ser. Sulpicius Galba praetor male adversus Lusitanos pugnavit.",
+    "korean": "법무관 세르비우스 술피키우스 갈바는 루시타니아인들과 싸워 크게 패했다."
   },
   {
     "id": "periochae-48-per-020",
@@ -1527,7 +1517,7 @@
     "section": "20",
     "sectionEnd": "20",
     "original": "cum legati ex Africa cum oratoribus Carthaginiensium et Gulussa Masinissae filio redissent dicerentque et exercitum se et classem Carthagine deprehendisse, perrogari sententias placuit.",
-    "korean": ""
+    "korean": "아프리카에 갔던 사절들이 카르타고 측 사절들과 마시니사의 아들 굴루사를 데리고 돌아와 카르타고에서 군대와 함대를 모두 발견했다고 말하자, 원로원 의원들에게 차례로 의견을 묻기로 했다."
   },
   {
     "id": "periochae-48-per-021",
@@ -1537,7 +1527,7 @@
     "section": "21",
     "sectionEnd": "21",
     "original": "Catone et aliis principibus senatus suadentibus, ut in Africam confestim transportaretur exercitus, quoniam Cornelius Nasica dicebat nondum sibi iustam causam belli videri, placuit, ut bello abstinerent, si Carthaginienses classem exussissent et exercitum dimisissent: si minus, proximi consules de bello Punico referrent.",
-    "korean": ""
+    "korean": "카토와 그 밖의 원로원 지도자들은 당장 아프리카로 군대를 건너 보내자고 주장했다. 그러나 코르넬리우스 나시카가 아직 정당한 전쟁 명분이 있다고 보지 않는다고 말했으므로, 카르타고인들이 함대를 불태우고 군대를 해산하면 전쟁을 삼가되 그러지 않으면 다음 집정관들이 포에니 전쟁 문제를 원로원에 회부하기로 결정했다."
   },
   {
     "id": "periochae-48-per-022",
@@ -1547,7 +1537,7 @@
     "section": "22",
     "sectionEnd": "22",
     "original": "cum locatum a censoribus theatrum exstrueretur, P. Cornelio Nasica auctore tamquam inutile et nociturum publicis moribus ex senatus consulto destructum est, populusque aliquamdiu stans ludos spectavit.",
-    "korean": ""
+    "korean": "감찰관들이 발주한 극장이 건설되고 있었으나, 푸블리우스 코르넬리우스 나시카가 쓸모없고 공공의 풍속을 해칠 것이라고 주장하여 원로원 결의로 철거되었다. 인민은 그 뒤 한동안 서서 경기를 관람했다."
   },
   {
     "id": "periochae-48-per-023",
@@ -1557,7 +1547,7 @@
     "section": "23",
     "sectionEnd": "23",
     "original": "Carthaginienses cum adversus foedus bellum Masinissae intulissent, victi ab eo annos habente XCII et sine pulpamine mandere et siccum gustare panem tantum solito, insuper Romanum bellum meruerunt.",
-    "korean": ""
+    "korean": "카르타고인들은 조약을 어기고 마시니사에게 전쟁을 걸었다가 그에게 패배했으며, 게다가 로마와의 전쟁까지 자초했다. 마시니사는 아흔두 살이었고, 반찬 없이 마른 빵만 씹어 먹는 데 익숙한 사람이었다."
   },
   {
     "id": "periochae-48-per-024",
@@ -1567,7 +1557,7 @@
     "section": "24",
     "sectionEnd": "24",
     "original": "motus praeterea Syriae et bella inter reges gesta referuntur.",
-    "korean": ""
+    "korean": "그 밖에 시리아의 소요와 여러 왕 사이에 벌어진 전쟁들이 서술된다."
   },
   {
     "id": "periochae-48-per-025",
@@ -1577,7 +1567,7 @@
     "section": "25",
     "sectionEnd": "25",
     "original": "inter quos motus Demetrius Syriae rex occisus est.",
-    "korean": ""
+    "korean": "이 소요들 가운데 시리아 왕 데메트리오스가 살해되었다."
   },
   {
     "id": "periochae-49-per-001",
@@ -1587,7 +1577,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "tertii Punici belli initium altero et sescentesimo ab urbe condita anno, intra quintum annum quam erat coeptum, consummati.",
-    "korean": ""
+    "korean": "제3차 포에니 전쟁은 로마 창건 제602년에 시작되어, 시작된 지 5년이 되기 전에 끝났다."
   },
   {
     "id": "periochae-49-per-002",
@@ -1597,7 +1587,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "inter M. Porcium Catonem et Scipionem Nasicam, quorum alter sapientissimus vir in civitate habebatur, alter optimus vir etiam iudicatus a senatu erat, diversis certatum sententiis est, Catone suadente bellum et ut tolleretur delereturque Carthago, Nasica dissuadente.",
-    "korean": ""
+    "korean": "마르쿠스 포르키우스 카토와 스키피오 나시카는 서로 다른 의견을 내세워 논쟁했다. 한 사람은 국가에서 가장 지혜로운 사람으로 여겨졌고, 다른 사람은 원로원에 의해 가장 훌륭한 사람으로까지 판정된 이였다. 카토는 전쟁을 벌여 카르타고를 없애고 파괴하자고 주장했고, 나시카는 반대했다."
   },
   {
     "id": "periochae-49-per-003",
@@ -1607,7 +1597,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "placuit tamen, quod contra foedus naves haberent, quod exercitum extra fines duxissent, quod socio populi Romani et amico, Masinissae, arma intulissent, quod filium eius Gulussam, qui cum legatis Romanis erat, in oppidum non recepissent, bellum his indici.",
-    "korean": ""
+    "korean": "그럼에도 카르타고인들이 조약을 어기고 함선을 보유한 일, 군대를 영토 밖으로 이끈 일, 로마 인민의 동맹이자 친구인 마시니사에게 무기를 든 일, 로마 사절들과 함께 온 그의 아들 굴루사를 도시에 받아들이지 않은 일을 이유로 그들에게 전쟁을 선포하기로 결정했다."
   },
   {
     "id": "periochae-49-per-004",
@@ -1617,7 +1607,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "priusquam ullae copiae in naves imponerentur, Uticenses legati Romam venerunt se suaque omnia dedentes.",
-    "korean": ""
+    "korean": "어떤 병력도 배에 오르기 전에 우티카의 사절들이 로마로 와서 자신들과 자신들의 모든 것을 넘겨주었다."
   },
   {
     "id": "periochae-49-per-005",
@@ -1627,7 +1617,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "ea legatio velut omen grata patribus, acerba Carthaginiensibus fuit.",
-    "korean": ""
+    "korean": "원로원 의원들은 그 사절단을 길조처럼 반겼지만, 카르타고인들에게는 고통스러운 일이었다."
   },
   {
     "id": "periochae-49-per-006",
@@ -1637,7 +1627,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "ludi Diti patri ad Tarentum ex praecepto librorum facti, qui ante annum centesimum primo Punico bello, quingentesimo et altero anno ab urbe condita facti erant.",
-    "korean": ""
+    "korean": "신탁서의 지시에 따라 타렌툼에서 디스 파테르를 위한 경기가 열렸다. 이 경기는 100년 전 제1차 포에니 전쟁 때인 로마 창건 제502년에 처음 열렸던 것이다."
   },
   {
     "id": "periochae-49-per-007",
@@ -1647,7 +1637,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "legati triginta Romam venerunt, per quos se Carthaginienses dedebant.",
-    "korean": ""
+    "korean": "카르타고인들은 사절 서른 명을 로마로 보내 자신들을 넘겨주었다."
   },
   {
     "id": "periochae-49-per-008",
@@ -1657,7 +1647,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "Catonis sententia evicit, ut in decreto perstaretur, et ut consules quam primum ad bellum proficiscerentur.",
-    "korean": ""
+    "korean": "카토의 의견이 우세하여 이미 내린 결정을 고수하고 집정관들이 가능한 한 빨리 전쟁터로 떠나게 되었다."
   },
   {
     "id": "periochae-49-per-009",
@@ -1667,7 +1657,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "qui ubi in Africam transierunt, acceptis quos imperaverant trecentis obsidibus et armis omnibus instrumentisque belli, si qua Carthagine erant, cum ex auctoritate patrum iuberent, ut in alio loco, dum a mari decem milia passuum ne minus remoto, oppidum facerent, indignitate rei ad bellandum Carthaginienses compulerunt.",
-    "korean": ""
+    "korean": "집정관들은 아프리카로 건너가 요구했던 인질 300명과 카르타고에 있던 모든 무기와 전쟁 장비를 넘겨받았다. 이어 원로원의 권위로 바다에서 적어도 10로마마일 떨어진 다른 곳에 도시를 세우라고 명령했다. 카르타고인들은 이 요구의 모욕을 견디지 못하고 전쟁에 나섰다."
   },
   {
     "id": "periochae-49-per-010",
@@ -1677,7 +1667,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "obsideri obpugnarique coepta est Carthago a L. Marcio M'. Manilio consulibus.",
-    "korean": ""
+    "korean": "집정관 루키우스 마르키우스와 마니우스 마닐리우스가 카르타고를 포위하고 공격하기 시작했다."
   },
   {
     "id": "periochae-49-per-011",
@@ -1687,7 +1677,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "in qua obpugnatione cum neglectos ab una parte muros duo tribuni temere cum cohortibus suis irrupissent et ab oppidanis graviter caederentur, a Scipione † Orfitiano expliciti sunt; per quem et castellum Romanorum, quod nocte expugnabant, paucis equitibus iuvantibus liberatum est, castrorumque, quae Carthaginienses omnibus copiis ab urbe pariter egressi obpugnabant, liberatorum is ipse praecipuam gloriam tulit.",
-    "korean": ""
+    "korean": "공성전 중 한쪽 성벽의 경비가 소홀한 것을 본 두 군사 호민관이 자기 대대들을 이끌고 경솔하게 돌입했다가 주민들에게 심한 타격을 받았으나, 스키피오의 도움으로 빠져나왔다. 스키피오는 밤에 공격받던 로마군의 요새도 소수의 기병을 거느리고 구해 냈다. 또 카르타고인들이 모든 병력을 이끌고 도시에서 일제히 나와 공격한 진영들을 구출한 일에서도 그가 가장 큰 영예를 얻었다."
   },
   {
     "id": "periochae-49-per-012",
@@ -1697,7 +1687,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "praeterea cum ab inrita obpugnatione Carthaginis consul — alter enim Romam ad comitia ierat — exercitum duceret adversus Hasdrubalem, qui cum ampla manu saltum inicum insederat, suasit primo consuli, ne tam inico loco confligeret.",
-    "korean": ""
+    "korean": "그 밖에도 집정관 한 사람이 성과 없는 카르타고 공격을 그만두고 대군으로 험준한 협로를 점거한 하스드루발을 향해 군대를 이끈 일이 있었다. 다른 집정관은 선거를 주재하러 로마에 가 있었다. 스키피오는 처음에 그처럼 불리한 곳에서 교전하지 말라고 집정관에게 권했다."
   },
   {
     "id": "periochae-49-per-013",
@@ -1707,7 +1697,7 @@
     "section": "13",
     "sectionEnd": "13",
     "original": "victus deinde complurum, qui et prudentiae et virtuti eius invidebant, sententiis et ipse saltum ingressus est.",
-    "korean": ""
+    "korean": "그러나 그의 판단력과 용기를 시기한 여러 사람의 의견에 밀리자, 스키피오 자신도 협로로 들어갔다."
   },
   {
     "id": "periochae-49-per-014",
@@ -1717,7 +1707,7 @@
     "section": "14",
     "sectionEnd": "14",
     "original": "cum, sicut praedixerat, fusus fugatusque esset Romanus exercitus et duae cohortes ab hoste obsiderentur, cum paucis equitum turmis in saltum reversus liberavit eas et incolumes reduxit.",
-    "korean": ""
+    "korean": "그가 예견한 대로 로마군이 무너져 달아나고 두 대대가 적에게 포위되자, 스키피오는 소수의 기병대와 함께 협로로 돌아가 그들을 구하고 무사히 데려왔다."
   },
   {
     "id": "periochae-49-per-015",
@@ -1727,7 +1717,7 @@
     "section": "15",
     "sectionEnd": "15",
     "original": "quam virtutem eius et Cato, vir promptioris ad vituperandum linguae, in senatu sic prosecutus est, ut diceret reliquos, qui in Africa militarent, umbras volitare, Scipionem vigere, et populus Romanus eo favore complexus, ut comitiis plurimae eum tribus consulem scriberent, cum hoc per aetatem non liceret.",
-    "korean": ""
+    "korean": "남을 헐뜯는 데 더 날카로운 혀를 지녔던 카토조차 원로원에서 그의 용기를 칭찬하며, 아프리카에서 복무하는 나머지 자들은 그림자처럼 떠돌지만 스키피오만은 살아 움직인다고 말했다. 로마 인민도 그를 대단히 총애하여, 나이 때문에 허용되지 않는데도 선거에서 아주 많은 트리부스가 그를 집정관으로 기표했다."
   },
   {
     "id": "periochae-49-per-016",
@@ -1736,8 +1726,8 @@
     "chapter": "per",
     "section": "16",
     "sectionEnd": "16",
-    "original": "cum L. Scribonius tribunus plebis rogationem promulgasset, ut Lusitani, qui in fidem populo R. dediti ab Ser.",
-    "korean": ""
+    "original": "cum L. Scribonius tribunus plebis rogationem promulgasset, ut Lusitani, qui in fidem populo R. dediti ab Ser. Galba in Gallia venissent, in libertatem restituerentur, M. Cato acerrime suasit.",
+    "korean": "평민 호민관 루키우스 스크리보니우스가 로마 인민의 신의에 자신을 맡기고 항복했다가 세르비우스 갈바에 의해 갈리아로 끌려간 루시타니아인들을 자유의 몸으로 되돌리자는 법안을 공표하자, 마르쿠스 카토가 이를 매우 강력하게 지지했다."
   },
   {
     "id": "periochae-49-per-017",
@@ -1746,8 +1736,8 @@
     "chapter": "per",
     "section": "17",
     "sectionEnd": "17",
-    "original": "Galba in Gallia venissent, in libertatem restituerentur, M. Cato acerrime suasit.",
-    "korean": ""
+    "original": "extat oratio in annalibus ipsius inclusa.",
+    "korean": "그 연설은 카토 자신의 『연대기』에 수록되어 지금도 남아 있다."
   },
   {
     "id": "periochae-49-per-018",
@@ -1756,8 +1746,8 @@
     "chapter": "per",
     "section": "18",
     "sectionEnd": "18",
-    "original": "extat oratio in annalibus ipsius inclusa.",
-    "korean": ""
+    "original": "Q. Fulvius Nobilior ei, saepe ab eo in senatu laceratus, respondit pro Galba.",
+    "korean": "원로원에서 카토에게 자주 공격받았던 퀸투스 풀비우스 노빌리오르가 갈바를 변호하며 그에게 답했다."
   },
   {
     "id": "periochae-49-per-019",
@@ -1766,8 +1756,8 @@
     "chapter": "per",
     "section": "19",
     "sectionEnd": "19",
-    "original": "Q. Fulvius Nobilior ei, saepe ab eo in senatu laceratus, respondit pro Galba.",
-    "korean": ""
+    "original": "ipse quoque Galba, cum se damnari videret, complexus duos filios praetextatos et Sulpicii Gali filium, cuius tutor erat, ita miserabiliter pro se locutus est, ut rogatio antiquaretur.",
+    "korean": "갈바 자신도 유죄 판결을 받게 되었음을 깨닫자, 토가 프라이텍스타를 입은 두 아들과 자신이 후견하던 술피키우스 갈루스의 아들을 끌어안고 너무도 애처롭게 자신을 변호했다. 그 때문에 법안은 부결되었다."
   },
   {
     "id": "periochae-49-per-020",
@@ -1776,8 +1766,8 @@
     "chapter": "per",
     "section": "20",
     "sectionEnd": "20",
-    "original": "ipse quoque Galba, cum se damnari videret, complexus duos filios praetextatos et Sulpicii Gali filium, cuius tutor erat, ita miserabiliter pro se locutus est, ut rogatio antiquaretur.",
-    "korean": ""
+    "original": "extant tres orationes eius, duae adversus Libonem tribunum plebis rogationemque eius habitae de Lusitanis, una contra L. Cornelium Cethegum, in qua Lusitanos prope se castra habentis caesos fatetur, quod compertum habuerit equo atque homine suo ritu immolatis per speciem pacis adoriri exercitum suum in animo habuisse.",
+    "korean": "그의 연설 세 편이 남아 있다. 두 편은 평민 호민관 리보와 그의 루시타니아인 법안에 맞서 한 것이고, 한 편은 루키우스 코르넬리우스 케테구스를 상대로 한 것이다. 마지막 연설에서 갈바는 자기 진영 가까이에 있던 루시타니아인들을 죽였다고 인정한다. 그들이 관습에 따라 말과 사람을 제물로 바쳤고, 평화를 내세워 자기 군대를 습격할 뜻을 품고 있음을 알아냈기 때문이라고 했다."
   },
   {
     "id": "periochae-49-per-021",
@@ -1786,8 +1776,8 @@
     "chapter": "per",
     "section": "21",
     "sectionEnd": "21",
-    "original": "extant tres orationes eius, duae adversus Libonem tribunum plebis rogationemque eius habitae de Lusitanis, una contra L. Cornelium Cethegum, in qua Lusitanos prope se castra habentis caesos fatetur, quod compertum habuerit equo atque homine suo ritu immolatis per speciem pacis adoriri exercitum suum in animo habuisse.",
-    "korean": ""
+    "original": "Andriscus quidam, ultimae sortis homo, Persei regis filium se ferens et mutato nomine Philippus vocatus, cum ab urbe Romana, quo illum Demetrius Syriae rex ob hoc ipsum mendacium miserat, clam profugisset, multis ad falsam eius fabulam velut ad veram coeuntibus, contracto exercitu totam Macedoniam aut voluntate incolentium aut armis occupavit.",
+    "korean": "비천한 처지의 사람 안드리스코스는 자신이 페르세우스 왕의 아들이라 칭하고 이름을 바꾸어 필리포스라 했다. 시리아 왕 데메트리오스가 바로 그 거짓말 때문에 그를 보냈던 로마에서 몰래 달아난 뒤, 거짓 이야기를 참말처럼 믿은 많은 이들이 그에게 모였다. 그는 군대를 모아 주민들의 자발적인 동의나 무력으로 마케도니아 전역을 차지했다."
   },
   {
     "id": "periochae-49-per-022",
@@ -1796,8 +1786,8 @@
     "chapter": "per",
     "section": "22",
     "sectionEnd": "22",
-    "original": "Andriscus quidam, ultimae sortis homo, Persei regis filium se ferens et mutato nomine Philippus vocatus, cum ab urbe Romana, quo illum Demetrius Syriae rex ob hoc ipsum mendacium miserat, clam profugisset, multis ad falsam eius fabulam velut ad veram coeuntibus, contracto exercitu totam Macedoniam aut voluntate incolentium aut armis occupavit.",
-    "korean": ""
+    "original": "fabulam autem talem finxerat: ex paelice se et Perseo rege ortum, traditum educandum Cretensi cuidam esse, ut in belli casus, quod ille cum Romanis gereret, aliquod velut semen regiae stirpis extaret.",
+    "korean": "그가 꾸며 낸 이야기는 이러했다. 자신은 페르세우스 왕과 첩 사이에서 태어났으며, 페르세우스가 로마인들과 벌인 전쟁에서 무슨 일이 생기더라도 왕가 혈통의 씨앗 하나만은 남도록 어떤 크레타인에게 맡겨져 길러졌다는 것이다."
   },
   {
     "id": "periochae-49-per-023",
@@ -1806,8 +1796,8 @@
     "chapter": "per",
     "section": "23",
     "sectionEnd": "23",
-    "original": "fabulam autem talem finxerat: ex paelice se et Perseo rege ortum, traditum educandum Cretensi cuidam esse, ut in belli casus, quod ille cum Romanis gereret, aliquod velut semen regiae stirpis extaret.",
-    "korean": ""
+    "original": "Adramyti se educatum usque ad duodecimum aetatis annum, patrem eum esse credentem, a quo educaretur, ignarum generis fuisse sui.",
+    "korean": "자신은 아드라뮈티온에서 열두 살까지 자랐으며, 자기 혈통을 알지 못한 채 길러 준 사람을 아버지로 믿었다고 했다."
   },
   {
     "id": "periochae-49-per-024",
@@ -1816,8 +1806,8 @@
     "chapter": "per",
     "section": "24",
     "sectionEnd": "24",
-    "original": "Adramyti se educatum usque ad duodecimum aetatis annum, patrem eum esse credentem, a quo educaretur, ignarum generis fuisse sui.",
-    "korean": ""
+    "original": "adfecto deinde eo, cum prope ad ultimum finem vitae esset, detectam tandem sibi originem suam falsaeque matri libellum datum signo Persei regis signatum, quem sibi traderet, cum ad puberem aetatem venisset, obtestationesque ultimas adiectas, ut res in occulto ad id tempus servaretur.",
+    "korean": "뒤에 그 사람이 병들어 삶의 마지막에 가까워졌을 때에야 자신의 출생을 밝혀 주었다고 했다. 또 페르세우스 왕의 인장이 찍힌 문서를 거짓 어머니에게 맡기며 자신이 성년이 되면 건네라고 했고, 그때까지 비밀을 지키라는 마지막 당부를 덧붙였다는 것이다."
   },
   {
     "id": "periochae-49-per-025",
@@ -1826,8 +1816,8 @@
     "chapter": "per",
     "section": "25",
     "sectionEnd": "25",
-    "original": "adfecto deinde eo, cum prope ad ultimum finem vitae esset, detectam tandem sibi originem suam falsaeque matri libellum datum signo Persei regis signatum, quem sibi traderet, cum ad puberem aetatem venisset, obtestationesque ultimas adiectas, ut res in occulto ad id tempus servaretur.",
-    "korean": ""
+    "original": "pubescenti libellum traditum, in quo relicti sibi duo thensauri a patre dicerentur.",
+    "korean": "성년이 되자 그 문서를 받았는데, 거기에는 아버지가 보물 두 곳을 자신에게 남겼다고 적혀 있었다고 했다."
   },
   {
     "id": "periochae-49-per-026",
@@ -1836,8 +1826,8 @@
     "chapter": "per",
     "section": "26",
     "sectionEnd": "26",
-    "original": "pubescenti libellum traditum, in quo relicti sibi duo thensauri a patre dicerentur.",
-    "korean": ""
+    "original": "tum scienti mulierem se subditum esse, veram stirpem ignoranti edidisse genus atque obtestatam, ut prius quam manaret ad Eumenen res, Perseo inimicum, excederet his locis, ne interficeretur.",
+    "korean": "그때까지 자신이 그 여자에게 맡겨진 아이임은 알았지만 참된 혈통은 몰랐는데, 여자가 출생의 비밀을 밝혀 주고 이렇게 간청했다는 것이다. 이 일이 페르세우스의 적 에우메네스에게 알려지기 전에 이곳을 떠나 죽음을 피하라는 것이었다."
   },
   {
     "id": "periochae-49-per-027",
@@ -1846,18 +1836,8 @@
     "chapter": "per",
     "section": "27",
     "sectionEnd": "27",
-    "original": "tum scienti mulierem se subditum esse, veram stirpem ignoranti edidisse genus atque obtestatam, ut prius quam manaret ad Eumenen res, Perseo inimicum, excederet his locis, ne interficeretur.",
-    "korean": ""
-  },
-  {
-    "id": "periochae-49-per-028",
-    "book": 49,
-    "ref": "Liv. Per. 49.28",
-    "chapter": "per",
-    "section": "28",
-    "sectionEnd": "28",
     "original": "eo se exterritum, simul sperantem aliquod a Demetrio auxilium in Syriam se contulisse atque ibi primum, quis esset, palam expromere ausum.",
-    "korean": ""
+    "korean": "자신은 두려움에 사로잡힌 한편 데메트리오스에게서 어떤 도움을 받을 수 있으리라 기대하여 시리아로 갔고, 그곳에서 처음으로 자기가 누구인지 공개적으로 밝힐 용기를 냈다고 했다."
   },
   {
     "id": "periochae-50-per-001",
@@ -1867,7 +1847,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "Thessalia, cum et illam invadere armis atque occupare Pseudophilippus vellet, per legatos Romanorum auxiliis Achaeorum defensa est.",
-    "korean": ""
+    "korean": "가짜 필리포스가 무력으로 침입해 차지하려던 테살리아는 로마 사절들의 주선으로 아카이아인들의 지원을 받아 방어되었다."
   },
   {
     "id": "periochae-50-per-002",
@@ -1877,7 +1857,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "Prusias rex Bithyniae, omnium humillimorumque vitiorum, a Nicomede filio, adiuvante Attalo rege Pergami, occisus, habebat alterum filium, qui pro superiore ordine dentium enatum habuisse unum os continens dicitur.",
-    "korean": ""
+    "korean": "온갖 가장 비천한 악덕을 지녔던 비튀니아 왕 프루시아스는 페르가몬 왕 아탈로스의 도움을 받은 아들 니코메데스에게 살해되었다. 그에게는 아들이 하나 더 있었는데, 이 아들은 윗니 한 줄 대신 그것을 모두 담은 뼈 하나가 자라 있었다고 한다."
   },
   {
     "id": "periochae-50-per-003",
@@ -1887,7 +1867,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "cum III legati ad pacem inter Nicomeden et Prusiam faciendam ab Romanis missi essent, cum unus ex his multis cicatricibus sparsum caput haberet, alter pedibus aeger esset, tertius ingenio socors haberetur, M. Cato dixit eam in legationem, nec caput nec pedes nec cor habere.",
-    "korean": ""
+    "korean": "로마가 니코메데스와 프루시아스를 화해시키려고 사절 세 명을 보냈다. 그중 한 명은 머리가 수많은 흉터로 뒤덮였고, 다른 한 명은 다리가 아팠으며, 셋째는 머리가 둔하다고 여겨졌다. 마르쿠스 카토는 이 사절단에는 머리도 발도 가슴도 없다고 말했다."
   },
   {
     "id": "periochae-50-per-004",
@@ -1897,7 +1877,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "in Syria, quae eo tempore stirpe generis parem Macedonum regis, inertia socordiaque similem Prusiae regem habebat, iacente eo in ganea et lustris Hammonius regnabat, per quem et amici omnes regis et Laodice regina et Antigonus Demetri filius occisi sunt.",
-    "korean": ""
+    "korean": "당시 시리아에는 혈통의 정당성에서는 마케도니아 왕과 동급이고 무기력과 나태함에서는 프루시아스와 닮은 왕이 있었다. 그가 음식점과 유곽에 처박혀 있는 동안 함모니오스가 통치했으며, 왕의 모든 친구와 왕비 라오디케, 데메트리오스의 아들 안티고노스도 함모니오스에게 살해되었다."
   },
   {
     "id": "periochae-50-per-005",
@@ -1907,7 +1887,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "Masinissa Numidiae rex maior nonaginta annis decessit, vir insignis.",
-    "korean": ""
+    "korean": "누미디아 왕 마시니사가 아흔 살을 넘겨 죽었다. 그는 뛰어난 인물이었다."
   },
   {
     "id": "periochae-50-per-006",
@@ -1917,7 +1897,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "inter cetera iuvenalia opera, quae ad ultimum edidit, adeo etiam veneris usu in senecta viguit, ut post sextum et octogesimum annum filium genuerit.",
-    "korean": ""
+    "korean": "그가 생애 마지막까지 보여 준 다른 젊은이다운 활력 가운데서도, 노년에 성적 능력이 대단히 왕성하여 여든여섯 살이 지난 뒤에도 아들을 낳았다."
   },
   {
     "id": "periochae-50-per-007",
@@ -1927,7 +1907,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "inter tres liberos eius (maximus natu Micipsa, Gulussa, Mastanabal, qui etiam Graecis litteris eruditus erat) P. Scipio Aemilianus, cum commune his regnum pater reliquisset et dividere eos arbitro Scipione iussisset, partes administrandi regni divisit.",
-    "korean": ""
+    "korean": "마시니사는 맏아들 미킵사, 굴루사, 그리고 그리스 문학에도 정통한 마스타나발, 세 아들에게 공동 왕국을 남기고 스키피오의 판단에 따라 나누라고 명했다. 푸블리우스 스키피오 아이밀리아누스는 세 사람에게 왕국을 통치할 역할을 나누어 주었다."
   },
   {
     "id": "periochae-50-per-008",
@@ -1937,7 +1917,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "item Phameae Himilconi, praefecto equitum Carthaginiensium, viro forti et cuius praecipua opera Poeni utebantur, persuasit, ut ad Romanos cum equitatu suo transiret.",
-    "korean": ""
+    "korean": "스키피오는 또 카르타고 기병대장 파마이아스 히밀콘을 설득하여 자기 기병과 함께 로마 편으로 넘어오게 했다. 그는 용맹한 사람이었고 포에니인들이 특히 크게 의지하던 인물이었다."
   },
   {
     "id": "periochae-50-per-009",
@@ -1947,7 +1927,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "ex tribus legatis, qui ad Masinissam missi erant, M. Claudius Marcellus coorta tempestate fluctibus obrutus est.",
-    "korean": ""
+    "korean": "마시니사에게 파견된 사절 세 명 가운데 마르쿠스 클라우디우스 마르켈루스는 폭풍이 일어나 파도에 휩쓸려 죽었다."
   },
   {
     "id": "periochae-50-per-010",
@@ -1957,7 +1937,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "Carthaginienses Hasdrubalem, Masinissae nepotem, quem praetorem habebant, hominem proditionis suspectum in curia occiderunt; quae suspicio inde manavit, quod propincus esset Gulussae Romanorum auxilia iuvantis.",
-    "korean": ""
+    "korean": "카르타고인들은 자기들의 장군이던 마시니사의 외손자 하스드루발을 배신 혐의가 있는 사람으로 여겨 원로원 회의장에서 죽였다. 그가 로마인들의 지원을 돕던 굴루사의 친척이라는 데서 의심이 생겼다."
   },
   {
     "id": "periochae-50-per-011",
@@ -1967,7 +1947,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "P. Scipio Aemilianus cum aedilitatem peteret, consul a populo dictus.",
-    "korean": ""
+    "korean": "푸블리우스 스키피오 아이밀리아누스는 조영관직에 출마했다가 인민에 의해 집정관으로 지명되었다."
   },
   {
     "id": "periochae-50-per-012",
@@ -1976,8 +1956,8 @@
     "chapter": "per",
     "section": "12",
     "sectionEnd": "12",
-    "original": "quoniam per annos consuli fieri non licebat, cum magno certamine suffragantis plebis et repugnantibus ei aliquamdiu patribus, legibus solutus et consul creatus. M'.",
-    "korean": ""
+    "original": "quoniam per annos consuli fieri non licebat, cum magno certamine suffragantis plebis et repugnantibus ei aliquamdiu patribus, legibus solutus et consul creatus.",
+    "korean": "그는 나이 제한 때문에 집정관이 될 수 없었다. 인민이 그를 지지하고 원로원 의원들이 한동안 반대하면서 큰 다툼이 벌어진 끝에, 법률의 적용을 면제받고 집정관으로 선출되었다."
   },
   {
     "id": "periochae-50-per-013",
@@ -1986,8 +1966,8 @@
     "chapter": "per",
     "section": "13",
     "sectionEnd": "13",
-    "original": "Manilius aliquot urbes circumpositas Carthagini expugnavit.",
-    "korean": ""
+    "original": "M'. Manilius aliquot urbes circumpositas Carthagini expugnavit.",
+    "korean": "마니우스 마닐리우스가 카르타고 주변의 여러 도시를 함락했다."
   },
   {
     "id": "periochae-50-per-014",
@@ -1997,7 +1977,7 @@
     "section": "14",
     "sectionEnd": "14",
     "original": "Pseudophilippus in Macedonia, caeso cum exercitu P. Iuventio praetore, ab Q. Caecilio victus captusque est, et recepta Macedonia.",
-    "korean": ""
+    "korean": "마케도니아의 가짜 필리포스는 법무관 푸블리우스 유벤티우스와 그의 군대를 살해했으나, 퀸투스 카이킬리우스에게 패해 사로잡혔으며 마케도니아는 되찾아졌다."
   },
   {
     "id": "periochae-51-per-001",
@@ -2006,8 +1986,8 @@
     "chapter": "per",
     "section": "1",
     "sectionEnd": "1",
-    "original": "Carthago, in circuitum XXIII passuum patens.",
-    "korean": ""
+    "original": "Carthago, in circuitum XXIII milia passuum patens.",
+    "korean": "카르타고는 둘레가 23로마마일에 이르는 도시였다."
   },
   {
     "id": "periochae-51-per-002",
@@ -2017,7 +1997,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "magno labore obsessa et per partes capta est; primum a Mancino legato, deinde a Scipione consule, cui extra sortem Africa provincia data erat.",
-    "korean": ""
+    "korean": "도시는 큰 노고 끝에 포위되어 구역별로 점령되었다. 처음에는 부장 만키누스가, 뒤에는 추첨 절차 없이 아프리카를 관할지로 받은 집정관 스키피오가 점령을 이끌었다."
   },
   {
     "id": "periochae-51-per-003",
@@ -2027,7 +2007,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "Carthaginienses portu novo, quia vetus obstructus a Scipione erat, facto et contracta clam exiguo tempore ampla classe infeliciter navali proelio pugnaverunt.",
-    "korean": ""
+    "korean": "카르타고인들은 옛 항구가 스키피오에게 봉쇄되자 새 항구를 만들고 짧은 시간에 몰래 대규모 함대를 모았으나, 해전에서 불운하게 싸웠다."
   },
   {
     "id": "periochae-51-per-004",
@@ -2037,7 +2017,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "Hasdrubalis quoque, ducis eorum, castra ad Nepherim oppidum loco difficili sita cum exercitu deleta sunt a Scipione, qui tandem expugnavit septingentesimo anno quam erat condita, spoliorum maior pars Siculis, quibus ablata erant, reddita.",
-    "korean": ""
+    "korean": "스키피오는 네페리스 도시 가까운 험지에 자리 잡은 카르타고 지휘관 하스드루발의 진영과 그 군대를 파괴했고, 마침내 카르타고를 건국 700년 만에 함락했다. 전리품의 대부분은 본래 그것을 빼앗겼던 시켈리아인들에게 돌려주었다."
   },
   {
     "id": "periochae-51-per-005",
@@ -2047,7 +2027,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "ultimo urbis excidio, cum se Hasdrubal Scipioni dedisset, uxor eius, quae paucis ante diebus de marito impetrare non potuerat, ut ad victorem transfugerent, in medium se flagrantis urbis incendium cum duobus liberis ex arce praecipitavit.",
-    "korean": ""
+    "korean": "도시가 마지막으로 파괴될 때 하스드루발은 스키피오에게 항복했다. 며칠 전만 해도 남편에게 승자에게로 달아나자고 설득했으나 뜻을 이루지 못했던 그의 아내는 두 아이와 함께 성채에서 불타는 도시 한가운데로 몸을 던졌다."
   },
   {
     "id": "periochae-51-per-006",
@@ -2057,7 +2037,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "Scipio exemplo patris sui Aemilii Pauli, qui Macedoniam vicerat, ludos fecit transfugasque ac fugitivos bestiis obiecit.",
-    "korean": ""
+    "korean": "스키피오는 마케도니아를 무찌른 자기 아버지 아이밀리우스 파울루스의 본을 따라 경기를 열고, 전향자들과 탈주자들을 맹수에게 던졌다."
   },
   {
     "id": "periochae-51-per-007",
@@ -2067,7 +2047,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "belli Achaici semina referuntur haec, quod legati Romani ab Achaeis pulsati sint Corinthi, missi, ut eas civitates, quae sub dicione Philippi fuerant, ab Achaico concilio secernerent.",
-    "korean": ""
+    "korean": "아카이아 전쟁의 씨앗들은 이러했다. 로마 사절들이 코린토스에서 아카이아인들에게 폭행당했는데, 그 사절들은 과거 필리포스의 지배 아래 있던 도시들을 아카이아 연맹에서 떼어 놓으려고 파견된 이들이었다."
   },
   {
     "id": "periochae-52-per-001",
@@ -2077,7 +2057,7 @@
     "section": "1",
     "sectionEnd": "1",
     "original": "cum Achaeis, qui in auxilio Boeotos et Chalcidenses habebant, Q. Caecilius Metellus ad Thermopylas bello conflixit; quibus victis dux eorum Critolaus mortem sibi veneno conscivit.",
-    "korean": ""
+    "korean": "퀸투스 카이킬리우스 메텔루스는 보이오티아인과 칼키스인의 지원을 받은 아카이아인들과 테르모퓔라이에서 교전했다. 그들이 패하자 지휘관 크리톨라오스는 독약을 먹어 스스로 목숨을 끊었다."
   },
   {
     "id": "periochae-52-per-002",
@@ -2087,7 +2067,7 @@
     "section": "2",
     "sectionEnd": "2",
     "original": "in cuius locum Diaeus, Achaici motus primus auctor, ab Achaeis dux creatus ad Isthmon a L. Mummio consule victus est.",
-    "korean": ""
+    "korean": "아카이아 소요를 처음 일으킨 다이오스가 그의 자리를 이어 아카이아인들의 지휘관으로 선출되었으나, 이스트모스에서 집정관 루키우스 뭄미우스에게 패했다."
   },
   {
     "id": "periochae-52-per-003",
@@ -2097,7 +2077,7 @@
     "section": "3",
     "sectionEnd": "3",
     "original": "qui omni Achaia in deditionem accepta Corinthon ex senatus consulto diruit, quia ibi legati Romani violati erant.",
-    "korean": ""
+    "korean": "뭄미우스는 아카이아 전역의 항복을 받은 뒤 원로원 결의에 따라 코린토스를 파괴했다. 그곳에서 로마 사절들이 폭행당했기 때문이다."
   },
   {
     "id": "periochae-52-per-004",
@@ -2107,7 +2087,7 @@
     "section": "4",
     "sectionEnd": "4",
     "original": "Thebae quoque et Chalcis, quae auxilio fuerant, dirutae.",
-    "korean": ""
+    "korean": "아카이아를 도운 테바이와 칼키스도 파괴되었다."
   },
   {
     "id": "periochae-52-per-005",
@@ -2117,7 +2097,7 @@
     "section": "5",
     "sectionEnd": "5",
     "original": "ipse L. Mummius abstinentissimum virum egit, nec quicquam ex his operibus ornamentisque, quae praedives Corinthos habuit, in domum eius pervenit.",
-    "korean": ""
+    "korean": "루키우스 뭄미우스 자신은 극도의 청렴함을 보였다. 막대한 부를 지닌 코린토스가 소유했던 미술품과 장식품 가운데 어느 것도 그의 집으로 들어가지 않았다."
   },
   {
     "id": "periochae-52-per-006",
@@ -2127,7 +2107,7 @@
     "section": "6",
     "sectionEnd": "6",
     "original": "Q. Caecilius Metellus de Andrisco triumphavit, P. Cornelius [Africanus] Scipio Aemilianus de Carthagine et Hasdrubale.",
-    "korean": ""
+    "korean": "퀸투스 카이킬리우스 메텔루스는 안드리스코스를 이긴 개선식을, 푸블리우스 코르넬리우스 스키피오 아이밀리아누스 아프리카누스는 카르타고와 하스드루발을 이긴 개선식을 거행했다."
   },
   {
     "id": "periochae-52-per-007",
@@ -2137,7 +2117,7 @@
     "section": "7",
     "sectionEnd": "7",
     "original": "Viriathus in Hispania primum ex pastore venator, ex venatore latro, mox iusti quoque exercitus dux factus, totam Lusitaniam occupavit, M. Vetilium praetorem fuso eius exercitu cepit; post quem C. Plautius praetor nihilo felicius rem gessit; tantumque terroris is hostis intulit, ut adversus eum consulari opus esset et duce et exercitu.",
-    "korean": ""
+    "korean": "비리아투스는 히스파니아에서 처음에는 목동이었다가 사냥꾼이 되고, 사냥꾼에서 도적이 되었다가 곧 정규군의 지휘관까지 되어 루시타니아 전역을 차지했다. 그는 법무관 마르쿠스 베틸리우스의 군대를 무찌르고 베틸리우스를 사로잡았다. 뒤를 이은 법무관 가이우스 플라우티우스도 조금도 더 나은 성과를 거두지 못했다. 이 적이 불러온 공포가 너무 커서 그에게 맞서려면 집정관급 지휘관과 집정관급 군대가 필요했다."
   },
   {
     "id": "periochae-52-per-008",
@@ -2147,7 +2127,7 @@
     "section": "8",
     "sectionEnd": "8",
     "original": "praeterea motus Syriae et bella inter reges gesta referuntur.",
-    "korean": ""
+    "korean": "그 밖에 시리아의 소요와 여러 왕 사이에 벌어진 전쟁들이 서술된다."
   },
   {
     "id": "periochae-52-per-009",
@@ -2157,7 +2137,7 @@
     "section": "9",
     "sectionEnd": "9",
     "original": "Alexander, homo ignotus et incertae stirpis, occiso, sicut ante dictum est, Demetrio rege in Syria regnabat.",
-    "korean": ""
+    "korean": "앞서 말했듯 데메트리오스 왕이 살해된 뒤, 출신을 알 수 없고 혈통도 불분명한 알렉산드로스라는 사람이 시리아를 다스리고 있었다."
   },
   {
     "id": "periochae-52-per-010",
@@ -2167,7 +2147,7 @@
     "section": "10",
     "sectionEnd": "10",
     "original": "hunc Demetrius Demetri filius, qui a patre quondam ob incertos belli casus ablegatus Cnidon fuerat, contempta socordia inertiaque eius, adiuvante Ptolemaeo Aegypti rege, cuius filiam Cleopatram in matrimonium acceperat, bello interemit.",
-    "korean": ""
+    "korean": "데메트리오스의 아들 데메트리오스는 알렉산드로스의 무기력과 나태함을 업신여기고 전쟁에서 그를 죽였다. 그는 아버지가 한때 전쟁의 불확실한 사태에 대비해 크니도스로 멀리 보내 두었던 사람이며, 딸 클레오파트라를 아내로 준 이집트 왕 프톨레마이오스의 도움을 받았다."
   },
   {
     "id": "periochae-52-per-011",
@@ -2177,7 +2157,7 @@
     "section": "11",
     "sectionEnd": "11",
     "original": "Ptolemaeus graviter in caput vulneratus inter curationem, dum ossa medici terebrare conantur, expiravit, atque in locum eius frater minor Ptolemaeus, qui Cyrenis regnabat, successit.",
-    "korean": ""
+    "korean": "프톨레마이오스는 머리에 중상을 입고 치료를 받던 중, 의사들이 뼈에 구멍을 뚫으려 할 때 숨을 거두었다. 그의 뒤는 퀴레네를 다스리던 동생 프톨레마이오스가 이었다."
   },
   {
     "id": "periochae-52-per-012",
@@ -2187,7 +2167,7 @@
     "section": "12",
     "sectionEnd": "12",
     "original": "Demetrius ob crudelitatem, quam in suos per tormenta exercebat, ab Diodoto quodam, uno ex subiectis, qui Alexandri filio bimulo admodum regnum adserebat, bello superatus Seleuceam confugit.",
-    "korean": ""
+    "korean": "데메트리오스는 자기 백성들에게 고문으로 잔혹함을 행사했기 때문에, 신하 가운데 하나인 디오도토스에게 전쟁에서 패하여 셀레우케이아로 달아났다. 디오도토스는 겨우 두 살 난 알렉산드로스의 아들을 위해 왕위를 주장하고 있었다."
   },
   {
     "id": "periochae-52-per-013",
@@ -2197,6 +2177,6 @@
     "section": "13",
     "sectionEnd": "13",
     "original": "L. Mummius de Achaeis triumphavit, signa aerea marmoreaque et tabulas pictas in triumpho tulit.",
-    "korean": ""
+    "korean": "루키우스 뭄미우스는 아카이아인들을 이긴 개선식을 거행하며 청동상과 대리석상, 회화 작품들을 행렬에 내세웠다."
   }
 ]

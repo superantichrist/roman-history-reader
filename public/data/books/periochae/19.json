@@ -13,7 +13,7 @@
   "periodLabel": "기원전 264–219년",
   "chapterCount": 1,
   "passageCount": 15,
-  "translationCount": 0,
+  "translationCount": 15,
   "chapters": [
     "per"
   ],
@@ -32,9 +32,9 @@
       "paragraph": 1,
       "ref": "Liv. Per. 19.1",
       "original": "CAECILIUS METELLUS rebus adversus Poenos prospere gestis speciosum egit triumphum, xiii ducibus hostium et cxx elephantis in eo ductis.",
-      "korean": "",
+      "korean": "카이킬리우스 메텔루스는 카르타고인들을 상대로 성공을 거둔 뒤 장관을 이루는 개선식을 거행했다. 적의 지휘관 열세 명과 코끼리 120마리가 그 행렬에 끌려갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -50,10 +50,10 @@
       ],
       "paragraph": 2,
       "ref": "Liv. Per. 19.2",
-      "original": "Claudius Pulcher cos. contra auspicia profectus—iussit mergi pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit, sortis ultimate hominem, qui coactus abdicare se magistratu pbstea ludos praetextatus spectavit.",
-      "korean": "",
+      "original": "Claudius Pulcher cos. contra auspicia profectus—iussit mergi pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit, sortis ultimae hominem, qui coactus abdicare se magistratu postea ludos praetextatus spectavit.",
+      "korean": "집정관 클라우디우스 풀케르는 조짐을 거슬러 출전했다. 먹이를 먹지 않으려는 성스러운 닭들을 물에 빠뜨리라고 명령한 그는 카르타고인들과 해전을 벌여 참패했다. 원로원에 소환되어 독재관을 지명하라는 명령을 받자 가장 낮은 신분의 사람인 클라우디우스 글리키아를 지명했다. 글리키아는 강제로 관직에서 물러난 뒤에도 나중에 자주색 테두리 토가를 입고 경기를 구경했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -69,10 +69,10 @@
       ],
       "paragraph": 3,
       "ref": "Liv. Per. 19.3",
-      "original": "A. Atilius Calatinns primus dictator extra Italiam exercitum duxit.",
-      "korean": "",
+      "original": "A. Atilius Calatinus primus dictator extra Italiam exercitum duxit.",
+      "korean": "아울루스 아틸리우스 칼라티누스는 독재관으로서는 처음으로 군대를 이끌고 이탈리아 밖으로 나갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -89,9 +89,9 @@
       "paragraph": 4,
       "ref": "Liv. Per. 19.4",
       "original": "commutatio captivorum cum Poenis facta est.",
-      "korean": "",
+      "korean": "카르타고인들과 포로를 교환했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -108,9 +108,9 @@
       "paragraph": 5,
       "ref": "Liv. Per. 19.5",
       "original": "coloniae deductae sunt Fregenae, in agro Sallentino Brundisium.",
-      "korean": "",
+      "korean": "프레게나이에, 그리고 살렌툼 영토의 브룬디시움에 식민시가 건설되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -127,9 +127,9 @@
       "paragraph": 6,
       "ref": "Liv. Per. 19.6",
       "original": "lustrum a censoribus conditum est.",
-      "korean": "",
+      "korean": "감찰관들이 인구조사를 마치고 정화 의식을 거행했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -146,9 +146,9 @@
       "paragraph": 7,
       "ref": "Liv. Per. 19.7",
       "original": "censa sunt civium capita C̅C̅X̅L̅I̅ CCXII.",
-      "korean": "",
+      "korean": "조사된 시민의 수는 24만 1,212명이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +165,14 @@
       "paragraph": 8,
       "ref": "Liv. Per. 19.8",
       "original": "Claudia, soror P. Claudi, qui contemptis auspiciis male pugnaverat, a ludis revertens cum turba premeretur, dixit: Utinam frater meus viveret; iterum classem duceret.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "불길한 조짐을 무시하고 싸웠다가 패한 푸블리우스 클라우디우스의 누이 클라우디아는 경기장에서 돌아오던 중 군중에 짓눌리자 이렇게 말했다. ‘내 오라비가 살아 있어서 다시 함대를 지휘하면 좋으련만.’",
+      "notes": [
+        {
+          "label": "클라우디아의 말",
+          "text": "군중이 줄도록 오라비가 로마 함대를 또 잃어버렸으면 좋겠다는 악의적인 뜻이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -184,9 +189,9 @@
       "paragraph": 9,
       "ref": "Liv. Per. 19.9",
       "original": "ob eam causam multa ei dicta est.",
-      "korean": "",
+      "korean": "그 말 때문에 클라우디아에게 벌금이 부과되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -203,9 +208,9 @@
       "paragraph": 10,
       "ref": "Liv. Per. 19.10",
       "original": "duo praetores tunc primum creati sunt.",
-      "korean": "",
+      "korean": "법무관 두 명이 이때 처음으로 선출되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -221,10 +226,10 @@
       ],
       "paragraph": 11,
       "ref": "Liv. Per. 19.11",
-      "original": "Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idem et flamen Martialis erat, cum is ad bellum gerendum proficisci vellet, 'in urbe tenuit nec passus est a sacris recedere.",
-      "korean": "",
+      "original": "Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idem et flamen Martialis erat, cum is ad bellum gerendum proficisci vellet, in urbe tenuit nec passus est a sacris recedere.",
+      "korean": "최고신관 카이킬리우스 메텔루스는 집정관 아울루스 포스투미우스가 동시에 마르스의 제관이기도 했으므로, 그가 전쟁을 수행하러 떠나려 하자 로마시에 붙들어 두고 제의를 떠나지 못하게 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -241,9 +246,9 @@
       "paragraph": 12,
       "ref": "Liv. Per. 19.12",
       "original": "rebus adversus Poenos a pluribus ducibus prospere gestis, summam victoriae C. Lutatius cos. victa ad Aegates insulas classe Poenorum imposuit.",
-      "korean": "",
+      "korean": "여러 지휘관이 카르타고인들을 상대로 성공을 거둔 뒤, 집정관 가이우스 루타티우스가 아이가테스 제도 앞에서 카르타고 함대를 격파하여 승리를 완결했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -260,9 +265,9 @@
       "paragraph": 13,
       "ref": "Liv. Per. 19.13",
       "original": "petentibus Carthaginiensibus pax data est.",
-      "korean": "",
+      "korean": "카르타고인들이 청하자 평화가 주어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -279,9 +284,9 @@
       "paragraph": 14,
       "ref": "Liv. Per. 19.14",
       "original": "cum templum Vestae arderet, Caecilius Metellus, pontifex maximus, ex incendio sacra rapuit.",
-      "korean": "",
+      "korean": "베스타 신전이 불타자 최고신관 카이킬리우스 메텔루스는 불길 속에서 성물들을 꺼냈다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -298,9 +303,9 @@
       "paragraph": 15,
       "ref": "Liv. Per. 19.15",
       "original": "duae tribus adiectae sunt, Velina et Quirina.",
-      "korean": "",
+      "korean": "벨리나와 퀴리나 두 트리부스가 새로 추가되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

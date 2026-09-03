@@ -13,7 +13,7 @@
   "periodLabel": "기원전 292–267년",
   "chapterCount": 1,
   "passageCount": 8,
-  "translationCount": 0,
+  "translationCount": 8,
   "chapters": [
     "per"
   ],
@@ -32,9 +32,9 @@
       "paragraph": 1,
       "ref": "Liv. Per. 15.1",
       "original": "VICTIS Tarentinis pax et libertas data est.",
-      "korean": "",
+      "korean": "타렌툼인들을 격파한 뒤 그들에게 평화와 자유가 주어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -51,9 +51,9 @@
       "paragraph": 2,
       "ref": "Liv. Per. 15.2",
       "original": "legio Campana quae Regium occupaverat obsessa deditione facta securi percussa est.",
-      "korean": "",
+      "korean": "레기움을 점령했던 캄파니아 군단은 포위된 끝에 항복했고, 병사들은 도끼로 처형되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -70,9 +70,9 @@
       "paragraph": 3,
       "ref": "Liv. Per. 15.3",
       "original": "cum legatos Apolloniatium ad senatum missos quidam iuvenes pulsassent, dediti sunt Apolloniatibus.",
-      "korean": "",
+      "korean": "원로원에 파견된 아폴로니아 사절들을 몇몇 젊은이가 폭행하자, 그 젊은이들은 아폴로니아인들에게 넘겨졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -89,9 +89,9 @@
       "paragraph": 4,
       "ref": "Liv. Per. 15.4",
       "original": "Picentibus victis pax data est.",
-      "korean": "",
+      "korean": "피케눔인들을 격파한 뒤 그들에게 평화가 주어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -108,9 +108,9 @@
       "paragraph": 5,
       "ref": "Liv. Per. 15.5",
       "original": "coloniae deductae Ariminum in Piceno, Beneventum in Samnio.",
-      "korean": "",
+      "korean": "피케눔의 아리미눔과 삼니움의 베네벤툼에 식민시가 건설되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -127,9 +127,9 @@
       "paragraph": 6,
       "ref": "Liv. Per. 15.6",
       "original": "tunc primum populus R. argento uti coepit.",
-      "korean": "",
+      "korean": "이때 로마 인민이 처음으로 은화를 사용하기 시작했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -146,9 +146,9 @@
       "paragraph": 7,
       "ref": "Liv. Per. 15.7",
       "original": "Umbri et Sallentini victi in deditionem accepti sunt.",
-      "korean": "",
+      "korean": "움브리아인들과 살렌툼인들은 패배해 항복했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +165,9 @@
       "paragraph": 8,
       "ref": "Liv. Per. 15.8",
       "original": "quaestorum numerus ampliatus est, ut essent octo.",
-      "korean": "",
+      "korean": "재무관의 수가 늘어나 모두 여덟 명이 되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

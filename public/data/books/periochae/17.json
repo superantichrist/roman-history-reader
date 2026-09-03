@@ -12,8 +12,8 @@
   "preservationLabel": "후대 요약",
   "periodLabel": "기원전 264–219년",
   "chapterCount": 1,
-  "passageCount": 8,
-  "translationCount": 0,
+  "passageCount": 7,
+  "translationCount": 7,
   "chapters": [
     "per"
   ],
@@ -31,10 +31,10 @@
       ],
       "paragraph": 1,
       "ref": "Liv. Per. 17.1",
-      "original": "CN.",
-      "korean": "",
+      "original": "CN. CORNELIUS consul a classe Punica circumventus et per fraudem, veluti in conloquium evocatus, captus est.",
+      "korean": "집정관 그나이우스 코르넬리우스는 카르타고 함대에 포위된 뒤, 회담에 불려 나가는 것처럼 속임수에 넘어가 사로잡혔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -50,10 +50,10 @@
       ],
       "paragraph": 2,
       "ref": "Liv. Per. 17.2",
-      "original": "CORNELIUS consul a classe Punica circumventus et per fraudem, veluti in conloquium evocatus, captus est.",
-      "korean": "",
+      "original": "C. Duillius consul adversus classem Poenorum prospere pugnavit, primusque omnium Romanorum ducum navalis victoriae duxit triumphum.",
+      "korean": "집정관 가이우스 두일리우스는 카르타고 함대를 상대로 싸워 승리했으며, 로마의 모든 장군 가운데 처음으로 해전 승리에 대한 개선식을 거행했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -69,10 +69,10 @@
       ],
       "paragraph": 3,
       "ref": "Liv. Per. 17.3",
-      "original": "C. Duillius consul adversus classem Poenorum prospere pugnavit, primusque omnium Romanorum ducum navalis victoriae duxit triumphum.",
-      "korean": "",
+      "original": "ob quam causam ei perpetuus quoque honos habitus est, ut revertenti a cena tibicine canente funale praeferretur.",
+      "korean": "그 공로로 그는 평생의 특별한 영예도 받았다. 저녁 식사를 마치고 돌아올 때 피리 연주자가 곡을 연주하고 횃불을 든 사람이 앞장서게 한 것이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -88,10 +88,10 @@
       ],
       "paragraph": 4,
       "ref": "Liv. Per. 17.4",
-      "original": "ob quam causam ei perpetuus quoque honos habitus est, ut revertenti a cena tibicine canente funale praeferretur.",
-      "korean": "",
+      "original": "L. Cornelius consul in Sardinia et Corsica contra Sardos et Corsos et Hannonem, Poenorum ducem, feliciter pugnavit.",
+      "korean": "집정관 루키우스 코르넬리우스는 사르디니아와 코르시카에서 사르디니아인들, 코르시카인들, 카르타고 지휘관 한노를 상대로 싸워 승리했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -107,10 +107,10 @@
       ],
       "paragraph": 5,
       "ref": "Liv. Per. 17.5",
-      "original": "L. Cornelius consul in Sardinia et Corsica contra Sardos et Corsos et Hannonem, Poenorum ducem, feliciter pugnavit.",
-      "korean": "",
+      "original": "Atilius Calatinus cos. cum in locum a Poenis circumsessum temere exercitum duxisset, M. Calpurni, tribuni militum, virtute et opera evasit, qui cum ccc militibus eruptione facta hostes in se converterat.",
+      "korean": "집정관 아틸리우스 칼라티누스는 카르타고인들에게 포위된 곳으로 군대를 경솔하게 이끌고 갔다가, 군사 호민관 마르쿠스 칼푸르니우스의 용맹과 활약 덕분에 빠져나왔다. 칼푸르니우스가 병사 300명과 함께 돌격하여 적의 공격을 자기 쪽으로 돌렸던 것이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -126,10 +126,10 @@
       ],
       "paragraph": 6,
       "ref": "Liv. Per. 17.6",
-      "original": "Atilius Calatinus cos. cum in locum a Poenis circumsessum temere exercitum duxisset, M. Calpurni, tribuni militum, virtute et opera evasit, qui cum ccc militibus eruptione facta hostes in se converterat.",
-      "korean": "",
+      "original": "Hannibal, dux Poenorum, victa classe cui praefuerat, a militibus suis in crucem sublatus est.",
+      "korean": "카르타고 지휘관 한니발은 자신이 지휘하던 함대가 패배하자 자기 병사들에 의해 십자가에 매달렸다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -145,29 +145,10 @@
       ],
       "paragraph": 7,
       "ref": "Liv. Per. 17.7",
-      "original": "Hannibal, dux Poenorum, victa classe cui praefuerat, a militibus suis in crucem sublatus est.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
-      "parallelRefs": []
-    },
-    {
-      "id": "periochae-17-per-008",
-      "sourceId": "periochae",
-      "book": 17,
-      "chapter": "per",
-      "section": "8",
-      "sectionStart": "8",
-      "sectionEnd": "8",
-      "sectionRefs": [
-        "8"
-      ],
-      "paragraph": 8,
-      "ref": "Liv. Per. 17.8",
       "original": "Atilius Regulus cos. victis navali proelio Poenis in Africam traiecit.",
-      "korean": "",
+      "korean": "집정관 아틸리우스 레굴루스는 해전에서 카르타고인들을 격파한 뒤 아프리카로 건너갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]

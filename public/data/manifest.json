@@ -5,9 +5,9 @@
   "stats": {
     "collections": 3,
     "books": 91,
-    "passages": 10332,
-    "originalWords": 823113,
-    "translatedPassages": 13
+    "passages": 10330,
+    "originalWords": 823112,
+    "translatedPassages": 219
   },
   "timeline": [
     {
@@ -509,8 +509,8 @@
       "languageLabel": "라틴어",
       "id": "periochae",
       "bookCount": 17,
-      "passageCount": 220,
-      "translationCount": 12,
+      "passageCount": 218,
+      "translationCount": 218,
       "searchPath": "data/search/periochae.json",
       "volumes": [
         {
@@ -534,7 +534,7 @@
           "periodLabel": "기원전 292–267년",
           "chapterCount": 1,
           "passageCount": 6,
-          "translationCount": 0,
+          "translationCount": 6,
           "path": "data/books/periochae/12.json"
         },
         {
@@ -546,7 +546,7 @@
           "periodLabel": "기원전 292–267년",
           "chapterCount": 1,
           "passageCount": 12,
-          "translationCount": 0,
+          "translationCount": 12,
           "path": "data/books/periochae/13.json"
         },
         {
@@ -558,7 +558,7 @@
           "periodLabel": "기원전 292–267년",
           "chapterCount": 1,
           "passageCount": 10,
-          "translationCount": 0,
+          "translationCount": 10,
           "path": "data/books/periochae/14.json"
         },
         {
@@ -570,7 +570,7 @@
           "periodLabel": "기원전 292–267년",
           "chapterCount": 1,
           "passageCount": 8,
-          "translationCount": 0,
+          "translationCount": 8,
           "path": "data/books/periochae/15.json"
         },
         {
@@ -582,7 +582,7 @@
           "periodLabel": "기원전 264–219년",
           "chapterCount": 1,
           "passageCount": 8,
-          "translationCount": 0,
+          "translationCount": 8,
           "path": "data/books/periochae/16.json"
         },
         {
@@ -593,8 +593,8 @@
           "preservationLabel": "후대 요약",
           "periodLabel": "기원전 264–219년",
           "chapterCount": 1,
-          "passageCount": 8,
-          "translationCount": 0,
+          "passageCount": 7,
+          "translationCount": 7,
           "path": "data/books/periochae/17.json"
         },
         {
@@ -606,7 +606,7 @@
           "periodLabel": "기원전 264–219년",
           "chapterCount": 1,
           "passageCount": 7,
-          "translationCount": 0,
+          "translationCount": 7,
           "path": "data/books/periochae/18.json"
         },
         {
@@ -618,7 +618,7 @@
           "periodLabel": "기원전 264–219년",
           "chapterCount": 1,
           "passageCount": 15,
-          "translationCount": 0,
+          "translationCount": 15,
           "path": "data/books/periochae/19.json"
         },
         {
@@ -629,8 +629,8 @@
           "preservationLabel": "후대 요약",
           "periodLabel": "기원전 264–219년",
           "chapterCount": 1,
-          "passageCount": 17,
-          "translationCount": 0,
+          "passageCount": 18,
+          "translationCount": 18,
           "path": "data/books/periochae/20.json"
         },
         {
@@ -642,7 +642,7 @@
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
           "passageCount": 14,
-          "translationCount": 0,
+          "translationCount": 14,
           "path": "data/books/periochae/46.json"
         },
         {
@@ -653,8 +653,8 @@
           "preservationLabel": "후대 요약",
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
-          "passageCount": 16,
-          "translationCount": 0,
+          "passageCount": 15,
+          "translationCount": 15,
           "path": "data/books/periochae/47.json"
         },
         {
@@ -666,7 +666,7 @@
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
           "passageCount": 25,
-          "translationCount": 0,
+          "translationCount": 25,
           "path": "data/books/periochae/48.json"
         },
         {
@@ -677,8 +677,8 @@
           "preservationLabel": "후대 요약",
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
-          "passageCount": 28,
-          "translationCount": 0,
+          "passageCount": 27,
+          "translationCount": 27,
           "path": "data/books/periochae/49.json"
         },
         {
@@ -690,7 +690,7 @@
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
           "passageCount": 14,
-          "translationCount": 0,
+          "translationCount": 14,
           "path": "data/books/periochae/50.json"
         },
         {
@@ -702,7 +702,7 @@
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
           "passageCount": 7,
-          "translationCount": 0,
+          "translationCount": 7,
           "path": "data/books/periochae/51.json"
         },
         {
@@ -714,7 +714,7 @@
           "periodLabel": "기원전 166–146년",
           "chapterCount": 1,
           "passageCount": 13,
-          "translationCount": 0,
+          "translationCount": 13,
           "path": "data/books/periochae/52.json"
         }
       ]
