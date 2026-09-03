@@ -6438,6 +6438,11 @@
         "sourceIds": [
           "attalus-polybius"
         ]
+      },
+      "illustration": {
+        "src": "images/polybius/book-01/56-heirkte-mountain-fortress.webp",
+        "alt": "사방의 가파른 절벽 위에 넓고 비옥한 고원이 펼쳐지고 항구와 세 갈래 험로, 봉우리 망대와 하밀카르의 진영이 보이는 헤이르크테 재구성",
+        "caption": "헤이르크테의 천연 요새. 가파른 산괴 위 고원에는 농경지와 물이 있었고, 육로 둘과 항구에서 오르는 해로 하나만 지키면 오래 버틸 수 있었다. (Polyb. 1.56.1–57.2)"
       }
     },
     {
@@ -6617,6 +6622,11 @@
         "sourceIds": [
           "attalus-polybius"
         ]
+      },
+      "illustration": {
+        "src": "images/polybius/book-01/58-eryx-three-tier-siege.webp",
+        "alt": "에뤽스산 정상과 산기슭의 로마 진영 사이 비탈 도시를 점거한 카르타고군과 해안의 한 갈래 보급로를 위에서 본 재구성",
+        "caption": "에뤽스산의 세 층위. 로마군은 정상과 산기슭을 지켰고, 그 사이 도시를 차지한 하밀카르군은 단 하나의 해안 통로로 보급을 이어 갔다. (Polyb. 1.58.1–7)"
       }
     },
     {
@@ -8205,6 +8215,11 @@
         "sourceIds": [
           "attalus-polybius"
         ]
+      },
+      "illustration": {
+        "src": "images/polybius/book-01/73-carthage-isthmus-blockade.webp",
+        "alt": "바다와 석호 사이 지협 끝의 카르타고 반도 도시, 지협 양쪽 우티카와 튀네스의 반란군 진영 및 끊긴 농촌 길을 위에서 본 재구성",
+        "caption": "카르타고의 지협과 봉쇄선. 우티카 쪽과 튀네스 쪽에 나뉜 반란군은 바다와 석호 사이의 육상 통로를 끊고 반도 도시를 압박했다. (Polyb. 1.73.4–74.3)"
       }
     },
     {
