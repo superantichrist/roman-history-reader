@@ -7,7 +7,7 @@
     "books": 91,
     "passages": 10295,
     "originalWords": 823096,
-    "translatedPassages": 4673
+    "translatedPassages": 4875
   },
   "timeline": [
     {
@@ -92,7 +92,7 @@
       "id": "livy",
       "bookCount": 35,
       "passageCount": 6310,
-      "translationCount": 688,
+      "translationCount": 890,
       "searchPath": "data/search/livy.json",
       "volumes": [
         {
@@ -140,7 +140,7 @@
           "periodLabel": "건국 전승–기원전 390년",
           "chapterCount": 61,
           "passageCount": 202,
-          "translationCount": 0,
+          "translationCount": 202,
           "path": "data/books/livy/04.json"
         },
         {
