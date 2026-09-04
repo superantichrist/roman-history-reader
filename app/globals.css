@@ -124,7 +124,7 @@ button:disabled { cursor: default; opacity: 0.36; }
 .passage-source { display: flex; align-items: center; flex-wrap: wrap; gap: 7px; min-width: 0; }
 .passage-meta a { width: max-content; color: var(--oxblood); text-decoration: none; font-family: Georgia, serif; font-weight: 700; }
 .chronology-badge { width: max-content; padding: 3px 6px; border: 1px solid color-mix(in srgb, var(--bronze) 55%, transparent); border-radius: 999px; color: #76501f; background: rgba(150,107,49,.075); font-weight: 700; letter-spacing: .015em; cursor: help; }
-.chronology-badge[data-scope='background'], .chronology-badge[data-scope='overview'], .chronology-badge[data-scope='mixed'] { color: var(--muted); border-style: dashed; background: rgba(116,105,92,.055); }
+.chronology-badge[data-scope='background'], .chronology-badge[data-scope='overview'], .chronology-badge[data-scope='composition'], .chronology-badge[data-scope='mixed'] { color: var(--muted); border-style: dashed; background: rgba(116,105,92,.055); }
 .passage-meta button { display: flex; align-items: center; gap: 5px; border: 0; color: var(--oxblood); background: transparent; font-size: 9px; font-weight: 700; }
 .passage-meta svg { width: 13px; }
 .passage-columns { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }

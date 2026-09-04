@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 2,
-  "method": "기원전 연도는 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니라, 판본의 B.C./A.U.C. 여백 표지와 사건 순서, 로마 집정관 연도 및 올림피아드 연대를 환산한 편집 정보다. 리비우스 1–10권의 초기 로마 연대는 전승적이므로 ‘경’으로 표시한다.",
+  "schemaVersion": 3,
+  "method": "기원전 연도는 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니라, 판본의 B.C./A.U.C. 여백 표지와 사건 순서, 로마 집정관 연도 및 올림피아드 연대를 환산한 편집 정보다. 리비우스 1–10권의 초기 로마 연대는 전승적이므로 ‘경’으로 표시한다. 제1권 서문의 연도는 서술 속 사건이 아니라, 학계의 논쟁을 반영한 서문 저술 시기 범위다.",
   "sources": {
     "perseus-livy-loeb": {
       "title": "Perseus Digital Library, Livy Loeb marginal chronology",
@@ -9,6 +9,10 @@
     "attalus-livy": {
       "title": "Attalus, Livy reference chronology",
       "url": "https://www.attalus.org/refs/Liv.html"
+    },
+    "burton-livy-preface": {
+      "title": "Paul J. Burton, ‘Livy’s Preface and its Historical Context’ (2008)",
+      "url": "https://hdl.handle.net/10520/EJC100339"
     },
     "livius-periochae": {
       "title": "Livius.org, Livy: Periochae",
@@ -24,6 +28,7 @@
     }
   },
   "rules": [
+    {"sourceId": "livy", "book": 1, "start": "pr.1", "yearStartBce": 32, "yearEndBce": 27, "certainty": "approximate", "scope": "composition", "sources": ["burton-livy-preface", "perseus-livy-loeb"]},
     {"sourceId": "livy", "book": 1, "start": "1.1", "yearStartBce": 1200, "yearEndBce": 754, "certainty": "approximate", "scope": "narrative", "source": "perseus-livy-loeb"},
     {"sourceId": "livy", "book": 1, "start": "7.1", "yearStartBce": 753, "yearEndBce": 753, "certainty": "approximate", "scope": "narrative", "source": "perseus-livy-loeb"},
     {"sourceId": "livy", "book": 1, "start": "9.1", "yearStartBce": 753, "yearEndBce": 717, "certainty": "approximate", "scope": "narrative", "source": "perseus-livy-loeb"},

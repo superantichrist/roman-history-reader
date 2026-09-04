@@ -46,7 +46,7 @@ type PassageChronology = {
   yearStartBce: number;
   yearEndBce: number;
   certainty: 'exact' | 'range' | 'approximate';
-  scope: 'narrative' | 'background' | 'overview' | 'mixed';
+  scope: 'narrative' | 'background' | 'overview' | 'composition' | 'mixed';
   basis: 'editorial';
   sourceIds: string[];
 };
@@ -182,10 +182,14 @@ const CHRONOLOGY_SCOPE: Record<PassageChronology['scope'], string> = {
   narrative: '현재 서술',
   background: '회고·배경',
   overview: '기간 개관',
+  composition: '저술 시기',
   mixed: '복수 연대',
 };
 
 function chronologyTitle(chronology: PassageChronology) {
+  if (chronology.scope === 'composition') {
+    return '저술 시기 · 추정 범위. 서문이 다루는 사건의 연도가 아니라, 서문 작성 시기에 관한 학계의 견해를 편집 정보로 표시했습니다.';
+  }
   const certainty =
     chronology.certainty === 'approximate'
       ? '추정 연대'

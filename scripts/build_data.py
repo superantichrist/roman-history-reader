@@ -171,7 +171,14 @@ def passage_chronology(
         label += "경"
 
     scopes = list(dict.fromkeys(rule["scope"] for rule in hits))
-    sources = list(dict.fromkeys(rule["source"] for rule in hits))
+    sources = list(
+        dict.fromkeys(
+            source_id
+            for rule in hits
+            for source_id in rule.get("sources", [rule.get("source")])
+            if source_id
+        )
+    )
     return {
         "label": label,
         "yearStartBce": year_start,
@@ -713,6 +720,7 @@ def validate_sources(source_manifest: dict[str, Any]) -> None:
 
 def validate_chronology() -> None:
     errors = []
+    valid_scopes = {"narrative", "background", "overview", "composition"}
     grouped: dict[tuple[str, int], list[tuple[tuple[int, int], tuple[int, int]]]] = {}
     point_grouped: dict[tuple[str, int], list[tuple[int, int]]] = {}
     for rule in CHRONOLOGY["rules"]:
@@ -730,8 +738,14 @@ def validate_chronology() -> None:
                 f"{rule['start']}–{rule['end']}" if "end" in rule else rule["start"]
             )
             errors.append(f"Reversed BCE range: {key} {location}")
-        if rule["source"] not in CHRONOLOGY["sources"]:
-            errors.append(f"Unknown chronology source: {rule['source']}")
+        source_ids = rule.get("sources", [rule.get("source")])
+        if not source_ids or any(not source_id for source_id in source_ids):
+            errors.append(f"Missing chronology source: {key} {rule['start']}")
+        for source_id in source_ids:
+            if source_id and source_id not in CHRONOLOGY["sources"]:
+                errors.append(f"Unknown chronology source: {source_id}")
+        if rule.get("scope") not in valid_scopes:
+            errors.append(f"Unknown chronology scope: {key} {rule.get('scope')}")
         if end is None:
             if grouped.get(key):
                 errors.append(f"Mixed chronology rule styles: {key}")
@@ -775,11 +789,7 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
                     "reviewed",
                 }:
                     errors.append(f"Bad translation status: {passage['id']}")
-                if (
-                    source_id == "livy"
-                    and passage["chapter"] != "pr"
-                    and not passage.get("chronology")
-                ):
+                if source_id == "livy" and not passage.get("chronology"):
                     errors.append(f"Missing Livy chronology: {passage['id']}")
                 for note in passage["notes"]:
                     if not isinstance(note, dict) or not note.get("text"):
