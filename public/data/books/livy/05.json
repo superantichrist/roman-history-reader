@@ -91,7 +91,18 @@
       "korean": "다른 곳에서는 평화가 이루어졌지만, 로마인과 베이이인은 여전히 무기를 든 채 서로에게 그토록 격렬한 분노와 증오를 품고 있어, 패한 쪽에는 종말이 닥칠 것이 분명해 보였다. 두 민족의 선거는 전혀 다른 방식으로 치러졌다. 로마인들은 집정관 권한을 지닌 군사 호민관의 수를 늘려, 전례 없이 여덟 명을 선출했다. 마르쿠스 아이밀리우스 마메르쿠스가 두 번째로, 루키우스 발레리우스 포티투스가 세 번째로 선출되었고, 아피우스 클라우디우스 크라수스, 마르쿠스 퀸크틸리우스 바루스, 루키우스 율리우스 율루스, 마르쿠스 포스투미우스, 마르쿠스 푸리우스 카밀루스, 마르쿠스 포스투미우스 알비누스가 그 나머지였다. 반면 베이이인들은 때때로 불화의 원인이 되던 해마다의 선거운동에 싫증이 나 왕을 세웠다. 이 일은 왕정에 대한 증오 못지않게 그 왕 개인에 대한 증오 때문에 에트루리아 여러 민족의 감정을 상하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-1-004-007",
@@ -118,7 +129,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-1-008-009",
@@ -138,7 +160,18 @@
       "korean": "로마인들은 에트루리아가 잠잠하다는 보고를 받았지만, 모든 회의에서 이 문제가 논의되고 있다는 소식도 들었으므로 방어시설을 양면으로 구축했다. 일부는 도시를 향해 베이이 주민의 출격을 막았고, 다른 일부는 혹시 그쪽에서 원군이 올 경우를 대비해 에트루리아 쪽을 향해 길을 차단했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-2-001-004",
@@ -160,7 +193,18 @@
       "korean": "로마 지휘관들은 강습보다 포위에 더 큰 희망을 걸었기 때문에, 로마 병사에게는 새로운 일이었던 겨울 막사까지 짓기 시작했다. 겨울을 현지에서 보내며 전쟁을 계속한다는 계획이었다. 오랫동안 정국을 뒤흔들 구실을 찾지 못하던 평민 호민관들이 이 소식을 로마에서 듣자 민회로 뛰쳐나와 평민들의 마음을 선동했다. 그들은 병사들에게 급료가 지급된 까닭이 바로 이것이라며 거듭 외쳤다. 자신들은 그 선물이 적들이 독을 바른 것과 같으리라는 점을 잘못 짚지 않았다는 것이다. 평민의 자유는 팔려버렸고, 평민 청년들은 도시와 공화국에서 영원히 멀리 쫓겨나 이제 겨울이나 계절의 변화에도 물러나 집과 살림을 돌아볼 수 없게 되었다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-2-005-007",
@@ -181,7 +225,18 @@
       "korean": "호민관들은 군역을 끊임없이 이어가는 이유가 무엇이겠느냐고 물었다. 평민의 모든 힘이 되는 청년들이 많이 모여 있을 때 그들의 이익을 위한 어떤 일도 추진되지 못하게 하려는 것 말고는 분명 다른 까닭을 찾을 수 없으리라는 것이었다. 더구나 로마 병사들은 베이이인보다 훨씬 혹독하게 괴롭힘을 당하고 굴복당하고 있었다. 베이이인들은 훌륭한 성벽과 천연의 지세로 도시를 지키며 자기 지붕 아래서 겨울을 나지만, 로마 병사는 눈과 서리를 뒤집어쓴 채 공사와 노역에 시달리며 가죽 천막 밑에서 버티고 있었다. 땅과 바다의 모든 전쟁이 쉬어가는 겨울 동안조차 무기를 내려놓지 못했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-2-008-012",
@@ -209,7 +264,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-2-013-014",
@@ -229,7 +295,18 @@
       "korean": "이런 말들을 고함치던 호민관들은 만만치 않은 맞수를 만났다. 동료들이 호민관들의 선동을 억누르도록 로마에 남겨둔 아피우스 클라우디우스였다. 그는 젊어서부터 평민과의 투쟁에 단련된 인물로, 몇 해 전 동료 호민관의 거부권을 이용해 호민관 권력을 무력화하자는 방책을 내놓았다고 앞에서 서술한 바 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-3-001-004",
@@ -251,7 +328,18 @@
       "korean": "이제 그는 타고난 말솜씨뿐 아니라 경험으로도 단련되어 있었고, 다음과 같이 연설했다. \"로마 시민 여러분, 평민 호민관들이 언제나 여러분의 이익을 위해서가 아니라 자신들의 이익을 위해 선동을 일으켰는지 혹시 이제껏 의심스러웠다면, 금년에는 그 의심이 분명히 사라졌다고 나는 확신합니다. 여러분의 오랜 착각이 마침내 끝난 것을 기뻐하는 한편, 특히 여러분의 형편이 좋아진 바로 그때 이 착각이 벗겨진 것을 두고 여러분과, 여러분 덕분에 공화국에도 축하를 보냅니다. 여러분이 당한 어떤 부당한 처사—그런 것이 더러 있었다 해도—보다 원로원 의원들이 평민에게 베푼 선물, 곧 병사들에게 급료를 정해준 일에 호민관들이 더 불쾌해하고 격분했다는 것을 누가 의심하겠습니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-3-005-008",
@@ -273,7 +361,18 @@
       "korean": "\"그들이 그때 두려워했고 오늘도 어지럽히려 드는 것이, 자신들의 호민관 권력을 무엇보다 확실히 무너뜨릴 신분 간의 화합 말고 또 무엇이라고 생각하십니까? 헤르쿨레스께 맹세코, 그들은 정직하지 못한 장인처럼 일거리가 없어 안달입니다. 여러분이 치료해달라고 자신들을 부르도록 공화국 어디엔가 늘 병이 있기를 바랍니다. 여러분은 평민을 지키는 것입니까, 공격하는 것입니까? 복무 중인 병사들의 적입니까, 그들의 변호인입니까? 혹시 ‘원로원 의원이 하는 일은 평민을 위한 것이든 평민에게 불리한 것이든 모조리 싫다’는 말이 아니라면 말입니다. 주인이 자기 노예들에게 외부 사람과 아무 거래도 하지 못하게 하고, 그들에게 은혜도 해악도 베풀지 않는 것이 옳다고 여기듯, 여러분도 원로원 의원과 평민의 교류를 금합니다. 우리가 호의와 너그러움으로 평민의 호감을 얻지 못하게 하고, 평민이 우리의 말을 듣고 따르지 못하게 하려는 것입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-3-009-010",
@@ -293,7 +392,18 @@
       "korean": "\"여러분에게 시민다운 마음은커녕 인간다운 마음이라도 조금 있다면, 원로원 의원들의 친절과 평민의 순종을 더 지지하고 힘닿는 데까지 보살펴야 하지 않겠습니까? 이 화합이 영원히 이어진다면, 머지않아 이 나라가 이웃 나라들 가운데 가장 강대한 제국이 되리라고 누가 감히 장담하지 못하겠습니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-4-001-004",
@@ -315,7 +425,18 @@
       "korean": "\"베이이에서 일을 끝내지 않은 채 군대를 철수시키지 않기로 한 내 동료들의 방침이 얼마나 유익할 뿐 아니라 필수적인 것이었는지는 뒤에 말하겠습니다. 지금은 복무 중인 병사들의 처지만 이야기하고 싶습니다. 이 연설은 여러분 앞에서뿐 아니라 진영에서 군대 자체가 판단한다 해도 공정하다고 여겨질 것입니다. 내가 무슨 말을 해야 할지 스스로 아무 생각도 해내지 못한다 해도, 상대방의 주장만으로 충분할 것입니다. 얼마 전 그들은 전례가 없었다는 이유로 병사에게 급료를 주어서는 안 된다고 했습니다. 그렇다면 이제 새로운 이익을 하나 더 받은 병사들에게 그에 비례한 새로운 수고도 부과되는 데 어떻게 분개할 수 있습니까? 어디에도 보상 없는 노동은 없고, 대개 노동의 대가 없이 얻는 보상도 없습니다. 본성으로는 아주 다른 노고와 즐거움도 일종의 자연스러운 결합으로 서로 이어져 있습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-4-005-007",
@@ -336,7 +457,18 @@
       "korean": "\"전에는 병사가 자기 비용으로 공화국에 노동을 바치는 것을 고통스러워했습니다. 그러면서도 한 해의 일부는 자기 밭을 일구고, 집에서나 전지에서 자신과 가족을 부양할 수단을 마련하는 것을 기뻐했습니다. 이제 그는 공화국이 자신에게 소득을 준다는 사실을 기뻐하며 즐거이 봉급을 받습니다. 그러므로 비용 부담을 지우지 않는 집과 가산을 조금 더 오래 떠나 있는 것도 평온한 마음으로 감수해야 합니다. 공화국이 그를 불러 셈을 따진다면, 마땅히 이렇게 말하지 않겠습니까? ‘너는 일 년치 급료를 받았으니 일 년치 복무를 내놓아라. 반년만 복무하고 급료 전액을 받는 것이 공정하다고 생각하느냐?’\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-4-008-011",
@@ -363,7 +495,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-4-012-014",
@@ -384,7 +527,18 @@
       "korean": "\"우리는 로마에서 20마일도 떨어지지 않아 우리 도시가 거의 보이는 곳에서 한 해 동안 공격을 계속하는 것조차 싫어합니다. 아마 전쟁의 명분이 하찮고, 우리를 끈질기게 밀어붙일 정당한 분노의 이유도 부족해서일 것입니다! 그들은 일곱 번이나 다시 반란을 일으켰고, 평화 때에도 한 번도 믿을 만하지 않았으며, 우리 영토를 수없이 약탈했습니다. 피데나이를 우리에게서 이탈하게 했고, 그곳의 우리 식민자들을 죽였으며, 국제법을 어기고 우리 사절들을 사악하게 살해하는 데 앞장섰습니다. 에트루리아 전체를 우리에게 맞서 일으키려 했고 지금도 그렇게 꾀하고 있습니다. 우리가 반환을 요구하러 보낸 사절들까지 거의 폭행할 뻔했습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-5-001-003",
@@ -405,7 +559,18 @@
       "korean": "\"이런 자들을 상대로 느슨하게 시간을 끌며 전쟁해야 합니까? 이토록 정당한 증오도 우리를 움직이지 못한다면, 부디 다음 사실들도 아무 감흥이 없습니까? 거대한 공사로 도시를 둘러싸 적을 성벽 안에 가두었습니다. 그들은 밭을 갈지 못했고, 이미 경작한 땅도 전쟁으로 황폐해졌습니다. 우리가 군대를 철수한다면, 그들이 복수욕뿐 아니라 자기 것을 잃은 뒤 남의 것을 약탈해야 하는 절박함 때문에 우리 영토로 쳐들어오리라는 것을 누가 의심하겠습니까? 그러니 그 방책은 전쟁을 미루는 것이 아니라 우리 국경 안으로 끌어들이는 것입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-5-004-006",
@@ -431,7 +596,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-5-007-010",
@@ -453,7 +629,18 @@
       "korean": "\"이미 만든 공사를 지키며 계속 압박하고 버텨 짧은 시일 안에 걱정을 끝내는 편이 얼마나 수고가 덜하겠습니까? 한결같이 밀고 나가고, 우리 스스로 이런 중단과 공백으로 희망의 실현을 늦추지 않는다면 분명 짧은 일입니다. 지금 나는 노력과 시간의 낭비를 말하고 있습니다. 전쟁을 미룰 때 우리가 자초할 위험은 어떻습니까? 베이이에 원군을 보낼지를 두고 에트루리아에서 그토록 자주 회의가 열린다는 사실이 그 위험을 잊게 내버려둡니까? 현재 그들은 화가 나 있고 베이이인을 미워하여 원군을 보내지 않겠다고 합니다. 그들에게 달린 한 베이이를 함락해도 좋습니다. 그러나 전쟁이 미뤄진 뒤에도 같은 마음일 것이라고 누가 보장하겠습니까? 숨 돌릴 틈을 주면 더 크고 잦은 사절단이 오갈 것이고, 현재 베이이인이 왕을 세운 탓에 에트루리아인들의 감정을 상하게 한 문제도 시간이 지나면 바뀔 수 있습니다. 시민들이 에트루리아인들의 마음을 다시 얻으려고 합의해 왕정을 폐지할 수도 있고, 왕 자신이 자기 왕권 때문에 시민의 구원이 막히기를 원치 않아 스스로 물러날 수도 있습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-5-011-012",
@@ -473,7 +660,18 @@
       "korean": "\"그런 방책을 따르면 얼마나 많은 해로운 결과가 뒤따르는지 보십시오. 그토록 애써 만든 공사의 상실, 임박한 우리 영토의 황폐화, 베이이 전쟁을 대신해 불붙을 에트루리아 전쟁입니다. 호민관 여러분, 이것이 여러분의 방책입니다. 헤르쿨레스께 맹세코, 치료를 씩씩하게 견디면 곧바로 회복될 환자에게 당장 음식이나 음료를 즐기게 하려고 오래가고 어쩌면 고칠 수도 없는 병을 만들어주는 것과 크게 다르지 않습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-001-003",
@@ -494,7 +692,18 @@
       "korean": "\"맹세코, 이 전쟁과 아무 관계가 없다 해도 군사 훈련을 위해서는 우리 병사들이 승리의 열매를 누리는 데만 익숙해지지 않고, 일이 더디게 풀릴 때에는 지루함을 견디며 아무리 늦게 오는 희망이라도 그 결말을 기다리는 법을 익히는 것이 대단히 중요합니다. 여름에 전쟁이 끝나지 않으면 겨울을 기다리고, 여름 철새처럼 가을만 되면 곧장 지붕과 은신처를 두리번거려서는 안 됩니다. 부탁하건대, 사냥에 대한 열성과 즐거움은 사람들을 눈과 서리를 뚫고 산과 숲으로 끌고 가는데, 놀이와 쾌락도 흔히 끌어내는 그 인내를 전쟁의 필요에는 발휘하지 못하겠습니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-004-005",
@@ -519,7 +728,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-006-008",
@@ -540,7 +760,18 @@
       "korean": "\"이런 태도가 여러분 병사들의 용기와 로마라는 이름에 걸맞습니다. 눈앞의 베이이와 이 전쟁만 바라볼 것이 아니라, 훗날 다른 전쟁과 다른 민족들 사이에 남을 평판을 얻어야 합니다. 이 일로 생길 평판의 차이가 하찮다고 생각합니까? 이웃들이 로마 인민을, 어떤 도시든 처음의 아주 짧은 공격만 견디면 그 뒤로는 아무것도 두려워할 필요가 없는 민족으로 여기게 하겠습니까? 아니면 우리의 이름이 불러일으키는 공포가 이러해야 하지 않겠습니까? 긴 포위의 지루함도 겨울의 위력도 한 번 포위한 도시에서 로마군을 물러나게 할 수 없고, 로마군은 승리 말고는 전쟁의 다른 결말을 알지 못하며, 단번의 돌격보다 끈기로 전쟁을 수행한다는 공포 말입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-009-012",
@@ -562,7 +793,18 @@
       "korean": "\"끈기는 모든 종류의 군사행동에 필요하지만, 특히 도시를 포위할 때 필요합니다. 요새와 천연의 지세 때문에 강습으로는 함락할 수 없는 도시도 대개 시간이 굶주림과 갈증으로 꺾어 점령하기 때문입니다. 평민 호민관들이 적을 돕고, 베이이인이 에트루리아에서 헛되이 구하던 원군을 로마에서 찾아내지만 않는다면 베이이도 그렇게 함락될 것입니다. 로마 시가 먼저 내분으로 가득 차고, 이어 전염병처럼 진영까지 내분으로 물드는 것보다 베이이인에게 더 바라던 행운이 있겠습니까? 그런데 헤르쿨레스께 맹세코, 적진에는 그토록 굳건한 질서가 있어 포위의 지루함도, 심지어 왕정의 도입도 그들 가운데 아무런 변혁을 일으키지 못했고, 에트루리아인들의 원조 거부도 그들의 마음을 자극하지 못했습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-013-015",
@@ -588,7 +830,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-6-016-017",
@@ -608,7 +861,18 @@
       "korean": "\"이제 남은 일은 그들이 여기서 고함치는 것과 똑같은 말을 진영의 병사들 앞에서도 하고, 군대를 타락시켜 지휘관에게 복종하지 못하게 하는 것뿐입니다. 로마에서 자유란 곧 원로원도, 정무관도, 법도, 조상의 관습도, 선조가 세운 제도도, 군율도 존중하지 않는 것이기 때문입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-7-001-005",
@@ -631,7 +895,18 @@
       "korean": "공개 집회에서 아피우스는 이제 평민 호민관들과 대등하게 맞서고 있었다. 그런데 전혀 뜻밖의 곳에서 베이이 전선의 재난 소식이 갑자기 들려와 아피우스의 주장에 우세를 안겨주고, 신분 간의 화합과 끈질기게 베이이를 포위하려는 열의를 더욱 키웠다. 성을 향해 토루가 전진하고 차폐 회랑이 거의 성벽에 닿을 만큼 가까워졌으나, 낮에는 공사에 힘을 쏟고 밤에는 경계를 그만큼 철저히 하지 않았다. 그러자 성문이 갑자기 열리고 횃불을 주로 든 거대한 무리가 쏟아져 나와 불을 질렀다. 오랜 세월 쌓은 토루와 차폐 회랑은 순식간에 불길에 삼켜졌고, 구하려고 헛되이 달려든 많은 사람도 칼과 불에 목숨을 잃었다. 이 소식이 로마에 이르자 모두에게 슬픔을, 원로원에는 걱정과 두려움을 안겼다. 이제는 도시의 선동도 진영의 소요도 억누를 수 없고, 평민 호민관들이 마치 자신들이 공화국을 꺾기라도 한 듯 기세등등해질까 염려한 것이다. 그런데 국가가 지급하는 군마를 배정받지 못했지만 기사 계급에 해당하는 재산을 가진 자들이 먼저 자기들끼리 회의를 연 뒤 원로원을 찾아왔다. 발언권을 받자 그들은 자기 말로 복무하겠다고 약속했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-7-006-010",
@@ -659,7 +934,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-7-011-013",
@@ -680,7 +966,18 @@
       "korean": "원로원 의원과 평민은 앞다투어 기쁨의 눈물을 흘렸다. 마침내 의원들을 의사당으로 다시 불러들인 뒤, 군사 호민관들이 집회를 소집하여 보병과 기병에게 감사를 표하고 조국을 향한 그들의 충정을 원로원이 기억할 것이라고 밝히게 하는 원로원 결의가 이루어졌다. 또 정규 절차 밖에서 자원한 모든 이에게 복무 기간을 급료 산정에 포함하기로 했다. 기병에게도 일정한 급료 액수가 정해졌다. 이때 처음으로 기병들이 자기 말을 가지고 복무하기 시작했다. 이 자원군은 베이이로 진군해 잃어버린 공사를 복구했을 뿐 아니라 새 공사도 시작했다. 그토록 공을 세운 군대에 필요한 것이 하나라도 모자라지 않도록, 로마에서 보급품을 실어 나르는 일도 전보다 더 세심하게 관리되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 403년경",
+        "yearStartBce": 403,
+        "yearEndBce": 403,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-8-001-004",
@@ -707,7 +1004,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-8-005-007",
@@ -728,7 +1036,18 @@
       "korean": "에트루리아의 이 두 민족은 지리적으로 가장 가까웠으므로 베이이가 정복되면 로마와의 전쟁에서도 자기들이 다음 차례가 되리라 생각했다. 특히 팔리스키인은 앞서 피데나이 전쟁에 개입한 까닭에 따로 적의를 품고 있었다. 그들은 사절을 주고받고 맹세로 서로 결속한 뒤, 군대를 이끌고 느닷없이 베이이에 이르렀다. 마침 그 방면은 군사 호민관 마르쿠스 세르기우스가 지휘하고 있었다. 그들이 진영을 공격하자 엄청난 공포가 일어났다. 로마인들은 에트루리아 전체가 터전에서 떨쳐 일어나 대군으로 몰려왔다고 생각했다. 같은 생각이 도시 안의 베이이인도 흥분시켰다. 그리하여 로마 진영은 양면에서 공격받았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-8-008-011",
@@ -750,7 +1069,18 @@
       "korean": "로마 병사들은 이쪽저쪽으로 뛰어다니며 군기를 옮겼지만, 베이이인을 방어선 안에 제대로 가두지도 못하고 자기 방어진지에서 외부 적군의 힘을 막아 자신들을 지키지도 못했다. 유일한 희망은 더 큰 진영에서 원군이 와서 군단을 나누어 일부는 카페나인과 팔리스키인을, 일부는 도시 주민의 출격을 막는 것이었다. 그러나 그 진영의 지휘관 베르기니우스는 개인적으로 세르기우스를 증오하고 적대했다. 그는 여러 보루가 공격받고 방어선이 돌파되어 양쪽에서 적이 밀려든다는 보고를 받고도 병사들을 무장시킨 채 붙들어두었다. 도움이 필요하다면 동료가 자기에게 사람을 보낼 것이라고 거듭 말했다. 그의 오만에 맞먹은 것은 상대의 완고함이었다. 세르기우스는 적에게 지더라도 정적의 도움을 받아 승리했다는 인상을 주기 싫어했기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-8-012-013",
@@ -770,7 +1100,18 @@
       "korean": "오랫동안 양쪽 적군 사이에 갇힌 병사들이 죽어갔다. 마침내 방어시설을 버린 뒤 극소수만 더 큰 진영으로 들어갔고, 대다수와 세르기우스 자신은 로마로 향했다. 그가 모든 책임을 동료에게 돌리자, 원로원은 베르기니우스를 진영에서 소환하고 그동안 군단장들이 지휘하게 하기로 했다. 이어 원로원에서 사건을 다루자 두 동료는 서로 욕설을 퍼부으며 다퉜다. 공화국 편에 선 사람은 드물었고, 대부분은 사적인 호의나 친분에 이끌리는 대로 이쪽 또는 저쪽 편을 들었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-9-001-003",
@@ -796,7 +1137,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-9-004-006",
@@ -817,7 +1169,18 @@
       "korean": "그동안 사람들의 화합과 국가의 순조로운 형편 때문에 마지못해 잠자코 있던 평민 호민관들은 갑자기 기세등등해져, 군사 호민관들이 원로원의 권위에 따르지 않으면 쇠사슬을 채워 끌고 가게 하겠다고 위협했다. 그러자 군사 호민관 가이우스 세르빌리우스 아할라가 말했다. \"평민 호민관들이여, 여러분과 여러분의 위협에 관한 한, 여러분에게 법적 권한이 없는 만큼 용기도 없다는 것을 내가 기꺼이 시험해보고 싶소. 그러나 원로원의 권위에 맞서 끝까지 다투는 것은 신성하지 못한 일입니다. 그러니 여러분은 우리들의 다툼에서 부당한 행동을 할 틈을 찾지 마시오. 내 동료들은 원로원이 결정한 대로 따를 것이며, 그래도 더 완고하게 버틴다면 내가 즉시 독재관을 임명해 그들이 관직에서 물러나게 하겠소.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-9-007-008",
@@ -837,7 +1200,18 @@
       "korean": "모두가 찬성하여 이 말을 받아들였고, 원로원 의원들은 호민관 권력이 내세우는 허수아비 같은 위협 없이도 정무관을 제압할 더 강한 힘을 찾아낸 것을 기뻐했다. 두 사람은 만인의 합의에 굴복하여 10월 1일에 취임할 군사 호민관 선거를 치르고, 그날이 오기 전에 관직에서 물러났다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 402년경",
+        "yearStartBce": 402,
+        "yearEndBce": 402,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-10-001-003",
@@ -858,7 +1232,18 @@
       "korean": "루키우스 발레리우스 포티투스가 네 번째로, 마르쿠스 푸리우스 카밀루스가 두 번째로, 마르쿠스 아이밀리우스 마메르쿠스가 세 번째로, 그나이우스 코르넬리우스 코수스가 두 번째로, 카이소 파비우스 암부스투스, 루키우스 율리우스 율루스가 집정관 권한을 지닌 군사 호민관으로 재임한 해에는 국내외에서 많은 일이 벌어졌다. 전쟁은 동시에 여러 곳에서 일어나 베이이와 카페나와 팔레리이를 상대했고, 볼스키인의 손에서 안크수르를 되찾기 위해서도 싸웠다. 로마에서는 병력 징집과 전쟁세 징수가 동시에 큰 부담이 되었고, 평민 호민관의 보궐 선출을 둘러싸고 다툼이 벌어졌다. 얼마 전까지 집정관 권한을 행사했던 두 사람의 재판도 결코 작지 않은 소동을 일으켰다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-10-004-006",
@@ -879,7 +1264,18 @@
       "korean": "군사 호민관들이 가장 먼저 한 일은 징집이었다. 청년들뿐 아니라 나이 든 이들까지 강제로 이름을 올려 도시 경비를 맡게 했다. 병사의 수가 늘어나는 만큼 급료에도 더 많은 돈이 필요했고, 그것은 전쟁세로 거두었다. 집에 남은 사람들은 마지못해 돈을 냈다. 도시를 지키면서도 군사 노역까지 감당하며 공화국을 위해 봉사해야 했기 때문이다. 그 자체로 무거운 부담이었지만, 평민 호민관들은 선동적인 집회에서 병사의 급료를 정한 까닭은 평민의 일부를 군역으로, 일부를 전쟁세로 소진시키려는 것이라고 비난하여 더욱 부당하게 보이게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-10-007-010",
@@ -901,7 +1297,18 @@
       "korean": "한 전쟁이 벌써 3년째 질질 끌리고 있으며, 더 오래 전쟁을 치르게 하려고 일부러 서투르게 수행한다고 그들은 말했다. 한 차례의 징집으로 네 전쟁에 보낼 군대를 편성하여 소년과 노인까지 끌어냈다고 했다. 이제 여름과 겨울의 구분조차 없어 비참한 평민에게는 언제나 쉴 틈이 없고, 급기야 조세를 바치는 신세까지 되었다는 것이다. 노동과 부상, 마침내 나이로 쇠진한 몸을 이끌고 돌아오면 주인이 오래 비운 탓에 집안의 모든 것이 돌보지 않은 채 놓여 있는데, 그렇게 망가진 가산에서 전쟁세를 내고, 국가에서 받은 군인 급료를 마치 이자를 붙인 빚처럼 몇 배로 갚아야 한다고 했다. 징집과 전쟁세 때문에 사람들이 더 중대한 걱정에 마음을 빼앗긴 사이, 평민 호민관 선거에서는 정원을 채우지 못했다. 그러자 빈자리에 귀족을 보궐 선출하려는 싸움이 벌어졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-10-011",
@@ -925,7 +1332,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-11-001-003",
@@ -946,7 +1364,18 @@
       "korean": "마침 그해에는 그나이우스 트레보니우스가 평민 호민관이 되어 자기 이름과 가문이 트레보니우스 법에 빚진 수호자의 책무를 다하는 듯했다. 그는 귀족들이 처음 시도했다가 저지당한 일을 이제 군사 호민관들을 굴복시켜 이루었다고 고함쳤다. 트레보니우스 법은 폐지되었고, 평민 호민관은 인민의 투표가 아니라 귀족의 명령으로 보궐 선출되었다고 했다. 사태가 거꾸로 돌아가 평민 호민관에는 귀족이나 귀족의 앞잡이만 두게 되었고, 신성한 법을 빼앗고 호민관 권력을 강탈하고 있다고 했다. 이것은 귀족들의 사기와 동료들의 범죄적 배신으로 벌어진 일이라고 비난했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-11-004-006",
@@ -967,7 +1396,18 @@
       "korean": "귀족들뿐 아니라 보궐 선출된 호민관들과 그들을 뽑은 호민관들까지 증오의 불길에 휩싸였다. 그러자 호민관단 가운데 푸블리우스 쿠라티우스, 마르쿠스 메틸리우스, 마르쿠스 미누키우스 세 사람이 자기들의 처지를 두려워하여 전년도 군사 호민관 세르기우스와 베르기니우스를 공격했다. 두 사람의 재판일을 지정함으로써 평민의 분노와 증오가 자기들에게서 그쪽으로 향하게 했다. 그들은 징집과 전쟁세, 오랜 군역과 긴 전쟁을 무겁게 여기는 사람들, 베이이에서 당한 패배 때문에 슬퍼하는 사람들, 자식과 형제와 친척과 인척을 잃어 상중인 집안을 가진 사람들에게, 공적·사적 고통을 안긴 두 죄인의 머리에 응징을 내릴 권한과 기회를 자신들이 주었다고 상기시켰다. 모든 재앙의 원인은 세르기우스와 베르기니우스에게 있었고, 그것은 고발자들보다 피고인들이 더욱 분명히 인정하고 있었다. 둘 다 죄가 있어 서로에게 책임을 돌렸으니, 베르기니우스는 세르기우스의 패주를, 세르기우스는 베르기니우스의 배신을 꾸짖었다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-11-007-010",
@@ -989,7 +1429,18 @@
       "korean": "그들의 광기는 너무나 믿기 어려웠으므로, 차라리 일을 미리 짜고 귀족들이 함께 속임수를 꾸민 것이라고 보는 편이 훨씬 그럴듯하다고 했다. 전쟁을 질질 끌기 위해 앞서 베이이인에게 공성시설을 불태울 기회를 준 것도, 이제 군대를 배반하고 로마 진영을 팔리스키인에게 넘긴 것도 이들이라는 것이다. 모든 것은 청년들이 베이이에서 늙어가고, 평민 호민관들이 토지나 평민의 다른 이익에 관한 법안을 인민에게 제출하지 못하며, 도시에서 많은 사람이 모인 가운데 정치 활동을 벌이고 귀족들의 결탁에 맞서지 못하게 하려는 일이었다. 피고인들에게는 이미 원로원과 로마 인민과 동료들이 모두 유죄의 선판결을 내렸다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-11-011-013",
@@ -1010,7 +1461,18 @@
       "korean": "원로원은 결의로 그들을 국정에서 제거했고, 그들이 사임을 거부하자 동료들은 독재관을 세우겠다고 위협하여 제압했다. 로마 인민도 정규일인 12월 13일이 아니라 곧바로 10월 1일에 취임할 군사 호민관들을 선출했다. 두 사람이 관직에 머무는 동안에는 공화국이 더 버틸 수 없었기 때문이다. 그런데도 수많은 판결에 찔리고 이미 유죄 선고를 받은 이들은 이제 인민의 재판에 나와, 두 달 일찍 민간인이 된 것으로 일을 다 치르고 충분한 벌을 받았다고 여겼다. 그때 그들에게서 빼앗은 것은 더 오래 해를 끼칠 권한이지 형벌을 내린 것이 아니며, 아무 잘못도 저지르지 않은 동료들조차 지휘권을 잃었다는 사실을 깨닫지 못한다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-11-014-016",
@@ -1031,7 +1493,18 @@
       "korean": "고발자들은 외쳤다. \"로마 시민 여러분, 패배의 충격이 생생하던 때의 마음을 되찾으십시오. 패주와 공포에 질리고 상처투성이인 군대가 성문으로 쓰러져 들어오며, 운명이나 어느 신이 아니라 이 지휘관들을 탓하던 모습을 보았을 때의 마음 말입니다. 오늘 이 집회에 서 있는 사람 가운데 그날 루키우스 베르기니우스와 마르쿠스 세르기우스의 목숨과 집안과 재산에 저주를 퍼붓지 않은 사람은 아무도 없다고 우리는 확신합니다. 저주를 내려달라고 각자 분노한 신들에게 기원했던 자들을 상대로, 이제 권한이 있고 또 써야 할 때 여러분 자신의 권한을 쓰지 않는 것은 조금도 이치에 맞지 않습니다. 신들이 직접 죄인에게 손을 뻗는 일은 없습니다. 피해를 입은 사람들에게 복수할 기회를 무기로 쥐여주는 것으로 충분합니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 401년경",
+        "yearStartBce": 401,
+        "yearEndBce": 401,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-12-001-004",
@@ -1058,7 +1531,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 400년경",
+        "yearStartBce": 400,
+        "yearEndBce": 400,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-12-005-007",
@@ -1079,7 +1563,18 @@
       "korean": "마르쿠스 푸리우스는 팔리스키인의 영토에서, 그나이우스 코르넬리우스는 카페나인의 영토에서 성벽 밖의 적을 전혀 만나지 못했다. 약탈물을 몰고 농가와 곡식에 불을 질러 영토를 황폐하게 했지만, 도시들은 공격하지도 포위하지도 않았다. 반면 볼스키인의 영토에서는 들판을 유린한 뒤 높은 곳에 자리 잡은 안크수르를 공격했으나 헛일이었다. 무력 공격이 소용없자 보루와 해자를 둘러 포위하기 시작했다. 볼스키 전선은 발레리우스 포티투스에게 배정되었다. 군사 상황이 이러할 때 국내의 내분은 그들이 수행하던 전쟁보다 더 거대한 기세로 일어났다. 호민관들이 전쟁세 징수를 막아 지휘관들에게 급료를 보낼 수 없고 병사들이 돈을 요구하자, 진영까지 도시 내분의 전염에 휩쓸려 소란스러워질 지경에 이르렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 400년경",
+        "yearStartBce": 400,
+        "yearEndBce": 400,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-12-008-011",
@@ -1101,7 +1596,18 @@
       "korean": "평민이 귀족들에게 이토록 분노하던 가운데 평민 호민관들은 지금이야말로 자유를 굳건히 세우고 최고 관직을 세르기우스와 베르기니우스 같은 자들에게서 용감하고 부지런한 평민에게 넘길 때라고 말했다. 그러나 평민의 권리를 행사해보려는 뜻에서 푸블리우스 리키니우스 칼부스 한 사람을 집정관 권한을 지닌 군사 호민관으로 뽑은 것 이상으로 나아가지는 못했다. 나머지는 푸블리우스 만리우스, 루키우스 티티니우스, 푸블리우스 마일리우스, 루키우스 푸리우스 메둘리누스, 루키우스 푸블릴리우스 볼스쿠스 등 귀족이었다. 평민들은 자신들이 이토록 큰일을 이루었다는 사실에 스스로 놀랐고, 선출된 본인도 마찬가지였다. 그는 전에 어떤 관직도 맡은 적이 없고 원로원 경력만 오래된 나이 많은 사람이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 400년경",
+        "yearStartBce": 400,
+        "yearEndBce": 400,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-12-012-013",
@@ -1126,7 +1632,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 399년경",
+        "yearStartBce": 399,
+        "yearEndBce": 399,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-13-001-003",
@@ -1147,7 +1664,18 @@
       "korean": "볼스키인의 안크수르는 축제일에 도시 경비가 느슨해진 틈을 타 곧 되찾았다. 그해는 매섭고 눈 많은 겨울로 유명하여 길이 막히고 티베리스강에서 배가 다닐 수 없을 정도였다. 그러나 미리 실어둔 식량이 넉넉하여 곡물 가격은 변하지 않았다. 푸블리우스 리키니우스는 귀족들의 분노보다 평민들의 기쁨이 더 큰 가운데 소란 없이 관직을 얻었고, 또 그렇게 관직을 수행했다. 그래서 다음 군사 호민관 선거에서는 평민들을 뽑는 즐거움이 사람들을 사로잡았다. 귀족 후보 가운데 자리를 지킨 사람은 마르쿠스 베투리우스 한 명뿐이었다. 거의 모든 백인대가 나머지 집정관 권한의 군사 호민관으로 평민인 마르쿠스 폼포니우스, 그나이우스 두일리우스, 볼레로 푸블릴리우스, 그나이우스 게누키우스, 루키우스 아틸리우스를 지명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 399년경",
+        "yearStartBce": 399,
+        "yearEndBce": 399,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-13-004-007",
@@ -1174,7 +1702,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 399년경",
+        "yearStartBce": 399,
+        "yearEndBce": 399,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-13-008-010",
@@ -1195,7 +1734,18 @@
       "korean": "죄수들에게도 그 기간에는 족쇄를 벗겨주었고, 신들이 그렇게 구해준 자들에게 다시 쇠사슬을 채우는 일은 그 뒤 종교적으로 꺼리게 되었다. 한편 베이이에서는 세 전쟁이 한곳에 합쳐지며 여러 겹의 공포가 닥쳤다. 전과 마찬가지로 카페나인과 팔리스키인이 갑자기 원군으로 와서 방어시설 주변에서 세 군대를 상대로 양면 전투를 벌였다. 무엇보다 세르기우스와 베르기니우스가 유죄 판결을 받은 기억이 로마군에 힘이 되었다. 지난번에는 꼼짝하지 않던 더 큰 진영에서 군대가 짧은 길을 우회하여, 로마 보루를 공격하느라 등을 보인 카페나인을 뒤에서 덮쳤다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 399년경",
+        "yearStartBce": 399,
+        "yearEndBce": 399,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-13-011-013",
@@ -1216,7 +1766,18 @@
       "korean": "그곳에서 시작된 전투는 팔리스키인에게도 공포를 퍼뜨렸고, 그들이 허둥댈 때 진영에서 때맞춰 출격한 병력이 그들을 돌아서게 했다. 승자들은 패주하는 적을 추격해 엄청난 살육을 벌였다. 얼마 뒤에는 이제 안전하다고 여겨 흩어져 가던 잔병들이 우연히 카페나 영토를 약탈하던 로마군과 마주쳐 남김없이 죽었다. 베이이인도 도시로 달아나다 성문 앞에서 많이 죽었다. 로마군이 함께 들이닥칠까 두려워 성문을 닫으면서 자기편 후미를 성 밖에 내버렸기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 399년경",
+        "yearStartBce": 399,
+        "yearEndBce": 399,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-14-001-004",
@@ -1238,7 +1799,18 @@
       "korean": "이것이 그해의 일이었다. 이제 군사 호민관 선거가 다가왔는데, 최고 권력을 평민과 나누는 정도가 아니라 거의 잃었다고 본 원로원 의원들은 전쟁보다 선거를 더 걱정할 지경이었다. 그래서 사람들이 차마 제치지 못하리라 여긴 가장 명망 높은 인물들을 미리 합의하여 후보로 준비시켰다. 그러고도 그들 자신이 모두 후보인 것처럼 온갖 수단을 써서 인간뿐 아니라 신들까지 끌어들였고, 지난 2년 동안 치른 선거를 종교 문제로 만들었다. 그들은 재작년에는 견디기 힘들고 신의 징조와도 같은 겨울이 닥쳤으며, 지난해에는 징조를 넘어 실제 재앙으로서 들과 도시에 역병이 들었다고 했다. 이 재앙을 막으려고 어떤 신들을 달래야 하는지 운명의 책에서 찾아냈으니, 그것은 의심할 여지 없는 신들의 분노라는 것이었다. 길조를 확인하고 치르는 선거에서 높은 관직을 천하게 풀어 신분의 경계를 뒤섞은 일이 신들에게 부당하게 보였다고 주장했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-14-005-007",
@@ -1259,7 +1831,18 @@
       "korean": "사람들은 후보들의 위엄뿐 아니라 종교적 두려움에도 압도되어 모두 귀족이고 대부분 최고로 존경받는 인물들을 집정관 권한의 군사 호민관으로 선출했다. 루키우스 발레리우스 포티투스가 다섯 번째, 마르쿠스 발레리우스 막시무스, 마르쿠스 푸리우스 카밀루스가 두 번째, 루키우스 푸리우스 메둘리누스가 세 번째, 퀸투스 세르빌리우스 피데나스가 두 번째, 퀸투스 술피키우스 카메리누스가 두 번째였다. 이 호민관들이 재임할 때 베이이에서는 딱히 기록할 만한 일이 없었고, 모든 힘은 약탈에 쓰였다. 두 최고 지휘관 가운데 포티투스는 팔레리이에서, 카밀루스는 카페나에서 엄청난 약탈물을 몰고 왔으며, 칼이나 불로 해칠 수 있는 것은 하나도 멀쩡히 남겨두지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-15-001-004",
@@ -1281,7 +1864,18 @@
       "korean": "그동안 많은 징조가 보고되었다. 대부분은 증언자가 한 사람뿐이라 충분히 믿을 수 없었고, 또 적인 에트루리아인 가운데 징조를 해소할 점복관을 구할 수도 없어 무시되었다. 그러나 모든 이의 염려가 한 가지 일에 쏠렸다. 알바 숲의 호수가 하늘에서 비가 내리지도 않고 기이함을 없애줄 다른 이유도 전혀 없는데 이례적인 높이까지 불어난 것이다. 이 징조로 신들이 무엇을 예고하는지 묻기 위해 델포이 신탁소에 사절들을 보냈다. 그런데 더 가까이에서 운명의 해석자가 나타났다. 경계지에서 로마 병사와 에트루리아 병사가 농담을 주고받을 때 베이이의 한 노인이 예언자처럼 노래했다. 알바 호수에서 물을 빼내기 전에는 로마인이 결코 베이이를 차지하지 못할 것이라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-15-005-007",
@@ -1302,7 +1896,18 @@
       "korean": "처음에는 되는대로 내뱉은 말로 여겨 무시했지만, 차츰 사람들의 이야깃거리가 되었다. 긴 전쟁 동안 서로 말을 주고받는 관계가 생겨 있었으므로, 마침내 로마 경계지의 한 병사가 가장 가까이에 있던 성 주민에게 알바 호수 이야기를 수수께끼처럼 던진 자가 누구인지 물었다. 그가 점복관이라는 말을 듣자, 종교심이 없지 않았던 그 로마 청년은 자기 집에 나타난 징조를 어떻게 해소할지 묻고 싶으니 시간이 된다면 만나자고 핑계를 대어 예언자를 대화 자리로 유인했다. 두 사람이 무장도 하지 않고 두려움 없이 각자 자기편에서 멀리 나왔을 때, 힘센 로마 청년은 허약한 노인을 붙잡아 끌고 갔다. 에트루리아인들이 소란을 피웠지만 모두가 보는 앞에서 자기편으로 데려왔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-15-008-011",
@@ -1324,7 +1929,18 @@
       "korean": "그는 지휘관에게 끌려간 뒤 로마의 원로원으로 보내졌다. 알바 호수에 관해 가르친 말이 무엇이었느냐는 질문에 그는 이렇게 답했다. 신들이 조국의 멸망을 결정할 비밀을 폭로하라는 생각을 자기 마음에 넣어준 그날, 분명 베이이 민족에게 분노해 있었을 것이라고 했다. 그러므로 그때 신의 영에 사로잡혀 노래한 말은 이미 하지 않은 말로 되돌릴 수 없고, 불멸의 신들이 세상에 알리려는 일을 침묵하는 것도 감추어야 할 일을 발설하는 것 못지않은 신성모독일 수 있다고 했다. 운명의 책과 에트루리아의 전승에는 이렇게 적혀 있었다. 알바의 물이 넘쳐날 때 로마인이 의식에 맞게 물을 빼내면 베이이인에 대한 승리가 주어지고, 그렇게 하기 전에는 신들이 베이이의 성벽을 버리지 않는다는 것이다. 이어 그는 정해진 물길을 내는 의식이 무엇인지 설명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-15-012",
@@ -1348,7 +1964,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 398년경",
+        "yearStartBce": 398,
+        "yearEndBce": 398,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-16-001-003",
@@ -1369,7 +1996,18 @@
       "korean": "델포이의 사절들이 돌아오고 알바의 징조를 씻을 방법을 찾기 전에, 집정관 권한을 지닌 새 군사 호민관 루키우스 율리우스 율루스, 네 번째로 선출된 루키우스 푸리우스 메둘리누스, 루키우스 세르기우스 피데나스, 아울루스 포스투미우스 레길렌시스, 푸블리우스 코르넬리우스 말루기넨시스, 아울루스 만리우스가 취임했다. 그해 타르퀴니이인이 새로운 적으로 일어났다. 그들은 로마인들이 동시에 많은 전쟁에 매여 있는 것을 보았다. 안크수르에서는 수비대가 포위되어 볼스키인과 싸웠고, 라비키에서는 로마 식민지를 공격하는 아이퀴인과 싸웠으며, 그 밖에도 베이이인·팔리스키인·카페나인과 싸우고 있었다. 성벽 안에서도 귀족과 평민의 다툼으로 형편이 평온하지 않았다. 그들은 이 사이가 해를 끼칠 기회라고 여겨 날랜 부대들을 로마 영토로 보내 약탈하게 했다. 로마인들이 새 전쟁의 부담을 피하려고 모욕을 응징하지 않고 참거나, 적고 약한 군대로 뒤쫓을 것이라고 계산했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-16-004-006",
@@ -1390,7 +2028,18 @@
       "korean": "로마인들은 타르퀴니이인의 약탈이 끼친 실제 피해보다 그 모욕을 더 크게 여겼다. 그래서 큰 준비를 들이지도 않고 오래 끌지도 않았다. 아울루스 포스투미우스와 루키우스 율리우스는 평민 호민관들이 막았기 때문에 정규 징집을 하지는 못했지만, 격려로 불러 모은 거의 전원 자원병의 부대를 이끌었다. 카이레 영토를 지나 샛길로 나아가 약탈을 마치고 전리품을 잔뜩 지고 돌아가던 타르퀴니이인을 덮쳤다. 많은 사람을 베어 죽이고 짐을 모두 빼앗은 뒤, 자기 영토에서 약탈당했던 물건을 되찾아 로마로 돌아왔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-16-007-008",
@@ -1415,7 +2064,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-16-009-010",
@@ -1435,7 +2095,18 @@
       "korean": "\"그런 다음 대담하게 적의 성벽을 밀어붙여라. 네가 여러 해 동안 포위해온 도시를 기억하라. 이제 밝혀지는 이 운명에 따라 그 도시를 이길 승리가 너에게 주어졌다. 전쟁을 끝낸 뒤에는 승자로서 내 신전에 큰 예물을 가져오고, 돌보지 않아 중단된 조상의 제의도 관례대로 다시 거행하라.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-17-001-004",
@@ -1462,7 +2133,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-17-005-007",
@@ -1483,7 +2165,18 @@
       "korean": "그동안 평민 호민관들이 선거를 가로막아 소란은 그치지 않았고, 군사 호민관의 과반수를 평민 가운데서 선출하기로 먼저 합의한 뒤에야 끝났다. 이 일이 진행되는 사이 볼툼나 신전에서 에트루리아 회의가 열렸다. 카페나인과 팔리스키인은 에트루리아의 모든 민족이 한마음 한뜻으로 베이이를 포위에서 구해달라고 요구했다. 그러나 회의는 이렇게 답했다. 베이이인들이 이처럼 중대한 일을 결정할 때 자기들과 상의하지 않았으니 뒤늦게 도움을 청할 자격이 없다는 이유로 예전에도 원조를 거부했으며, 이제는 자신들의 운명 자체가 원조를 허락하지 않는다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-17-008-010",
@@ -1504,7 +2197,18 @@
       "korean": "전에 본 적 없는 민족이 에트루리아의 그쪽 지방에 대부분 정착해 있었다. 새로 이웃이 된 갈리아인들과는 평화도 충분히 믿을 수 없고, 전쟁이 벌어질지도 확실하지 않았다. 다만 혈통과 이름을 공유하는 친족이 지금 위험에 빠졌으므로, 에트루리아 청년들이 자원하여 그 전쟁에 가려 한다면 막지는 않겠다고 했다. 엄청난 수의 적군이 도착했다는 소문이 로마에 퍼졌다. 흔히 그렇듯 공동의 두려움 앞에서 국내의 불화는 누그러지기 시작했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 397년경",
+        "yearStartBce": 397,
+        "yearEndBce": 397,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-18-001-003",
@@ -1530,7 +2234,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-18-004-006",
@@ -1551,7 +2266,18 @@
       "korean": "\"그러나 여러분이 재선시키려는 내 동료들은 경험으로 더욱 나아진 바로 그 사람들이지만, 나는 이제 예전의 그 사람이 아니라 푸블리우스 리키니우스의 그림자와 이름만 남았음을 보십시오. 육신의 힘은 쇠했고, 눈과 귀의 감각은 무뎌졌으며, 기억은 흔들리고 정신의 활력은 둔해졌습니다. 자, 여기 여러분 앞에 젊은이가 있습니다.\" 그는 아들을 붙들고 말했다. \"여러분이 전에 최초의 평민 출신 군사 호민관으로 세운 사람의 형상과 모습입니다. 내가 훈육하여 길러낸 이 아들을 내 대리자로 공화국에 바치고 지정합니다. 로마 시민 여러분, 내가 청하지도 않았는데 여러분이 베푼 관직을 이제 후보로 나선 이 아들에게 맡겨주십시오. 그를 위한 내 간청도 보태어 부탁합니다.\" 아버지의 청은 받아들여졌고, 그의 아들 푸블리우스 리키니우스는 위에서 적은 이들과 함께 집정관 권한을 지닌 군사 호민관으로 선포되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-18-007-009",
@@ -1572,7 +2298,18 @@
       "korean": "군사 호민관 티티니우스와 게누키우스는 팔리스키인과 카페나인을 상대하러 출정했지만, 숙고보다 기세로 전쟁을 밀어붙이다 매복에 뛰어들었다. 게누키우스는 무모함의 대가를 명예로운 죽음으로 치러, 선두 대열의 군기 앞에서 쓰러졌다. 티티니우스는 크게 허둥대던 병사들을 높은 언덕으로 모아 전열을 다시 세웠으나, 그래도 유리한 위치를 버리고 적과 대등한 지형에서 맞붙지는 않았다. 손실보다 치욕이 큰 패배였지만, 거의 엄청난 참사로 번질 뻔했다. 여러 겹으로 부풀려진 소문이 닿은 로마뿐 아니라 베이이의 진영에도 엄청난 공포가 퍼졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-18-010-012",
@@ -1593,7 +2330,18 @@
       "korean": "지휘관과 군대가 전멸했고, 승리한 카페나인과 팔리스키인 및 에트루리아의 모든 청년이 멀지 않은 곳에 와 있다는 소문이 진영에 퍼지자 병사들을 도주하지 못하게 붙드는 것조차 힘들었다. 로마에는 더 소란스러운 소문이 돌았다. 베이이의 진영이 이미 공격받고 있고, 적군 일부가 적의를 품은 대열로 로마 시를 향한다는 것이었다. 사람들이 성벽으로 달려갔고, 공포에 떠밀려 집에서 나온 부인들은 신전에서 탄원했다. 제의가 올바르게 새로 거행되고 징조가 제대로 해소되었다면, 신들이 파멸을 로마 시의 집과 신전과 성벽에서 물리쳐 그 공포를 베이이로 돌려달라고 기도했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-19-001-004",
@@ -1615,7 +2363,18 @@
       "korean": "경기와 라틴 축제는 이미 다시 열렸고, 알바 호수의 물도 들판으로 빼냈으며, 운명은 베이이에 닥쳐오고 있었다. 그러므로 그 도시를 멸망시키고 조국을 구할 운명의 지휘관 마르쿠스 푸리우스 카밀루스가 독재관으로 임명되어 푸블리우스 코르넬리우스 스키피오를 기병대장으로 임명했다. 지휘관이 바뀌자 모든 것이 갑자기 달라졌다. 사람들의 희망도 마음도 달라졌고, 도시의 운명까지 달라 보였다. 그는 무엇보다 먼저 그 공포 속에서 베이이를 떠나 달아난 자들을 군율에 따라 처벌하여, 병사에게 가장 무서운 것이 적군이 아니게 만들었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-19-005-006",
@@ -1640,7 +2399,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-19-007-009",
@@ -1661,7 +2431,18 @@
       "korean": "그가 군대를 이끌고 로마를 떠날 때 사람들은 희망보다 기대가 더 컸다. 먼저 네페테 영토에서 팔리스키인과 카페나인을 상대로 전투를 벌였다. 그곳에서 모든 일을 최고의 이성과 판단으로 처리하자, 흔히 그렇듯 행운도 뒤따랐다. 그는 전투에서 적군을 패주시켰을 뿐 아니라 진영까지 빼앗고 엄청난 전리품을 얻었다. 그 가운데 대부분은 재무관에게 넘겼고 병사들에게는 그리 많이 주지 않았다. 이어 군대를 베이이로 이끌어 보루를 더욱 촘촘히 세웠다. 성벽과 로마 방벽 사이에서 무모한 소규모 교전이 자주 벌어졌으므로, 명령 없이 누구도 싸우지 못하게 포고하고 병사들을 공사로 돌렸다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-19-010-011",
@@ -1681,7 +2462,18 @@
       "korean": "모든 공사 가운데 단연 가장 크고 힘든 것은 적의 성채로 이어지는 갱도를 파기 시작한 일이었다. 작업이 중단되지 않고 같은 사람들이 지하의 연속 노동으로 지치지도 않도록, 카밀루스는 공사 인원을 여섯 조로 나누었다. 조마다 돌아가며 여섯 시간씩 작업하게 했고, 성채로 길을 뚫을 때까지 밤낮으로 한순간도 멈추지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-20-001-005",
@@ -1704,7 +2496,18 @@
       "korean": "독재관은 승리를 이미 손에 넣었으며 대단히 부유한 도시가 함락되어, 이전의 모든 전쟁에서 얻은 것을 한데 모은 것보다 더 많은 전리품이 생길 것을 알았다. 전리품을 인색하게 나눠 병사들의 분노를 사거나, 낭비하듯 베풀어 원로원의 미움을 받지 않으려고 원로원에 서신을 보냈다. 불멸의 신들의 은혜와 자신의 계책과 병사들의 인내 덕분에 베이이가 이제 로마 인민의 수중에 들어올 것이니, 전리품을 어떻게 처리할지 결정해달라는 내용이었다. 두 의견이 원로원을 갈라놓았다. 먼저 발언한 사람은 노인 푸블리우스 리키니우스였다고 전해지는데, 그의 아들이 의견을 물었다고 한다. 그는 전리품을 나누어 갖고 싶은 사람은 베이이의 진영으로 가라고 인민에게 공개 선포하자고 했다. 다른 의견은 아피우스 클라우디우스가 냈다. 그는 이처럼 새롭고 낭비가 심하며 불평등하고 경솔한 선심을 비판했다. 전쟁으로 국고가 바닥났다고 해서 적에게서 빼앗은 돈을 국고에 넣는 일을 신성하지 못하다고 여긴다면, 그 돈으로 병사들의 급료를 지급하여 평민이 내는 전쟁세를 그만큼 줄이자고 주장했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-20-006-008",
@@ -1725,7 +2528,18 @@
       "korean": "아피우스는 이런 선물의 몫을 모든 가정이 똑같이 누릴 것이라고 했다. 약탈욕에 찬 도시의 한량들이 용감한 전사들의 보상을 먼저 낚아채서는 안 된다는 것이다. 흔히 노동과 위험을 가장 적게 감당한 사람이 약탈에는 가장 굼뜨지 않고 제 몫을 크게 차지하려 들기 때문이다. 반대로 리키니우스는 그 돈을 국고에 넣으면 늘 의심과 증오의 대상이 되어 평민의 비난과 선동, 새로운 법안의 구실을 제공할 것이라고 말했다. 그러므로 그 선물로 평민의 마음을 다시 얻고, 여러 해의 전쟁세로 소진되고 가난해진 이들을 구제하며, 거의 늙도록 싸운 전쟁에서 얻은 전리품의 열매를 직접 맛보게 하는 편이 낫다고 했다. 다른 이의 판단에 따라 몇 배의 몫을 받는 것보다, 누구든 제 손으로 적에게서 빼앗은 물건을 집으로 가져갈 때 더 고맙고 기쁠 것이라는 주장이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-20-009-010",
@@ -1745,7 +2559,18 @@
       "korean": "독재관은 그 일로 인한 증오와 비난을 피하려고 판단을 원로원에 맡겼고, 원로원도 다시 넘겨받은 결정을 평민에게 맡겨 각자가 전쟁의 운으로 얻은 것을 가지게 해야 한다고 리키니우스는 말했다. 이 의견이 원로원을 민중에게 인기 있게 만들어줄 더 안전한 길로 보였다. 이에 원한다면 누구든 베이이의 전리품을 얻으러 독재관의 진영으로 가라고 포고했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-21-001-004",
@@ -1772,7 +2597,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-21-005-008",
@@ -1794,7 +2630,18 @@
       "korean": "베이이인들은 자신들이 이미 자기 예언자들과 외국 신탁에 배신당했고, 신들이 자기 전리품의 몫을 받도록 초대받았으며, 어떤 신들은 서원을 통해 자기 도시를 떠나 적의 신전과 새 거처를 바라보고 있고, 자기들이 마지막 날을 살고 있다는 사실을 몰랐다. 갱도로 성벽 아래를 파헤쳐 성채가 이미 적군으로 가득 찼으리라고는 조금도 생각하지 못했다. 그들은 모두 제각기 무장하고 성벽으로 뛰어가, 여러 날 동안 경계지에서 한 발짝도 움직이지 않던 로마인들이 왜 이제 갑작스러운 광기에 사로잡힌 듯 앞뒤 가리지 않고 성벽으로 달려오는지 의아해했다. 이 대목에는 다음 이야기도 끼어든다. 베이이 왕이 희생제물을 바치는데 점복관이 ‘이 제물의 내장을 떼어낸 자에게 승리가 주어진다’고 말했고, 갱도 안의 로마 병사들이 그 목소리를 듣고 갱도를 열어 내장을 빼앗아 독재관에게 가져갔다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-21-009-010",
@@ -1814,7 +2661,18 @@
       "korean": "그러나 이처럼 오래된 일에서는 진실과 닮은 것을 진실로 받아들이는 것만으로 나는 만족하겠다. 기적을 즐기는 무대의 과시에는 알맞아도 신뢰하기에는 부적절한 이 이야기를 단언하거나 반박하는 데 애쓸 가치는 없다. 마침 그때 정예 병사들로 가득 찬 갱도는 베이이 성채의 유노 신전 안으로 무장병들을 갑자기 쏟아냈다. 일부는 성벽에서 등을 보인 적을 덮쳤고, 일부는 성문의 빗장을 부수었다. 지붕 위에서 여자와 노예들이 돌과 기와를 던지자 다른 일부는 집에 불을 질렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-21-011-015",
@@ -1837,7 +2695,18 @@
       "korean": "여러 목소리로 위협하고 두려워하는 고함에 여자와 아이의 울음까지 뒤섞여 모든 곳을 가득 채웠다. 순식간에 무장병들이 사방의 성벽에서 쫓겨나고 성문이 열렸다. 일부는 대열을 이루어 밀려들고 일부는 버려진 성벽을 기어오르면서 도시는 적군으로 가득 찼다. 곳곳에서 싸움이 벌어졌다. 이미 많은 살육이 일어난 뒤 전투가 차츰 잦아들자 독재관은 전령들에게 무장하지 않은 자를 해치지 말라고 선포하게 했다. 이것으로 피 흘림은 끝났다. 무장하지 않은 자들이 항복하기 시작했고, 병사들은 독재관의 허락을 받아 약탈하러 흩어졌다. 기대와 예상보다 훨씬 많고 값진 물건이 눈앞으로 옮겨지는 것을 본 독재관은 하늘을 향해 손을 들어 기도했다고 한다. 어느 신이나 인간이 자신과 로마 인민의 행운을 지나치다고 여긴다면, 자신이 개인적으로나 로마 인민이 공적으로 입을 수 있는 가장 작은 손해로 그 시기를 누그러뜨리게 해달라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-21-016-017",
@@ -1857,7 +2726,18 @@
       "korean": "전승에 따르면 그는 이 기도를 올리다가 몸을 돌리며 발을 헛디뎌 넘어졌다. 훗날 사건의 결과에서 의미를 찾던 사람들은 그 징조가 카밀루스 자신에게 내려진 유죄 판결과, 몇 해 뒤 일어난 로마 시 함락의 재앙을 가리켰다고 보았다. 그날은 적군을 죽이고 지극히 부유한 도시를 약탈하는 일로 지나갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-22-001-003",
@@ -1883,7 +2763,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-22-004-008",
@@ -1906,7 +2797,18 @@
       "korean": "온 군대에서 뽑혀 몸을 정결하게 씻고 흰옷을 입은 젊은이들이 여왕 유노를 로마로 옮기는 임무를 받았다. 그들은 경외심을 품고 신전에 들어가 처음에는 조심스럽고 경건하게 손을 댔다. 에트루리아 관습에 따르면 특정 가문의 사제 말고는 그 신상에 손대는 일이 허용되지 않았기 때문이다. 그때 누군가가 신의 영에 감동했든 젊은이다운 농담을 했든 \"유노여, 로마로 가시겠습니까?\"라고 묻자, 다른 이들은 여신이 고개를 끄덕였다고 한목소리로 외쳤다. 나중에는 가겠다는 목소리까지 들렸다는 이야기가 더해졌다. 확실히 전해지는 바로는 신상을 자리에서 옮기는 데 작은 장치만 필요했고, 마치 스스로 따라오듯 가볍고 쉽게 운반되었다. 로마 독재관의 서원이 불러낸 영원한 거처인 아벤티누스까지 온전히 옮겨졌고, 뒤에 서원했던 바로 그 카밀루스가 그곳에 신전을 봉헌했다. 이것이 에트루리아 이름을 지닌 가장 부유한 도시 베이이의 몰락이었다. 마지막 재앙 속에서도 그 위대함을 드러냈으니, 여름과 겨울을 이어 열 해 동안 포위되어 당한 것보다 훨씬 많은 패배를 적에게 안긴 끝에, 마침내 운명까지 재촉하는 가운데서도 무력이 아니라 공사로 함락되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-23-001-003",
@@ -1927,7 +2829,18 @@
       "korean": "베이이가 함락되었다는 소식이 로마에 전해졌다. 징조를 해소하고, 예언자들의 응답과 퓌티아의 신탁을 알고 있었으며, 인간의 계책으로 도울 수 있는 한 모든 지휘관 가운데 가장 위대한 마르쿠스 푸리우스를 지도자로 선택했는데도 기쁨은 뜻밖에 닥친 듯 한없이 컸다. 그곳에서 여러 해 동안 전황이 엎치락뒤치락하고 많은 패배를 당했기 때문이다. 원로원이 결정하기도 전에 모든 신전은 로마의 어머니들로 가득 찼고, 그들은 신들에게 감사를 올렸다. 원로원은 어떤 전쟁에서도 전례가 없던 나흘 동안의 감사제를 선포했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-23-004-007",
@@ -1954,7 +2867,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-23-008-012",
@@ -1977,7 +2901,18 @@
       "korean": "카밀루스는 아폴로에게 전리품의 10분의 1을 서원했다고 밝혔다. 대신관들도 인민이 종교적 의무를 갚아야 한다고 판단했지만, 인민에게 전리품을 되돌려 내라고 명령하여 그 가운데 빚진 몫을 떼어 신성한 용도로 바칠 방법을 정하기는 쉽지 않았다. 마침내 가장 온건해 보이는 방법을 택했다. 자신과 집안의 종교적 채무를 풀고 싶은 사람은 각자 자기 전리품의 가치를 스스로 평가하여, 그 10분의 1에 해당하는 값을 국고에 내게 했다. 그 돈으로 신전의 위대함과 신의 권능, 로마 인민의 위엄에 걸맞은 황금 예물을 만들기로 했다. 이 부담도 평민의 마음을 카밀루스에게서 멀어지게 했다. 그사이 볼스키인과 아이퀴인이 평화를 청하는 사절들을 보냈고 평화를 얻었다. 그들이 청할 자격이 있어서라기보다, 그토록 긴 전쟁에 지친 국가가 쉬도록 하려는 결정이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 396년경",
+        "yearStartBce": 396,
+        "yearEndBce": 396,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-24-001-004",
@@ -2004,7 +2939,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-24-005-009",
@@ -2027,7 +2973,18 @@
       "korean": "사람들은 이 선심을 멸시하기 시작했다. 더 큰 희망에서 눈을 돌리게 하려고 던져준 위로라고 여겼기 때문이다. 눈앞에 지극히 아름다운 베이이 시와 로마 영토보다 더 비옥하고 넓은 베이이의 땅이 있는데, 어째서 평민을 볼스키인에게 유배하듯 보내느냐고 물었다. 위치로나 공공·개인 건물과 장소의 장려함으로나 베이이를 로마보다 더 나은 도시로 내세우기까지 했다. 로마가 갈리아인에게 함락된 뒤 특히 더 큰 관심을 받게 된 베이이 이주안도 이때 이미 제기되었다. 평민 일부와 원로원 일부를 베이이로 보내 살게 하고, 로마 인민이 두 도시에 거주하며 하나의 공화국을 함께 꾸릴 수 있다는 것이었다. 귀족 지도자들은 이 제안에 맞서, 그런 법안이 로마 인민이 보는 앞에서 상정되도록 두느니 차라리 죽겠다고 선언할 만큼 완강히 다퉜다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-24-010-011",
@@ -2047,7 +3004,18 @@
       "korean": "지금 한 도시에 있어도 불화가 이토록 많은데 두 도시가 되면 어떻게 되겠는가? 누가 정복된 도시를 승리한 조국보다 앞세우고, 베이이가 건재할 때보다 함락된 뒤 더 큰 행운을 누리게 두겠는가? 끝내 시민들이 자기들을 조국에 남겨두고 떠나는 것은 가능하지만, 어떤 힘도 자신들을 굴복시켜 조국과 시민들을 버리고 떠나게 할 수는 없다고 했다. 법안의 제안자인 평민 호민관 티투스 시키니우스는 신인 로물루스, 신의 아들이자 로마 시의 아버지이며 창건자를 버려두고 베이이의 창건자가 되어 사람들을 이끌고 가라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-25-001-004",
@@ -2069,7 +3037,18 @@
       "korean": "이 일은 추악한 싸움 속에서 진행되었다. 원로원 의원들이 평민 호민관 일부를 자기편으로 끌어들였기 때문이다. 평민이 손을 써서 폭력을 휘두르지 못하게 한 것은 오직 한 가지뿐이었다. 싸움을 시작할 구실이 되는 고함이 일 때마다 원로원의 지도자들이 가장 먼저 군중 앞에 몸을 내놓고 자신들을 겨냥해 때리고 죽이라고 했던 것이다. 사람들은 그들의 나이와 지위와 관직의 존엄을 범하지 않으려고 삼갔고, 그 경외심은 나머지 비슷한 폭력 시도도 분노 앞에서 가로막았다. 카밀루스는 곳곳에서 거듭 민중에게 연설하며 말했다. 서원의 빚을 갚는 일보다 다른 모든 일을 앞세우는 유죄의 국가가 미쳐 날뛰는 것은 전혀 놀랍지 않다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-25-005-007",
@@ -2090,7 +3069,18 @@
       "korean": "그는 헌납금 모금에 대해서는 아무 말도 하지 않겠다고 했다. 실제로는 전리품의 10분의 1인데도 각자가 개인적으로 의무를 졌고 인민 전체는 의무에서 풀려났으니, 차라리 자발적 헌금이라고 부르는 문제였다. 그러나 양심상 이것만은 침묵할 수 없다고 했다. 움직일 수 있는 재산으로 얻은 전리품에 대해서만 10분의 1을 정하고, 서원에 똑같이 포함되는 함락된 도시와 영토는 전혀 언급하지 않고 있다는 점이었다. 원로원은 이 논쟁을 판단하기 어렵다고 보아 대신관들에게 맡겼다. 대신관단은 카밀루스를 참여시켜 검토한 끝에, 카밀루스가 서원하기 전에 베이이인의 것이었다가 서원 뒤 로마 인민의 소유가 된 것은 무엇이든 그 10분의 1을 아폴로에게 바쳐야 한다고 판단했다. 그리하여 도시와 영토도 가치 평가 대상이 되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-25-008-010",
@@ -2116,7 +3106,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-25-011-013",
@@ -2137,7 +3138,18 @@
       "korean": "종교적 불안에서 마음이 풀리자 평민 호민관들은 선동을 다시 시작했다. 군중은 모든 지도자에게, 그중에서도 특히 카밀루스에게 격앙되었다. 그가 베이이의 전리품을 국유화하고 신에게 바쳐 아무것도 남지 않게 했다는 것이었다. 지도자들이 자리를 비우면 사납게 비난했지만, 분노한 군중 앞에 스스로 나서면 그 존엄 때문에 함부로 대하지 못했다. 사안이 그해를 넘겨 끌리는 것을 보자, 평민들은 법안을 제안한 호민관들을 이듬해에도 재선시켰다. 귀족들도 법안에 거부권을 행사하는 호민관들을 재선시키려고 힘썼다. 그리하여 평민 호민관들은 대부분 같은 사람들이 다시 뽑혔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 395년경",
+        "yearStartBce": 395,
+        "yearEndBce": 395,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-26-001-003",
@@ -2158,7 +3170,18 @@
       "korean": "군사 호민관 선거에서 귀족들은 온 힘을 다해 마르쿠스 푸리우스 카밀루스를 선출하는 데 성공했다. 겉으로는 전쟁을 위해 지휘관을 준비한다고 했지만, 실제로는 호민관들의 선심 정책에 맞설 상대를 찾은 것이었다. 카밀루스와 함께 루키우스 푸리우스 메둘리누스가 여섯 번째로, 가이우스 아이밀리우스, 루키우스 발레리우스 푸블리콜라, 스푸리우스 포스투미우스, 푸블리우스 코르넬리우스가 두 번째로 집정관 권한을 지닌 군사 호민관에 선출되었다. 연초에 평민 호민관들은 아무 일도 일으키지 않고 기다렸다. 팔리스키 전쟁을 맡은 마르쿠스 푸리우스 카밀루스가 출정한 뒤에는 사안을 질질 끌었고, 결국 열기가 식어버렸다. 반면 그들이 가장 두려워한 정적 카밀루스의 명성은 팔리스키인의 땅에서 더욱 커졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-26-004-008",
@@ -2186,7 +3209,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-26-009-010",
@@ -2206,7 +3240,18 @@
       "korean": "이어서 도시를 포위하고 방어시설을 세웠다. 때때로 기회가 생기면 도시 주민들이 로마 경계지를 습격하여 작은 전투가 벌어졌다. 포위된 쪽에는 미리 들여놓은 곡물과 다른 물자가 포위한 쪽보다 오히려 넉넉했으므로, 어느 쪽으로도 희망이 기울지 않은 채 시간이 흘렀다. 운명이 로마 지휘관에게 전쟁사에서 전례 없는 용기의 본보기와 조속한 승리를 함께 주지 않았다면, 베이이에서만큼 오래 수고해야 할 듯했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-27-001-004",
@@ -2228,7 +3273,18 @@
       "korean": "팔리스키인에게는 같은 사람을 아이들의 스승이자 동행자로 삼는 풍습이 있었고, 오늘날까지도 그리스에 남아 있듯 여러 아이를 한 사람에게 함께 맡겨 돌보게 했다. 보통 그렇듯 지식이 가장 뛰어나 보이는 사람이 지도자들의 자녀를 가르쳤다. 평화 때 그는 놀이와 운동을 위해 아이들을 도시 밖으로 데리고 나가는 습관을 들였다. 전쟁 중에도 그 습관을 조금도 멈추지 않고, 다만 어떤 때에는 성문 가까이, 어떤 때에는 더 멀리 데려가며 놀이와 이야기를 바꾸어갔다. 기회가 오자 평소보다 더 멀리 나아가 적의 경계지 사이로 아이들을 이끌고 로마 진영을 거쳐 카밀루스의 지휘소에 데려갔다. 그곳에서 그는 범죄적인 행동보다 더 범죄적인 말을 덧붙였다. 부모들이 그곳의 권력을 쥔 지도자들인 아이들을 로마인의 손에 넘겼으니 팔레리이를 로마에 넘겨준 것이라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-27-005-011",
@@ -2253,7 +3309,18 @@
       "korean": "카밀루스는 이 말을 듣고 말했다. \"너는 범죄자답게 범죄의 선물을 들고 왔지만, 너와 닮은 민족이나 지휘관에게 온 것이 아니다. 우리와 팔리스키인 사이에는 인간의 조약으로 맺어진 동맹은 없지만, 자연이 양쪽에 심어준 유대는 있고 앞으로도 있을 것이다. 평화에 법도가 있듯 전쟁에도 법도가 있으며, 우리는 용감하게 싸우는 법 못지않게 정의롭게 싸우는 법도 배웠다. 우리의 무기는 도시가 함락될 때에도 목숨을 살려주는 나이의 아이들을 향한 것이 아니라, 우리에게 피해도 도발도 당하지 않고 베이이의 로마 진영을 공격한 무장한 자들을 향한다. 네가 할 수 있는 만큼 그들을 전례 없는 범죄로 이겼다면, 나는 베이이를 이겼듯 로마의 방식, 곧 용기와 노고와 무기로 그들을 이길 것이다.\" 이어 카밀루스는 그 남자의 옷을 벗기고 두 손을 등 뒤로 묶은 뒤 아이들에게 맡겨 팔레리이로 데려가게 했다. 아이들에게는 회초리를 주어 배신자를 때리며 도시로 몰고 가게 했다. 이 광경을 보려고 처음에는 인민이 몰려왔고, 이어 정무관들이 이 뜻밖의 일을 논의하려고 원로원을 소집했다. 사람들의 마음에는 엄청난 변화가 일어났다. 얼마 전까지만 해도 베이이인과 같은 멸망을 카페나인과 같은 평화보다 더 원할 만큼 증오와 분노에 사로잡혔던 도시 전체가 이제 일제히 평화를 청했다. 포룸과 원로원 의사당에서 로마의 신의와 지휘관의 정의를 찬양했다. 모두의 합의로 사절들이 카밀루스의 진영으로 갔고, 카밀루스의 허락을 받아 다시 로마 원로원으로 가 팔레리이를 넘겨주겠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-27-012-014",
@@ -2274,7 +3341,18 @@
       "korean": "그들은 원로원에 들어와 이렇게 말했다고 전해진다. \"원로원 의원들이여, 신도 인간도 시기할 수 없는 승리에 패한 우리는 당신들과 당신들의 지휘관에게 우리 자신을 넘깁니다. 승리자에게 이보다 아름다운 일은 없으니, 우리 법 아래 사는 것보다 당신들의 지배 아래 사는 편이 더 낫다고 믿습니다. 이 전쟁의 결말은 인류에게 두 가지 유익한 본보기를 남겼습니다. 당신들은 당장의 승리보다 전쟁에서의 신의를 택했고, 우리는 그 신의에 감동하여 승리를 스스로 내어놓았습니다. 우리는 당신들의 지배 아래 있습니다. 무기와 인질과 문이 열린 도시를 넘겨받을 사람들을 보내십시오. 당신들은 우리의 신의를 후회하지 않을 것이며, 우리도 당신들의 지배를 후회하지 않을 것입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-27-015",
@@ -2293,7 +3371,18 @@
       "korean": "적군과 시민 양쪽이 카밀루스에게 감사를 표했다. 로마 인민이 전쟁세를 내지 않도록 팔리스키인에게 그해 병사들의 급료에 해당하는 돈을 부과했다. 평화를 허락한 뒤 군대는 로마로 돌아갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-28-001-004",
@@ -2320,7 +3409,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-28-005-007",
@@ -2341,7 +3441,18 @@
       "korean": "원로원 결의로 그와 공식 환대 관계를 맺고 공적인 선물도 주었다. 같은 해 아이퀴인과의 전쟁은 엎치락뒤치락하여 현지의 군대도 로마도 이겼는지 졌는지 확신하지 못할 정도였다. 로마 지휘관은 군사 호민관 가운데 가이우스 아이밀리우스와 스푸리우스 포스투미우스였다. 처음에는 함께 작전을 수행했다. 회전에서 적군을 무찌른 뒤에는 아이밀리우스가 베루고의 수비대를 지키고 포스투미우스가 적의 영토를 황폐하게 하기로 했다. 그러나 포스투미우스가 승리 뒤 경계를 늦추고 대열도 갖추지 않은 채 행군할 때 아이퀴인이 덮쳐 공포를 일으키고 가까운 언덕으로 몰아붙였다. 거기서 퍼진 공포는 베루고의 다른 수비대에까지 닿았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-28-008-010",
@@ -2367,7 +3478,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-28-011-013",
@@ -2388,7 +3510,18 @@
       "korean": "그러나 전투의 함성이 베루고까지 들리자 그곳 사람들은 로마 진영이 공격받는다고 생각했다. 아이밀리우스가 붙들고 애원했지만 소용없이, 그들은 사방으로 흩어져 투스쿨룸으로 달아날 만큼 공포에 질렸다. 여기서 포스투미우스와 그의 군대가 전멸했다는 소문이 로마에 퍼졌다. 새벽빛이 밝아 적의 매복에 대한 두려움 없이 달아나는 적을 추격할 수 있게 되자, 포스투미우스는 말을 타고 전열을 오가며 병사들에게 약속을 지키라고 요구했다. 병사들은 그가 불러일으킨 열정으로 돌격했고 아이퀴인은 더 버티지 못했다. 이어 달아나는 적을 학살했는데, 용기보다 분노로 벌이는 싸움에서 으레 그렇듯 적군을 완전히 없애버릴 정도였다. 투스쿨룸에서 온 암울한 소식이 도시를 헛되이 두려움에 빠뜨린 뒤, 월계수로 장식한 포스투미우스의 승전 서신이 도착했다. 승리는 로마 인민의 것이며 아이퀴 군대는 전멸했다는 내용이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 394년경",
+        "yearStartBce": 394,
+        "yearEndBce": 394,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-29-001-003",
@@ -2409,7 +3542,18 @@
       "korean": "평민 호민관들의 법안 추진은 아직 결말을 보지 못했다. 평민은 법안 발의자들의 호민관직을 연임시키려 했고 귀족은 법안 거부자들을 재선시키려고 힘썼다. 그러나 평민은 자기 선거에서 더 강했다. 귀족들은 평민이 미워하는 관직인 집정관을 선출하자는 원로원 결의로 이 분함을 갚았다. 15년 만에 루키우스 루크레티우스 플라부스와 세르비우스 술피키우스 카메리누스가 집정관으로 선출되었다. 연초에 자기 동료 중 거부권을 쓸 사람이 아무도 없었으므로 평민 호민관들은 법안을 통과시키려고 기세등등하게 나섰고, 바로 그 이유로 집정관들도 조금도 느슨하지 않게 맞섰다. 도시 전체가 이 한 가지 걱정에 몰두한 사이 아이퀴인은 자기 영토 안의 로마 식민시 비텔리아를 함락했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-29-004-006",
@@ -2430,7 +3574,18 @@
       "korean": "식민자 대부분은 무사히 로마로 달아났다. 배신으로 밤중에 도시가 함락되어, 도시 뒤편으로 달아날 길이 열려 있었기 때문이다. 이 전선은 집정관 루키우스 루크레티우스에게 돌아갔다. 그는 군대를 이끌고 출정하여 회전에서 적군을 이긴 뒤, 그보다 훨씬 큰 싸움을 치르러 로마로 돌아왔다. 2년 전 평민 호민관 아울루스 베르기니우스와 퀸투스 폼포니우스의 재판일이 정해져 있었다. 원로원의 신의를 지키려면 귀족들이 합의하여 두 사람을 변호해야 했다. 그들이 귀족들의 호감을 얻으려고 호민관 법안에 거부권을 행사했다는 것 말고는 누구도 그들의 삶이나 재임 중 행동에 다른 죄를 묻지 않았기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-29-007-010",
@@ -2452,7 +3607,18 @@
       "korean": "그러나 평민의 분노가 원로원의 호의를 이겼고, 최악의 선례를 남기며 무고한 두 사람에게 각각 옛 중량 화폐 1만 아스의 벌금이 선고되었다. 귀족들은 이를 분하게 여겼다. 카밀루스는 평민이 범죄를 저질렀다고 공개적으로 비난했다. 이제 자기편에게 칼날을 돌린 평민은 잘못된 판결로 호민관 사이의 거부권을 없앴고, 거부권을 없앰으로써 호민관 권력 자체를 무너뜨렸다는 것을 깨닫지 못한다고 했다. 귀족들이 호민관직의 고삐 풀린 방종을 참으리라 기대한다면 틀렸다는 것이다. 호민관의 폭력을 동료 호민관의 보호로 막을 수 없다면 귀족들은 다른 무기를 찾아낼 것이라고 했다. 또 원로원의 권위에 따랐던 호민관들이 국가가 보장한 신의에 속도록 집정관들이 말없이 내버려두었다고 꾸짖었다. 날마다 공개 집회에서 이런 말을 거듭하며 사람들의 분노를 더욱 키웠다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-30-001-002",
@@ -2472,7 +3638,18 @@
       "korean": "카밀루스는 그 법안에 맞서도록 원로원을 선동하는 일도 멈추지 않았다. 법안을 표결하는 날에는 제단과 화덕, 신들의 신전, 자신들이 태어난 땅을 위해 싸워야 한다는 사실을 기억하는 사람으로서 포룸에 내려가야 한다고 했다. 조국이 걸린 투쟁 속에서 자기 개인의 영광을 생각하는 것이 허용된다면, 자신이 함락한 도시에 많은 사람이 살게 되는 것 역시 자기에게는 대단한 일이었다. 날마다 자기 영광의 기념물을 누리고, 자기 개선식에 실려 간 도시를 눈앞에서 보며, 모든 사람이 자기 공적의 자취를 밟고 다닐 테니 말이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-30-003-005",
@@ -2493,7 +3670,18 @@
       "korean": "그러나 불멸의 신들이 버리고 떠난 도시에 사람이 사는 것, 로마 인민이 포로가 된 땅에 살며 승리한 조국을 패한 도시와 맞바꾸는 일은 신성하지 못하다고 여겼다. 지도자의 이런 격려에 고무된 원로원 의원들은 노인과 젊은이를 가리지 않고 법안이 상정될 때 대열을 이루어 포룸으로 왔다. 각자 자기 부족 안으로 흩어져 같은 부족민의 손을 붙들고, 자기들과 아버지들이 더없이 용감하고 성공적으로 싸워 지킨 조국을 버리지 말아달라고 눈물로 호소하기 시작했다. 카피톨리움과 베스타 신전, 그 주변의 다른 신전을 손가락으로 가리켰다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-30-006-008",
@@ -2514,7 +3702,18 @@
       "korean": "로마 인민을 조국의 땅과 가정의 수호신에게서 내쫓아 적의 도시로 보내 유랑자와 망명자로 만들지 말라고 했다. 일이 로마를 버리지 않으려면 차라리 베이이를 함락하지 않았던 편이 나을 지경에 이르도록 하지 말라고 했다. 그들이 폭력이 아니라 간청으로 나섰고, 간청 사이마다 신들을 거듭 언급했으므로 대다수에게 이 문제는 종교적 양심의 일이 되었다. 법안을 찬성한 부족보다 반대한 부족이 단 하나 더 많아 법안은 폐기되었다. 귀족들은 이 승리를 너무나 기뻐하여, 다음 날 집정관들이 안건을 올리자 베이이 영토를 평민에게 한 사람당 7유게룸씩 나누어주기로 원로원에서 결의했다. 가장만이 아니라 집안의 모든 자유민 수를 계산에 넣어, 사람들이 이 희망을 보고 자녀를 길러내게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 393년경",
+        "yearStartBce": 393,
+        "yearEndBce": 393,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-31-001-004",
@@ -2536,7 +3735,18 @@
       "korean": "이 선물에 달래진 평민은 집정관 선거를 치르는 데 아무 이의를 제기하지 않았다. 루키우스 발레리우스 포티투스와 마르쿠스 만리우스가 집정관으로 선출되었으며, 만리우스는 뒤에 카피톨리누스라는 별칭을 얻었다. 두 집정관은 베이이 전쟁 때 독재관 마르쿠스 푸리우스가 서원한 대경기를 열었다. 같은 해 그 독재관이 같은 전쟁에서 서원했던 여왕 유노의 신전도 봉헌되었다. 전해지는 바에 따르면 로마 부인들이 엄청난 열성으로 봉헌식을 빛냈다. 알기두스에서 아이퀴인과 기록할 만하지 않은 전쟁을 벌였는데, 적군은 거의 맞붙기도 전에 패주했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 392년경",
+        "yearStartBce": 392,
+        "yearEndBce": 392,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-31-005-006",
@@ -2561,7 +3771,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 392년경",
+        "yearStartBce": 392,
+        "yearEndBce": 392,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-31-007-009",
@@ -2582,7 +3803,18 @@
       "korean": "그 뒤에는 죽은 감찰관의 자리를 보궐한 일이 한 번도 없었다. 집정관들까지 병에 걸리자 중간 통치 기간을 열어 길조를 새로 묻기로 했다. 원로원 결의에 따라 집정관들이 관직에서 물러나자 마르쿠스 푸리우스 카밀루스가 중간 통치자로 임명되었다. 그는 푸블리우스 코르넬리우스 스키피오를 후임 중간 통치자로 지명했고, 스키피오는 다시 루키우스 발레리우스 포티투스를 지명했다. 발레리우스는 집정관 권한을 지닌 군사 호민관 여섯 명을 선출했다. 그중 누군가 건강이 나빠지더라도 공화국에 정무관이 부족하지 않게 하려는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 392년경",
+        "yearStartBce": 392,
+        "yearEndBce": 392,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-32-001-005",
@@ -2605,7 +3837,18 @@
       "korean": "7월 1일에 루키우스 루크레티우스, 세르비우스 술피키우스, 마르쿠스 아이밀리우스, 일곱 번째로 선출된 루키우스 푸리우스 메둘리누스, 아그리파 푸리우스, 두 번째로 선출된 가이우스 아이밀리우스가 취임했다. 이들 가운데 루키우스 루크레티우스와 가이우스 아이밀리우스에게는 볼시니이인이, 아그리파 푸리우스와 세르비우스 술피키우스에게는 사피나인이 담당 전선으로 돌아갔다. 먼저 볼시니이인과 싸웠다. 적의 수는 많았지만 전투 자체는 그리 치열하지 않았다. 첫 충돌에 전열이 무너졌고, 달아나던 무장병 8천 명이 기병에게 퇴로를 막히자 무기를 내려놓고 항복했다. 이 전쟁의 소식을 들은 사피나인은 회전을 피하고 성벽 안에서 무장한 채 몸을 지켰다. 로마군은 아무도 막지 않는 가운데 사피나와 볼시니이 영토 곳곳에서 전리품을 약탈했다. 마침내 전쟁에 지친 볼시니이인에게 로마 인민의 재산을 돌려주고 그해 군대의 급료를 부담한다는 조건으로 20년간의 휴전을 허락했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-32-006-009",
@@ -2627,7 +3870,18 @@
       "korean": "같은 해 평민 마르쿠스 카이디키우스가 호민관들에게 다음 일을 알렸다. 지금 베스타 신전 위쪽에 작은 성소가 있는 ‘새 길’에서 한밤중의 고요 속에 인간의 목소리보다 더 큰 목소리를 들었는데, 정무관들에게 갈리아인들이 다가온다고 전하라는 명령이었다. 흔히 그렇듯 제보자의 신분이 낮다는 이유와, 그 민족이 멀리 있어 더욱 알려지지 않았다는 이유로 무시했다. 운명이 닥쳐오자 신들의 경고만 멸시한 것이 아니었다. 유일한 인간적 구원의 수단인 마르쿠스 푸리우스마저 도시에서 쫓아냈다. 평민 호민관 루키우스 아풀레이우스가 베이이 전리품 문제로 그의 재판일을 정했고, 마침 그 무렵 카밀루스는 젊은 아들까지 잃었다. 그는 집으로 자기 부족민과 피호민을 불러 그들의 의중을 물었다. 그들이 평민의 큰 부분을 이루고 있었다. 그들은 유죄 판결을 받으면 벌금 액수만큼 모아주겠지만 무죄로 만들 수는 없다고 답했다. 그는 망명길에 오르며 불멸의 신들에게, 자신이 무고한데 이런 부당함을 당한다면 배은망덕한 국가가 머지않아 자신을 그리워하게 해달라고 기도했다. 궐석으로 옛 중량 화폐 1만 5천 아스의 벌금형을 받았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-33-001-003",
@@ -2653,7 +3907,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-33-004-007",
@@ -2680,7 +3945,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-33-008-011",
@@ -2707,7 +3983,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-34-001-004",
@@ -2734,7 +4021,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-34-005-007",
@@ -2755,7 +4053,18 @@
       "korean": "벨로베수스는 자기 민족들 가운데 인구가 넘치는 비투리게스인, 아르베르니인, 세노네스인, 하이두이인, 암바리인, 카르누테스인, 아울레르키인을 불러 모았다. 엄청난 보병과 기병을 이끌고 떠나 트리카스티니인의 땅에 이르렀다. 그곳에서 알프스가 앞을 막았다. 전승으로 기억되는 한 그때까지 헤르쿨레스 이야기 말고는 아무도 넘지 못했으니, 그 산맥이 넘을 수 없어 보였다는 사실은 조금도 놀랍지 않다. 갈리아인들은 산의 높이에 울타리처럼 갇힌 채 하늘과 맞닿은 능선을 지나 다른 세계로 건너갈 길을 찾았다. 그때 땅을 찾아온 이주민들이 살루비이족의 공격을 받고 있다는 소식이 들어와 종교적인 의무감까지 그들을 붙들었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-34-008-009",
@@ -2780,7 +4089,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-35-001-003",
@@ -2806,7 +4126,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-35-004-005",
@@ -2826,7 +4157,18 @@
       "korean": "클루시움인은 전에 보지 못한 엄청난 사람의 수와 모습을 보고 그들의 무기 종류를 보았다. 또 갈리아인이 파두스강 이쪽과 저쪽에서 에트루리아 군단을 여러 차례 패주시켰다는 말을 듣고 이 새로운 전쟁에 겁을 먹었다. 베이이인이라는 동족을 로마 인민에 맞서 지켜주지 않았다는 것 말고는 로마와 동맹이나 우호 관계의 권리가 전혀 없었지만, 원로원에 원조를 청할 사절들을 로마로 보냈다. 원조는 얻지 못했다. 대신 마르쿠스 파비우스 암부스투스의 세 아들을 사절로 보내, 아무 해도 입지 않은 갈리아인이 로마 인민의 동맹이자 친구인 민족을 공격하지 말라고 원로원과 로마 인민의 이름으로 교섭하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-35-006",
@@ -2845,7 +4187,18 @@
       "korean": "사태가 강요한다면 로마인은 전쟁으로라도 그들을 지켜야 하지만, 가능하다면 전쟁 자체를 물리치고 새로 만난 민족 갈리아인을 무기가 아니라 평화로 알아가는 편이 더 낫다고 여겼다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 391년경",
+        "yearStartBce": 391,
+        "yearEndBce": 391,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-36-001-003",
@@ -2866,7 +4219,18 @@
       "korean": "사절들만 지나치게 사납고 로마인보다 갈리아인을 더 닮지 않았다면 온건한 사절단이었다. 그들이 갈리아 회의에서 위임받은 말을 밝히자 다음과 같은 답을 들었다. 갈리아인들은 로마라는 이름을 처음 듣지만, 클루시움인이 위기 속에서 도움을 청한 사람들이니 용감한 이들이라고 믿는다고 했다. 로마인이 동맹을 지키려고 무기보다 사절단을 택했으니 자기들도 그들이 가져온 평화를 거부하지 않겠다고 했다. 다만 땅이 필요한 갈리아인에게, 경작하는 것보다 더 넓은 땅을 가진 클루시움인이 영토 일부를 내주어야 하며, 그렇지 않으면 평화를 얻을 수 없다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-36-004-006",
@@ -2892,7 +4256,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-36-007-009",
@@ -2913,7 +4288,18 @@
       "korean": "더구나 퀸투스 파비우스는 말을 타고 전열 밖으로 나가 에트루리아 군기 한복판으로 사납게 돌진하던 갈리아인 지휘관의 옆구리를 창으로 꿰뚫어 죽였다. 그가 시신에서 전리품을 벗길 때 갈리아인들은 그를 알아보았고, 전열 전체에 그가 로마 사절이라는 신호가 퍼졌다. 갈리아인들은 클루시움인을 향한 분노를 버리고 후퇴 나팔을 불며 로마인을 위협했다. 즉시 로마로 가야 한다고 주장하는 이들도 있었다. 그러나 원로들이 먼저 사절을 보내 부당한 행위를 고발하고, 만민법을 위반한 파비우스 형제들을 넘기라고 요구하자고 하여 이겼다. 갈리아 사절들이 위임받은 요구를 그대로 밝히자 원로원도 파비우스 형제의 행동을 옳게 여기지 않았고 야만인들의 요구가 정당해 보였다. 그러나 그토록 고귀한 신분의 사람들에게 합당하다고 여긴 결정을 내리는 일은 정치적 편애가 가로막았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-36-010-012",
@@ -2934,7 +4320,18 @@
       "korean": "그래서 갈리아 전쟁에서 재앙을 당해도 책임이 자기들에게 돌아오지 않도록 갈리아인의 요구에 관한 재판을 인민에게 넘겼다. 그러나 그곳에서는 인맥과 세력이 더욱 강하게 작용하여, 처벌 여부를 심리받던 자들이 오히려 이듬해의 집정관 권한을 지닌 군사 호민관으로 선출되었다. 갈리아인들은 당연히 이 일에 격분하여 공공연히 전쟁을 위협하고 동족에게 돌아갔다. 세 파비우스 형제와 함께 퀸투스 술피키우스 롱구스, 네 번째로 선출된 퀸투스 세르빌리우스, 푸블리우스 코르넬리우스 말루기넨시스가 군사 호민관으로 선출되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-37-001-003",
@@ -2955,7 +4352,18 @@
       "korean": "이토록 거대한 재앙이 닥쳐오고 있었다. 운명이 밀려드는 자기 힘이 꺾이지 않기를 원할 때에는 이처럼 사람의 마음을 눈멀게 한다. 피데나이인과 베이이인, 그 밖의 이웃 민족을 상대하면서 온갖 수단을 다한 끝에 여러 차례 독재관을 임명했던 국가가, 이제 오케아누스와 세계의 끝에서 온 전례도 이름도 없던 적이 전쟁을 일으키는데도 어떤 비상 지휘권이나 특별 원조도 구하지 않았다. 무모한 행동으로 전쟁을 불러온 바로 그 군사 호민관들이 최고 지휘를 맡았고, 전쟁의 소문까지 축소하면서 한창 진행 중인 보통 전쟁 때보다 조금도 더 세심하지 않게 징집했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-37-004-007",
@@ -2982,7 +4390,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-37-008",
@@ -3001,7 +4420,18 @@
       "korean": "이미 앞과 주변의 모든 곳이 적으로 가득했고, 헛된 소란을 일으키는 천성을 지닌 그 민족은 사나운 노래와 온갖 함성으로 모든 곳을 끔찍한 소리에 잠기게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-38-001-004",
@@ -3023,7 +4453,18 @@
       "korean": "군사 호민관들은 미리 알맞은 곳을 잡아 진영을 세우지도 않았고, 퇴각할 수 있도록 보루를 미리 쌓지도 않았다. 인간의 일은 고사하고 신들조차 기억하지 않아 길조도 묻지 않고 희생제물이 받아들여졌는지도 확인하지 않은 채 전열을 세웠다. 적의 수에 포위되지 않으려고 양 날개를 길게 펼쳤지만, 그래도 전면의 폭을 적과 맞출 수 없었다. 중앙 전열을 얇게 만들었기 때문에 약하고 간신히 이어질 뿐이었다. 오른쪽에는 조금 높은 지대가 있어 예비대를 채워두기로 했다. 이 결정이 공포와 패주의 시작이 되었지만, 달아나는 이들의 유일한 구원도 되었다. 갈리아인의 소왕 브렌누스는 적의 수가 적었기 때문에 특히 계략을 두려워했다. 로마 군단의 전열이 갈리아인과 정면으로 맞붙을 때 예비대가 자기들의 등과 옆구리를 공격하려고 높은 곳을 차지했다고 판단했다. 그래서 먼저 예비대를 그 자리에서 몰아낸다면 수적 우위가 워낙 커 평지에서는 쉽게 이기리라 확신하고 군기를 그쪽으로 돌렸다. 이처럼 행운뿐 아니라 판단력까지 야만인들의 편에 서 있었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-38-005-006",
@@ -3043,7 +4484,18 @@
       "korean": "반대편 로마군에는 지휘관에게도 병사에게도 그와 비슷한 것이 하나도 없었다. 공포와 도주가 마음을 사로잡았고 모두가 사태를 그토록 망각하여, 티베리스강이 길을 막는데도 훨씬 많은 병사가 아내와 자식이 있는 로마로 곧장 달아나기보다 적의 도시였던 베이이로 향했다. 높은 지대가 잠시 예비대를 지켜주었다. 나머지 전열에서는 가까운 병사가 옆쪽에서, 맨 끝의 병사가 뒤쪽에서 함성을 듣는 순간, 낯선 적을 거의 보기도 전에 달아났다. 싸움을 시도하기는커녕 맞고함조차 지르지 않은 채 멀쩡하고 다치지도 않은 몸으로 도주했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-38-007-010",
@@ -3065,7 +4517,18 @@
       "korean": "싸우던 병사의 살육은 전혀 없었다. 달아나는 길을 서로 가로막는 혼잡 속에서 자기들끼리 다투다가 등을 보인 채 죽었다. 무기를 버리고 왼쪽 날개 전체가 달아난 티베리스강 기슭에서는 큰 참사가 일어났다. 헤엄칠 줄 모르거나 힘이 약한 많은 사람이 흉갑과 다른 방어구의 무게에 눌려 깊은 물에 삼켜졌다. 그래도 대다수는 무사히 베이이로 달아났다. 그러나 그곳에서는 아무 원군도, 패배를 알리는 전령 한 명조차 로마로 보내지 않았다. 강에서 멀고 산에 더 가까이 섰던 오른쪽 날개의 병사들은 모두 로마로 향했고, 성문도 닫지 않은 도시를 지나 성채로 피신했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-39-001-002",
@@ -3085,7 +4548,18 @@
       "korean": "갈리아인도 너무나 갑작스러운 승리라는 기적에 얼어붙은 듯했다. 처음에는 공포에 사로잡혀 무슨 일이 일어났는지도 모르는 사람처럼 가만히 서 있었다. 다음에는 매복을 두려워했고, 마침내 전사자의 전리품을 벗기고 관습에 따라 무기를 무더기로 쌓았다. 어디에도 적대적인 움직임이 보이지 않자 그제야 길을 떠나 해가 지기 얼마 전에 로마 시에 도착했다. 앞서 간 기병들이 성문은 닫혀 있지 않고, 성문 앞에는 보초도 없으며, 성벽에 무장병도 없다고 보고하자 앞선 일과 닮은 또 하나의 기적이 그들을 멈춰 세웠다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-39-003-005",
@@ -3111,7 +4585,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-39-006-008",
@@ -3132,7 +4617,18 @@
       "korean": "그 뒤 이튿날 동틀 때까지 모든 순간마다 곧 도시 공격이 닥칠 듯하여 사람들의 마음은 내내 불안에 매달렸다. 처음에는 적이 도시에 다가왔으니 공격할 것이라 생각했다. 그런 계획이 없다면 알리아에 남았을 것이기 때문이다. 다음에는 해질 무렵이 되자 낮이 얼마 남지 않았으니 밤이 오기 전에 반드시 침입하리라 여겼다. 이어 공포를 더 크게 하려고 계획을 밤까지 미뤘다고 생각했다. 마침내 날이 다가오자 두려움으로 거의 숨이 끊어질 듯했다. 적의 군기가 성문을 향해 들어오면서 실제 재앙이 끝없는 공포에 곧바로 이어졌다. 그러나 그날 밤과 이튿날의 국가는 알리아에서 그토록 겁에 질려 달아난 모습과 결코 같지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-39-009-012",
@@ -3154,7 +4650,18 @@
       "korean": "남은 병력이 너무 적어 도시를 지킬 희망이 전혀 없었으므로 다음과 같이 결정했다. 전투 가능한 청년과 원로원의 핵심 인력은 아내와 자식을 데리고 성채와 카피톨리움으로 올라가 무기와 곡식을 모은 뒤, 그 요새에서 신들과 인간과 로마라는 이름을 지킨다. 퀴리누스의 사제와 베스타 처녀 사제들은 공적인 성물을 살육과 화재에서 멀리 옮기며, 신들을 섬길 사람이 한 명도 남지 않기 전에는 그 숭배를 버리지 않는다. 신들의 자리인 성채와 카피톨리움, 공적인 판단의 머리인 원로원, 전투 가능한 청년들이 임박한 도시의 파멸 속에서도 살아남는다면, 어차피 멸망할 도시 안에 남겨진 노인 무리는 잃어도 쉽게 감당할 수 있다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-39-013",
@@ -3173,7 +4680,18 @@
       "korean": "평민 대중이 이를 더 담담하게 받아들이도록, 개선식을 치르고 집정관을 지낸 노인들은 공개적으로 자신들도 그들과 함께 죽겠다고 선언했다. 무기를 들 수도 조국을 지킬 수도 없는 자기들의 몸으로 무장병들의 부족한 식량에 부담을 주지 않겠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-40-001-003",
@@ -3194,7 +4712,18 @@
       "korean": "죽기로 정해진 노인들은 이런 위로의 말을 서로 주고받았다. 다음에는 카피톨리움과 성채로 따라가던 청년들의 대열에 격려를 보냈다. 360년 동안 모든 전쟁에서 승리한 도시의 남은 운명이 무엇이든 그들의 용기와 젊음에 맡겼다. 모든 희망과 구원을 지고 떠나는 사람들과 함락된 도시의 파멸 뒤까지 살아남지 않기로 한 사람들이 헤어질 때, 그 현실과 광경 자체가 처참했다. 여자들은 울며 갈팡질팡 이쪽저쪽을 따라가 남편과 아들에게 자신을 어떤 운명에 맡기고 가느냐고 물었다. 인간의 불행 가운데 빠진 것이 하나도 없었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-40-004-010",
@@ -3224,7 +4753,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-41-001-004",
@@ -3251,7 +4791,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-41-005-007",
@@ -3272,7 +4823,18 @@
       "korean": "갈리아인들은 성채나 카피톨리움에서 누군가 흩어진 자신들을 습격하지 못하도록 소수의 수비대를 남기고 약탈하러 흩어졌다. 거리에서 사람을 하나도 만나지 않자 일부는 대열을 지어 가장 가까운 집들로 몰려들고, 일부는 가장 멀리 있는 집들이야말로 손대지 않은 전리품으로 가득할 것처럼 그곳을 향했다. 그러다가 바로 그 적막에 다시 겁을 먹었다. 흩어진 자신들을 적의 함정이 덮칠까 두려워 포룸과 그 근처로 무리를 지어 돌아왔다. 평민의 집은 문이 잠겼고 지도자들의 저택은 안마당이 열려 있었는데, 그들은 닫힌 집보다 열린 집에 들어가기를 오히려 더 주저했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-41-008-010",
@@ -3293,7 +4855,18 @@
       "korean": "그들은 저택 입구에 앉아 있는 남자들을 경외하듯 바라보았다. 인간보다 장엄한 치장과 차림뿐 아니라 얼굴에 나타난 위엄과 엄숙한 표정 때문에 신들과 아주 닮아 보였다. 갈리아인들이 신상 앞에 선 듯 그들을 향해 멈춰 서 있을 때, 그 가운데 마르쿠스 파피리우스가 당시 모두 길게 기르던 자기 수염을 쓰다듬은 갈리아인의 머리를 상아 지팡이로 내리쳐 분노를 일으켰다고 한다. 이것이 살육의 시작이 되어 다른 노인들도 자기 의자에 앉은 채 죽임을 당했다. 지도자들을 죽인 뒤에는 어떤 인간도 살려두지 않았고, 집을 약탈하고 모두 비운 다음 불을 질렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-42-001-003",
@@ -3314,7 +4887,18 @@
       "korean": "그러나 모든 갈리아인이 도시를 파괴하고 싶어 한 것은 아니었든, 또는 그들의 지도자들이 일부 건물만 불태워 위협함으로써 포위된 로마인이 자기 거처에 대한 애착 때문에 항복하게 하고, 도시 전체는 태우지 않아 남은 부분을 인질처럼 두어 적의 마음을 굽히기로 했든, 함락된 도시의 첫날에 불길이 곳곳으로 멀리 퍼진 것은 결코 아니었다. 성채의 로마인들은 적으로 가득한 도시와 모든 거리를 헤매는 움직임을 보았다. 이쪽저쪽에서 새로운 재앙이 잇따라 일어날 때 그들은 그 일을 마음으로 헤아릴 수도, 귀와 눈으로 똑바로 견딜 수도 없었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-42-004-006",
@@ -3335,7 +4919,18 @@
       "korean": "적의 함성과 여자와 아이의 울음, 불길의 소리와 무너지는 집의 굉음이 어디에서 들리든, 그들은 두려움 속에서 마음과 얼굴과 눈을 그쪽으로 돌렸다. 운명이 그들을 죽어가는 조국의 구경꾼 자리에 세운 듯했다. 자기 몸 말고는 자기 것 어느 하나의 복수자로도 남지 못한 채 조국에서 단절되어 포위되고, 자기들의 모든 것이 적의 수중에 있는 모습을 보았으므로, 포위당한 어떤 사람보다 훨씬 더 가련했다. 그토록 끔찍하게 보낸 낮 뒤의 밤도 조금도 더 평온하지 않았다. 불안한 밤 뒤에 다시 낮이 왔고, 언제나 새로운 재앙의 광경에서 벗어난 순간은 하나도 없었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-42-007-008",
@@ -3355,7 +4950,18 @@
       "korean": "그러나 수많은 재앙의 무게에 짓눌리고 파묻혀서도 그들은 뜻을 굽히지 않았다. 모든 것이 불길과 폐허에 평평해진 모습을 보았지만, 자유를 위해 남겨진 비좁고 궁핍한 작은 언덕만큼은 용기로 지켰다. 날마다 같은 일이 벌어지자 재앙에 익숙해진 듯 자기 재산에 대한 감각에서 마음을 떼어냈다. 무기와 오른손의 칼만을 자기 희망의 유일한 유산으로 바라보았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-43-001-002",
@@ -3380,7 +4986,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-43-003-005",
@@ -3401,7 +5018,18 @@
       "korean": "로마인들은 비탈 중간쯤에서 멈춰 섰다. 높은 지대 자체가 저절로 적을 향해 밀어붙이는 듯한 곳에서 돌격하여, 갈리아인을 죽이고 아래로 굴려 패주시켰다. 그 뒤에는 일부 병력도 전체 병력도 이런 방식의 전투를 다시 시도하지 않았다. 무기와 힘으로 올라갈 희망을 버리고 포위를 준비했다. 그때까지는 포위를 전혀 생각하지 않아 도시에 있던 곡식을 방화로 태워버렸고, 들판의 곡식도 바로 그 며칠 동안 모두 베이이로 옮겨졌다. 그래서 군대를 나누어 일부는 이웃 민족들에게 약탈하러 가고, 일부는 성채를 포위하기로 했다. 들판을 약탈하는 병력이 포위군에게 곡식을 공급하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-43-006-008",
@@ -3422,7 +5050,18 @@
       "korean": "로마인의 용기를 시험하도록 운명 자체가 로마를 떠난 갈리아인들을 카밀루스가 망명해 있던 아르데아로 이끌었다. 그는 그곳에서 자기 운명보다 국가의 운명을 더 슬퍼하며, 신과 인간을 원망하는 가운데 늙어가고 있었다. 베이이와 팔레리이를 자기와 함께 점령했고 다른 전쟁에서도 늘 행운보다 더 큰 용기를 보였던 그 남자들이 어디에 있느냐고 분노하고 의아해했다. 그러다 갑자기 갈리아 군대가 다가오고 있으며, 그 때문에 겁먹은 아르데아인들이 대책을 논의한다는 말을 들었다. 평소에는 그런 집회에 참여하지 않던 그는 신의 영에 감동한 사람처럼 곧바로 집회 한가운데로 나아갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-44-001-002",
@@ -3442,7 +5081,18 @@
       "korean": "그가 말했다. \"아르데아인들이여, 오랜 친구이자 이제는 새로운 동료 시민이 된 여러분이여. 여러분의 호의가 나를 이렇게 받아주었고 내 운명도 이를 필요로 했으니 하는 말입니다. 내가 처지를 잊고 이 자리에 나왔다고 누구도 생각하지 마십시오. 위기와 공동의 위험 때문에, 누구든 혼란한 때에 보탤 수 있는 도움을 모두의 앞에 내놓아야 합니다. 내가 지금 아무것도 하지 않는다면 여러분이 내게 베푼 그토록 큰 은혜를 언제 갚겠습니까? 전쟁이 아니라면 내가 어디에서 여러분에게 쓸모가 있겠습니까? 나는 이 기술로 조국에서 자리를 지켰고 전쟁에서는 패한 적이 없었으나, 평화 속에서 배은망덕한 시민들에게 쫓겨났습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-44-003-005",
@@ -3463,7 +5113,18 @@
       "korean": "\"아르데아인 여러분에게는 이제 기회가 주어졌습니다. 여러분 자신이 기억하는 로마 인민의 그토록 큰 은혜—기억하는 사람들에게 굳이 들추어 말할 필요는 없습니다—에 보답하고, 흐트러진 대열로 다가오는 공동의 적을 물리쳐 이 도시에 전쟁의 커다란 영예를 안길 기회입니다. 이 민족에게 자연은 크기는 해도 튼튼하지 않은 몸과 마음을 주었습니다. 그래서 모든 싸움에 힘보다 공포를 더 많이 가져옵니다. 로마의 재앙이 그 증거입니다. 그들은 열린 도시를 점령했습니다. 성채와 카피톨리움에서는 극소수 병력이 그들에게 맞서고 있습니다. 벌써 포위의 지루함에 패하여 물러나 들판 곳곳에 흩어져 떠돌고 있습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-44-006-007",
@@ -3483,7 +5144,18 @@
       "korean": "\"그들은 서둘러 빼앗은 음식과 포도주로 배를 채우고, 밤이 오면 아무 방어진지도 보초도 경계도 없이 물가 여기저기에 짐승처럼 쓰러져 눕습니다. 지금은 승리에 취해 평소보다 더 방심해 있습니다. 여러분의 성벽을 지키고 이 모든 것이 갈리아인의 것이 되지 않게 할 뜻이 있다면, 제1야경에 무기를 들고 모두 함께 나를 따르십시오. 전투가 아니라 살육으로 갑시다. 잠에 묶인 그들을 가축처럼 도살하도록 넘겨주지 못한다면, 로마에서 겪은 것과 똑같은 내 운명의 결말을 아르데아에서도 마다하지 않겠습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-45-001-004",
@@ -3505,7 +5177,18 @@
       "korean": "그를 좋아하는 사람도 싫어하는 사람도 그 시대 어디에도 전쟁에서 그만한 인물은 없다고 믿었다. 집회가 끝나자 사람들은 신호가 곧 울릴 것에 대비해 몸을 돌보았다. 신호가 울리자 한밤의 첫 고요 속에 성문에서 카밀루스를 기다렸다. 도시 밖으로 나가 얼마 가지 않아, 그가 예고한 대로 어느 쪽도 지켜지지 않고 방치된 갈리아 진영을 찾아내 큰 함성을 지르며 덮쳤다. 어디에도 전투는 없고 모든 곳에서 살육만 있었다. 옷도 제대로 입지 않고 잠에 풀어진 몸들을 도륙했다. 그래도 진영 끝쪽의 일부는 공포에 놀라 잠자리에서 깨어났지만, 무슨 힘이 어디서 닥쳤는지도 모르고 도주하다가 더러는 무턱대고 적에게 달려들었다. 많은 수가 안티움 영토로 흘러 들어가 흩어진 채 도시 주민들의 기습에 포위되었다. 베이이 영토에서도 에트루리아인이 비슷하게 학살당했다. 그들은 거의 400년 동안 이웃이었던 도시가 전에 보지도 듣지도 못한 적에게 짓밟혔는데도 조금도 불쌍히 여기지 않았다. 오히려 바로 그때 로마 영토를 습격하여 전리품을 가득 싣고, 로마라는 이름의 마지막 희망인 베이이와 그 수비대까지 공격할 생각을 품었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-45-005-008",
@@ -3527,7 +5210,18 @@
       "korean": "로마 병사들은 그들이 들판을 돌아다니다 대열을 모아 전리품을 앞세우고 가는 모습을 보았고, 베이이에서 멀지 않은 곳에 세운 진영도 보고 있었다. 처음에는 자기 처지가 가련하다는 생각이, 다음에는 모욕감이, 거기서 다시 분노가 그들의 마음을 사로잡았다. 갈리아 전쟁을 에트루리아인에게서 자기들에게로 돌려준 대가로 이제 그들에게까지 자기들의 재앙이 조롱거리가 된단 말인가? 그들은 감정을 거의 억누르지 못해 즉시 공격할 뻔했다. 자신들이 지휘자로 세운 백인대장 퀸투스 카이디키우스가 제지하자 밤까지 행동을 미뤘다. 카밀루스에 견주어 그에게 부족한 것은 지휘자의 명성뿐이었다. 나머지는 같은 순서로 이루어져 운명의 결과도 같았다. 밤의 살육에서 살아남은 포로들을 길잡이로 삼아 염전 쪽의 다른 에트루리아 부대로 나아가 이튿날 밤 뜻밖에 덮쳐 더 큰 살육을 벌였다. 두 번의 승리를 기뻐하며 베이이로 돌아왔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-46-001-003",
@@ -3553,7 +5247,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-46-004-006",
@@ -3574,7 +5279,18 @@
       "korean": "한편 베이이에서는 날마다 사기뿐 아니라 전력도 커졌다. 불리한 전투나 도시 함락의 재앙으로 들판에 흩어졌던 로마인들이 그곳에 모였고, 라티움에서도 전리품의 몫을 얻으려는 자원병들이 몰려들었다. 이제 조국을 되찾아 적의 손에서 구해낼 때가 무르익어 보였다. 그러나 강한 몸에는 머리가 없었다. 장소 자체가 카밀루스를 떠올리게 했고, 병사들의 상당수는 그의 지휘와 길조 아래 성공적으로 싸운 이들이었다. 카이디키우스도 신이나 인간이 자기 지휘권을 제한하게 만들기보다, 자신의 계급을 기억하고 스스로 지휘관을 요청하겠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-46-007-009",
@@ -3595,7 +5311,18 @@
       "korean": "모두의 합의로 아르데아에서 카밀루스를 불러오기로 했다. 그러나 먼저 로마에 있는 원로원의 의견을 묻기로 했다. 모든 것을 이토록 명예심이 다스렸고 거의 모든 것이 무너진 상황에서도 절차의 차이를 지켰다. 적의 경계선을 통과해야 했으므로 엄청난 위험이 따랐다. 활기찬 청년 폰티우스 코미니우스가 이 일을 맡겠다고 나섰다. 그는 코르크 조각에 몸을 얹고 티베리스강의 흐름을 따라 도시까지 내려갔다. 강가에서 가장 가까운 가파른 바위는 그 때문에 적군의 경계가 소홀했으므로, 그곳으로 카피톨리움에 올라가 정무관들에게 군대의 요청을 전했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-46-010-011",
@@ -3620,7 +5347,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-47-001-004",
@@ -3642,7 +5380,18 @@
       "korean": "이 일이 베이이에서 진행되는 동안 로마의 성채와 카피톨리움은 엄청난 위험에 빠졌다. 갈리아인들은 베이이에서 온 전령의 사람 발자국을 발견했든, 스스로 카르멘타의 바위 쪽에서 오르기 편한 길을 알아냈든, 희미하게 밝은 밤에 먼저 무장하지 않은 한 사람을 보내 길을 시험하게 했다. 가파른 곳에서는 위로 무기를 건네고 서로에게 기대어 번갈아 끌어올렸으며, 지형이 요구하는 대로 한 사람이 다른 사람을 당겼다. 그들은 그토록 조용히 꼭대기에 올라 경계병들뿐 아니라 밤 소리에 민감한 동물인 개들조차 깨우지 않았다. 그러나 극심한 식량난 속에서도 유노에게 신성하다는 이유로 잡아먹지 않은 거위들은 속이지 못했다. 이것이 구원이 되었다. 3년 전 집정관을 지낸 전쟁의 뛰어난 인물 마르쿠스 만리우스가 거위 울음과 날갯짓 소리에 깨어났다. 무기를 움켜쥐고 다른 사람들에게도 무장하라고 외치며 달려가, 모두가 당황하는 사이 이미 꼭대기에 발을 디딘 갈리아인을 방패 테두리로 쳐서 아래로 떨어뜨렸다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-47-005-007",
@@ -3663,7 +5412,18 @@
       "korean": "그가 미끄러져 넘어지며 가장 가까운 자들을 쓰러뜨리자, 만리우스는 당황해 무기를 놓고 손으로 바위를 붙든 다른 자들을 죽였다. 이제 다른 병사들도 모여 투창과 돌을 던져 적을 몰아냈다. 무너진 대열 전체가 미끄러져 가파른 절벽 아래로 떨어졌다. 소란을 가라앉힌 뒤에는 혼란스러운 마음이 허락하는 만큼 남은 밤을 쉬었다. 방금 지나간 위험까지 불안을 더했다. 날이 밝자 나팔을 불어 병사들을 군사 호민관들의 집회로 불렀다. 잘한 일과 잘못한 일에는 각각 대가가 따라야 했으므로, 먼저 만리우스의 용기를 칭찬했다. 군사 호민관들뿐 아니라 군대 전체의 합의로 그에게 상을 주었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-47-008-010",
@@ -3689,7 +5449,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-47-011",
@@ -3708,7 +5479,18 @@
       "korean": "그 뒤 양쪽의 경계가 더욱 엄중해졌다. 베이이와 로마 사이에 전령들이 오간다는 사실이 갈리아인들 사이에 퍼졌고, 로마인들은 밤에 겪은 위험을 기억하고 있었기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-48-001-004",
@@ -3730,7 +5512,18 @@
       "korean": "그러나 포위와 전쟁의 모든 고통보다 굶주림이 양쪽 군대를 짓눌렀고, 갈리아인에게는 역병까지 닥쳤다. 그들은 언덕 사이의 낮은 곳에 진영을 두었는데, 불탄 도시 때문에 땅은 뜨겁고 열기로 가득했으며 바람이 조금만 불어도 먼지뿐 아니라 재가 날렸다. 습기와 추위에 익숙한 그 민족은 이런 환경을 가장 견디지 못했다. 더위와 숨 막히는 공기에 시달리고 질병이 가축 떼처럼 번져 죽어갔다. 마침내 한 사람씩 묻기도 귀찮아 시신을 뒤섞어 무더기로 쌓아 태웠고, 그 때문에 그곳은 ‘갈리아인의 화장터’라는 이름으로 알려졌다. 이어 로마인과 휴전을 맺고 지휘관들의 허락 아래 회담을 열었다. 갈리아인들이 거듭 굶주림을 들먹이며 그 절박함을 이유로 항복하라고 요구하자, 로마인들이 그런 인상을 떨치려고 카피톨리움 여러 곳에서 적의 경계지로 빵을 던졌다고 전해진다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-48-005-007",
@@ -3751,7 +5544,18 @@
       "korean": "그러나 이제 굶주림은 더는 감출 수도 견딜 수도 없었다. 독재관은 아르데아에서 직접 병사를 징집하고, 기병대장 루키우스 발레리우스에게 베이이의 군대를 이끌고 오라고 명령했다. 그는 적과 대등하게 맞설 수단을 준비하고 정비했다. 그동안 카피톨리움의 군대는 경계와 야간 보초로 지쳤다. 인간에게 닥치는 다른 모든 고통은 이겨냈지만 굶주림 하나만은 본성상 이길 수 없었다. 날마다 독재관에게서 원조가 나타나는지 바라보았으나, 마침내 음식뿐 아니라 희망까지 바닥났다. 보초를 서러 나갈 때에는 쇠약한 몸이 무기의 무게에 거의 파묻힐 정도였다. 그래서 가능한 어떤 조건으로든 항복하거나 돈을 내고 포위를 풀도록 명령했다. 갈리아인들도 크지 않은 대가만 받으면 포위를 풀도록 설득할 수 있다고 공공연히 내비쳤다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-48-008-009",
@@ -3776,7 +5580,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-49-001-003",
@@ -3797,7 +5612,18 @@
       "korean": "그러나 신들과 인간들이 로마인이 몸값을 치르고 살아가는 것을 막았다. 우연히도 그 말할 수 없이 치욕스러운 대가가 모두 지불되기 전, 말다툼 때문에 금을 아직 다 달지 못했을 때 독재관이 나타났다. 그는 금을 한가운데서 치우고 갈리아인들을 물러나게 하라고 명령했다. 갈리아인들이 저항하며 이미 계약했다고 말하자, 카밀루스는 자신이 독재관으로 임명된 뒤 하급 정무관이 자기 명령 없이 맺은 계약은 유효하지 않다고 선언했다. 갈리아인들에게 전투를 준비하라고 통고했다. 자기 병사들에게는 짐을 한데 쌓고 무장을 갖추어 금이 아니라 칼로 조국을 되찾으라고 명령했다. 신들의 신전, 아내와 자식, 전쟁의 재앙으로 흉측해진 조국의 땅과, 지키고 되찾고 복수하는 것이 신성한 모든 것을 눈앞에 두라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-49-004-006",
@@ -3818,7 +5644,18 @@
       "korean": "이어 카밀루스는 반쯤 무너진 도시의 고르지 않은 땅이 허락하는 대로 전열을 세웠고, 전술상 자기편에 유리하게 선택하거나 준비할 수 있는 모든 것을 미리 마련했다. 뜻밖의 사태에 당황한 갈리아인들은 무기를 들고 숙고보다 분노에 이끌려 로마군으로 달려들었다. 운명은 이미 방향을 바꾸었고 신들의 힘과 인간의 계책이 로마의 대업을 돕고 있었다. 그래서 갈리아인들은 첫 충돌에서 알리아에서 이겼을 때보다 더 어렵지 않게 패주했다. 다음에는 달아나 모인 가비이 가도 제8마일 지점에서 더 정규적인 전투를 벌였지만, 같은 카밀루스의 지휘와 길조 아래 다시 패했다. 그곳에서는 살육이 모든 것을 휩쓸었다. 진영은 함락되었고, 패배 소식을 전할 사람 한 명도 남지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-49-007-009",
@@ -3839,7 +5676,18 @@
       "korean": "독재관은 적의 손에서 조국을 되찾고 개선식을 치르며 도시로 돌아왔다. 병사들이 거칠게 주고받는 농담 속에서도 그를 로물루스, 조국의 아버지, 도시의 두 번째 창건자라고 불렀는데 빈말이 아니었다. 이어 전쟁으로 구한 조국을 평화 속에서도 다시 한번 구한 것이 의심할 여지 없이 그의 공이었다. 불탄 도시 뒤에 평민이 그 계획에 더 기울고 호민관들이 더욱 강하게 추진했는데도 베이이 이주를 막았다. 원로원은 공화국을 불확실한 상태에 두지 말라고 간청했고, 바로 이 때문에 그는 개선식 뒤에도 독재관직에서 물러나지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-50-001-004",
@@ -3861,7 +5709,18 @@
       "korean": "카밀루스는 종교의식을 더없이 세심히 지키는 사람이었으므로, 가장 먼저 불멸의 신들과 관계된 일을 원로원에 올렸다. 원로원은 적이 점유했던 모든 신전을 복구하고 정화하며, 제의 담당 이인위원이 예언서에서 그 정화 방법을 찾도록 결의했다. 카이레인이 로마 인민의 성물과 사제들을 받아들여 그 민족의 은혜 덕분에 불멸의 신들을 기리는 의식이 중단되지 않았으므로 그들과 공식 환대 관계를 맺게 했다. 최고 선한 유피테르가 위기 속에서 자신의 거처와 로마 인민의 성채를 지켜주었으므로 카피톨리움 경기를 열게 했다. 독재관 마르쿠스 푸리우스는 카피톨리움과 성채에 사는 이들로 이 일을 담당할 단체를 구성하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-50-005-007",
@@ -3887,7 +5746,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-50-008",
@@ -3906,7 +5776,18 @@
       "korean": "신들과 관계된 일과 원로원이 처리할 수 있는 일을 마친 뒤, 호민관들이 끊임없는 집회로 평민을 선동하여 폐허를 버리고 준비된 도시 베이이로 옮겨가자고 하자, 카밀루스는 그제야 원로원 전체를 거느리고 집회에 올라가 다음과 같이 말했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-51-001-002",
@@ -3926,7 +5807,18 @@
       "korean": "\"로마 시민 여러분, 평민 호민관들과의 다툼은 내게 그토록 쓰라린 일이었습니다. 아르데아에서 지낸 동안 가장 슬픈 망명을 견딘 유일한 위로는 이 싸움에서 멀리 떨어져 있다는 사실이었습니다. 바로 이 일 때문에 원로원 결의와 인민의 명령으로 천 번을 불러도 결코 돌아오지 않았을 것입니다. 지금 나를 돌아오게 한 것도 내 뜻의 변화가 아니라 여러분의 운명이었습니다. 꼭 내가 조국 안에 있어야 한다는 것이 아니라, 조국이 자기 터전에 남아 있어야 한다는 것이 문제였습니다. 지금도 이것이 조국을 위한 또 하나의 싸움만 아니라면 기꺼이 쉬며 침묵할 것입니다. 목숨이 붙어 있는 한 조국을 저버리는 것은 다른 사람에게도 수치지만 카밀루스에게는 신성모독입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-51-003-004",
@@ -3946,7 +5838,18 @@
       "korean": "\"우리가 되찾은 것은 무엇이고, 포위하여 적의 손에서 빼낸 것은 무엇입니까? 되찾자마자 우리가 스스로 버린다면 말입니다. 갈리아인이 승리하여 도시 전체를 점령했을 때에도 로마의 신들과 인간들은 카피톨리움과 성채를 지키며 그곳에서 살았습니다. 그런데 로마인이 승리해 도시를 되찾고 나서는 성채와 카피톨리움까지 버리며, 우리의 행운이 불운보다 이 도시에 더 큰 황폐를 안겨야 합니까? 우리에게 도시와 함께 세워지고 손에서 손으로 전해진 종교의식이 하나도 없었다 해도, 이 위기에는 신의 힘이 로마의 일에 그토록 분명히 나타났으므로 신들을 섬기는 일을 소홀히 할 마음은 누구에게서나 사라졌다고 나는 생각합니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-51-005-007",
@@ -3967,7 +5870,18 @@
       "korean": "\"지난 몇 해의 성공과 실패를 차례로 살펴보십시오. 신들을 따를 때는 모든 일이 잘되었고, 신들을 멸시할 때는 불행이 닥쳤음을 알게 될 것입니다. 무엇보다 먼저 베이이 전쟁을 보십시오. 몇 해 동안 얼마나 큰 수고로 치른 전쟁입니까? 신들의 경고에 따라 알바 호수의 물을 빼내고서야 끝났습니다. 이제 우리 도시의 이 새로운 재앙은 어떻습니까? 갈리아인이 다가온다는 하늘의 목소리를 무시하고, 우리 사절들이 만민법을 어기고, 우리가 그 일을 처벌해야 했는데도 똑같이 신들을 소홀히 여겨 그냥 넘긴 뒤에야 일어나지 않았습니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-51-008-010",
@@ -3988,7 +5902,18 @@
       "korean": "\"그래서 우리는 패하고 사로잡혀 몸값을 치르며 신들과 인간들에게 그토록 큰 벌을 받았고, 온 세계에 본보기가 되었습니다. 이어 불행한 사태가 종교를 일깨웠습니다. 우리는 신들에게, 최고 선한 유피테르의 자리인 카피톨리움으로 피신했습니다. 우리 일이 무너지는 가운데 성물 일부는 땅에 숨기고 일부는 이웃 도시로 옮겨 적의 눈에서 치웠습니다. 신들과 인간들에게 버림받았어도 신들을 섬기는 일만은 중단하지 않았습니다. 그러자 신들은 조국과 승리와 잃어버렸던 옛 전쟁의 영예를 돌려주었고, 금을 다는 중에 탐욕에 눈멀어 조약과 신의를 속인 적에게 공포와 패주와 살육을 되돌려주었습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-52-001-003",
@@ -4009,7 +5934,18 @@
       "korean": "\"신의 권능을 섬기고 소홀히 하는 일이 인간사에 이토록 큰 차이를 만든다는 것을 보면서도, 로마 시민 여러분은 우리가 앞선 잘못과 재앙의 난파에서 간신히 머리를 내밀자마자 얼마나 큰 신성모독을 준비하는지 깨닫지 못합니까? 우리 도시는 길조를 물어 신성한 경계를 정한 뒤 세워졌습니다. 이곳에는 종교와 신들로 가득하지 않은 장소가 하나도 없습니다. 정기 제사에는 날짜만 정해진 것이 아니라 거행할 장소까지 정해져 있습니다. 로마 시민 여러분은 이 모든 공적·사적 신들을 버리려 합니까? 여러분의 행동은 얼마 전 포위 중에 뛰어난 젊은이 가이우스 파비우스가 보여 여러분 못지않게 적군도 경탄한 행동과 얼마나 다릅니까? 그는 갈리아인의 무기 사이로 성채에서 내려가 퀴리날리스 언덕에서 파비우스 가문의 정기 의식을 마쳤습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-52-004-007",
@@ -4036,7 +5972,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-52-008-010",
@@ -4057,7 +6004,18 @@
       "korean": "\"조상들은 알바 산과 라비니움에서 우리가 행해야 할 제사들을 물려주었습니다. 적의 도시에서 로마의 우리에게 제의를 옮겨오는 것은 경건한 일이었는데, 이제 속죄도 없이 이곳에서 적의 도시 베이이로 옮기겠습니까? 잠시 기억해보십시오. 아버지들의 의식 가운데 무엇 하나 소홀함이나 우연 때문에 빠지면 얼마나 자주 제사를 다시 올립니까? 바로 얼마 전 알바 호수의 징조 뒤에, 베이이 전쟁으로 쇠약해진 공화국을 고친 것이 제사의 재거행과 길조의 갱신 말고 무엇이었습니까? 게다가 우리는 옛 종교의식을 기억하는 것처럼 외국 신들을 로마로 옮기고 새로운 신도 세웠습니다. 얼마 전 베이이에서 옮겨온 여왕 유노는 로마 부인들의 탁월한 열성 덕분에 얼마나 빛나고 성대한 날 아벤티누스에서 봉헌되었습니까!\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-52-011-013",
@@ -4078,7 +6036,18 @@
       "korean": "\"우리는 ‘새 길’에서 들린 하늘의 목소리 때문에 아이우스 로쿠티우스의 신전을 세우라고 명했습니다. 다른 정기 경기에 카피톨리움 경기를 더하고, 원로원의 발의로 그것을 맡을 새로운 단체를 세웠습니다. 우리가 갈리아인과 함께 로마 시를 버리려 했다면 이 모든 일을 시작할 필요가 무엇이었습니까? 우리가 그토록 여러 달 포위당하며 카피톨리움에 남은 까닭이 우리의 의지가 아니라 적이 두려워 붙들려 있었기 때문입니까? 지금 우리는 제사와 신전을 말하고 있습니다. 사제들은 어떻습니까? 얼마나 큰 속죄할 죄를 짓게 되는지 생각나지 않습니까? 베스타 처녀 사제들에게는 저곳 하나만이 거처이며, 도시가 함락된 일 말고는 그들을 그곳에서 옮긴 적이 없습니다. 유피테르의 사제가 도시 밖에서 하룻밤 머무는 것은 신성하지 못한 일입니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-52-014-017",
@@ -4105,7 +6074,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-53-001-003",
@@ -4126,7 +6106,18 @@
       "korean": "\"그러나 모든 것이 더럽혀져 어떤 속죄로도 정화할 수 없는 것은 분명하며, 사태 자체가 불과 폐허로 황폐해진 도시를 버리고 모든 것이 온전한 베이이로 옮겨가도록 강요한다고 합니다. 여기서 재건하느라 가난한 평민을 괴롭혀서는 안 된다는 것입니다. 내가 말하지 않아도 이것이 진짜 이유라기보다 겉으로 내세우는 핑계임을 여러분도 안다고 생각합니다. 로마 시민 여러분은 갈리아인이 오기 전, 공공·개인 건물이 멀쩡하고 도시가 온전히 서 있을 때에도 베이이로 옮겨가자는 바로 이 주장을 폈다는 사실을 기억하기 때문입니다. 호민관들이여, 내 생각과 여러분의 생각이 얼마나 다른지 보십시오. 여러분은 그때 옮겨갈 필요가 없었다 해도 지금은 반드시 그래야 한다고 여깁니다. 반대로 나는—무슨 뜻인지 듣기 전에는 놀라지 마십시오—도시 전체가 온전하던 그때 옮겨야 했다 해도 지금은 이 폐허를 버려서는 안 된다고 생각합니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-53-004-005",
@@ -4146,7 +6137,18 @@
       "korean": "\"그때 함락된 도시로 옮겨가는 이유는 우리의 승리였을 것이며, 우리와 후손에게 영광스러운 일이었을 것입니다. 지금의 이주는 우리에게 비참하고 수치스럽지만 갈리아인에게 영광스러운 일입니다. 우리는 승리하고도 조국을 버린 것이 아니라 패배하여 잃은 사람으로 보일 것입니다. 알리아에서의 도주와 도시 함락과 카피톨리움 포위가 우리를 궁지에 몰아, 지킬 수 없었던 곳에서 가정의 신들을 버리고 스스로 망명과 도주를 택하게 했다고 보일 것입니다. 갈리아인은 로마를 무너뜨릴 수 있었는데 로마인은 다시 세울 수 없었다는 인상을 주어야 합니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-53-006-008",
@@ -4172,7 +6174,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-53-009",
@@ -4191,7 +6204,18 @@
       "korean": "\"우리 조상들은 이곳에 숲과 늪밖에 없던 때, 떠돌이와 목자로 모여 그토록 짧은 시간에 새 도시를 세웠습니다. 우리는 카피톨리움과 성채가 온전하고 신들의 신전들이 서 있는데도 불탄 건물을 다시 세우기 싫어합니까? 각자 자기 집이 불탔다면 했을 일을 공공의 화재가 났다고 해서 우리 모두가 거부합니까?\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-54-001-003",
@@ -4212,7 +6236,18 @@
       "korean": "\"대체 어떻겠습니까? 베이이에서 속임수나 우연으로 화재가 일어나고, 얼마든지 있을 수 있듯 바람에 불길이 퍼져 도시의 큰 부분을 태운다면, 우리는 또 피데나이나 가비이 또는 다른 어떤 도시를 찾아 옮겨가겠습니까? 조국의 땅도, 우리가 어머니라 부르는 이 대지도 우리를 조금도 붙들지 못하고, 조국에 대한 사랑이 표면과 들보에만 매달려 있습니까? 여러분의 부당함과 내 재앙을 되새기고 싶지는 않지만 이것만은 고백하겠습니다. 내가 떠나 있을 때 조국이 생각날 때마다 언덕과 들판, 티베리스강, 눈에 익숙한 지역과 내가 태어나 자란 이 하늘이 모두 떠올랐습니다. 로마 시민 여러분, 지금은 그것들에 대한 사랑이 여러분을 움직여 자기 터전에 머물게 하십시오. 그곳을 버린 뒤 그리움으로 여러분을 괴롭히게 하지 마십시오.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-54-004-005",
@@ -4232,7 +6267,18 @@
       "korean": "\"신들과 인간들이 이곳을 도시의 터로 고른 데에는 이유가 있습니다. 더없이 건강에 좋은 언덕들, 내륙에서 농산물을 실어 나르고 바다의 물자를 받아들이기에 편리한 강, 이익을 누릴 만큼 가깝지만 외국 함대의 위험에 노출될 만큼 지나치게 가깝지는 않은 바다, 이탈리아의 중앙이라는 위치가 있습니다. 도시가 성장하기 위해 태어난 단 하나의 장소입니다. 그 증거가 생긴 지 오래지 않은 이 도시의 규모 자체입니다. 로마 시민 여러분, 지금은 건국 365년째입니다. 여러분은 그토록 오래된 수많은 민족과 그토록 오랫동안 전쟁을 벌였습니다. 개별 도시들은 말할 것도 없고, 많은 강한 도시를 가진 볼스키인도 아이퀴인과 힘을 합치지 않고서는 여러분과 맞설 수 없습니다. 육지와 바다에서 그토록 강하고 두 바다 사이로 이탈리아의 너비 전체를 차지한 에트루리아 전체도 전쟁에서 여러분과 대등하지 못했습니다.\"",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-54-006-007",
@@ -4257,7 +6303,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-55-001-002",
@@ -4277,7 +6334,18 @@
       "korean": "전해지는 바에 따르면 카밀루스의 연설 가운데 특히 종교와 관계된 부분이 사람들의 마음을 움직였다. 그러나 결정을 망설이던 사안을 확정한 것은 때맞춰 들려온 한 목소리였다. 얼마 뒤 원로원이 호스틸리우스 의사당에서 이 문제들을 논의할 때, 마침 경계 근무를 마치고 돌아오던 부대들이 대열을 이루어 포룸을 지나갔다. 한 백인대장이 코미티움에서 외쳤다. \"기수, 군기를 세워라. 우리가 머물기에는 여기가 가장 좋다.\" 이 목소리를 듣자 원로원은 의사당에서 나와 자신들이 그 말을 길조로 받아들인다고 일제히 외쳤고, 주변에 모여든 평민도 찬성했다. 법안이 폐기된 뒤 사람들은 뒤섞여 도시를 재건하기 시작했다. 기와는 국가에서 제공했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-05-55-003-005",
@@ -4298,7 +6366,18 @@
       "korean": "그해 안에 건물을 완성한다는 보증인을 세우는 조건으로, 누구든 원하는 곳에서 돌과 목재를 베어낼 권리를 주었다. 자기 땅과 남의 땅을 구분하지 않고 빈터에 서둘러 지은 탓에 거리를 곧게 내는 일에는 신경 쓰지 못했다. 이것이 본래 공공 도로 아래로 난 오래된 하수도가 이제는 곳곳에서 개인 주택 아래를 지나고, 도시의 모습이 구획하여 나눈 곳보다 아무렇게나 점유한 곳처럼 보이게 된 까닭이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 390년경",
+        "yearStartBce": 390,
+        "yearEndBce": 390,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     }
   ]
 }

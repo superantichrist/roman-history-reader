@@ -115,7 +115,7 @@ def chronology_location(value: str) -> tuple[int, int] | None:
     chapter, separator, section = value.partition(".")
     if not separator or not section.isdigit():
         return None
-    if chapter == "per":
+    if chapter in {"per", "pr"}:
         return 0, int(section)
     if not chapter.isdigit():
         return None
@@ -130,17 +130,33 @@ def passage_chronology(
         for rule in CHRONOLOGY["rules"]
         if rule["sourceId"] == source_id and rule["book"] == book
     ]
+    ranged_rules = [rule for rule in rules if "end" in rule]
+    point_rules = sorted(
+        (rule for rule in rules if "end" not in rule),
+        key=lambda rule: chronology_location(rule["start"]) or (-1, -1),
+    )
     hits = []
     for location in locations:
         current = chronology_location(location)
         if current is None:
             continue
-        for rule in rules:
+        matched = False
+        for rule in ranged_rules:
             start = chronology_location(rule["start"])
             end = chronology_location(rule["end"])
             if start is not None and end is not None and start <= current <= end:
                 hits.append(rule)
+                matched = True
                 break
+        if matched:
+            continue
+        applicable = [
+            rule
+            for rule in point_rules
+            if (chronology_location(rule["start"]) or (10**9, 10**9)) <= current
+        ]
+        if applicable:
+            hits.append(applicable[-1])
     if not hits:
         return None
 
@@ -698,21 +714,37 @@ def validate_sources(source_manifest: dict[str, Any]) -> None:
 def validate_chronology() -> None:
     errors = []
     grouped: dict[tuple[str, int], list[tuple[tuple[int, int], tuple[int, int]]]] = {}
+    point_grouped: dict[tuple[str, int], list[tuple[int, int]]] = {}
     for rule in CHRONOLOGY["rules"]:
         start = chronology_location(rule["start"])
-        end = chronology_location(rule["end"])
+        end = chronology_location(rule["end"]) if "end" in rule else None
         key = (rule["sourceId"], rule["book"])
-        if start is None or end is None or start > end:
-            errors.append(f"Bad chronology location: {key} {rule['start']}–{rule['end']}")
+        if start is None or ("end" in rule and (end is None or start > end)):
+            location = (
+                f"{rule['start']}–{rule['end']}" if "end" in rule else rule["start"]
+            )
+            errors.append(f"Bad chronology location: {key} {location}")
             continue
         if rule["yearStartBce"] < rule["yearEndBce"]:
-            errors.append(f"Reversed BCE range: {key} {rule['start']}–{rule['end']}")
+            location = (
+                f"{rule['start']}–{rule['end']}" if "end" in rule else rule["start"]
+            )
+            errors.append(f"Reversed BCE range: {key} {location}")
         if rule["source"] not in CHRONOLOGY["sources"]:
             errors.append(f"Unknown chronology source: {rule['source']}")
-        for existing_start, existing_end in grouped.setdefault(key, []):
-            if max(start, existing_start) <= min(end, existing_end):
-                errors.append(f"Overlapping chronology rules: {key} {rule['start']}")
-        grouped[key].append((start, end))
+        if end is None:
+            if grouped.get(key):
+                errors.append(f"Mixed chronology rule styles: {key}")
+            if start in point_grouped.setdefault(key, []):
+                errors.append(f"Duplicate chronology point: {key} {rule['start']}")
+            point_grouped[key].append(start)
+        else:
+            if point_grouped.get(key):
+                errors.append(f"Mixed chronology rule styles: {key}")
+            for existing_start, existing_end in grouped.setdefault(key, []):
+                if max(start, existing_start) <= min(end, existing_end):
+                    errors.append(f"Overlapping chronology rules: {key} {rule['start']}")
+            grouped[key].append((start, end))
     if errors:
         raise ValueError("\n".join(errors))
 
@@ -743,6 +775,12 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
                     "reviewed",
                 }:
                     errors.append(f"Bad translation status: {passage['id']}")
+                if (
+                    source_id == "livy"
+                    and passage["chapter"] != "pr"
+                    and not passage.get("chronology")
+                ):
+                    errors.append(f"Missing Livy chronology: {passage['id']}")
                 for note in passage["notes"]:
                     if not isinstance(note, dict) or not note.get("text"):
                         errors.append(f"Malformed note: {passage['id']}")

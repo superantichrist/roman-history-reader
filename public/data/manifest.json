@@ -7,7 +7,7 @@
     "books": 91,
     "passages": 10295,
     "originalWords": 823096,
-    "translatedPassages": 6110
+    "translatedPassages": 6229
   },
   "timeline": [
     {
@@ -65,8 +65,16 @@
     }
   ],
   "chronology": {
-    "method": "기원전 연도는 고대 본문의 사건 순서, 로마 집정관 연도와 올림피아드 연대를 현대식으로 환산한 편집 정보다. 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니다.",
+    "method": "기원전 연도는 원문에 현대식 BCE 연도가 적혀 있다는 뜻이 아니라, 판본의 B.C./A.U.C. 여백 표지와 사건 순서, 로마 집정관 연도 및 올림피아드 연대를 환산한 편집 정보다. 리비우스 1–10권의 초기 로마 연대는 전승적이므로 ‘경’으로 표시한다.",
     "sources": {
+      "perseus-livy-loeb": {
+        "title": "Perseus Digital Library, Livy Loeb marginal chronology",
+        "url": "https://github.com/PerseusDL/canonical-latinLit/tree/0416bbecc6e882611eda7b71ca4e5d5edbe1c627/data/phi0914"
+      },
+      "attalus-livy": {
+        "title": "Attalus, Livy reference chronology",
+        "url": "https://www.attalus.org/refs/Liv.html"
+      },
       "livius-periochae": {
         "title": "Livius.org, Livy: Periochae",
         "url": "https://www.livius.org/sources/content/livy/livy-periochae-11-15/"
@@ -92,7 +100,7 @@
       "id": "livy",
       "bookCount": 35,
       "passageCount": 6310,
-      "translationCount": 2125,
+      "translationCount": 2244,
       "searchPath": "data/search/livy.json",
       "volumes": [
         {
@@ -236,7 +244,7 @@
           "periodLabel": "기원전 218–201년",
           "chapterCount": 61,
           "passageCount": 210,
-          "translationCount": 0,
+          "translationCount": 119,
           "path": "data/books/livy/22.json"
         },
         {

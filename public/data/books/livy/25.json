@@ -77,7 +77,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-1-004-006",
@@ -98,7 +109,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-1-007-009",
@@ -119,7 +141,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-1-010-012",
@@ -140,7 +173,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-2-001-003",
@@ -161,7 +205,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-2-004-007",
@@ -183,7 +238,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-2-008-010",
@@ -204,7 +270,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 213년",
+        "yearStartBce": 213,
+        "yearEndBce": 213,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-3-001-004",
@@ -226,7 +303,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-3-005-008",
@@ -248,7 +336,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-3-009-011",
@@ -269,7 +368,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-3-012-015",
@@ -291,7 +401,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-3-016-019",
@@ -313,7 +434,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-4-001-004",
@@ -335,7 +467,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-4-005-008",
@@ -357,7 +500,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-4-009-011",
@@ -378,7 +532,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-5-001-004",
@@ -400,7 +565,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-5-005-008",
@@ -422,7 +598,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-5-009-011",
@@ -443,7 +630,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-001-003",
@@ -464,7 +662,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-004-006",
@@ -485,7 +694,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-007-009",
@@ -506,7 +726,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-010-012",
@@ -527,7 +758,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-013-019",
@@ -552,7 +794,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-020-022",
@@ -573,7 +826,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-6-023",
@@ -592,7 +856,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-7-001-007",
@@ -617,7 +892,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-7-008-011",
@@ -639,7 +925,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-7-012-014",
@@ -660,7 +957,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-8-001-005",
@@ -683,7 +991,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-8-006-008",
@@ -704,7 +1023,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-8-009-011",
@@ -725,7 +1055,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-8-012-013",
@@ -745,7 +1086,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-9-001-004",
@@ -767,7 +1119,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-9-005-008",
@@ -789,7 +1152,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-9-009-012",
@@ -811,7 +1185,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-9-013-017",
@@ -834,7 +1219,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-10-001-004",
@@ -856,7 +1252,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-10-005-009",
@@ -879,7 +1286,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-10-010",
@@ -898,7 +1316,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-001-003",
@@ -919,7 +1348,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-004-006",
@@ -940,7 +1380,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-007-010",
@@ -962,7 +1413,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-011-013",
@@ -983,7 +1445,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-014-017",
@@ -1005,7 +1478,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-11-018-020",
@@ -1026,7 +1510,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-12-001-004",
@@ -1048,7 +1543,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-12-005-007",
@@ -1069,7 +1575,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-12-008-010",
@@ -1090,7 +1607,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-12-011-013",
@@ -1111,7 +1639,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-12-014-015",
@@ -1131,7 +1670,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-13-001-003",
@@ -1152,7 +1702,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-13-004-007",
@@ -1174,7 +1735,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-13-008-010",
@@ -1195,7 +1767,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-13-011-014",
@@ -1217,7 +1800,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-14-001-003",
@@ -1238,7 +1832,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-14-004-007",
@@ -1260,7 +1865,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-14-008-009",
@@ -1280,7 +1896,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-14-010-012",
@@ -1301,7 +1928,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-14-013-014",
@@ -1321,7 +1959,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-001-003",
@@ -1342,7 +1991,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-004-005",
@@ -1362,7 +2022,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-006-009",
@@ -1384,7 +2055,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-010-012",
@@ -1405,7 +2087,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-013-015",
@@ -1426,7 +2119,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-016-019",
@@ -1448,7 +2152,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-15-020",
@@ -1467,7 +2182,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-001-004",
@@ -1489,7 +2215,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-005-008",
@@ -1511,7 +2248,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-009-012",
@@ -1533,7 +2281,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-013-015",
@@ -1554,7 +2313,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-016-019",
@@ -1576,7 +2346,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-020-023",
@@ -1598,7 +2379,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-16-024-025",
@@ -1618,7 +2410,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-17-001-003",
@@ -1639,7 +2442,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-17-004-006",
@@ -1660,7 +2474,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-17-007",
@@ -1679,7 +2504,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-18-001-003",
@@ -1700,7 +2536,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-18-004-006",
@@ -1721,7 +2568,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-18-007-009",
@@ -1742,7 +2600,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-18-010-013",
@@ -1764,7 +2633,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-18-014-015",
@@ -1784,7 +2664,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-19-001-004",
@@ -1806,7 +2697,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-19-005-008",
@@ -1828,7 +2730,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-19-009-012",
@@ -1850,7 +2763,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-19-013-015",
@@ -1871,7 +2795,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-19-016-017",
@@ -1891,7 +2826,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-20-001-003",
@@ -1912,7 +2858,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-20-004-006",
@@ -1933,7 +2890,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-20-007",
@@ -1952,7 +2920,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-21-001-004",
@@ -1974,7 +2953,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-21-005-007",
@@ -1995,7 +2985,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-21-008-010",
@@ -2016,7 +3017,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-22-001-003",
@@ -2037,7 +3049,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-22-004-007",
@@ -2059,7 +3082,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-22-008-010",
@@ -2080,7 +3114,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-22-011-014",
@@ -2102,7 +3147,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-22-015-016",
@@ -2122,7 +3178,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-23-001-004",
@@ -2144,7 +3211,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-23-005-007",
@@ -2165,7 +3243,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-23-008-012",
@@ -2188,7 +3277,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-23-013-015",
@@ -2209,7 +3309,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-23-016-017",
@@ -2229,7 +3340,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-24-001-004",
@@ -2251,7 +3373,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-24-005-007",
@@ -2272,7 +3405,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-24-008-010",
@@ -2293,7 +3437,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-24-011-013",
@@ -2314,7 +3469,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-24-014-015",
@@ -2334,7 +3500,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-25-001-003",
@@ -2355,7 +3532,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-25-004-006",
@@ -2376,7 +3564,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-25-007-009",
@@ -2397,7 +3596,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-25-010-013",
@@ -2419,7 +3629,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-26-001-004",
@@ -2441,7 +3662,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-26-005-007",
@@ -2462,7 +3694,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-26-008-011",
@@ -2484,7 +3727,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-26-012-015",
@@ -2506,7 +3760,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-27-001-003",
@@ -2527,7 +3792,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-27-004-007",
@@ -2549,7 +3825,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-27-008-009",
@@ -2569,7 +3856,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-27-010-012",
@@ -2590,7 +3888,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-27-013",
@@ -2609,7 +3918,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-28-001-004",
@@ -2631,7 +3951,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-28-005-007",
@@ -2652,7 +3983,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-28-008-009",
@@ -2672,7 +4014,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-29-001-003",
@@ -2693,7 +4046,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-29-004-006",
@@ -2714,7 +4078,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-29-007-009",
@@ -2735,7 +4110,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-29-010",
@@ -2754,7 +4140,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-30-001-003",
@@ -2775,7 +4172,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-30-004-005",
@@ -2795,7 +4203,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-30-006-009",
@@ -2817,7 +4236,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-30-010-012",
@@ -2838,7 +4268,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-31-001-004",
@@ -2860,7 +4301,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-31-005-007",
@@ -2881,7 +4333,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-31-008-010",
@@ -2902,7 +4365,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-31-011-014",
@@ -2924,7 +4398,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-31-015",
@@ -2943,7 +4428,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-32-001-003",
@@ -2964,7 +4460,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-32-004-008",
@@ -2987,7 +4494,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-32-009-010",
@@ -3007,7 +4525,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-33-001-004",
@@ -3029,7 +4558,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-33-005-009",
@@ -3052,7 +4592,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-34-001-007",
@@ -3077,7 +4628,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-34-008-010",
@@ -3098,7 +4660,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-34-011-014",
@@ -3120,7 +4693,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-35-001-003",
@@ -3141,7 +4725,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-35-004-007",
@@ -3163,7 +4758,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-35-008-009",
@@ -3183,7 +4789,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-36-001-005",
@@ -3206,7 +4823,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-36-006-009",
@@ -3228,7 +4856,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-36-010-014",
@@ -3251,7 +4890,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-36-015-016",
@@ -3271,7 +4921,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-37-001-004",
@@ -3293,7 +4954,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-37-005-009",
@@ -3316,7 +4988,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-37-010-011",
@@ -3336,7 +5019,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-37-012-014",
@@ -3357,7 +5051,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-37-015-019",
@@ -3380,7 +5085,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-001-003",
@@ -3401,7 +5117,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-004-007",
@@ -3423,7 +5150,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-008-010",
@@ -3444,7 +5182,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-011-013",
@@ -3465,7 +5214,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-014-017",
@@ -3487,7 +5247,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-018-020",
@@ -3508,7 +5279,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-38-021-023",
@@ -3529,7 +5311,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-39-001-003",
@@ -3550,7 +5343,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-39-004-007",
@@ -3572,7 +5376,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-39-008-009",
@@ -3592,7 +5407,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-39-010-013",
@@ -3614,7 +5440,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-39-014-018",
@@ -3637,7 +5474,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-40-001-002",
@@ -3657,7 +5505,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-40-003-005",
@@ -3678,7 +5537,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-40-006-009",
@@ -3700,7 +5570,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-40-010-012",
@@ -3721,7 +5602,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-40-013",
@@ -3740,7 +5632,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-41-001-003",
@@ -3761,7 +5664,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-41-004-007",
@@ -3783,7 +5697,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-41-008-012",
@@ -3806,7 +5731,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     },
     {
       "id": "livy-25-41-013",
@@ -3825,7 +5761,18 @@
       "korean": "",
       "notes": [],
       "translationStatus": "untranslated",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 212년",
+        "yearStartBce": 212,
+        "yearEndBce": 212,
+        "certainty": "exact",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "perseus-livy-loeb"
+        ]
+      }
     }
   ]
 }

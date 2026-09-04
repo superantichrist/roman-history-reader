@@ -84,7 +84,18 @@
       "korean": "루키우스 게누키우스와 세르비우스 코르넬리우스가 집정관일 때는 외부의 전쟁이 거의 없었다. 소라와 알바에 식민시가 세워졌다. 아이퀴인들의 땅에 있는 알바에는 식민자 육천 명을 등록했다. 소라는 볼스키인의 영토였으나 삼니움인들이 차지하고 있었고 그곳에는 사천 명을 보냈다. 같은 해 아르피눔인과 트레불라인에게 시민권을 주었다. 프루시노인들이 헤르니키인들을 선동한 사실이 드러나 영토 삼분의 일을 몰수했다. 원로원 결의에 따라 집정관들이 심문을 열었고 음모의 우두머리들은 채찍질한 뒤 도끼로 목을 베었다. 그래도 한 해를 완전히 전쟁 없이 보내지 않으려고 움브리아에서 작은 원정을 벌였다. 어떤 동굴에서 무장한 자들이 들판으로 뛰쳐나와 약탈한다는 보고가 있었기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 303년경",
+        "yearStartBce": 303,
+        "yearEndBce": 303,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-1-005-007",
@@ -105,7 +116,18 @@
       "korean": "군기들을 앞세우고 그 동굴 안으로 들어갔으나 어두운 곳에서 수많은 부상을 입었고 특히 돌에 맞은 상처가 많았다. 그러다가 동굴에 반대쪽 출구도 있어 길이 관통한다는 것을 발견했다. 양쪽 입구에 장작을 쌓아 불을 붙였다. 안에 있던 무장한 자 약 이천 명은 연기와 열기에 죽었고, 마지막에는 빠져나가려고 불길 자체로 뛰어들다가 소멸했다. 마르쿠스 리비우스 덴테르와 마르쿠스 아이밀리우스가 집정관일 때 아이퀴인들과의 전쟁이 다시 시작되었다. 아이퀴인들은 자기 경계에 성채처럼 세워진 식민시를 분하게 여겨 온 힘으로 공격했지만 식민자들에게 물리쳤다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 303–302년경",
+        "yearStartBce": 303,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-1-008-009",
@@ -125,7 +147,18 @@
       "korean": "그러나 형세가 그토록 꺾인 아이퀴인들이 홀로 스스로 전쟁을 일으켰다는 것은 좀처럼 믿기 어려웠기에 로마에는 큰 공포가 일었다. 이 소동 때문에 가이우스 유니우스 부불쿠스가 독재관으로 지명되었다. 그는 기병대장 마르쿠스 티티니우스와 함께 출정하여 첫 교전에서 아이퀴인들을 굴복시켰다. 여드레째 되는 날 개선식을 거행하며 로마로 돌아온 그는 집정관으로 서원하고 감찰관으로 건립을 맡겼던 살루스 신전을 독재관으로서 봉헌했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-2-001-004",
@@ -147,7 +180,18 @@
       "korean": "같은 해 라케다이몬인 클레오니모스가 이끄는 그리스 함대가 이탈리아 해안에 닿아 살렌티니인들의 도시 투리아이를 점령했다. 집정관 아이밀리우스가 이 적을 상대하러 파견되어 단 한 번의 전투로 패주시켜 배로 몰아넣었다. 투리아이는 옛 주민들에게 돌려주었고 살렌티니 영토에는 평화가 찾아왔다. 몇몇 연대기에는 독재관 유니우스 부불쿠스가 살렌티니인들에게 파견되었으며, 클레오니모스는 로마인들과 싸우기도 전에 이탈리아를 떠났다고 기록되어 있다. 그는 그곳에서 브룬디시움 곶을 돌아 아드리아해 한가운데에서 바람에 떠밀렸다. 왼쪽에는 항구 없는 이탈리아 해안이, 오른쪽에는 사납고 대부분 해적질로 악명 높은 일리리아인·리부르니아인·히스트리아인이 있어 두려웠기에 바다 깊숙이 들어가 베네티인의 해안까지 닿았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-2-005-007",
@@ -173,7 +217,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-2-008-010",
@@ -199,7 +254,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-2-011-014",
@@ -221,7 +287,18 @@
       "korean": "적은 가운데서 포위되어 살육당했다. 붙잡힌 일부는 함대와 왕 클레오니모스가 삼천 보 떨어져 있다고 알려주었다. 파타비움인들은 포로들을 가까운 마을에 맡겨 감시하게 했다. 무장 병력을 일부는 석호의 얕은 물을 건너기 알맞게 바닥이 평평한 강배에, 일부는 포획한 배에 채워 함대로 나아갔다. 움직이지 못하는 배와 낯선 지형을 적보다 더 두려워한 그리스인들은 맞서 싸우기보다 깊은 바다로 달아났다. 파타비움인들은 강어귀까지 거세게 뒤쫓아 당황하다 얕은 곳으로 들어간 적선 몇 척을 붙잡거나 불태운 뒤 승리하여 돌아왔다. 클레오니모스는 배의 오분의 일도 온전히 건지지 못한 채 아드리아해 어디에서도 성공을 거두지 못하고 떠났다. 라코니아인의 뱃머리 장식과 전리품이 파타비움의 옛 유노 신전에 걸려 있는 것을 직접 본 사람이 아직 많이 살아 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-2-015",
@@ -240,7 +317,18 @@
       "korean": "해전이 벌어진 날마다 그 승리를 기념하여 도시 한가운데의 강에서 해마다 정식 배 경주를 연다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302년경",
+        "yearStartBce": 302,
+        "yearEndBce": 302,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-3-001-004",
@@ -262,7 +350,18 @@
       "korean": "같은 해 로마는 우호를 청한 베스티니인들과 조약을 맺었다. 이어 여러 공포가 한꺼번에 일어났다. 아레티움인들의 내란에서 시작된 동요로 에트루리아가 다시 전쟁을 일으킨다는 보고가 왔다. 부유하여 압도적인 권세를 누리던 킬니우스 가문이 시기를 받아 무력으로 쫓겨나기 시작했다. 동시에 마르시인들은 식민자 사천 명을 등록하여 카르세올리에 식민시를 세운 땅을 무력으로 지키려 했다. 이 소동 때문에 마르쿠스 발레리우스 막시무스가 독재관으로 지명되었고 마르쿠스 아이밀리우스 파울루스를 기병대장으로 골랐다. 나는 그보다 퀸투스 파비우스가 그 나이와 관직 경력에도 발레리우스의 아래에 있었다는 전승보다 이것을 더 믿는다. 다만 ‘막시무스’라는 가문 이름 때문에 오류가 생겼을 가능성은 부정하지 않겠다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 302–301년경",
+        "yearStartBce": 302,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-3-005-008",
@@ -284,7 +383,18 @@
       "korean": "독재관은 군대와 함께 출정하여 한 번의 전투로 마르시인들을 무너뜨렸다. 그들을 방어 시설을 갖춘 도시들로 몰아넣은 뒤 며칠 안에 밀리오니아·플레스티나·프레실리아를 점령했다. 마르시인의 영토 일부를 몰수하고 조약을 복원했다. 이어 전쟁을 에트루리아인들에게 돌렸다. 독재관이 길조를 다시 받으려고 로마로 떠난 사이 기병대장은 사료를 모으러 나갔다가 매복에 포위되었다. 군기 몇 개를 잃고 병사들이 끔찍하게 살육당한 끝에 달아나 진영으로 몰렸다. 이처럼 겁에 질린 행동은 파비우스와 전혀 어울리지 않는다. 그가 특히 그 무렵 전쟁의 영광으로 ‘막시무스’라는 이름에 걸맞아졌다는 이유만이 아니다. 파피리우스의 가혹함을 기억한 그는 독재관의 명령 없이 싸우도록 결코 설득당하지 않았을 것이기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-4-001-005",
@@ -307,7 +417,18 @@
       "korean": "그 참패 소식은 실제보다 더 큰 공포를 로마에 일으켰다. 군대가 전멸하기라도 한 듯 공무 중단을 선포하고 성문을 지키며 구역마다 야간 경계를 섰다. 성벽에는 무기와 투척 무기를 쌓았다. 모든 젊은이에게 군 복무 선서를 시킨 뒤 독재관을 군대로 보냈다. 그가 도착했을 때는 기대보다 모든 것이 평온했고 기병대장이 질서를 회복해 놓았다. 진영은 더 안전한 곳으로 옮겨져 있었고, 군기를 잃은 부대들은 방벽 밖에 천막도 없이 버려져 있었다. 군대는 치욕을 하루빨리 지우려고 싸움을 갈망했다. 독재관은 곧바로 진영을 그곳에서 루셀라이 영토로 옮겼다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-4-006-008",
@@ -328,7 +449,18 @@
       "korean": "적도 그곳까지 뒤따랐다. 앞선 성공 덕분에 트인 전투에서도 자기 힘을 크게 믿었지만, 이미 효과를 본 매복으로도 적을 시험했다. 들판을 황폐하게 만들 때 불타 반쯤 무너진 마을의 집들이 로마 진영에서 멀지 않은 곳에 있었다. 그곳에 무장 병력을 숨기고, 그나이우스 풀비우스 부장이 지휘하는 로마 초소에서 보이는 곳으로 가축을 몰았다. 로마 초소에서 아무도 미끼를 향해 움직이지 않자 목동 한 명이 방어 시설 바로 아래까지 나아갔다. 그는 다른 목동들이 마을 폐허에서 가축을 꾸물거리며 모는 것을 보고 로마 진영 한가운데를 지나도 안전한데 왜 늦장을 부리느냐고 외쳤다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-4-009-011",
@@ -349,7 +481,18 @@
       "korean": "카이레인 몇 명이 이 말을 부장에게 통역해 주자 모든 중대의 병사들이 크게 분개했지만 명령 없이 움직일 엄두는 내지 못했다. 부장은 그 언어에 능한 이들에게 목동들의 말투가 시골 말투와 도시 말투 가운데 어느 쪽에 가까운지 주의 깊게 들어보라고 했다. 그들은 발음도 몸가짐도 피부의 단정함도 목동보다 세련되었다고 보고했다. 부장이 말했다. ‘그렇다면 가서 헛되이 감춰둔 매복을 드러내라고 말하라. 로마군은 모든 것을 알고 있으며 이제 계략에 붙잡히지도 무력으로 패하지도 않는다고 하라.’ 이 말을 듣고 매복한 자들에게까지 전해지자 그들은 갑자기 은신처에서 일어나 사방으로 훤히 보이는 열린 들판에 군기들을 내놓았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-4-012",
@@ -368,7 +511,18 @@
       "korean": "부장이 보니 자기 수비대로 감당할 수 있는 것보다 큰 전열이었다. 그래서 서둘러 독재관에게 원군을 청하러 사람을 보내고, 그동안 자신은 적의 공격을 버텼다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-5-001-005",
@@ -391,7 +545,18 @@
       "korean": "보고를 받은 독재관은 군기들을 들고 무장한 채 자기를 따르라고 명했다. 그러나 거의 모든 행동이 명령보다 빨랐다. 병사들은 곧바로 군기와 무기를 움켜쥐었고 돌진하여 달려가는 것을 간신히 제지할 수 있었다. 얼마 전 당한 참패의 분노가 자극한 데다, 커지는 싸움터에서 점점 더 세차게 들려오는 함성이 그들을 흥분시켰다. 저마다 앞사람을 밀고 군기병들에게 빨리 가라고 재촉했다. 독재관은 그들이 더 서두를수록 대열을 더 힘껏 붙들며 천천히 전진하라고 명했다. 반대로 전투가 시작되자 흥분한 에트루리아인들은 전 병력을 이끌고 와 있었다. 전령들이 잇달아 독재관에게 에트루리아의 모든 군단이 싸움에 들어갔고 자기 병사들이 더 버틸 수 없다고 보고했다. 독재관 자신도 높은 곳에서 수비대가 얼마나 큰 위험에 놓였는지 보았다. 그러나 부장이 지금도 싸움을 견딜 수 있고 자신도 위험에서 구해낼 만큼 멀지 않다고 믿었다. 지치지 않은 병력으로 지친 적을 공격할 수 있도록 적이 최대한 피로해지기를 바랐다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-5-006-008",
@@ -412,7 +577,18 @@
       "korean": "천천히 나아갔지만 돌격하기에는, 특히 기병에게는 이제 적당한 거리만 남았다. 적이 숨은 공격이나 갑작스러운 일을 두려워하지 않도록 군단의 군기들이 앞장섰다. 다만 보병 대열 사이에는 말을 충분히 넓게 내달릴 수 있는 간격을 남겨두었다. 전열이 일제히 함성을 올리고 기병은 아무 장애 없이 전속력으로 달려 적에게 돌진했다. 기병의 폭풍에 맞서 있던 자들에게 갑작스러운 공포를 쏟아부었다. 거의 포위된 병사들에게는 구원이 너무 늦게 온 듯했지만 모든 곳에 한꺼번에 쉴 틈이 생겼다. 지치지 않은 병사들이 싸움을 이어받았고, 그 싸움은 길지도 승패를 가리기 어렵지도 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-5-009-012",
@@ -434,7 +610,18 @@
       "korean": "무너진 적은 진영으로 돌아갔다. 로마군이 군기들을 들이밀자 뒤로 물러나 진영 맨 끝에 한데 뭉쳤다. 달아나는 자들이 성문의 좁은 통로에서 막혔다. 상당수는 높은 곳에서 몸을 지키거나 방벽 너머로 넘어 달아나려고 토루와 방벽 위로 올라갔다. 마침 한곳의 토루가 제대로 다져지지 않아 위에 선 자들의 무게로 도랑 안에 무너졌다. 신들이 도주의 길을 열어주었다고 외치며 무장한 자보다 무기를 버린 자들이 더 많이 빠져나갔다. 이 전투로 에트루리아인의 힘은 다시 꺾였다. 일 년 치 급료와 두 달 치 곡식을 주기로 약정한 뒤, 독재관은 그들이 로마로 평화 사절을 보내도록 허락했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-5-013-014",
@@ -454,7 +641,18 @@
       "korean": "평화는 거부되었고 이 년 휴전이 주어졌다. 독재관은 개선식을 거행하며 로마로 돌아왔다. 어떤 저자들은 독재관이 주목할 만한 전투를 전혀 치르지 않고 에트루리아를 평정했다고 전한다. 아레티움인들의 내란을 수습하고 킬니우스 가문과 평민을 화해시켰을 뿐이라는 것이다. 마르쿠스 발레리우스는 독재관직 뒤 집정관이 되었다. 일부는 그가 출마하지 않았고 심지어 자리에 없는데도 선출되었으며 임시 통치관이 그 선거를 열었다고 전한다. 그가 아풀레이우스 판사와 함께 집정관직을 수행했다는 한 가지 사실에는 이견이 없다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301년경",
+        "yearStartBce": 301,
+        "yearEndBce": 301,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-6-001-005",
@@ -477,7 +675,18 @@
       "korean": "마르쿠스 발레리우스와 퀸투스 아풀레이우스가 집정관일 때 외부의 형세는 꽤 평온했다. 에트루리아인들은 전쟁의 패배와 휴전 때문에 조용했고, 여러 해의 참패에 굴복한 삼니움인들도 아직 새 조약을 후회하지 않았다. 로마에서도 식민시로 떠난 사람의 수가 많아져 짐을 던 듯 평민이 조용했다. 그러나 사방이 모두 평온하지는 않도록 평민 호민관 퀸투스와 그나이우스 오굴니우스가 시민 공동체의 지도자들, 곧 귀족과 평민 사이에 다툼을 일으켰다. 그들은 평민 앞에서 귀족들을 비난할 기회를 사방에서 찾다가 다른 시도가 헛되자 최하층 평민이 아니라 평민의 우두머리들, 집정관과 개선식까지 거친 평민들에게 불을 붙일 사안을 꺼냈다. 이들에게는 아직 공유되지 않던 제사장직 말고는 어떤 명예도 부족하지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 301–300년경",
+        "yearStartBce": 301,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-6-006-008",
@@ -503,7 +712,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-6-009-011",
@@ -524,7 +744,18 @@
       "korean": "그러나 평민이 새로 들어온다는 사실 때문에 귀족들은 집정관직이 모두에게 열리는 것을 보았을 때만큼이나 이 일을 분하게 여겼다. 겉으로는 자기들보다 신들에게 더 관계된 문제이며, 신들이 스스로 자기 의례가 더럽혀지지 않게 살필 것이라고 했다. 자신들은 국가에 어떤 참화도 닥치지 않기를 바랄 뿐이라고 했다. 하지만 이제 이런 종류의 다툼에서 패하는 데 익숙해져 그만큼 세게 맞서지는 않았다. 상대편은 옛날에 거의 바라지도 못했던 최고 관직을 노리는 것이 아니라, 이미 얻을 희망이 불확실할 때 다투었던 모든 것, 곧 여러 차례의 집정관직과 감찰관직과 개선식을 손에 넣었음을 보았기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-7-001-004",
@@ -546,7 +777,18 @@
       "korean": "그래도 법안에 찬성하고 반대하는 논쟁은 특히 아피우스 클라우디우스와 푸블리우스 데키우스 무스 사이에서 벌어졌다고 한다. 두 사람은 옛날 평민에게 집정관직을 열자는 리키니우스 법안을 둘러싸고 귀족과 평민의 권리에 관해 나왔던 말과 거의 같은 주장을 펼쳤다. 데키우스는 집회에 있던 많은 사람이 직접 보았던 아버지의 모습을 불러냈다고 한다. 아버지는 가비누스식으로 토가를 두르고 창 위에 서서 로마 인민과 군단들을 위해 자기 몸을 신들에게 바쳤다. 그때 집정관 푸블리우스 데키우스는 동료 티투스 만리우스가 자신을 바쳤을 때와 마찬가지로 불멸의 신들에게 깨끗하고 경건한 사람으로 보였다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-7-005-007",
@@ -567,7 +809,18 @@
       "korean": "그런 푸블리우스 데키우스가 로마 인민을 위한 공공 제의를 행할 사람으로는 정식으로 선출될 수 없었다는 말인가? 그의 기도는 아피우스 클라우디우스의 기도보다 신들이 덜 들어줄 위험이 있는가? 아피우스가 데키우스보다 더 깨끗하게 사적 제의를 행하고 더 경건하게 신들을 숭배하는가? 군대로 떠날 때나 전쟁 한복판에서 그토록 많은 평민 집정관과 독재관이 국가를 위해 올린 서원을 누가 후회하는가? 평민의 지휘와 길조 아래 국사를 수행하기 시작한 이후 여러 해의 지휘관을 세어보라. 개선식들을 세어보라. 이제 평민들은 자기들의 귀족 신분조차 후회하지 않는다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-7-008-010",
@@ -593,7 +846,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-7-011-012",
@@ -613,7 +877,18 @@
       "korean": "‘어떤 조상의 초상 아래 적힌 명문에서 집정관직과 감찰관직과 개선식을 평온하게 읽을 수 있으면서, 복점관직이나 최고 제사장직을 더하면 읽는 이의 눈이 견디지 못한단 말이오? 신들에게 용서를 구하며 말하건대, 로마 인민의 은혜로 이제 우리는 제사장직에서 받는 영예만큼이나 우리 자신의 위엄으로 제사장직에 영예를 돌려줄 사람이 되었다고 믿소. 우리가 사적으로 숭배하는 신들을 공적으로도 숭배할 수 있기를 우리 자신보다 신들을 위해 더 간절히 요구하는 것이오.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-8-001-004",
@@ -635,7 +910,18 @@
       "korean": "‘그런데 왜 나는 귀족들이 제사장직에 대한 권리를 온전히 가진 것처럼, 우리가 이미 가장 고귀한 제사장직 하나를 함께 차지하고 있지 않은 것처럼 지금까지 말했겠소? 우리는 신성한 의식을 맡은 십인 위원들, 시빌라의 노래와 이 민족의 운명을 해석하는 이들, 아폴로 제의와 다른 의식들의 제사장 가운데 평민이 있는 것을 보고 있소. 신성한 의식을 맡은 이인 위원에 평민을 위해 인원을 더했을 때 귀족에게 아무런 불의도 일어나지 않았소. 지금도 용감하고 부지런한 호민관은 아피우스 그대를 자리에서 몰아내려는 것이 아니라, 다른 인간사의 자기 몫을 맡아 여러분을 돕듯 신들의 일을 처리하는 데에도 평민이 여러분을 돕도록 복점관 다섯 자리와 최고 제사장 네 자리를 더하는 것이오.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-8-005-008",
@@ -657,7 +943,18 @@
       "korean": "‘아피우스여, 감찰관직과 집정관직에서 동료가 될 수도 있었고, 그대가 독재관이면 기병대장이 되고 그대가 기병대장이면 독재관이 될 수도 있었던 사람을 제사장직의 동료로 맞는 일을 부끄러워하지 마시오. 아티우스 클라우수스라 부르든 아피우스 클라우디우스라 부르든, 여러분 귀족의 시조인 사비니 출신 이방인을 옛 귀족들은 자기들 가운데 받아들였소. 그대도 우리를 제사장 수에 넣기를 경멸하지 마시오. 우리는 많은 영예를 함께 가져오며, 실은 그대를 오만하게 만든 것과 똑같은 영예를 모두 가져오오. 루키우스 섹스티우스는 최초의 평민 집정관이었고, 가이우스 리키니우스 스톨로는 최초의 평민 기병대장이었으며, 가이우스 마르키우스 루틸루스는 최초의 평민 독재관이자 감찰관이었고, 퀸투스 푸블릴리우스 필로는 최초의 평민 법무관이었소.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-8-009-012",
@@ -679,7 +976,18 @@
       "korean": "‘우리는 언제나 똑같은 말을 들었소. 길조를 받을 권한은 여러분에게 있고, 여러분만이 씨족을 가지며, 국내와 전쟁에서 정당한 명령권과 길조는 여러분만 가진다는 말이오. 그러나 지금까지도 앞으로도 평민과 귀족의 지휘는 똑같이 성공할 것이오. 귀족이 처음부터 하늘에서 내려온 자가 아니라 자기 아버지의 이름을 댈 수 있는 자, 곧 자유민으로 태어난 자에 지나지 않았다는 말을 정녕 한 번도 듣지 못했소? 나는 이제 집정관인 아버지의 이름을 댈 수 있고 내 아들은 집정관인 할아버지의 이름까지 댈 수 있을 것이오. 퀴리테스 시민들이여, 문제의 전부는 우리가 거부당한 모든 것을 얻는 데 있소. 귀족들은 다툼 자체만을 원할 뿐 다툼이 어떤 결과를 낳는지는 생각하지 않소. 나는 이 법안을 여러분과 국가에 선하고 길하며 복되도록, 요청한 그대로 명령하여 통과시켜야 한다고 봅니다.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-9-001-004",
@@ -706,7 +1014,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300년경",
+        "yearStartBce": 300,
+        "yearEndBce": 300,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-9-005-009",
@@ -729,7 +1048,18 @@
       "korean": "발레리우스 법은 상소한 사람을 채찍질하거나 도끼로 목 베는 일을 금했지만, 이를 어긴 자에게는 ‘옳지 못한 행위’라는 말만 덧붙였다. 당시 사람들의 수치심을 생각하면 그것만으로도 법을 묶는 충분히 강한 사슬이라고 여겼던 듯하다. 오늘날에는 누구도 그런 말로 진지하게 위협하려 하지 않을 것이다. 같은 집정관은 반란을 일으킨 아이퀴인들과 별로 기억할 것 없는 전쟁을 치렀다. 그들에게는 사나운 마음 말고 옛 형세에서 남은 것이 없었다. 다른 집정관 아풀레이우스는 움브리아에서 네퀴눔을 포위했다. 지금 나르니아가 있는 그곳은 가파르고 한쪽은 절벽이어서 무력으로도 포위 시설로도 점령할 수 없었다. 따라서 새 집정관 마르쿠스 풀비우스 파이투스와 티투스 만리우스 토르콰투스가 끝나지 않은 일을 이어받았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 300–299년경",
+        "yearStartBce": 300,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-9-010-012",
@@ -750,7 +1080,18 @@
       "korean": "그해 퀸투스 파비우스가 출마하지 않았는데도 모든 백인대가 집정관으로 지명하려 했다고 한다. 리키니우스 마케르와 투베로는 파비우스 자신이 더 큰 전쟁이 일어날 해로 집정관직을 미루도록 했다고 전한다. 그해에는 도시 안의 관직을 맡는 편이 국가에 더 쓸모 있다고 판단했다는 것이다. 그래서 뜻을 숨기지는 않았지만 출마하지도 않은 채 루키우스 파피리우스 쿠르소르와 함께 귀족 조영관이 되었다고 한다. 그러나 더 오래된 연대기 저자 피소는 그해 그나이우스의 아들 그나이우스 도미티우스 칼비누스와 퀸투스의 아들 스푸리우스 카르빌리우스 막시무스가 귀족 조영관이었다고 전하여, 내가 앞의 이야기를 확정하지 못하게 한다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-9-013-014",
@@ -770,7 +1111,18 @@
       "korean": "‘막시무스’라는 가문 이름이 조영관을 잘못 기록하게 했고, 그 오류에 맞추어 조영관 선거와 집정관 선거의 이야기를 섞은 설화가 뒤따랐다고 나는 생각한다. 같은 해 감찰관 푸블리우스 셈프로니우스 소푸스와 푸블리우스 술피키우스 사베리오가 인구 조사의 정화 의식을 마쳤고, 아니엔시스와 테렌티나라는 두 부족을 더했다. 이것이 로마에서 벌어진 일이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-10-001-004",
@@ -792,7 +1144,18 @@
       "korean": "네퀴눔에서 지지부진한 포위로 시간을 허비하던 때, 도시 사람 두 명이 성벽과 붙은 자기들의 건물에서 굴을 파 로마군 초소까지 은밀한 길로 빠져나왔다. 집정관에게 데려가자 무장한 수비대를 성곽 안으로 받아들이겠다고 확약했다. 무시할 일은 아니었지만 경솔하게 믿어서도 안 되었다. 한 사람을 인질로 남겨두고 다른 사람과 함께 정찰병 두 명을 굴로 보냈다. 그들을 통해 사실을 충분히 확인한 뒤 무장 병사 삼백 명이 탈주자의 안내를 받아 밤에 도시로 들어가 가장 가까운 성문을 점거했다. 성문을 부수어 열자 집정관과 로마군이 싸움 없이 도시로 쳐들어갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-10-005-009",
@@ -815,7 +1178,18 @@
       "korean": "이렇게 네퀴눔은 로마 인민의 지배 아래 들어왔다. 움브리아인들을 견제할 식민시가 그곳에 세워졌고 강의 이름을 따라 나르니아라고 불렀다. 군대는 막대한 전리품을 가지고 로마로 돌아왔다. 같은 해 에트루리아인들은 휴전을 어기고 전쟁을 준비했다. 그러나 거대한 갈리아군이 국경 안으로 들어오자 그런 일을 꾸미던 그들은 잠시 계획에서 돌아섰다. 이어 자기들에게 풍부했던 돈을 믿고 갈리아인을 적에서 동맹으로 만들어 그 군대까지 합쳐 로마인들과 싸우려 했다. 야만인들은 동맹을 거절하지 않았고 대가를 논의했다. 값을 합의하여 받은 뒤 나머지 전쟁 준비가 모두 끝나고 에트루리아인이 따라오라고 하자, 갈리아인들은 그 돈을 로마와 전쟁하는 대가로 합의한 적이 없다고 부정했다. 받은 것은 무엇이든 에트루리아 땅을 황폐하게 만들거나 주민들을 무력으로 공격하지 않는 대가였다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-10-010-012",
@@ -836,7 +1210,18 @@
       "korean": "그래도 에트루리아인들이 반드시 원한다면 싸우겠지만, 다른 대가는 필요 없고 영토의 일부를 받아 마침내 일정한 거처에 정착하게 해달라고 했다. 이를 놓고 에트루리아 부족 회의가 여러 차례 열렸지만 아무것도 이루어지지 않았다. 저마다 영토가 줄어드는 것보다도 그처럼 야만적인 민족을 이웃 주민으로 받아들이는 일을 두려워했기 때문이다. 갈리아인들은 아무 수고도 위험도 없이 얻은 거액을 가지고 돌아갔다. 갈리아인의 소동이 에트루리아 전쟁에 더해졌다는 소문은 로마에 공포를 일으켰다. 그래서 피켄테스족과 더욱 망설이지 않고 조약을 맺었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-11-001-003",
@@ -857,7 +1242,18 @@
       "korean": "집정관 티투스 만리우스는 추첨으로 에트루리아를 맡았다. 적의 경계 안에 막 들어가 기병들 사이에서 훈련하던 그는 빠르게 달리는 말을 돌리다가 떨어져 거의 그 자리에서 숨을 거두었다. 사고 사흘째 되는 날 집정관의 삶이 끝났다. 에트루리아인들은 이를 전쟁의 징조로 받아들여 신들이 자기들을 위해 전쟁을 시작했다고 말하며 기세를 올렸다. 로마에는 그 인물을 잃은 슬픔과 시기의 어려움이 겹쳐 우울한 소식이었다. 원로원 지도자들의 의견에 따라 열린 회의는 보궐 집정관을 뽑기 위해 독재관을 지명하라는 결정을 내리지 않게 의원들을 막았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-11-004-007",
@@ -879,7 +1275,18 @@
       "korean": "모든 의견과 백인대가 마르쿠스 발레리우스를 집정관으로 지명했다. 원로원이 독재관으로 지명하려 했던 바로 그 사람이었다. 원로원은 그에게 즉시 에트루리아의 군단으로 떠나라고 명했다. 그가 도착하자 에트루리아인들은 크게 억눌려 어느 누구도 방어 시설 밖으로 나올 엄두를 내지 못했다. 그들 자신의 두려움이 포위군과 같았다. 새 집정관은 들판을 황폐하게 만들고 집을 불태웠다. 농장뿐 아니라 주민이 빽빽한 마을까지 곳곳에서 불타 연기를 뿜었지만 그들을 싸움으로 끌어낼 수 없었다. 이 전쟁은 예상보다 느리게 진행되었으나, 서로 여러 차례 참패를 주고받아 당연히 두려워할 만한 다른 전쟁의 소식이 새 동맹 피켄테스의 제보로 일어났다. 삼니움인들이 무기와 반란을 바라보며 자기들까지 선동했다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299년경",
+        "yearStartBce": 299,
+        "yearEndBce": 299,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-11-008-010",
@@ -900,7 +1307,18 @@
       "korean": "피켄테스인들에게 감사했고 원로원 의원들의 걱정은 대부분 에트루리아에서 삼니움으로 옮겨갔다. 높은 곡물 가격도 도시를 불안하게 만들었다. 그해 파비우스 막시무스가 조영관이었다고 보는 저자들의 기록대로라면, 여러 위기에서 전쟁을 돌보았던 것과 같은 역량으로 곡물을 마련하고 실어 와 국내 배급을 돌보지 않았다면 궁핍의 극한에 이르렀을 것이다. 그해에는 이유가 전해지지 않은 임시 통치가 시작되었다. 임시 통치관은 먼저 아피우스 클라우디우스, 다음으로 푸블리우스 술피키우스였다. 술피키우스가 집정관 선거를 열어 루키우스 코르넬리우스 스키피오와 그나이우스 풀비우스를 집정관으로 선출했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 299–298년경",
+        "yearStartBce": 299,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-11-011-013",
@@ -921,7 +1339,18 @@
       "korean": "이해 초 루카니아 사절들이 새 집정관들에게 와서 호소했다. 삼니움인들은 조건을 내걸어도 자기들을 무장 동맹으로 끌어들일 수 없자 적대적인 군대를 영토 안으로 이끌어 황폐하게 만들며 전쟁으로 전쟁에 나서도록 강요한다는 것이었다. 루카니아 민족은 옛날에 이미 넘치도록 잘못했으며, 이제는 다시 로마라는 이름을 해치는 것보다 어떤 일도 견디고 당하는 편이 낫다고 할 만큼 마음을 굳혔다고 했다. 원로원 의원들에게 루카니아인들을 보호 아래 받아들이고 삼니움인의 폭력과 불의를 막아달라고 간청했다. 삼니움인들과 전쟁을 시작했으므로 로마에 대한 신의가 이미 불가피해졌지만, 그래도 인질을 내놓을 준비가 되어 있다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-12-001-004",
@@ -943,7 +1372,18 @@
       "korean": "원로원의 논의는 짧았다. 한 사람도 빠짐없이 루카니아인들과 조약을 맺고 삼니움인들에게 배상을 요구해야 한다고 판단했다. 루카니아인들에게 호의적으로 답하고 조약을 체결했다. 페티알레스들을 보내 삼니움인들에게 동맹의 영토에서 물러나 군대를 루카니아 경계 밖으로 철수하라고 명하게 했다. 삼니움인들은 사람들을 마주 보내 페티알레스가 삼니움에서 어떤 회의든 찾아가면 무사히 떠나지 못할 것이라고 통고했다. 이 말이 로마에 전해지자 원로원도 삼니움인들과 전쟁해야 한다고 판단했고 민중도 명령했다. 집정관들은 담당 지역을 나누어 스키피오는 에트루리아를, 풀비우스는 삼니움인들을 맡고 각자 다른 전쟁으로 떠났다. 지지부진하여 전년과 비슷한 전쟁을 예상한 스키피오에게 적은 볼라테라이에서 전열을 갖춘 채 맞섰다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-12-005-007",
@@ -964,7 +1404,18 @@
       "korean": "하루의 대부분을 싸워 양쪽에서 크게 살육당했으나 어느 쪽에 승리가 주어졌는지 모르는 사이 밤이 끼어들었다. 이튿날 빛이 승자와 패자를 드러냈다. 에트루리아인들이 밤의 정적 속에 진영을 떠난 것이다. 로마군은 전장으로 나왔다가 적의 출발로 승리를 내주었다는 것을 알았다. 수비병이 없는 진영으로 나아가 막대한 전리품과 함께 점령했다. 고정 진영이었는데도 당황해 버리고 떠났기 때문에 물건이 많았다. 그곳에서 병력을 팔리스키인의 영토로 돌리고 짐은 소수의 수비대와 함께 팔레리이에 남겨둔 뒤, 짐을 가볍게 한 대열로 적의 경계를 황폐하게 만들러 나아갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-12-008-009",
@@ -984,7 +1435,18 @@
       "korean": "모든 것을 칼과 불로 황폐하게 만들고 사방에서 전리품을 끌고 왔다. 적에게 황무지만 남겼을 뿐 아니라 성채와 마을에도 불을 질렀다. 에트루리아인들이 두려움에 몰려든 도시들은 공격하지 않았다. 집정관 그나이우스 풀비우스는 삼니움의 보비아눔에서 승패가 전혀 모호하지 않은 빛나는 전투를 치렀다. 이어 보비아눔을 공격했고 얼마 지나지 않아 아우피데나도 무력으로 점령했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-13-001-006",
@@ -1008,7 +1470,18 @@
       "korean": "같은 해 아이퀴쿨리인의 영토에 카르세올리 식민시를 세웠다. 집정관 풀비우스는 삼니움인들을 이긴 개선식을 거행했다. 집정관 선거가 다가올 때 에트루리아인들과 삼니움인들이 거대한 군대를 징집한다는 소문이 일어났다. 에트루리아의 모든 회의에서는 어떤 조건으로든 갈리아인들을 전쟁에 끌어들이지 못한 지도자들을 공개적으로 몰아세웠다. 삼니움의 정무관들은 루카니아 적을 상대하려고 마련한 군대를 로마군 앞에 내던졌다는 꾸지람을 받았다. 적들이 자기들과 동맹들의 힘으로 전쟁에 일어설 것이며 결코 전과 대등한 싸움으로 끝나지 않을 듯했다. 이름난 인물들이 집정관직에 출마했는데도 이 공포 때문에 모든 사람의 뜻은 처음에는 출마하지 않고 뒤에는 지지가 쏠리는 것을 보고 거부하기까지 한 퀸투스 파비우스 막시무스에게 향했다. 그는 이미 늙어 고역과 그 보상을 모두 겪은 자기를 왜 다시 불러내느냐고 했다. 몸과 정신의 힘이 전과 같지 않았고, 인간사에 허용된 것보다 지나치게 크고 오래 이어진 행운을 어느 신이 못마땅하게 보지 않을까 운명 자체가 두렵다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-13-007-010",
@@ -1030,7 +1503,18 @@
       "korean": "자기는 앞선 세대의 영광 아래에서 자라났고, 이제 다른 사람들이 자기 영광을 향해 자라나는 것을 기쁘게 바라본다고 했다. 로마에는 가장 용감한 이들에게 줄 높은 관직도 부족하지 않고, 높은 관직을 맡을 용감한 이도 부족하지 않다고 했다. 그처럼 정당한 절제는 오히려 지지를 더욱 날카롭게 했다. 파비우스는 법에 대한 존중심으로 이를 꺼야겠다고 생각하여 같은 사람이 십 년 안에 다시 집정관이 되지 못하게 한 법을 낭독하라고 명했다. 소란 때문에 법은 거의 들리지 않았고 평민 호민관들은 그것이 아무 장애도 되지 않을 것이라고 했다. 그를 법에서 풀어주는 안을 민중에게 제출하겠다는 것이었다. 그래도 파비우스는 계속 거부하며, 법을 만든 바로 그자들이 속여 빠져나갈 것이라면 무엇 때문에 법을 만드느냐고 물었다. 이제 법이 다스리는 것이 아니라 다스림을 받고 있다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-13-011-013",
@@ -1051,7 +1535,18 @@
       "korean": "민중은 그래도 투표를 시작했고 안으로 불려 들어가는 백인대마다 의심할 여지 없이 파비우스를 집정관으로 지명했다. 마침내 시민 공동체의 합의에 굴복한 파비우스가 말했다. ‘퀴리테스 시민들이여, 여러분이 하는 일과 하려는 일을 신들이 승인하기 바랍니다. 여러분이 나에게 여러분의 뜻을 행하려 하니, 내 동료를 고르는 데에는 여러분에게 받은 내 영향력을 쓸 수 있게 해주십시오. 나와 화합하여 동료직을 수행한 경험이 있고, 여러분에게도 자기 아버지에게도 합당한 푸블리우스 데키우스를 나와 함께 집정관으로 만들어주시기를 청합니다.’ 정당한 투표 요청으로 여겨졌다. 남은 모든 백인대가 퀸투스 파비우스와 푸블리우스 데키우스를 집정관으로 지명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-13-014",
@@ -1070,7 +1565,18 @@
       "korean": "그해 법으로 정한 한도보다 많은 토지를 가진 여러 사람이 조영관들에게 기소되었다. 거의 아무도 혐의를 벗지 못했고 지나친 탐욕에는 거대한 족쇄가 채워졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 298년경",
+        "yearStartBce": 298,
+        "yearEndBce": 298,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-001-004",
@@ -1092,7 +1598,18 @@
       "korean": "새 집정관은 네 번째 집정관 퀸투스 파비우스 막시무스와 세 번째 집정관 푸블리우스 데키우스 무스였다. 두 사람은 한 명이 삼니움의 적을, 다른 한 명이 에트루리아인을 고르는 문제, 어느 담당 지역에 얼마나 많은 병력이 충분한지, 어느 전쟁에 누가 더 적합한 지휘관인지를 서로 논의했다. 그때 수트리움·네페테·팔레리이에서 사절들이 와 에트루리아 부족 회의들이 평화를 청할 일을 논의하고 있다고 알렸다. 그들은 전쟁의 무게 전체를 삼니움으로 돌렸다. 집정관들은 보급을 더 쉽게 하고 적이 어느 쪽에서 전쟁이 올지 확신할 수 없게 하려고 서로 다른 길로 떠났다. 파비우스는 소라의 영토를, 데키우스는 시디키니인의 영토를 지나 군단들을 삼니움으로 이끌었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-005-008",
@@ -1114,7 +1631,18 @@
       "korean": "적의 경계에 이르자 두 군대 모두 대열을 넓게 흩어 약탈하며 나아갔다. 그러나 약탈하는 범위보다 정찰하는 범위를 더 넓혔다. 그래서 티페르눔의 은밀한 골짜기에 전열을 갖추고, 로마군이 들어오면 높은 곳에서 공격하려던 적을 놓치지 않았다. 파비우스는 짐을 안전한 곳으로 옮겨 소수의 수비대를 둔 뒤 병사들에게 싸움이 닥쳤다고 미리 알리고, 사각 대열로 적의 매복이 있다고 한 곳을 향해 나아갔다. 삼니움인들은 기습의 소동을 일으킬 희망이 사라지고 사태가 결국 공개적인 결전으로 나갈 것이므로 자기들도 정규 전열로 맞붙는 편을 택했다. 평지로 내려와 희망보다는 용기를 더 크게 품고 운명에 몸을 맡겼다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-009-012",
@@ -1136,7 +1664,18 @@
       "korean": "모든 삼니움 부족에서 정예라면 무엇이든 모았기 때문인지, 국가의 운명을 건 위기가 마음을 크게 했기 때문인지, 그들은 트인 싸움에서도 적지 않은 공포를 안겨주었다. 파비우스는 어느 쪽에서도 적을 그 자리에서 움직일 수 없음을 보았다. 선두 전열까지 자기와 함께 달려 나온 군사 호민관인 아들 막시무스와 마르쿠스 발레리우스에게 기병대로 가라고 명했다. 기병의 도움이 국가를 구한 때가 언제든 있었다면 바로 그날 그 계층의 영광이 패배를 모르도록 힘을 다하라고 격려하게 했다. 보병 싸움으로는 적이 움직이지 않고 버티며 남은 희망은 모두 기병의 돌격에 있다고 했다. 두 젊은이의 이름을 하나씩 부르며 똑같이 친절하게 대하고, 때로는 칭찬하고 때로는 약속을 하며 짐을 지웠다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-013-016",
@@ -1158,7 +1697,18 @@
       "korean": "그 힘마저 시험해도 성과가 없을 가능성을 걱정한 파비우스는 무력이 도움이 되지 않으면 계책으로 나아가야 한다고 여겼다. 부장 스키피오에게 제1군단의 하스타티를 전열에서 빼내 가능한 한 은밀하게 가까운 산으로 우회시키라고 명했다. 이어 적의 눈에 보이지 않는 오르막을 따라 산으로 대열을 올리고, 적이 등을 보인 뒤편에 갑자기 나타나게 했다. 두 군사 호민관이 이끄는 기병들은 군기 앞으로 달려 나와 적뿐 아니라 자기편도 거의 똑같이 놀라게 했다. 그러나 삼니움 전열은 돌진하는 기병대를 맞아 움직이지 않고 서서 어느 곳에서도 밀리거나 뚫리지 않았다. 시도가 헛되자 기병들은 군기 뒤로 물러나 싸움에서 빠졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-017-020",
@@ -1180,7 +1730,18 @@
       "korean": "이 일로 적의 기세가 커졌다. 로마의 선두 전열은 그토록 긴 싸움과 자신감을 얻어 커지는 적의 힘을 견딜 수 없었을 것이다. 그러나 집정관의 명령으로 두 번째 전열이 첫 번째를 대신했다. 온전한 전력이 이미 앞으로 밀고 들어오던 삼니움인을 멈추었다. 때맞춰 산에서 보인 군기와 솟아오른 함성은 실제보다 더 큰 공포로 삼니움인의 마음을 겁주었다. 파비우스는 동료 데키우스가 다가온다고 외쳤고, 병사들도 저마다 다른 집정관과 군단들이 왔다고 기뻐하며 떠들었다. 로마군에게 이롭게 주어진 그 오해는 삼니움인들을 도주와 공포로 채웠다. 특히 지친 자신들이 온전하고 손대지 않은 다른 군대에 짓밟힐까 두려워했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-14-021",
@@ -1199,7 +1760,18 @@
       "korean": "적이 사방으로 흩어져 달아났기 때문에 그토록 큰 승리에 비해 살육은 적었다. 삼천사백 명이 죽고 약 팔백삼십 명이 붙잡혔으며 군기 스물세 개를 빼앗았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-15-001-005",
@@ -1222,7 +1794,18 @@
       "korean": "집정관 푸블리우스 데키우스가 말레벤툼에서 진영으로 길을 막고, 뒤이어 싸움으로 끌어내 무너뜨리지 않았다면 아풀리아인들이 전투 전에 삼니움인들과 합류했을 것이다. 그곳에서도 죽은 자보다 달아난 자가 많았다. 아풀리아인 이천 명이 죽었다. 데키우스는 그 적을 업신여기고 군단들을 삼니움으로 이끌었다. 그곳에서 집정관 군대 두 개가 서로 다른 방향으로 돌아다니며 다섯 달 동안 모든 곳을 황폐하게 만들었다. 삼니움 안에서 데키우스가 진영을 세운 곳은 마흔다섯 곳, 다른 집정관이 세운 곳은 여든여섯 곳이었다. 방벽과 도랑의 흔적만 남은 것이 아니라 그보다 훨씬 더 두드러진 황폐화와 주변 지역의 약탈 흔적이 남았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-15-006-009",
@@ -1244,7 +1827,18 @@
       "korean": "파비우스는 키메트라시도 점령했다. 그곳에서 무장한 자 이천구백 명을 붙잡고 맞서 싸우던 약 구백삼십 명을 죽였다. 이어 선거를 위해 로마로 떠나 서둘러 일을 처리했다. 처음 표결에 들어간 모든 백인대가 퀸투스 파비우스를 집정관으로 지명하자, 집정관 후보인 아피우스 클라우디우스가 움직였다. 그는 사납고 야심적인 인물로, 자신의 관직뿐 아니라 귀족들이 집정관 두 자리를 되찾게 하려고 자기 세력과 귀족 전체의 세력을 다 쏟아 퀸투스 파비우스와 함께 자기를 집정관으로 지명하게 했다. 파비우스는 먼저 전년과 거의 같은 말을 하며 자신을 거부했다. 모든 귀족이 의자 둘레에 서서 집정관직을 평민의 진창에서 끌어내어 그 관직과 귀족 가문들에게 옛 위엄을 돌려달라고 간청했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-15-010-012",
@@ -1265,7 +1859,18 @@
       "korean": "파비우스는 조용히 하게 한 뒤 온건한 연설로 사람들의 열기를 가라앉혔다. 자기 아닌 다른 사람이 집정관이 될 것으로 보였다면 두 귀족의 후보 등록을 받아주었을 것이라고 했다. 그러나 이제는 법을 어기게 될 자기 자신의 출마를 선거에서 가장 나쁜 선례로 인정하지 않겠다고 했다. 그래서 평민 루키우스 볼룸니우스가 아피우스 클라우디우스와 함께 집정관이 되었다. 두 사람은 앞선 집정관직에서도 동료로 짝지어졌었다. 귀족들은 시민 정치의 웅변과 술책에서 의심할 여지 없이 뛰어난 아피우스 클라우디우스를 동료로 삼는 일을 파비우스가 피했다고 비난했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297년경",
+        "yearStartBce": 297,
+        "yearEndBce": 297,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-16-001-003",
@@ -1286,7 +1891,18 @@
       "korean": "선거가 끝나자 옛 집정관들은 명령권을 여섯 달 연장받아 삼니움에서 전쟁을 계속하라는 명을 받았다. 그리하여 루키우스 볼룸니우스와 아피우스 클라우디우스가 집정관인 이듬해에도, 동료에게서 삼니움에 남겨진 집정관 푸블리우스 데키우스는 전직 집정관 지휘관으로 계속 들판을 황폐하게 만들었다. 어디에서도 싸움에 나서지 않던 삼니움군을 마침내 국경 밖으로 몰아냈다. 삼니움군은 에트루리아로 쫓겨갔다. 사절단으로 여러 차례 시도하고도 이루지 못했던 일을, 그토록 많은 무장 병력과 간청에 공포를 섞으면 더 효과적으로 해낼 수 있다고 여겨 에트루리아의 지도자 회의를 소집하라고 요구했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 297–296년경",
+        "yearStartBce": 297,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-16-004-006",
@@ -1307,7 +1923,18 @@
       "korean": "회의가 열리자 삼니움인들은 로마인들과 자유를 위해 몇 년 동안 싸워왔는지 설명했다. 자기 힘만으로 그토록 거대한 전쟁의 무게를 견딜 수 있는지 온갖 방법을 시험했고, 별 힘도 없는 이웃 부족의 원군도 이용해 보았다고 했다. 전쟁을 견딜 수 없을 때 로마 인민에게 평화를 청했으나, 노예로 누리는 평화가 자유민의 전쟁보다 더 무거웠기에 다시 전쟁을 일으켰다고 했다. 자기들에게 남은 유일한 희망은 에트루리아인들이었다. 그 민족은 무기와 인력과 돈에서 이탈리아에서 가장 부유하다는 것을 안다고 했다. 이웃에는 칼과 무기 사이에서 태어나 본래 성품도 사납고, 자기가 사로잡아 금을 받고 풀어준 일을 허황하지 않게 자랑하며 로마 인민에게 적의를 품은 갈리아인들이 있다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-16-007-008",
@@ -1327,7 +1954,18 @@
       "korean": "에트루리아인들에게 옛날 포르센나와 그 조상들이 가졌던 용기만 있다면 부족한 것은 아무것도 없었다. 로마인들을 티베리스강 이쪽의 모든 땅에서 몰아내고, 이탈리아에 대한 그들의 참을 수 없는 지배가 아니라 자기 목숨을 위해 싸우게 할 수 있었다. 삼니움군은 준비를 마치고 무기와 급료까지 갖추어 그들에게 왔다. 로마시 자체를 공격하러 이끌더라도 곧바로 따를 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-17-001-003",
@@ -1348,7 +1986,18 @@
       "korean": "삼니움인들이 에트루리아에서 이런 말을 떠벌리며 전쟁을 꾸미는 동안 로마군은 그들의 본국을 불태우고 있었다. 푸블리우스 데키우스는 삼니움군이 떠났다는 사실을 정찰병들을 통해 알아내고 작전 회의를 불러 말했다. ‘우리가 왜 들판을 돌아다니며 전쟁을 마을마다 옮기고 있소? 도시와 성벽을 공격하지 않을 까닭이 무엇이오? 이제 삼니움을 지킬 군대는 하나도 없소. 그들은 자기 경계에서 물러나 스스로 유배를 택했소.’ 모두가 찬성하자 견고한 도시 무르간티아를 공격하러 군대를 이끌었다. 병사들은 지휘관을 사랑했고 농촌 약탈보다 큰 전리품을 바랐기에 열의가 너무도 커서 단 하루 만에 무력으로 도시를 점령했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-17-004-006",
@@ -1369,7 +2018,18 @@
       "korean": "그곳에서는 맞서 싸우던 삼니움인 이천백 명을 포위하여 붙잡았고 그 밖에도 막대한 전리품을 얻었다. 데키우스는 무거운 짐으로 행군 대열을 짓누르지 않게 하려고 병사들을 불러 모았다. ‘이 한 번의 승리나 이 전리품만으로 만족할 것인가? 그대들의 용맹에 걸맞은 희망을 품고 싶은가? 그대들은 삼니움 군단들을 여러 전투에서 무너뜨리고 끝내 그 경계 밖으로 몰아냈다. 이제 삼니움의 모든 도시와 그 안에 남은 재산은 그대들의 것이다. 이것들을 팔고 이익에 끌린 상인이 대열을 따라오게 하라. 내가 곧이어 팔 물건을 더 내놓겠다. 여기서 로물레아로 가자. 더 큰 고생은 없고 더 큰 전리품이 그대들을 기다린다.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-17-007-010",
@@ -1391,7 +2051,18 @@
       "korean": "전리품을 모두 판 병사들은 오히려 지휘관을 재촉하며 로물레아로 향했다. 그곳에서도 공사나 공성 기계가 필요 없었다. 군기들이 다가오자마자 성벽도 전혀 두려워하지 않고 저마다 가장 가까운 곳에 서둘러 사다리를 걸쳐 성 위로 올라갔다. 도시를 점령하고 약탈했다. 약 이천삼백 명을 죽이고 육천 명을 붙잡았다. 병사들은 막대한 전리품을 얻었지만 앞서와 마찬가지로 팔아야 했다. 조금도 쉬지 못했지만 그곳에서 최고의 열의를 품고 페렌티눔으로 이끌려갔다. 그곳에서는 수고와 위험이 더 컸다. 성벽은 온 힘을 다해 지켜졌고 지형과 방어 시설도 안전했다. 그러나 전리품에 익숙해진 병사들은 모든 것을 이겨냈다. 성벽 둘레에서 적 약 삼천 명이 살육당했고 전리품은 병사들의 것이 되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-17-011-012",
@@ -1411,7 +2082,18 @@
       "korean": "몇몇 연대기에서는 이 도시들을 공격한 영예의 더 큰 몫을 막시무스에게 돌린다. 무르간티아는 데키우스가, 페렌티눔과 로물레아는 파비우스가 공격했다고 전한다. 이 영광을 새 집정관들에게 돌리는 이들도 있고, 두 사람이 아니라 삼니움을 담당한 루키우스 볼룸니우스 한 사람에게만 돌리는 이들도 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-18-001-003",
@@ -1432,7 +2114,18 @@
       "korean": "이 일이 누구의 지휘와 길조 아래서든 삼니움에서 벌어지는 동안, 에트루리아에서는 여러 민족이 로마를 상대로 거대한 전쟁을 일으켰다. 주동자는 삼니움인 겔리우스 에그나티우스였다. 거의 모든 에트루리아인이 전쟁을 결의했고 그 불길은 이웃 움브리아 부족들로 번졌다. 돈으로 갈리아인의 원군도 끌어들이고 있었다. 그 모든 무리가 삼니움 진영으로 모였다. 이 갑작스러운 소동이 로마에 전해졌을 때 집정관 루키우스 볼룸니우스는 이미 제2군단과 제3군단, 동맹병 만오천 명을 거느리고 삼니움으로 떠난 뒤였다. 아피우스 클라우디우스가 가능한 한 빨리 에트루리아로 가야 한다고 결정했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-18-004-007",
@@ -1454,7 +2147,18 @@
       "korean": "로마의 두 군단인 제1군단과 제4군단, 동맹병 만이천 명이 그를 따라가 적에게서 멀지 않은 곳에 진영을 세웠다. 그러나 일찍 도착했기 때문에 에트루리아의 무기를 바라보던 몇몇 부족을 로마라는 이름의 공포로 억누른 것이 성과라면 성과였을 뿐, 집정관의 지휘 아래 충분히 능숙하거나 성공적으로 처리된 일은 없었다. 불리한 지형과 시기에 여러 전투를 벌여 날마다 적에게 더 큰 희망을 안겨주었다. 이제 지휘관은 병사들을, 병사들은 지휘관을 충분히 믿지 못하는 지경에 가까웠다. 세 연대기에는 삼니움의 동료를 불러들이는 편지를 보냈다고 기록되어 있다. 하지만 로마 인민의 집정관직을 이미 두 번째로 함께 수행하던 두 사람 자신이 이를 두고 다투었고, 아피우스는 편지를 보내지 않았다고 부정하고 볼룸니우스는 그의 편지를 받고 왔다고 단언했으므로 사실로 확정하기가 꺼려진다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-18-008-010",
@@ -1475,7 +2179,18 @@
       "korean": "볼룸니우스는 이미 삼니움의 성채 세 곳을 점령하여 적 약 삼천 명을 죽이고 그 절반쯤을 붙잡았다. 가난한 평민 지도자들이 일으킨 루카니아의 내란도 귀족들의 열렬한 지지를 받아 진압했다. 오래 복무한 군대와 함께 그곳에 파견된 전직 집정관 퀸투스 파비우스가 일을 맡았다. 볼룸니우스는 데키우스에게 적의 영토를 황폐하게 만드는 일을 남기고 자기 병력과 함께 에트루리아의 동료에게 향했다. 모두가 그의 도착을 기쁘게 맞았다. 아피우스는 자기 양심에 따라 마음을 품었으리라고 나는 생각한다. 편지를 쓰지 않았다면 분노할 만했겠지만, 도움이 필요하면서도 숨긴 것이라면 고결하지도 감사할 줄도 모르는 마음이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-18-011-013",
@@ -1496,7 +2211,18 @@
       "korean": "아피우스는 마중 나가 서로 인사를 나누자마자 말했다. ‘루키우스 볼룸니우스여, 모든 일이 무사한가? 삼니움의 형세는 어떠한가? 무슨 까닭으로 그대 담당 지역을 떠났는가?’ 볼룸니우스는 삼니움의 일이 순조로우며 아피우스의 편지를 받고 왔다고 했다. 편지가 거짓이라거나 에트루리아에서 자기가 필요하지 않다면 곧바로 군기들을 돌려 떠나겠다고 했다. 아피우스가 말했다. ‘그렇다면 떠나시오. 아무도 그대를 붙들지 않소. 자기 전쟁을 감당하기도 벅찰지 모르는 사람이 남을 도우러 왔다고 이곳에서 자랑하는 것은 전혀 이치에 맞지 않으니 말이오.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-18-014",
@@ -1515,7 +2241,18 @@
       "korean": "볼룸니우스는 일이 잘되기를 빈다고 했다. 에트루리아가 집정관 군대 하나로 부족할 만한 일을 당했다기보다 자기 수고가 헛되이 쓰인 편을 더 바라겠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-001-003",
@@ -1536,7 +2273,18 @@
       "korean": "집정관들이 막 헤어지려 하자 아피우스의 군대에 속한 부장들과 군사 호민관들이 둘레를 에워쌌다. 일부는 자기 지휘관에게, 먼저 불러들여야 했던 동료의 도움을 스스로 찾아왔는데 걷어차지 말라고 빌었다. 더 많은 사람은 떠나려는 볼룸니우스를 막아섰다. 그릇된 동료와 다투다가 국가를 배반하지 말라고 간청했다. 어떤 참패가 일어나면 버림받은 자보다 버리고 간 자가 더 큰 죄를 입을 것이라고 했다. 사태가 이미 에트루리아에서 일을 잘하거나 잘못한 모든 영예와 치욕을 루키우스 볼룸니우스에게 맡기는 지경에 이르렀다. 누구도 아피우스가 무슨 말을 했는지 묻지 않고 군대의 운명이 어떠했는지만 물을 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-004-008",
@@ -1559,7 +2307,18 @@
       "korean": "아피우스가 그를 돌려보낼지라도 국가와 군대가 붙들고 있으니 병사들의 뜻만 시험해 보라고 했다. 사람들은 이처럼 권하고 간청하여 발걸음을 버티던 집정관들을 거의 억지로 민중 집회로 끌고 갔다. 그곳에서는 소수 앞에서 짧게 주고받았던 것과 거의 같은 주장을 더 긴 연설로 펼쳤다. 볼룸니우스의 명분이 더 나았고, 동료의 뛰어난 웅변을 상대로도 말재주가 부족해 보이지 않았다. 아피우스는 조롱하며 벙어리처럼 말도 못 하던 집정관을 웅변가로 만들어준 공을 자기에게 돌려야 한다고 했다. 앞선 집정관직, 특히 첫 몇 달에는 입도 열지 못했는데 이제는 대중 연설까지 줄줄이 엮는다고 했다. 볼룸니우스가 대답했다. ‘내가 그대에게서 세련되게 말하는 법을 배운 것보다, 그대가 나에게서 힘차게 행동하는 법을 배웠더라면 훨씬 좋았을 것이오.’ 마지막으로 연설가가 아니라 누가 더 나은 지휘관인지를 판정할 조건을 내놓았다. 국가가 필요로 하는 것은 연설가가 아니기 때문이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-009-012",
@@ -1581,7 +2340,18 @@
       "korean": "담당 지역은 에트루리아와 삼니움이니 아피우스가 원하는 쪽을 고르라고 했다. 자신은 자기 군대로 에트루리아에서든 삼니움에서든 일을 해내겠다고 했다. 그러자 병사들이 두 사람 모두 함께 에트루리아 전쟁을 맡으라고 외쳤다. 모두의 뜻을 알아차린 볼룸니우스가 말했다. ‘동료의 뜻을 해석하는 데에는 내가 잘못했으나 여러분의 뜻까지 불분명하게 두는 잘못은 하지 않겠다. 내가 남기를 바라는지 떠나기를 바라는지 함성으로 알려라.’ 그때 터진 함성이 적을 진영에서 불러낼 정도였다. 적은 무기를 움켜쥐고 전장으로 내려왔다. 볼룸니우스도 전투 신호를 울리고 군기들을 진영 밖으로 옮기라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-013-015",
@@ -1602,7 +2372,18 @@
       "korean": "아피우스는 자기가 싸우든 가만히 있든 동료가 승리하게 될 것을 보고 망설였다고 한다. 그러나 자기 군단들까지 볼룸니우스를 따라갈까 두려워졌고, 자기 병사들이 요구하자 그 역시 신호를 내렸다. 어느 쪽도 제대로 전열을 갖추지 못했다. 삼니움 지휘관 겔리우스 에그나티우스는 소수 부대를 데리고 사료를 구하러 갔고, 병사들은 누구의 지휘나 명령보다 자기 충동에 따라 싸움에 뛰어들었다. 로마의 두 군대도 함께 이끌려 나오지 않았고 전열을 갖출 시간도 부족했다. 볼룸니우스가 아피우스가 적에게 닿기 전에 먼저 충돌했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-016-018",
@@ -1623,7 +2404,18 @@
       "korean": "그리하여 서로 맞선 전선이 어긋난 채 부딪쳤다. 늘 싸우던 상대를 운명이 바꾸어놓은 듯 에트루리아인들은 볼룸니우스를, 삼니움인들은 지휘관이 없어 잠시 망설이다 아피우스를 맞았다. 아피우스는 싸움의 승패가 한창 위태로울 때 맨 앞의 군기들 사이에서 두 손을 하늘로 들고 이렇게 기도했다고 한다. ‘벨로나여, 오늘 우리에게 승리를 주신다면 내가 그대에게 신전을 서원하겠습니다.’ 이 기도를 마치자 여신이 몰아붙인 듯 그 자신은 동료의 용맹과, 군대는 지휘관의 용맹과 맞먹었다. 지휘관들은 지휘관의 임무를 다했고 병사들도 다른 쪽에서 승리가 먼저 시작되지 않게 하려고 힘을 다했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-19-019-022",
@@ -1645,7 +2437,18 @@
       "korean": "로마군은 평소 손을 맞대던 병력보다 훨씬 거대한 군세를 좀처럼 견디지 못한 적을 무너뜨리고 달아나게 했다. 물러나는 이들을 몰아붙이고 흩어져 달아나는 이들을 추격하여 진영으로 몰았다. 그곳에서 겔리우스와 사벨리족 부대들이 끼어들어 싸움이 잠시 다시 격렬해졌다. 그들마저 곧 무너지자 승자들은 진영을 공격했다. 볼룸니우스 자신이 성문으로 군기들을 들이밀고 아피우스가 승리의 벨로나를 거듭 찬미하며 병사들의 마음에 불을 붙였다. 로마군은 방벽과 도랑을 넘어 쳐들어갔다. 진영을 점령하고 약탈하여 막대한 전리품을 얻었고 병사들에게 내주었다. 적 칠천팔백 명이 죽고 이천백이십 명이 붙잡혔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-20-001-005",
@@ -1668,7 +2471,18 @@
       "korean": "두 집정관과 로마의 모든 전력이 에트루리아 전쟁에 더 기우는 동안 삼니움에서는 새 군대들이 일어났다. 베스키니인의 땅을 지나 캄파니아와 팔레르누스 영토로 넘어가 로마 지배하의 경계를 황폐하게 만들고 막대한 전리품을 얻었다. 볼룸니우스가 삼니움으로 급히 돌아가던 중—파비우스와 데키우스의 연장 명령권도 이미 끝날 때가 다가왔다—삼니움군과 캄파니아 영토 약탈에 관한 소문이 그를 돌려 동맹을 지키게 했다. 칼레스의 영토에 이르자 참화의 새로운 흔적을 직접 보았고, 칼레스인들은 적이 끌고 가는 전리품이 너무 많아 행군 대열조차 제대로 펼 수 없다고 전했다. 그래서 적 지휘관들도 이제 삼니움으로 바로 가야 하며, 그곳에 전리품을 내려놓고 짐을 가볍게 한 뒤에야 다시 출정하자고 공개적으로 말한다는 것이었다. 그 말은 사실과 비슷했으나 볼룸니우스는 더 확실히 알아보려고 기병을 보내 들판에 흩어진 약탈자들을 붙잡게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-20-006-008",
@@ -1689,7 +2503,18 @@
       "korean": "그들을 심문하여 적이 불투르누스강 가에 머물며 제3야경에 출발하여 삼니움으로 갈 것임을 알아냈다. 사실을 충분히 확인한 뒤 출발해, 너무 가까워 자기 도착이 알려지지는 않으면서 진영에서 나오는 적을 덮칠 수 있는 거리에 자리 잡았다. 동트기 한참 전에 적진 가까이 다가가 오스키어를 아는 이들을 보내 무슨 일이 벌어지는지 정찰하게 했다. 밤의 혼란이라 쉽게 적 사이에 섞여든 이들은 군기 곁에 무장 병력이 적은 채 진영에서 나오고 있으며, 전리품과 그 감시자들이 따라 나오느라 대열이 움직이지 못한다고 알아냈다. 모두가 자기 짐과 씨름할 뿐 서로 맞추는 일도 확실한 명령도 없었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-20-009-012",
@@ -1711,7 +2536,18 @@
       "korean": "공격하기에 가장 알맞은 때였고 이미 날이 밝아오고 있었다. 집정관은 전투 신호를 울리고 적의 행군 대열을 공격했다. 삼니움인들은 전리품에 발이 묶였고 무장 병력도 드물었다. 일부는 걸음을 재촉하며 전리품을 앞에 몰았고, 일부는 전진하는 것과 진영으로 돌아가는 것 중 어느 쪽이 더 안전할지 몰라 멈춰 섰다. 망설이는 사이 공격을 받았다. 로마인들은 이미 방벽을 넘어 진영 안에서 살육과 소동을 일으켰다. 삼니움의 행군 대열은 적의 공격뿐 아니라 포로들이 갑자기 돌아선 일로도 혼란에 빠졌다. 일부 포로는 스스로 결박을 풀고 묶인 이들을 풀어주었으며, 일부는 짐 속에 묶어둔 무기를 낚아챘다. 행군 대열에 뒤섞여 전투 자체보다도 더 두려운 소동을 일으켰다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-20-013-016",
@@ -1733,7 +2569,18 @@
       "korean": "뒤이어 포로들은 기억할 만한 일을 해냈다. 병사들 사이를 다니며 격려하던 지휘관 스타티우스 미나키우스를 공격했다. 함께 있던 기병들을 흩어놓고 말에 탄 그를 에워싸 붙잡아 로마 집정관에게 끌고 갔다. 이 소동 때문에 삼니움의 선두 군기들이 되돌아오면서 거의 끝났던 싸움이 다시 시작되었지만 오래 버틸 수 없었다. 약 육천 명이 죽고 이천오백 명이 붙잡혔다. 그중에는 군사 호민관 네 명이 있었고 군기 서른 개를 빼앗았다. 승자들에게 무엇보다 기쁜 일로 포로 칠천사백 명을 되찾고 동맹의 막대한 전리품도 회수했다. 포고를 내려 주인들이 정한 날에 와서 자기 물건을 알아보고 되찾게 했다. 주인이 나타나지 않은 물건은 병사들에게 주었지만 마음을 무기 말고 다른 데 두지 않도록 전리품을 팔게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-21-001-004",
@@ -1755,7 +2602,18 @@
       "korean": "캄파니아 영토의 대규모 약탈은 로마에 큰 소동을 일으켰다. 마침 그 무렵 에트루리아에서도 볼룸니우스의 군대가 철수한 뒤 에트루리아가 무기를 들고 일어났다는 보고가 왔다. 삼니움 지휘관 겔리우스 에그나티우스가 움브리아인들에게 이반을 호소하고 막대한 돈으로 갈리아인들을 유인한다는 것이었다. 이 소식에 겁먹은 원로원은 공무 중단을 선포하고 모든 부류의 사람을 징집하라고 명했다. 자유민 태생과 젊은이만 군 복무 선서를 한 것이 아니라 노인 부대까지 만들고 해방노예들도 백인대 단위로 편성했다. 도시를 방어할 방책을 논의했고 법무관 푸블리우스 셈프로니우스가 국가 전체의 지휘를 맡았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-21-005-008",
@@ -1777,7 +2635,18 @@
       "korean": "그러나 집정관 루키우스 볼룸니우스의 편지가 원로원의 걱정을 일부 덜어주었다. 캄파니아 약탈자들을 죽이고 무너뜨렸다는 소식이었다. 집정관의 이름으로 성공을 감사하는 제의를 결의하고 십팔 일 동안 이어졌던 공무 중단을 풀었다. 감사 제의는 큰 기쁨 속에 이루어졌다. 이어 삼니움인들에게 황폐해진 지역을 지킬 방책을 논의했다. 베스키니인과 팔레르누스 영토 둘레에 식민시 두 곳을 세우기로 했다. 하나는 리리스강 어귀에 세워 민투르나이라고 불렀다. 다른 하나는 팔레르누스 영토와 맞닿은 베스키누스 산길에 세웠다. 그곳에는 시노페라는 그리스 도시가 있었다고 하며 로마 식민자들이 뒤에 시누에사라고 불렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-21-009-012",
@@ -1799,7 +2668,18 @@
       "korean": "평민 호민관들에게 임무를 주어 법무관 푸블리우스 셈프로니우스가 그 지역들에 식민시를 세울 삼인 위원들을 선출하도록 평민 결의로 명하게 했다. 그러나 이름을 등록할 사람을 쉽게 찾지 못했다. 땅을 받으러 가는 것이 아니라 적대적인 지역의 거의 영구적인 초소로 보내진다고 여겼기 때문이다. 에트루리아 전쟁이 심각해지고 아피우스가 그 지역의 동요를 가볍게 보지 말라고 거듭 편지를 보내자 원로원은 이 걱정들에서 돌아섰다. 에트루리아인·삼니움인·움브리아인·갈리아인이라는 네 민족이 무기를 모았고, 한곳에 그토록 많은 사람을 담을 수 없어 이미 진영을 둘로 나누었다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-21-013-015",
@@ -1820,7 +2700,18 @@
       "korean": "이 때문에, 그리고 선거 시기가 이미 다가왔기 때문에 집정관 루키우스 볼룸니우스가 로마로 소환되었다. 그는 백인대들을 불러 투표시키기 전에 민중 집회를 열어 에트루리아 전쟁의 규모에 관해 길게 말했다. 자신이 동료와 그곳에서 함께 일을 처리했을 때에도 지휘관 하나와 군대 하나로 치를 수 없을 만큼 큰 전쟁이었다. 뒤에는 움브리아인과 거대한 갈리아군까지 더해졌다고 한다. 오늘 네 민족을 상대로 싸울 집정관 지휘관들을 고른다는 점을 기억하라고 했다. 당시 모두의 첫째가는 지휘관으로 의심 없이 여겨지던 사람을 로마 인민이 한마음으로 집정관에 뽑으리라고 믿지 않았다면 자신은 곧바로 독재관을 지명했을 것이라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-22-001-003",
@@ -1841,7 +2732,18 @@
       "korean": "모두가 한마음으로 퀸투스 파비우스를 정해놓았다는 데에는 누구도 의심하지 않았다. 선거를 먼저 치른 백인대와 그 뒤 처음 불려온 모든 백인대가 그를 루키우스 볼룸니우스와 함께 집정관으로 지명했다. 파비우스의 연설은 이 년 전과 같았다. 뒤에는 모두의 합의에 굴복하면서 마지막으로 동료에 푸블리우스 데키우스를 요구했다. 노년인 자신에게 버팀목이 될 사람이라고 했다. 감찰관직과 두 차례 집정관직을 함께 맡아보아, 화합하는 동료 관계보다 국가를 지키는 데 강한 것은 없음을 경험했다고 했다. 늙은 마음은 새로운 명령권 동료에게 이제 좀처럼 익숙해질 수 없고, 성품을 아는 사람과라야 방책을 쉽게 나눌 수 있다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-22-004-007",
@@ -1863,7 +2765,18 @@
       "korean": "볼룸니우스 집정관도 푸블리우스 데키우스를 마땅히 칭찬하며 파비우스의 연설을 지지했다. 군사를 지휘할 때 집정관들의 화합에서 어떤 이익이, 불화에서 어떤 해악이 일어나는지를 말하고, 최근 자기와 동료의 다툼으로 얼마나 최후의 위험에 가까이 갔는지도 일깨웠다. 데키우스와 파비우스는 한마음 한뜻으로 살아간다고 했다. 두 사람은 군 복무를 위해 태어나 업적으로 위대해졌지만 말과 혀의 싸움에는 서투른 사람들이며, 그런 재능이 집정관에게 어울린다고 했다. 아피우스 클라우디우스처럼 영리하고 빈틈없으며 법과 웅변에 밝은 자는 도시와 포룸을 지킬 법무관으로 삼아 재판을 맡게 해야 한다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-22-008-009",
@@ -1883,7 +2796,18 @@
       "korean": "이 일을 처리하느라 하루를 다 보냈다. 이튿날 집정관의 지시대로 집정관 선거와 법무관 선거를 치렀다. 자리에 없던 퀸투스 파비우스와 푸블리우스 데키우스가 집정관으로, 아피우스 클라우디우스가 법무관으로 선출되었다. 원로원 결의와 평민 결의에 따라 루키우스 볼룸니우스의 명령권도 일 년 동안 연장되었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-23-001-005",
@@ -1911,7 +2835,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-23-006-009",
@@ -1933,7 +2868,18 @@
       "korean": "그는 훌륭한 행동에 장엄한 말을 덧붙였다. 자기가 살던 롱구스 거리에서 집의 끝부분을 작은 성소를 만들 만큼 떼어내 제단을 세웠다. 평민 부인들을 불러 귀족 부인들의 불의를 호소하고 말했다. ‘나는 이 제단을 평민 푸디키티아에게 바칩니다. 이 도시에서 남자들이 덕을 놓고 경쟁하듯 부인들은 정숙함을 놓고 경쟁하기를 권합니다. 할 수만 있다면 이 제단이 저 제단보다 더 신성하고 더 정숙한 이들이 섬긴다는 말을 듣도록 힘쓰십시오.’ 이 제단도 더 오래된 제단과 거의 같은 의식으로 섬겼다. 정숙함을 인정받았고 한 남자와만 결혼한 부인에게만 제사를 지낼 권리가 있었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-23-010-012",
@@ -1954,7 +2900,18 @@
       "korean": "뒤에는 더럽혀진 여자들이 의식을 널리 퍼뜨렸고, 부인들뿐 아니라 모든 계층의 여자들이 참여하면서 마침내 잊혀졌다. 같은 해 귀족 조영관 그나이우스와 퀸투스 오굴니우스는 몇몇 고리대금업자를 기소했다. 그들의 재산을 벌금으로 거두어 국고에 넣은 돈으로 카피톨리움에는 청동 문지방을 놓았고, 유피테르의 내실에는 제단 세 개에 쓸 은그릇을 두었으며, 지붕 꼭대기에는 사두마차와 함께 있는 유피테르상을 세웠다. 루미날리스 무화과나무에는 암늑대의 젖 아래 있는 도시 창건자들의 아기 상을 두었고, 카페나 성문에서 마르스 신전까지 난 길을 네모난 돌로 포장했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-23-013",
@@ -1973,7 +2930,18 @@
       "korean": "평민 조영관 루키우스 아일리우스 파이투스와 가이우스 풀비우스 쿠르부스도 가축 소유자들을 유죄로 판결해 거둔 벌금으로 경기 대회를 열고 케레스 신전에 황금 제기들을 놓았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 296년경",
+        "yearStartBce": 296,
+        "yearEndBce": 296,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-24-001-005",
@@ -1996,7 +2964,18 @@
       "korean": "이어 퀸투스 파비우스는 다섯 번째, 푸블리우스 데키우스는 네 번째 집정관직에 취임했다. 두 사람은 집정관직을 세 번, 감찰관직을 한 번 함께 맡았고, 거대한 업적의 영광 못지않게 서로의 화합으로도 이름났다. 그 화합이 영원하지 못했던 까닭은 두 사람보다 두 계층 사이의 다툼이 끼어들었기 때문이라고 나는 생각한다. 귀족들은 파비우스가 추첨 없이 에트루리아를 담당해야 한다고 밀어붙였고, 평민들은 데키우스를 앞세워 추첨에 맡기라고 했다. 원로원에서 논쟁이 벌어진 것은 확실하다. 그곳에서 파비우스의 힘이 더 컸기에 문제는 민중에게 넘어갔다. 군인으로서 말보다 행동을 믿는 이들답게 민중 집회에서는 짧게 말했다. 파비우스는 자기가 심은 나무 아래서 다른 이가 열매를 거두는 것은 부당하다고 했다. 자신이 키미니우스 숲을 열고 길 없는 산길을 뚫어 로마의 전쟁에 길을 만들었다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-24-006-009",
@@ -2018,7 +2997,18 @@
       "korean": "다른 지휘관 아래 전쟁을 치를 생각이었다면 왜 이 나이의 자기를 다시 불렀느냐고 했다. 그들이 명령권의 동료가 아니라 경쟁자로 자기를 뽑았고, 데키우스가 화합한 세 차례의 동료 관계를 시기한다고 은근히 나무랐다. 마지막으로 시민들이 자기를 그 담당 지역에 합당하다고 여긴다면 보내달라는 것 이상은 요구하지 않는다고 했다. 원로원의 판단에 맡겼고 민중의 권한에도 따르겠다고 했다. 푸블리우스 데키우스는 원로원의 불의를 호소했다. 귀족들은 할 수 있는 동안 평민이 높은 관직으로 가는 길을 막았고, 타고난 덕이 마침내 승리하여 어느 부류의 사람에게서도 영예를 받지 못하는 일이 없어진 뒤에는 민중의 표결뿐 아니라 운명의 판단까지 무효로 만들어 소수의 권력에 넘길 방법을 찾는다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-24-010-013",
@@ -2040,7 +3030,18 @@
       "korean": "자기 이전의 모든 집정관은 담당 지역을 추첨했다고 했다. 이제 원로원이 파비우스에게 추첨 없이 담당 지역을 주려 한다. 그것이 그를 기리는 일이라면 파비우스가 자기와 국가에 세운 공이 크므로 그 영광이 자기 모욕으로 빛나지만 않는다면 기꺼이 지지하겠다고 했다. 그러나 거칠고 어려운 전쟁이 하나뿐일 때 그것을 한 사람에게 추첨도 없이 맡긴다면 다른 집정관을 불필요하고 쓸모없는 자로 여긴다는 데 누가 의심하겠는가? 파비우스는 에트루리아에서 이룬 일을 자랑하지만 푸블리우스 데키우스도 자랑하고 싶다고 했다. 파비우스가 덮어둔 불이 그토록 자주 뜻밖의 새 화재를 일으키니, 어쩌면 자기가 그 불을 끌 수도 있다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-24-014-018",
@@ -2063,7 +3064,18 @@
       "korean": "마지막으로 데키우스는 동료의 나이와 위엄을 존중하여 영예와 보상은 양보하겠다고 했다. 하지만 위험과 싸움이 놓인 곳에서는 스스로 물러나지도, 밀려나지도 않겠다고 했다. 이 다툼에서 다른 아무것도 얻지 못하더라도 민중의 것인 권한은 귀족들이 호의로 내주는 것이 아니라 민중이 직접 명령하게 만들겠다고 했다. 최고선의 유피테르와 불멸의 신들에게, 전쟁을 지휘할 때 똑같은 용맹과 행운을 주실 것이라면 자기와 동료에게 대등한 추첨 결과를 내려달라고 기도했다. 두 집정관 가운데 누구를 지휘관으로 삼아도 에트루리아 전쟁을 올바르게 치를 수 있어야 한다는 것이 본성상 공정하고 선례로도 유익하며 로마 인민의 명예에도 관계된다고 했다. 파비우스는 투표하러 부족들을 부르기 전에 에트루리아에서 온 법무관 아피우스 클라우디우스의 편지를 읽어달라는 것만 로마 인민에게 청하고 민회장을 떠났다. 원로원에서와 다르지 않게 민중도 한마음으로 에트루리아를 추첨 없이 파비우스에게 맡겼다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-25-001-004",
@@ -2085,7 +3097,18 @@
       "korean": "그 뒤 거의 모든 젊은이가 집정관에게 몰려들어 저마다 이름을 등록했다. 그 지휘관 아래서 군 복무를 하려는 열망이 그만큼 컸다. 무리에 둘러싸인 파비우스가 말했다. ‘보병 사천 명과 기병 육백 명만 징집할 생각이다. 오늘과 내일 이름을 등록한 사람을 나와 함께 데려가겠다. 많은 병사로 일을 이루는 것보다 여러분 모두를 부유하게 만들어 데려오는 데 더 마음을 쓰겠다.’ 그는 적절한 규모의 군대와 함께 출발했다. 바라던 병력보다 적지 않다는 사실 때문에 더욱 큰 자신감과 희망을 품은 군대였다. 적이 있는 곳에서 멀지 않은 아하르나로 가서 법무관 아피우스의 진영으로 향했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-25-005-008",
@@ -2107,7 +3130,18 @@
       "korean": "진영에서 몇천 보 떨어진 곳에서 호위 병력을 거느린 벌목대가 그를 만났다. 앞서 가는 릭토르들을 보고 파비우스 집정관임을 알아차리자, 그들은 기쁨과 열의에 차서 신들과 로마 인민에게 그를 자기들의 지휘관으로 보내준 데 감사했다. 이어 둘레에 모여 집정관에게 인사하자 파비우스가 어디로 가느냐고 물었다. 나무를 베러 간다는 대답을 듣고 말했다. ‘정말인가? 그대들의 진영에는 방벽이 없단 말인가?’ 방벽이 이중이고 도랑까지 있는데도 엄청난 두려움에 빠져 있다는 외침이 돌아왔다. 그가 말했다. ‘그렇다면 나무는 넉넉히 있다. 돌아가 방벽 말뚝을 뽑아라.’ 그들은 진영으로 돌아가 방벽을 뽑았다. 이 광경은 진영에 남은 병사들과 아피우스 자신을 두렵게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-25-009-012",
@@ -2129,7 +3163,18 @@
       "korean": "그때 저마다 다른 이들에게 집정관 퀸투스 파비우스의 명령으로 하는 일이라고 말했다. 이튿날 진영을 옮기고 법무관 아피우스를 로마로 돌려보냈다. 그 뒤 로마군은 어디에서도 고정 진영을 두지 않았다. 파비우스는 군대가 한곳에 머무는 것은 이롭지 않으며 행군하고 자리를 바꾸어야 더 기동력 있고 건강해진다고 했다. 아직 겨울이 끝나지 않아 날씨가 허용하는 만큼씩 행군했다. 봄이 시작되자 옛날에는 카마르스라고 불렀던 클루시움에 제2군단을 남겨두고, 전직 법무관 지휘관 루키우스 스키피오에게 진영을 맡겼다. 자신은 전쟁을 의논하려고 로마로 돌아갔다. 소문으로 들은 것보다 더 큰 전쟁이 눈앞에 있음을 보고 스스로 돌아갔다는 저자도 있고, 원로원 결의로 소환되었다는 저자도 있다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-25-013-015",
@@ -2150,7 +3195,18 @@
       "korean": "어떤 이들은 법무관 아피우스 클라우디우스가 그를 로마로 다시 불러들였다고 본다. 아피우스는 편지에서 계속 그랬듯 원로원과 민중 앞에서도 에트루리아 전쟁의 공포를 키웠다. 네 민족을 상대로 지휘관 하나와 군대 하나로는 부족하며, 그들이 합쳐 한 군대를 압박하든 갈라져 전쟁을 치르든 한 사람이 모든 곳에 동시에 나아갈 수 없을 위험이 있다고 했다. 자기는 로마 군단 두 개를 그곳에 남겼고 파비우스와 함께 온 보병과 기병은 오천 명도 되지 않는다고 했다. 집정관 푸블리우스 데키우스가 가능한 한 빨리 에트루리아의 동료에게 떠나고 루키우스 볼룸니우스에게 삼니움을 맡기는 것이 옳다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-25-016-018",
@@ -2171,7 +3227,18 @@
       "korean": "집정관이 자기 담당 지역으로 가기를 더 원한다면, 볼룸니우스가 완편 집정관 군대를 이끌고 에트루리아의 집정관에게 가야 한다고 했다. 법무관의 연설이 많은 사람을 움직였으나 푸블리우스 데키우스는 모든 일을 온전하고 자유로운 상태로 퀸투스 파비우스의 판단에 맡겨두자고 말했다고 한다. 국가의 이익에 지장이 없다면 파비우스 자신이 로마에 올 때까지, 아니면 부장 한 명을 보내 원로원이 에트루리아 전쟁의 규모와 필요한 병력, 필요한 지휘관 수를 알 수 있을 때까지 기다리자는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-26-001-004",
@@ -2193,7 +3260,18 @@
       "korean": "파비우스는 로마로 돌아와 원로원과 민중 앞에 나가, 전쟁에 대한 소문을 키우지도 줄이지도 않는 중간 정도의 연설을 했다. 다른 지휘관을 더 맡는 것은 자기나 국가가 위험하다고 판단해서가 아니라 다른 이들의 두려움에 양보하는 일이라고 했다. 그래도 전쟁을 도울 사람과 명령권의 동료를 준다면 여러 차례 동료직을 함께하며 경험한 집정관 푸블리우스 데키우스를 어떻게 잊을 수 있겠느냐고 했다. 모든 사람 가운데 그와 힘을 합치는 것을 가장 원했다. 푸블리우스 데키우스와 함께라면 자기 병력은 충분하고 적은 아무리 많아도 지나치지 않을 것이라고 했다. 동료가 다른 것을 원한다면 루키우스 볼룸니우스를 돕는 이로 달라고 했다. 민중과 원로원과 동료 자신 모두가 모든 판단을 파비우스에게 맡겼다. 푸블리우스 데키우스가 삼니움으로든 에트루리아로든 갈 준비가 되어 있다고 밝히자 큰 기쁨과 축하가 일었다. 사람들은 마음속으로 승리를 미리 누렸고, 집정관들에게 전쟁이 아니라 개선식이 결정된 듯했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-26-005-008",
@@ -2215,7 +3293,18 @@
       "korean": "몇몇 저자에게서는 파비우스와 데키우스가 집정관직에 취임하자마자 담당 지역의 추첨이나 내가 설명한 동료 사이의 다툼을 전혀 거치지 않고 에트루리아로 떠났다고 한다. 이런 다툼을 전하는 데 만족하지 않고, 파비우스가 없는 동안 아피우스가 민중 앞에서 그를 비난하고 집정관이 돌아온 뒤에도 끈질기게 맞섰다는 이야기까지 더하는 이들도 있다. 데키우스가 각자 추첨으로 얻은 담당 지역을 지켜야 한다고 고집하여 동료들 사이에 또 다른 다툼이 있었다고도 한다. 두 집정관이 전쟁으로 떠난 때부터는 사건이 분명해지기 시작한다. 집정관들이 에트루리아에 닿기 전에 세노네스 갈리아인들의 엄청난 무리가 클루시움으로 와 로마 군단과 진영을 공격하려 했다. 진영을 맡은 스키피오는 지형으로 적은 병력을 도와야 한다고 여겨 도시와 진영 사이의 언덕에 전열을 올렸다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-26-009-012",
@@ -2237,7 +3326,18 @@
       "korean": "그러나 갑작스러운 상황이라 길을 충분히 정찰하지 못한 채 능선으로 나아갔고, 다른 쪽에서 접근한 적이 이미 그곳을 차지하고 있었다. 군단은 배후에서 살육당했고 사방에서 적에게 압박받아 한가운데 포위되었다. 어떤 저자들은 그곳에서 군단이 전멸하여 소식을 전할 사람도 하나 남지 않았다고 한다. 이미 클루시움에서 멀지 않은 집정관들에게도 참패 소식은 전해지지 않았고, 갈리아 기병들이 말의 가슴에 사람 머리를 매달고 창끝에도 꽂은 채 자기들 풍습의 노래를 부르며 승리를 기뻐하는 모습이 눈앞에 나타나고서야 알았다는 것이다. 적이 갈리아인이 아니라 움브리아인이었고 참패도 그만큼 크지 않았다는 전승도 있다. 사료를 모으던 병사들이 포위되자 전직 법무관 지휘관 스키피오가 부장 루키우스 만리우스 토르콰투스와 함께 진영에서 원군을 이끌어, 승리한 움브리아인들을 다시 시작된 전투에서 무찌르고 포로와 전리품을 빼앗았다는 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-26-013-015",
@@ -2258,7 +3358,18 @@
       "korean": "그해 다른 어느 때보다 갈리아인의 소동에 대한 공포가 도시를 사로잡았던 사실을 생각하면, 그 참패는 움브리아인보다 갈리아 적에게 당했다고 보는 편이 진실에 더 가깝다. 두 집정관은 이미 네 군단과 많은 로마 기병, 이 전쟁을 위해 보낸 캄파니아 정예 기병 천 명, 로마군보다도 큰 동맹 및 라틴계 군대를 이끌고 전쟁터로 떠난 상태였다. 그뿐 아니라 에트루리아를 마주 보는 도시 근처에 다른 두 군대를 배치했다. 하나는 팔리스키인의 영토에, 다른 하나는 바티카누스 들판에 있었다. 전직 법무관 지휘관 그나이우스 풀비우스와 루키우스 포스투미우스 메겔루스가 각각 그곳에 고정 진영을 두라는 명을 받았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-27-001-004",
@@ -2285,7 +3396,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-27-005-007",
@@ -2306,7 +3428,18 @@
       "korean": "집정관들은 풀비우스에게는 팔리스키인의 영토에서, 포스투미우스에게는 바티카누스 들판에서 군대를 클루시움으로 옮겨 온 힘으로 적의 영토를 황폐하게 만들라고 편지를 보냈다. 이 약탈 소식 때문에 에트루리아인들은 자기 경계를 지키려고 센티눔 영토에서 떠났다. 집정관들은 그들이 없는 동안 싸우려고 적을 몰아붙였다. 이틀 동안 싸움을 걸었지만 이틀 모두 말할 만한 일은 없었다. 양쪽에서 소수가 죽었고 국가의 운명을 건 결전에 이르기보다 정규 전투를 향한 마음만 더 자극되었다. 셋째 날 전 병력이 평야로 내려갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-27-008-010",
@@ -2327,7 +3460,18 @@
       "korean": "전열을 갖추고 서 있을 때 늑대에게 쫓겨 산에서 내려온 암사슴 한 마리가 두 전열 사이의 평야를 달렸다. 이어 두 짐승은 서로 다른 방향으로 꺾어 암사슴은 갈리아인들에게, 늑대는 로마인들에게 향했다. 로마 대열은 늑대가 지나갈 길을 열어주었지만 갈리아인들은 암사슴을 찔러 죽였다. 그러자 로마 선두 전열의 한 병사가 말했다. ‘도주와 살육은 디아나의 신성한 짐승이 쓰러져 있는 저쪽으로 향한다. 이쪽에서는 승리를 주는 마르스의 늑대가 상처 하나 없이 온전한 채 우리에게 마르스의 종족이며 우리 도시를 세운 이를 떠올리게 했다.’ 갈리아인들은 오른쪽 날개에, 삼니움인들은 왼쪽 날개에 섰다. 퀸투스 파비우스는 삼니움인들을 상대로 제1군단과 제3군단을 로마의 오른쪽 날개에, 데키우스는 갈리아인들을 상대로 제5군단과 제6군단을 왼쪽에 배치했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-27-011",
@@ -2346,7 +3490,18 @@
       "korean": "제2군단과 제4군단은 전직 집정관 지휘관 루키우스 볼룸니우스와 함께 삼니움에서 싸우고 있었다. 첫 충돌에서는 양쪽의 힘이 너무도 팽팽했다. 에트루리아인들과 움브리아인들이 전열에든 진영에든 함께 있었다면 그들이 어느 쪽으로 기울었든 로마는 참패를 받아들여야 했을 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-28-001-004",
@@ -2373,7 +3528,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-28-005-009",
@@ -2396,7 +3562,18 @@
       "korean": "따라서 파비우스는 적이 평소 패하는 때까지 병사들의 힘을 가능한 한 온전히 보존했다. 데키우스는 나이도 젊고 정신의 기운도 더 사나워 가진 힘을 첫 싸움에 모두 쏟았다. 보병전이 느리게 보이자 기병을 싸움에 내보냈고 자신도 가장 용감한 젊은이들의 기병대에 섞여 청년 귀족들에게 자기와 함께 적을 향해 돌격하라고 청했다. 왼쪽 날개에서, 그것도 기병에게서 승리가 시작된다면 그들의 영광은 두 겹이 될 것이라고 했다. 그들은 갈리아 기병을 두 번 물리쳤다. 두 번째에는 더 멀리까지 말을 몰아 이미 보병 대열 한가운데서 싸움을 일으켰으나, 전에 보지 못한 전투 방식에 겁을 먹었다. 무장한 적이 전투용 이륜차와 수레 위에 선 채 말발굽과 바퀴의 엄청난 소음을 내며 다가와, 그 낯선 소동으로 로마 말들을 두렵게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-28-010-013",
@@ -2418,7 +3595,18 @@
       "korean": "광기에 사로잡힌 듯한 공포가 승리하던 기병대를 흩어놓았다. 앞을 보지 못한 도주로 말과 병사들이 넘어졌고 군단의 군기들까지 혼란에 빠졌다. 대열 안으로 미친 듯 달려든 말과 수레의 충격에 선두 병사들도 많이 짓밟혔다. 갈리아 전열은 적이 두려움에 빠진 것을 보자 뒤쫓아 숨을 돌리고 전열을 회복할 틈을 전혀 주지 않았다. 데키우스는 어디로 달아나며 도주에서 무슨 희망을 찾느냐고 외쳤다. 물러나는 이들을 막고 패주한 이들을 불러 세웠다. 어떤 힘으로도 충격받은 병사들을 붙들 수 없게 되자 아버지 푸블리우스 데키우스의 이름을 부르며 말했다. ‘무엇 때문에 가문의 운명을 더 미루는가? 국가의 위험을 대신 치를 속죄물이 되는 것이 우리 가문에 주어졌다. 이제 나 자신과 함께 적의 군단들을 텔루스와 지하의 신들에게 제물로 바치겠다.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-28-014-018",
@@ -2446,7 +3634,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-29-001-004",
@@ -2468,7 +3667,18 @@
       "korean": "그 뒤의 싸움은 거의 인간의 힘으로 벌어진 듯 보이지 않았다. 지휘관을 잃으면 보통 공포에 빠지지만 로마인들은 도주를 멈추고 싸움을 처음부터 다시 시작하려 했다. 갈리아인들, 특히 집정관의 시신을 둘러싼 무리는 정신이 나간 듯 아무 소용도 없이 허공에 무기를 던졌다. 일부는 몸이 굳어 싸움도 도주도 기억하지 못했다. 반대편에서는 데키우스가 릭토르들을 맡기고 전직 법무관의 권한을 행사하라고 명한 최고 제사장 리비우스가 로마군이 이겼으며 집정관의 운명으로 빚을 모두 치렀다고 외쳤다. 갈리아인과 삼니움인은 대지의 어머니와 지하 신들의 것이 되었고, 데키우스가 자기와 함께 봉헌한 적의 전열을 붙잡아 부르고 있으며 복수의 여신과 공포가 적의 모든 곳을 채웠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-29-005-009",
@@ -2496,7 +3706,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-29-010-012",
@@ -2517,7 +3738,18 @@
       "korean": "적이 버티지 못하고 의심할 여지 없이 지쳤음을 보자 그때까지 남겨둔 모든 예비대를 모아 군단들을 몰아붙이고, 기병에게도 적을 공격하라는 신호를 보냈다. 삼니움인들은 그 돌격을 견디지 못했다. 전투 중인 동맹들을 버리고 갈리아 전열 자체를 지나 진영으로 전속력으로 달렸다. 갈리아인들은 방패 지붕을 만들고 빽빽하게 서 있었다. 동료의 죽음을 들은 파비우스는 캄파니아 기병대 약 오백 명에게 전열에서 빠져나와 우회한 뒤 갈리아 전열의 배후를 공격하라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-29-013-017",
@@ -2540,7 +3772,18 @@
       "korean": "이어 제3군단의 프린키페스가 그들을 뒤따라, 기병의 돌격으로 적 대열이 흐트러지는 곳을 몰아붙이고 겁먹은 자들을 죽이게 했다. 파비우스 자신은 승리자 유피테르에게 신전과 적의 전리품을 서원한 뒤 삼니움 진영으로 나아갔다. 공포에 질린 모든 무리가 그곳으로 몰리고 있었다. 진영 성문들이 그토록 많은 사람을 받아들이지 못하자 밖에 갇힌 자들이 자기편 무리 때문에 방벽 바로 아래에서 싸움을 시도했다. 그곳에서 삼니움 지휘관 겔리우스 에그나티우스가 쓰러졌다. 이어 삼니움인들은 방벽 안으로 몰렸고 짧은 싸움 끝에 진영이 점령되었다. 갈리아인들도 배후에서 포위되었다. 그날 적 이만오천 명이 죽고 팔천 명이 붙잡혔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-29-018-020",
@@ -2561,7 +3804,18 @@
       "korean": "승리에 로마의 피가 흐르지 않은 것은 아니었다. 푸블리우스 데키우스의 군대에서는 칠천 명, 파비우스의 군대에서는 천칠백 명이 죽었다. 파비우스는 동료의 시신을 찾을 사람들을 보낸 뒤 적의 전리품을 한 무더기로 쌓아 승리자 유피테르에게 불태워 바쳤다. 갈리아인 시신이 무더기로 덮고 있었기에 그날은 집정관의 몸을 찾지 못했다. 이튿날 발견하여 수많은 병사가 눈물 흘리는 가운데 옮겨왔다. 파비우스는 다른 모든 일을 돌보지 않고 멈춘 뒤 동료가 마땅히 받을 모든 영예와 찬사로 장례를 치렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-30-001-006",
@@ -2585,7 +3839,18 @@
       "korean": "같은 날들에 전직 법무관 지휘관 그나이우스 풀비우스도 에트루리아에서 뜻대로 일을 이루었다. 들판을 황폐하게 만들어 적에게 거대한 참화를 안겼을 뿐 아니라 뛰어난 전투도 벌여 페루시아인과 클루시움인 삼천 명 넘게 죽이고 군기 약 스무 개를 빼앗았다. 삼니움의 행군 대열은 파일리그니인의 영토를 지나 달아나다 그들에게 포위되었다. 오천 명 가운데 약 천 명이 죽었다. 센티눔 영토에서 싸운 그날의 명성은 사실대로 놓아두어도 위대하다. 그러나 어떤 이들은 과장으로 신뢰성을 덧씌웠다. 적군에 보병 삼십삼만 명과 기병 사만육천 명, 전투 수레 천 대가 있었다고 썼고, 전투에 참여했다는 움브리아인과 에트루리아인까지 그 안에 넣었다. 로마군도 늘리려고 전직 집정관 지휘관 루키우스 볼룸니우스와 그의 군대를 집정관들의 군단에 더했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-30-007-009",
@@ -2606,7 +3871,18 @@
       "korean": "더 많은 연대기에서는 그 승리가 오직 두 집정관의 것이었다고 한다. 볼룸니우스는 그동안 삼니움에서 싸우며 티페르눔산으로 몰린 삼니움군을 지형의 불리함에 물러서지 않고 무너뜨려 달아나게 했다. 퀸투스 파비우스는 데키우스의 군대를 에트루리아 수비에 남겨두고 자기 군단들을 로마로 이끌어 갈리아인·에트루리아인·삼니움인들을 이긴 개선식을 거행했다. 병사들도 개선 행렬을 따라갔다. 틀이 없는 병사들의 노래는 퀸투스 파비우스의 승리만큼이나 푸블리우스 데키우스의 빛나는 죽음을 기렸다. 아버지에 대한 기억을 불러일으키며 아들이 국가와 자기 가문에 똑같이 이룬 결말을 칭송했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-30-010",
@@ -2625,7 +3901,18 @@
       "korean": "전리품에서 병사마다 청동화 여든두 아스와 군용 망토 한 벌, 튜니카 한 벌을 주었다. 당시 군 복무의 포상으로는 결코 하찮지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-31-001-004",
@@ -2647,7 +3934,18 @@
       "korean": "이런 일이 이루어진 뒤에도 삼니움과 에트루리아 어느 곳에도 아직 평화는 없었다. 집정관이 군대를 철수시키자 페루시아인들이 주동하여 다시 반란을 일으켰다. 삼니움인들은 베스키니인과 포르미아이인의 영토를 약탈하러 내려왔고, 다른 쪽에서는 아이세르니아와 불투르누스강에 인접한 땅으로 내려왔다. 법무관 아피우스 클라우디우스가 데키우스의 군대를 이끌고 그들을 상대하러 파견되었다. 에트루리아가 다시 반란을 일으키자 파비우스는 페루시아인 사천오백 명을 죽이고 천칠백사십 명을 붙잡았다. 포로들은 한 사람당 청동화 삼백십 아스를 내고 몸값을 치렀다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-31-005-008",
@@ -2669,7 +3967,18 @@
       "korean": "그 밖의 전리품은 모두 병사들에게 주었다. 법무관 아피우스 클라우디우스가 삼니움 군단의 한쪽을, 전직 집정관 지휘관 루키우스 볼룸니우스가 다른 쪽을 추격하자 그들은 스텔라티스 들판에 모였다. 삼니움 군단들이 그곳에 자리 잡았고 아피우스와 볼룸니우스도 진영을 합쳤다. 양쪽은 극심한 적의를 품고 싸웠다. 로마군은 그토록 여러 번 반란을 일으킨 적을 향한 분노에 자극받았고, 삼니움군은 이미 마지막 희망을 위해 싸웠다. 삼니움인 만육천삼백 명이 죽고 이천칠백 명이 붙잡혔다. 로마군에서는 이천칠백 명이 전사했다. 전쟁에서는 성공한 해였으나 역병이 심했고 기이한 징조들로 불안했다. 여러 곳에서 흙비가 내렸고 아피우스 클라우디우스의 군대에서 많은 사람이 벼락을 맞았다는 보고가 왔다. 이 때문에 신탁서를 펼쳐보았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-31-009-012",
@@ -2691,7 +4000,18 @@
       "korean": "그해 집정관의 아들 퀸투스 파비우스 구르게스는 간통죄로 민중에게 유죄 판결을 받은 부인 몇 명에게 벌금을 물렸다. 그 돈으로 대경기장 가까이에 베누스 신전을 세우게 했다. 삼니움 전쟁은 아직도 남아 있다. 우리는 삼니움에 처음 무기를 든 마르쿠스 발레리우스와 아울루스 코르넬리우스의 집정관직부터 이미 마흔여섯 해에 걸쳐 제4권째 끊임없이 그 전쟁을 다루고 있다. 그토록 오랜 세월 양 민족이 당한 참화와 겪은 고역으로도 저 단단한 가슴들을 이기지 못했던 일을 이제 다시 말하지 않겠다. 바로 전해에 삼니움인들은 센티눔 영토와 파일리그니인의 땅, 티페르눔과 스텔라티스 들판에서 자기 군단으로든 남의 군대에 섞여서든 네 로마군과 네 지휘관에게 살육당했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-31-013-015",
@@ -2712,7 +4032,18 @@
       "korean": "자기 민족에서 가장 이름난 지휘관을 잃었고 전쟁 동맹인 에트루리아인·움브리아인·갈리아인들도 자기들과 같은 운명에 빠진 것을 보았다. 자기 힘으로도 외부의 힘으로도 이제 버틸 수 없었지만 전쟁을 그만두지 않았다. 자유를 지키려다 불행한 결과를 얻는 일조차 싫증 내지 않았고, 승리를 시도하지 않기보다 패배하는 편을 택했다. 싸우는 그들도 지치지 않았는데 이 전쟁이 길다고 쓰거나 읽기를 싫어할 사람이 누구인가?",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 295년경",
+        "yearStartBce": 295,
+        "yearEndBce": 295,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-32-001-004",
@@ -2734,7 +4065,18 @@
       "korean": "퀸투스 파비우스와 푸블리우스 데키우스 뒤에는 루키우스 포스투미우스 메겔루스와 마르쿠스 아틸리우스 레굴루스가 집정관이 되었다. 적이 군대 세 개를 징집하여 하나는 에트루리아로 보내고, 다른 하나는 캄파니아 약탈을 다시 시작하며, 셋째는 자기 경계를 지키려고 마련한다는 소문 때문에 두 사람 모두 삼니움을 담당했다. 병으로 몸이 좋지 않은 포스투미우스는 로마에 머물렀다. 아틸리우스는 삼니움인들이 아직 본국을 떠나기 전에 공격하라는 원로원의 결정에 따라 즉시 출발했다. 양쪽이 약속이라도 한 듯 마주쳤다. 로마군은 삼니움의 땅을 황폐하게 만들지 못하고, 삼니움군은 그곳을 떠나 평화로운 로마 동맹의 경계로 나가지 못할 위치였다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-32-005-007",
@@ -2755,7 +4097,18 @@
       "korean": "양쪽 진영이 서로 마주 놓이자 삼니움인들은 거듭 승리한 로마군조차 좀처럼 감행하지 않을 일을 감행했다. 마지막 절망이 그만큼 무모하게 만들어 로마 진영을 공격한 것이다. 그 대담한 시도는 끝까지 성공하지 못했지만 완전히 헛된 것도 아니었다. 짙은 안개가 한낮까지 이어져 빛을 쓸 수 없을 정도였다. 방벽 밖을 내다볼 수 없었을 뿐 아니라 가까이에서 맞붙은 이들끼리도 서로 볼 수 없었다. 삼니움인들은 그 안개를 매복의 은신처처럼 믿었다. 빛이 아직 뚜렷하지 않고 어둠까지 짓누를 때, 성문에서 태만하게 경계하던 로마 초소까지 다가갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-32-008-009",
@@ -2780,7 +4133,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-33-001-004",
@@ -2802,7 +4166,18 @@
       "korean": "소동에 잠을 깬 집정관은 마침 가장 가까이에 있던 루카니아와 수에사 동맹 부대 두 개에게 지휘 천막을 지키라고 명했다. 군단의 중대들은 진영의 중앙로를 따라 이끌었다. 무장도 제대로 갖추지 못한 채 대열로 들어간 병사들은 눈보다 함성으로 적을 알아차렸고 그 수가 얼마나 되는지도 가늠할 수 없었다. 처음에는 자기 운명을 알 수 없어 물러나 적을 진영 한가운데까지 받아들였다. 그러자 집정관은 방벽 밖으로 쫓겨난 뒤 자기 진영을 공격할 셈이냐고 외쳤다. 병사들은 함성을 올리며 힘을 모아 먼저 버텼고, 뒤에는 발을 내디디며 밀어붙였다. 한 번 밀려난 적은 공격을 시작할 때 로마군에게 일으켰던 것과 똑같은 공포를 느끼며 성문과 방벽 밖으로 쫓겨났다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-33-005-008",
@@ -2824,7 +4199,18 @@
       "korean": "흐린 빛 때문에 주위의 매복이 두려워 더 나아가 추격할 엄두는 내지 못했다. 진영을 해방한 것으로 만족하고 방벽 안으로 돌아갔다. 적 약 삼백 명을 죽였다. 로마의 첫 초소와 경계병, 재무관 구역 둘레에서 공격받은 이들 가운데 약 칠백삼십 명이 죽었다. 이처럼 완전히 실패하지 않은 대담한 공격은 삼니움인들의 기세를 높였다. 그들은 로마군이 진영을 앞으로 옮기는 것뿐 아니라 자기 들판에서 사료를 구하는 것조차 허용하지 않았다. 사료 수집대는 뒤쪽의 평화로운 소라 영토로 갔다. 실제보다도 더 소란스럽게 전해진 이 소식 때문에 병에서 겨우 회복하던 집정관 루키우스 포스투미우스도 로마를 떠나지 않을 수 없었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-33-009-010",
@@ -2844,7 +4230,18 @@
       "korean": "그러나 로마를 떠나기 전에 병사들에게 포고를 내려 소라에 모이게 하고, 자신이 귀족 조영관일 때 벌금으로 세우게 했던 빅토리아 신전을 봉헌했다. 이렇게 군대로 출발하여 소라에서 삼니움에 있는 동료의 진영으로 나아갔다. 삼니움인들은 두 군대를 상대할 수 없다고 믿고 물러났다. 두 집정관은 서로 다른 길로 갈라져 들판을 황폐하게 만들고 도시들을 공격하러 떠났다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-34-001-004",
@@ -2871,7 +4268,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-34-005-007",
@@ -2892,7 +4300,18 @@
       "korean": "집정관은 도착하자마자 처음에는 밀리오니아와 같은 싸움을 치를 듯 모든 준비를 갖추고 전열을 짜 성벽 가까이 나아갔다. 그러나 도시가 넓고 깊은 침묵에 잠겨 탑과 성벽 어디에도 무기나 사람이 보이지 않았다. 버려진 성벽으로 뛰어들려는 병사들이 알지 못한 계략에 경솔하게 빠지지 않도록 붙잡고, 라틴계 동맹 기병 두 부대에게 성벽 둘레를 돌며 모든 것을 정찰하라고 명했다. 기병들은 같은 쪽 가까이에 성문 둘이 열려 있고 그 길들에 적이 밤에 달아난 흔적이 남아 있는 것을 보았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-34-008-009",
@@ -2912,7 +4331,18 @@
       "korean": "그들은 조심스럽게 말을 몰아 성문에 다가가, 도시가 곧은 길들로 안전하게 관통되는 것을 살폈다. 주민들이 도시를 떠났다고 집정관에게 보고했다. 의심할 여지 없는 고요와 최근의 도주 흔적, 밤의 혼란 속에 사방에 버린 물건 더미가 이를 분명히 보여준다고 했다. 이 말을 들은 집정관은 기병들이 접근한 쪽으로 대열을 돌렸다. 성문에서 멀지 않은 곳에 군기들을 세우고 기병 다섯 명에게 도시로 들어가라고 명했다. 어느 정도 나아간 뒤 안전해 보이면 세 명은 그 자리에 머물고 두 명은 정찰 결과를 자기에게 가져오게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-34-010-013",
@@ -2934,7 +4364,18 @@
       "korean": "두 기병은 돌아와 사방을 둘러볼 수 있는 곳까지 갔는데 멀리까지 침묵과 고요만 보았다고 보고했다. 집정관은 곧바로 짐을 가볍게 한 부대들을 도시 안으로 들여보내고 나머지에게는 그동안 진영을 굳히라고 명했다. 들어간 병사들은 문들을 부수어 열고 늙거나 쇠약하여 남겨진 소수와 옮기기 어려워 버린 물건들을 찾았다. 그것들을 약탈했다. 포로들을 통해 주변의 여러 도시가 공동으로 도주를 결의했으며 자기 도시는 제1야경 때 떠났다는 사실을 알아냈다. 다른 도시에서도 똑같은 고요를 만나리라고 믿는다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-34-014",
@@ -2953,7 +4394,18 @@
       "korean": "포로들의 말은 사실로 드러났고 집정관은 버려진 도시들을 차지했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-35-001-003",
@@ -2974,7 +4426,18 @@
       "korean": "다른 집정관 마르쿠스 아틸리우스에게 전쟁은 결코 그만큼 쉽지 않았다. 삼니움인들이 공격한다고 들은 루케리아로 군단들을 이끌 때 적이 루케리아 경계에서 그를 맞았다. 그곳에서는 분노가 힘의 차이를 없앴다. 전투는 엎치락뒤치락하며 승패를 가리기 어려웠지만 결과는 로마인들에게 더 슬펐다. 패배에 익숙하지 않았던 데다 싸우는 동안보다 헤어질 때 자기편의 부상과 죽음이 얼마나 더 많았는지를 알게 되었기 때문이다. 진영에는 큰 공포가 일었다. 싸우는 동안 그 공포가 덮쳤다면 두드러진 참패를 당했을 것이다. 그때도 밤은 불안했다. 삼니움인이 곧 진영을 공격할 것이라거나 동이 트면 승자들과 손을 맞대야 한다고 믿었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-35-004-007",
@@ -2996,7 +4459,18 @@
       "korean": "적의 손실은 더 적었지만 적도 싸울 기세가 더 큰 것은 아니었다. 날이 밝자 싸우지 않고 떠나고 싶어 했다. 그러나 길은 하나뿐이고 그 길마저 적진 곁을 지났다. 그 길에 들어서면 로마 진영을 곧바로 공격하러 가는 모습이 되었다. 집정관은 병사들에게 무기를 들고 방벽 밖으로 자기를 따르라고 했다. 부장·군사 호민관·동맹 지휘관들에게 각자가 해야 할 일을 명했다. 모두 자기는 어떤 일이든 하겠지만 병사들의 마음이 쓰러져 있다고 했다. 밤새 부상자와 죽어가는 자들의 신음 사이에서 깨어 있었다는 것이다. 적이 동트기 전에 진영으로 왔다면 공포가 너무 커 군기들을 버렸을 것이며, 지금은 수치심 때문에 도주하지 않을 뿐 이미 패배한 군대나 다름없다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-35-008-011",
@@ -3018,7 +4492,18 @@
       "korean": "이 말을 들은 집정관은 병사들을 직접 돌아다니며 말해야겠다고 판단했다. 각 무리에게 갈 때마다 무기를 들기를 망설이는 자들을 꾸짖었다. 무엇 때문에 늦장을 부리며 등을 돌리느냐고 했다. 그들이 진영 밖으로 나가지 않으면 적이 진영 안으로 올 것이고, 방벽 앞에서 싸우지 않으려 하면 자기 천막 앞에서 싸워야 한다고 했다. 무장하고 싸우면 승리는 어느 쪽인지 알 수 없지만, 벌거벗고 무기도 없이 적을 기다리는 자에게는 죽음이나 노예 신분밖에 없었다. 병사들은 이렇게 꾸짖고 질책하는 그에게 전날 싸움으로 완전히 지쳤으며 힘도 피도 조금도 남지 않았다고 대답했다. 적의 수는 전날보다 더 많아 보였다. 그 말을 하는 사이 적의 대열은 다가오고 있었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-35-012-015",
@@ -3040,7 +4525,18 @@
       "korean": "거리가 더 가까워져 확실히 보이자 병사들은 삼니움인들이 방벽 말뚝을 들고 오며 분명히 로마 진영을 에워싸려 한다고 했다. 그러자 집정관은 비겁하기 짝이 없는 적에게 이토록 모욕과 치욕을 당하다니 수치스러운 일이라고 외쳤다. ‘진영 안에서 포위까지 당해, 필요하다면 칼에 맞아 용감하게 죽는 대신 굶주림으로 치욕스럽게 죽겠단 말인가?’ 일이 잘되기를 빌며 모두가 자기에게 어울린다고 여기는 행동을 하라고 했다. 집정관 마르쿠스 아틸리우스는 다른 이가 아무도 따르지 않아도 혼자 적에게 갈 것이며, 로마 진영이 포위되는 것을 보느니 삼니움의 군기들 사이에서 쓰러지겠다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-35-016-019",
@@ -3062,7 +4558,18 @@
       "korean": "부장들과 군사 호민관들, 모든 기병 부대와 선두 백인대장들이 집정관의 말을 지지했다. 그제야 수치심에 굴복한 병사들은 느릿하게 무기를 들고 느릿하게 진영을 나왔다. 길고 이어지지도 않는 행군 대열로 침통하게, 거의 패한 듯 적에게 나아갔다. 그들 자신도 적도 희망과 기세를 확신하지 못했다. 로마 군기들이 보이자 삼니움 대열 맨 앞에서 맨 뒤까지 곧바로 외침이 전해졌다. 두려워했던 대로 로마인들이 진영에서 나와 자기들의 길을 막으려 한다는 것이었다. 이제는 도주할 길조차 열리지 않았고 그 자리에서 쓰러지거나 적을 쓰러뜨리고 그 시신 위를 넘어 빠져나가야 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-001-004",
@@ -3084,7 +4591,18 @@
       "korean": "삼니움인들은 짐을 한가운데 던져놓고 저마다 자기 부대에서 무장한 채 전열을 세웠다. 두 전열 사이에는 이제 작은 공간만 남았다. 양쪽 모두 적이 먼저 돌격하고 먼저 함성을 올리기를 기다리며 서 있었다. 어느 쪽도 싸우려는 마음이 없었고, 물러나면 다른 쪽이 뒤쫓을까 두렵지만 않았다면 서로 갈라져 아무 피해 없이 떠났을 것이다. 원하지 않고 등을 돌리려는 자들 사이에서 싸움은 저절로 힘없이 시작되었고 함성도 불확실하고 고르지 않았다. 누구도 한 걸음 움직이지 않았다. 로마 집정관은 사태를 움직이려고 기병 몇 부대를 대열 밖으로 내보냈다. 그중 대다수가 말에서 떨어지고 나머지도 흐트러졌다. 삼니움 전열에서는 쓰러진 기병들을 죽이려고, 로마 쪽에서는 자기편을 구하려고 병사들이 달려 나왔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-005-008",
@@ -3106,7 +4624,18 @@
       "korean": "이 때문에 싸움은 조금 더 격렬해졌다. 그러나 삼니움인들이 훨씬 더 힘차게, 더 많이 달려 나왔다. 혼란에 빠진 로마 기병은 겁먹은 말들로 자기 예비대까지 짓밟았다. 여기서 시작된 도주가 로마 전열 전체를 돌아서게 했다. 삼니움인들이 이미 달아나는 자들의 등을 공격할 때 집정관은 말을 달려 진영 성문 앞을 가로막았다. 그곳에 기병 초소를 세우고 방벽으로 향하는 자는 로마인이든 삼니움인이든 적으로 여기라는 포고를 내렸다. 자신도 진영으로 마구 달려오는 병사들을 막아 서서 위협했다. ‘병사여, 어디로 가는가? 여기서도 무기와 남자들을 만날 것이다. 집정관인 내가 살아 있는 한 승리하지 않고는 진영에 들어가지 못한다. 그러니 시민과 싸울지 적과 싸울지 골라라.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-009-011",
@@ -3132,7 +4661,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-012-014",
@@ -3153,7 +4693,18 @@
       "korean": "지휘관과 병사, 보병과 기병이 사방에서 모두 싸움을 회복하려 힘썼다. 신들의 권능도 로마라는 이름을 돌아본 듯 사태가 너무도 쉽게 기울었다. 적은 진영에서 밀려났고 뒤이어 싸움이 시작된 바로 그곳까지 몰렸다. 삼니움인들은 한가운데 던져놓은 짐 무더기에 가로막혀 움직일 수 없었다. 물건을 약탈당하지 않으려고 짐 둘레에 무장 병력의 원형 전열을 만들었다. 이제 보병은 정면에서 몰아붙이고 기병은 우회하여 배후를 공격했다. 삼니움인들은 가운데서 죽거나 붙잡혔다. 포로는 칠천팔백 명이었고 모두 벌거벗은 채 멍에 아래를 지나갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-015-017",
@@ -3174,7 +4725,18 @@
       "korean": "적 전사자는 약 사천팔백 명으로 보고되었다. 로마인들에게도 기쁜 승리만은 아니었다. 집정관이 이틀 동안 입은 참화를 집계하자 잃은 병사는 칠천팔백 명이었다. 이 일이 아풀리아에서 벌어지는 동안 다른 삼니움군은 라티나 가도에 있는 로마 식민시 인테람나를 점령하려 했으나 도시를 차지하지 못했다. 들판을 약탈한 뒤 사람과 가축이 뒤섞인 전리품과 붙잡은 식민자들을 끌고 가다가 루케리아에서 돌아오는 승리한 집정관과 마주쳤다. 그들은 전리품을 잃었을 뿐 아니라 길고 짐에 묶여 흐트러진 대열에서 자기들까지 살육당했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-36-018-019",
@@ -3194,7 +4756,18 @@
       "korean": "집정관은 포고로 주인들을 인테람나에 불러 자기 물건을 알아보고 되찾게 했다. 군대를 그곳에 남기고 선거를 위해 로마로 떠났다. 개선식을 논의한 그에게는 영예가 거부되었다. 그토록 많은 병사를 잃었고 약정도 없이 포로들을 멍에 아래로 보냈기 때문이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-37-001-004",
@@ -3216,7 +4789,18 @@
       "korean": "다른 집정관 포스투미우스는 삼니움에서 싸울 대상이 사라지자 군대를 에트루리아로 옮겼다. 먼저 볼시니이 영토를 철저히 황폐하게 만들었다. 이어 자기 경계를 지키려고 나온 적과 도시 성벽에서 멀지 않은 곳에서 싸워 에트루리아인 이천팔백 명을 죽였다. 나머지는 도시가 가까워 살아남았다. 군대를 루셀라이 영토로 옮겨 들판을 황폐하게 만들었을 뿐 아니라 도시도 공격하여 점령했다. 이천 명 넘게 붙잡고 성벽 둘레에서 이천 명 가까이 죽였다. 그래도 그해 에트루리아에서 전쟁보다 평화로 얻은 성과가 더 빛나고 컸다. 에트루리아의 중심인 가장 강력한 세 도시 볼시니이·페루시아·아레티움이 평화를 청했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294년경",
+        "yearStartBce": 294,
+        "yearEndBce": 294,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-37-005-008",
@@ -3238,7 +4822,18 @@
       "korean": "그들은 병사들의 의복과 곡식을 제공하기로 집정관과 약정하고 로마로 사절들을 보낼 허락을 받아 사십 년의 휴전을 얻었다. 각 도시에 청동화 오십만 아스의 벌금을 즉시 부과했다. 집정관은 이 업적을 두고 허락받을 희망보다 관습상 예를 갖추려 개선식을 원로원에 청했다. 어떤 이들은 그가 로마를 늦게 떠났다는 이유로, 다른 이들은 원로원의 명령 없이 삼니움에서 에트루리아로 건너갔다는 이유로 반대했다. 일부는 자기 적이었고 일부는 동료의 친구로서, 동료도 거절당했으니 위안이 되도록 자기에게도 개선식을 거부하는 것을 보자 말했다. ‘의원들이여, 나는 여러분의 위엄을 기억하느라 내가 집정관임을 잊지는 않겠소. 전쟁을 치른 것과 똑같은 명령권의 권리로, 전쟁을 성공적으로 끝내고 삼니움과 에트루리아를 굴복시키며 승리와 평화를 얻었으니 개선식을 거행하겠소.’ 그는 이렇게 원로원을 떠났다. 이어 평민 호민관들 사이에 다툼이 일어났다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 294–293년경",
+        "yearStartBce": 294,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-37-009-011",
@@ -3259,7 +4854,18 @@
       "korean": "일부는 새로운 선례에 따라 개선식을 거행하지 못하게 거부권을 쓰겠다고 했고, 일부는 동료들의 거부권에 맞서 개선식을 돕겠다고 했다. 문제가 민중에게까지 나아가 집정관이 불려 나왔다. 그는 집정관 마르쿠스 호라티우스와 루키우스 발레리우스, 그리고 얼마 전의 가이우스 마르키우스 루틸루스—당시 감찰관의 아버지—도 원로원의 권위가 아니라 민중의 명령으로 개선식을 거행했다고 말했다. 자신도 민중에게 법안을 제출했을 것이지만 귀족의 노예인 평민 호민관들이 법을 가로막으리라는 것을 안다고 덧붙였다. 한마음으로 지지하고 호의를 보내는 민중의 뜻이 자신에게는 모든 명령을 대신하며 앞으로도 그럴 것이라고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-37-012-015",
@@ -3281,7 +4887,18 @@
       "korean": "이튿날 그는 호민관 일곱 명의 거부권과 원로원 전체의 뜻에 맞서 호민관 세 명의 도움을 받아 개선식을 거행했고 민중은 그날을 축하했다. 이 해의 기억 역시 일관되지 않다. 클라우디우스는 포스투미우스가 삼니움에서 도시 몇 곳을 점령한 뒤 아풀리아에서 패주하여 자신도 상처를 입고 소수와 함께 루케리아로 몰렸다고 전한다. 에트루리아의 일은 아틸리우스가 이루고 그가 개선식을 거행했다는 것이다. 파비우스는 두 집정관이 삼니움과 루케리아에서 일을 이루었고 군대가 에트루리아로 옮겨갔다고 쓰지만 어느 집정관이 이끌었는지는 덧붙이지 않는다. 루케리아에서 양쪽 모두 많은 사람을 잃었고, 그 싸움에서 로물루스가 앞서 서원했던 것처럼 유피테르 스타토르에게 신전을 서원했다고 한다. 그러나 로물루스 때에는 신전 구역, 곧 신전을 위해 종교적으로 경계를 정한 장소만 있었을 뿐이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-37-016",
@@ -3300,7 +4917,18 @@
       "korean": "국가가 똑같은 서원을 두 번이나 갚아야 할 의무를 지자, 마침내 그해 원로원이 실제 신전까지 세우라고 명할 만큼 종교적 의무로 여겨졌다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-38-001-003",
@@ -3321,7 +4949,18 @@
       "korean": "그 다음 해에는 아버지의 영광과 자기 영광 양쪽으로 이름난 집정관 루키우스 파피리우스 쿠르소르가 등장한다. 거대한 전쟁과 승리도 뒤따랐다. 그날까지 삼니움인들을 상대로 그의 아버지인 루키우스 파피리우스 말고는 아무도 얻지 못한 규모의 승리였다. 마침 삼니움인들은 아버지와 맞섰을 때와 똑같은 열의와 준비로 전쟁을 꾸몄다. 화려한 무장에 온갖 재물을 쏟았고, 오래된 맹세 의식으로 병사들을 입문시키듯 신들의 힘까지 끌어들였다. 삼니움 전역에서 징집하면서 새 법을 만들었다. 지휘관의 포고에 따라 모이지 않은 젊은이와 명령 없이 떠난 자의 목숨을 유피테르에게 바치기로 했다. 전군에게 아퀼로니아로 모이라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-38-004-007",
@@ -3348,7 +4987,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-38-008-010",
@@ -3369,7 +5019,18 @@
       "korean": "마음을 종교적 두려움으로 적실 다른 제의 장치도 있었지만, 사방이 가려진 장소 한가운데 제단들이 있고 그 둘레에 희생 제물들이 죽어 있으며 칼을 뽑은 백인대장들이 둘러선 모습이 특히 그러했다. 들어온 사람은 의식의 참여자라기보다 제물처럼 제단 앞으로 끌려갔다. 그곳에서 보고 들은 일을 밖에 알리지 않겠다고 맹세해야 했다. 이어 지휘관들이 이끄는 곳으로 싸우러 가지 않거나 자기가 전열에서 달아나거나 달아나는 자를 보고도 곧바로 죽이지 않으면 자기 목숨과 가족과 후손에게 저주가 내리도록 끔찍한 노래로 만든 맹세를 강요했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-38-011-013",
@@ -3390,7 +5051,18 @@
       "korean": "처음에 몇몇 사람이 맹세를 거부하다 제단 둘레에서 목이 잘렸다. 희생 제물들의 시신 사이에 누운 그들은 나머지 사람에게 거부하지 말라는 경고가 되었다. 삼니움 지도자들이 그 저주로 묶인 뒤 지휘관은 열 명을 지명했다. 각자가 한 사람씩 고르게 하여 만육천 명을 채우라고 했다. 귀족이 신성한 맹세를 한 울타리를 덮은 천 때문에 그 군단은 ‘아마포 군단’이라고 불렸다. 다른 이들 사이에서 두드러지도록 화려한 무기와 깃 달린 투구를 주었다. 다른 군대도 이만 명을 조금 넘었으며 체격의 모습이나 전쟁의 명성이나 장비에서 아마포 군단에 뒤지지 않았다. 정예로 이루어진 이 병력은 아퀼로니아에 자리 잡았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-39-001-005",
@@ -3413,7 +5085,18 @@
       "korean": "집정관들이 로마에서 출발했다. 먼저 스푸리우스 카르빌리우스가 떠났다. 그는 전년의 집정관 마르쿠스 아틸리우스가 인테람나 영토에 남긴 옛 군단들을 배정받았다. 그들과 함께 삼니움으로 가서 적이 미신에 매달려 비밀 회의를 여는 동안 삼니움인들에게서 아미테르눔을 무력으로 점령했다. 그곳에서 약 이천팔백 명을 죽이고 사천이백칠십 명을 붙잡았다. 파피리우스는 결정에 따라 새 군대를 징집하고 두로니아를 공격하여 점령했다. 포로는 동료보다 적었지만 죽인 사람은 꽤 더 많았다. 두 곳 모두에서 풍부한 전리품을 얻었다. 이어 두 집정관은 삼니움을 두루 돌아다니며 특히 아티나테스의 영토를 황폐하게 만들었다. 카르빌리우스는 코미니움으로, 파피리우스는 삼니움의 운명이 걸린 아퀼로니아로 갔다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-39-006-008",
@@ -3434,7 +5117,18 @@
       "korean": "그곳에서는 한동안 무기를 놓지도 않았고 힘껏 싸우지도 않았다. 조용히 있는 적에게 싸움을 걸다가 맞서면 물러나고, 실제로 싸우기보다 위협하면서 하루를 보냈다. 어떤 행동을 시작하고 멈추든 크고 작은 모든 일의 결과를 날마다 다른 로마 진영으로 전했다. 그 진영은 이만 보 떨어져 있었다. 자리에 없는 동료의 계획도 모든 행동에 반영되었고, 카르빌리우스는 자기가 포위한 코미니움보다 더 큰 운명이 걸린 아퀼로니아를 더욱 주시했다. 싸울 모든 준비를 이미 충분히 마친 루키우스 파피리우스는 길조가 허락한다면 이튿날 적과 싸울 생각이라고 동료에게 전령을 보냈다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-39-009-012",
@@ -3456,7 +5150,18 @@
       "korean": "삼니움인들이 아퀼로니아로 원군을 보낼 여유가 없도록 동료도 가능한 한 큰 힘으로 코미니움을 공격해야 한다고 했다. 전령은 하루 동안 다녀와 밤에 돌아왔고 동료가 그 계획에 동의한다고 전했다. 파피리우스는 전령을 보내자마자 집회를 열었다. 전쟁이라는 것 전반에 관해 길게 말했고, 효과보다 겉모습만 요란한 적의 현재 준비에 관해서도 길게 말했다. 투구의 깃이 상처를 입히는 것이 아니며 로마의 필룸은 그림과 금으로 장식한 방패도 뚫고, 튜니카의 흰빛으로 번쩍이는 전열도 싸움이 칼로 이루어지면 피로 물든다고 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-39-013-017",
@@ -3479,7 +5184,18 @@
       "korean": "예전에 자기 아버지가 금빛과 은빛으로 꾸민 삼니움 전열을 몰살했으며, 그 장비는 삼니움인들의 무기였을 때보다 승자가 빼앗은 전리품이 되었을 때 더 큰 영예를 얻었다고 했다. 삼니움인들의 가장 큰 시도에 맞설 지휘관이 되고 공공장소를 장식할 만큼 화려한 전리품을 가져오는 운명이 자기 이름과 가문에 주어졌을지도 모른다고 했다. 조약을 그토록 자주 청하고 그토록 자주 깨뜨린 데 분노한 불멸의 신들이 로마군과 함께한다고 했다. 신의 마음을 짐작할 수 있다면, 인간과 가축의 피가 뒤섞인 불경한 제의에 젖어 양쪽에서 신들의 노여움에 바쳐진 저 군대보다 신들이 더 적대한 군대는 없었다. 한편으로 로마와 맺은 조약의 증인인 신들을 두려워하고 다른 한편으로 그 조약을 거슬러 한 맹세의 저주를 두려워했다. 마음에 없이 맹세했고 그 맹세를 증오하여, 동시에 신과 시민과 적을 모두 두려워한다는 것이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-40-001-004",
@@ -3506,7 +5222,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-40-005-009",
@@ -3529,7 +5256,18 @@
       "korean": "기뻐한 집정관은 훌륭한 길조가 나타났으며 신들을 길잡이로 삼아 일을 치를 것이라고 선언하고 전투 신호를 올렸다. 마침 전장으로 막 나가려 할 때 탈주자 한 명이 삼니움 부대 스무 개가 코미니움으로 떠났다고 보고했다. 각 부대는 약 사백 명이었다. 동료도 알게 하려고 곧바로 전령을 보낸 뒤 군기들을 더 빨리 전진시키라고 했다. 이미 예비대를 각 위치에 놓고 그 지휘관들도 정해두었다. 오른쪽 날개는 루키우스 볼룸니우스에게, 왼쪽은 루키우스 스키피오에게 맡기고, 다른 부장 가이우스 카이디키우스와 티투스 트레보니우스에게 기병을 맡겼다. 스푸리우스 나우티우스에게는 노새에서 안장을 벗기고 동맹 부대 세 개와 함께 눈에 보이는 언덕으로 급히 우회하라고 명했다. 싸움이 한창일 때 먼지를 가능한 한 크게 일으키며 그곳에 모습을 보이게 했다. 지휘관이 이 일에 온 정신을 쏟는 동안 닭 관리인들 사이에서 그날의 길조를 두고 말다툼이 일어났다. 로마 기병들이 이를 듣고 가볍게 볼 일이 아니라고 여겨 집정관의 조카 스푸리우스 파피리우스에게 길조에 이견이 있다고 보고했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-40-010-012",
@@ -3550,7 +5288,18 @@
       "korean": "신들을 업신여기는 가르침이 생기기 전에 태어난 그 젊은이는 확인되지 않은 일을 전하지 않으려고 조사한 뒤 집정관에게 알렸다. 파피리우스가 대답했다. ‘그대의 용기와 성실함은 훌륭하다. 그러나 길조 의식에 참여한 자가 거짓을 보고하면 종교적 죄는 자기 몸으로 받아들인다. 나에게는 완전한 뜯어 먹기가 나타났다고 보고되었으므로 로마 인민과 군대에는 훌륭한 길조다.’ 이어 백인대장들에게 닭 관리인들을 맨 앞 군기들 사이에 세우라고 명했다. 삼니움인들도 군기들을 전진시켰고, 적의 눈에도 장엄한 볼거리가 될 만큼 화려하게 꾸미고 무장한 전열이 뒤따랐다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-40-013-014",
@@ -3570,7 +5319,18 @@
       "korean": "함성이 오르고 충돌하기 전에 아무렇게나 날아온 필룸 하나에 닭 관리인이 맞아 맨 앞 군기들 앞에서 쓰러졌다. 이 소식을 들은 집정관이 말했다. ‘신들이 싸움에 함께하신다. 죄지은 목숨이 벌을 받았다.’ 그가 이 말을 할 때 앞에서 까마귀가 큰 소리로 울었다. 그 징조에 기뻐한 집정관은 인간사에 신들이 이보다 더 가까이 함께한 적은 없다고 단언하며 전투 신호를 울리고 함성을 올리라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-41-001-003",
@@ -3596,7 +5356,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-41-004-007",
@@ -3618,7 +5389,18 @@
       "korean": "로마군은 양쪽 날개와 중앙에서 밀어붙이며 신과 인간에 대한 공포로 얼어붙은 자들을 베었다. 달아나려는 것을 두려움이 붙들고 있는 사람들답게 삼니움군은 힘없이 맞섰다. 살육이 거의 군기 앞까지 이르렀을 때, 옆쪽에서 거대한 행군 대열이 다가오는 듯 먼지가 일어나는 것이 보였다. 그곳에는 보조 부대들을 거느린 스푸리우스 나우티우스가 있었다. 일부 전승은 그를 옥타비우스 마이키우스라고 한다. 그들은 병력 수보다 훨씬 큰 먼지를 일으켰다. 노새에 올라탄 종군 하인들이 잎 무성한 나뭇가지를 땅에 끌고 간 것이다. 흐릿한 빛 속에서 앞쪽에는 무기와 군기가 보였고, 뒤쪽에서 더 높고 짙게 일어난 먼지는 기병이 대열을 몰아오는 것처럼 보였다. 그 광경은 삼니움군뿐 아니라 로마군까지 속였다. 집정관은 맨 앞 군기들 사이에서 큰 소리로 외쳐 그 오인을 확신으로 굳혔다. 그 목소리는 적에게까지 들렸다. ‘코미니움이 함락되었고, 승리한 동료가 오고 있다. 다른 군대의 영광이 되기 전에 힘을 다해 승리하라.’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-41-008-010",
@@ -3639,7 +5421,18 @@
       "korean": "그는 말 위에서 이렇게 외친 뒤 호민관들과 백인대장들에게 기병이 나갈 길을 열라고 명했다. 집정관은 미리 트레보니우스와 카이디키우스에게, 자기가 창끝을 세우고 흔드는 것이 보이면 최대한 힘차게 기병을 몰아 적에게 돌진하라고 일러두었다. 모든 일이 사전에 준비한 그대로 신호에 맞추어 이루어졌다. 대열 사이로 길이 열리자 기병은 앞으로 쏟아져 나가 창끝을 겨누고 적진 한가운데로 들이닥쳤으며, 닥치는 곳마다 대열을 깨뜨렸다. 볼룸니우스와 스키피오가 뒤이어 충격에 빠진 적을 쓰러뜨렸다. 이제 신과 인간이 가한 모든 속박도 힘을 잃었다. 아마포 군단의 부대들이 무너졌고, 맹세한 자와 맹세하지 않은 자가 함께 달아났다. 그들은 이제 적 말고는 아무도 두려워하지 않았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-41-011-013",
@@ -3660,7 +5453,18 @@
       "korean": "싸움에서 살아남은 보병 대열은 진영이나 아퀼로니아로 밀려났고, 귀족과 기병은 보비아눔으로 도망쳤다. 로마 기병은 적 기병을, 보병은 적 보병을 뒤쫓았다. 두 날개는 갈라져 오른쪽은 삼니움 진영으로, 왼쪽은 도시로 향했다. 볼룸니우스가 조금 먼저 진영을 점령했다. 도시 쪽의 스키피오는 더 거센 저항을 받았다. 패잔병들에게 용기가 더 남아서가 아니라, 방책보다 성벽이 무장한 자들을 더 잘 막아 주었기 때문이다. 그들은 성벽 위에서 돌을 던져 적을 물리쳤다. 스키피오는 첫 공포가 가라앉아 적이 정신을 되찾기 전에 끝내지 못하면 요새 도시의 공격이 길어질 것이라 여겼다. 그는 병사들에게 물었다. ‘다른 날개가 진영을 점령했는데 승자인 우리가 도시 문에서 쫓겨나는 것을 태연히 견딜 셈인가?’",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-41-014",
@@ -3684,7 +5488,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-42-001-003",
@@ -3705,7 +5520,18 @@
       "korean": "집정관은 처음에는 이 일을 모르고 군대를 거두는 데 몰두했다. 해가 이미 빠르게 지고 있었고 다가오는 밤은 승자에게도 모든 것을 위험하고 미심쩍게 만들었다. 그가 조금 더 나아가자 오른쪽에서는 진영이 점령된 것이 보였고, 왼쪽 도시에서는 싸우는 자들의 함성과 겁에 질린 자들의 소란이 뒤섞여 들렸다. 마침 그때 성문에서 전투가 벌어지고 있었다. 말을 타고 더 가까이 간 집정관은 자기 병사들이 성벽 위에 있는 것을 보았다. 이미 온전한 선택지는 남지 않았고, 소수의 무모함이 큰일을 이룰 기회를 열어 놓았으므로, 거두어들였던 병력을 다시 불러 군기들을 앞세우고 도시로 들어가라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-42-004-007",
@@ -3732,7 +5558,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-43-001-004",
@@ -3754,7 +5591,18 @@
       "korean": "코미니움에서도 다른 집정관이 똑같이 행운을 얻었다. 그는 새벽에 전 병력을 성벽으로 이동시켜 도시를 원형으로 포위하고, 어느 성문으로도 돌격해 나오지 못하도록 든든한 예비대를 배치했다. 막 공격 신호를 내리려던 때, 동료가 보낸 전령이 삼니움 부대 스무 개가 다가온다는 급보를 가져왔다. 이 소식 때문에 돌격을 늦추고, 이미 공격 대형을 갖추고 준비하던 병력 일부를 되돌려야 했다. 그는 부장 데키우스 브루투스 스카이바에게 제1군단과 동맹 부대 열 개 및 기병을 주어 적 원군을 향해 가게 했다. 어디서 마주치든 맞서서 지체시키고, 사정이 요구하면 교전하되, 어떤 일이 있어도 그 병력이 코미니움에 접근하지 못하게 하라는 명령이었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-43-005-007",
@@ -3775,7 +5623,18 @@
       "korean": "집정관 자신은 도시 사방의 성벽으로 사다리를 운반하게 하고, 방패 지붕을 짜서 성문으로 다가갔다. 성문을 부수는 것과 사방에서 성벽을 공격하는 일이 동시에 이루어졌다. 삼니움군은 성벽 위에 무장한 적이 나타나기 전까지는 도시로 접근하는 것을 막아 낼 용기가 충분했다. 그러나 이제 거리를 두고 투사물로 싸우는 것이 아니라 바로 앞에서 맞붙게 되었다. 평지에서 성벽으로 힘겹게 올라온 로마군은 가장 두려워했던 지형을 이겨 낸 뒤 같은 높이에서 열세인 적을 손쉽게 상대했다. 삼니움군은 탑과 성벽을 버리고 모두 광장으로 밀려나, 그곳에서 잠시 최후의 승부를 걸어 보았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-43-008-011",
@@ -3797,7 +5656,18 @@
       "korean": "그러나 이내 무기를 버렸고 일만천사백 명이 집정관의 처분에 몸을 맡겼다. 죽은 자는 사천팔백팔십 명에 이르렀다. 코미니움과 아퀼로니아의 싸움은 이렇게 끝났다. 세 번째 전투가 벌어질 것으로 예상했던 두 도시 사이에서는 적을 찾을 수 없었다. 그들은 코미니움에서 칠천 보쯤 떨어진 곳에서 자기편의 회군 명령을 받았기 때문에 어느 전투에도 이르지 못했다. 어둠이 막 내릴 무렵 진영과 아퀼로니아가 이미 눈에 들어왔지만, 양쪽에서 똑같이 들려온 함성이 그들을 멈춰 세웠다. 이어 로마군이 불태운 진영 쪽에서 불길이 넓게 퍼지자, 더 분명한 패배의 징표가 되어 더 나아가지 못하게 했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-43-012-014",
@@ -3818,7 +5688,18 @@
       "korean": "그들은 바로 그 자리 여기저기에 무기를 든 채 아무렇게나 누워, 새벽을 기다리고 두려워하며 불안한 밤을 보냈다. 동틀 무렵 어느 방향으로 가야 할지 망설이던 그들은 갑자기 기병을 보고 공포에 빠져 달아났다. 그 기병은 밤에 도시를 빠져나온 삼니움군을 추격하다가 방책도 보초도 없이 놓인 이 무리를 발견했다. 아퀼로니아 성벽 위에서도 이 무리가 보였고, 곧 군단 보병 부대들까지 뒤따라왔다. 하지만 보병은 달아나는 적을 따라잡지 못했고, 기병이 후미에서 약 이백팔십 명을 죽였다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-43-015",
@@ -3837,7 +5718,18 @@
       "korean": "겁에 질린 그들은 무기를 많이 버리고 군기 열여덟 개도 남겼다. 그토록 큰 혼란을 겪고도 나머지 대열은 온전한 편이었고 보비아눔에 도착했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-44-001-005",
@@ -3865,7 +5757,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-44-006-009",
@@ -3892,7 +5795,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-45-001-003",
@@ -3913,7 +5827,18 @@
       "korean": "집정관들의 서신은 원로원 회의와 민회에서 큰 기쁨 속에 낭독되었다. 나흘 동안 감사제를 거행하여 공적인 기쁨을 시민 각자의 열의로 경축했다. 이 승리는 로마 인민에게 큰 승리였을 뿐 아니라 매우 때맞추어 찾아왔다. 바로 그 무렵 에트루리아인들이 다시 반란을 일으켰다는 소식이 들어왔기 때문이다. 삼니움에서 조금이라도 불운을 겪었다면 에트루리아를 어떻게 감당할 수 있었을지 생각만 해도 아찔했다. 삼니움의 동맹 결성에 고무된 에트루리아는 두 집정관과 로마의 모든 힘이 삼니움으로 향한 틈을 반란의 기회로 삼았던 것이다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-45-004-007",
@@ -3935,7 +5860,18 @@
       "korean": "법무관 마르쿠스 아틸리우스의 안내로 원로원에 들어온 동맹국 사절들은, 로마 인민에게서 떨어져 나가기를 거부한다는 이유로 이웃 에트루리아인들이 자기 들판을 불태우고 황폐하게 만든다고 호소했다. 공동의 적이 가하는 폭력과 불의에서 자기들을 지켜 달라고 의원들에게 간청했다. 원로원은 동맹국들이 로마에 충실했던 것을 후회하지 않도록 힘쓰겠으며, 머지않아 에트루리아인들도 삼니움인들과 같은 운명을 맞을 것이라고 답했다. 그러나 오랫동안 우호 관계를 맺어 온 팔리스키인들까지 에트루리아군과 무기를 합쳤다는 보고가 없었다면 에트루리아 문제는 더 느슨하게 처리되었을 것이다. 이 민족이 가까이 있다는 사실이 의원들의 염려를 날카롭게 했다. 그들은 배상을 요구하도록 페티알레스 사제단을 보내야 한다고 결의했다. 요구한 것이 돌아오지 않자 원로원의 권고와 민중의 명령에 따라 팔리스키인들에게 전쟁을 선포했다. 집정관들에게는 누가 군대를 이끌고 삼니움에서 에트루리아로 건너갈지 제비를 뽑으라고 명했다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-45-008-011",
@@ -3957,7 +5893,18 @@
       "korean": "카르빌리우스는 이미 삼니움인들에게서 벨리아·팔룸비눔·헤르쿨라네움을 점령했다. 벨리아는 며칠 만에, 팔룸비눔은 성벽에 다가간 바로 그날 빼앗았다. 헤르쿨라네움에서는 군기를 맞대고 승패가 오가는 싸움을 벌였으며 적보다 자기편의 손실이 더 컸다. 이어 진영을 세우고 적을 성벽 안에 가두었다. 포위를 거쳐 도시를 점령했다. 이 세 도시에서 붙잡거나 죽인 사람은 약 일만 명이었고, 붙잡힌 자가 아주 조금 더 많았다. 집정관들이 담당 지역을 제비 뽑자 에트루리아는 카르빌리우스에게 돌아갔다. 이미 삼니움의 추위를 견디기 힘들어하던 병사들이 바라던 결과였다. 사이피눔에서는 파피리우스가 더 강한 적의 저항을 받았다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-45-012-014",
@@ -3978,7 +5925,18 @@
       "korean": "전열에서도, 행군 중에도, 적의 돌격을 막는 도시 둘레에서도 거듭 싸웠다. 그것은 포위라기보다 대등한 전쟁이었다. 삼니움군은 성벽보다도 무기와 병사로 도시를 지켰기 때문이다. 마침내 집정관은 계속 싸워 적을 정상적인 포위전으로 몰아넣고, 포위 시설과 무력을 써서 도시를 함락했다. 도시를 빼앗은 뒤에는 분노 때문에 살육이 더 커졌다. 칠천사백 명이 죽고 붙잡힌 사람은 삼천 명이 채 되지 않았다. 삼니움인들의 재산이 얼마 남지 않은 도시들에 몰려 있었으므로 전리품은 매우 많았고, 모두 병사들에게 내주었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-46-001-005",
@@ -4006,7 +5964,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-46-006-008",
@@ -4027,7 +5996,18 @@
       "korean": "그런데 병사들의 급료를 마련하려고 시민들에게 군세까지 거두었으므로 평민의 반감은 더 커졌다. 포로를 팔아 얻은 돈을 국고에 넣는 명예를 탐내지 않았다면, 전리품으로 병사들에게 상금도 주고 급료도 지급할 수 있었기 때문이다. 그는 퀴리누스 신전을 봉헌했다. 전투가 한창일 때 그가 이 신전을 서원했다는 기록은 어떤 옛 저자에게서도 찾을 수 없고, 사실 그렇게 짧은 기간에 완공할 수도 없었을 것이다. 독재관이었던 아버지가 서원한 신전을 집정관인 아들이 봉헌하고 적의 전리품으로 꾸민 것이다. 전리품이 워낙 많아서 신전과 포룸만 장식한 것이 아니라, 이웃 동맹국과 식민시에도 신전과 공공장소를 꾸미도록 나누어 주었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-46-009-012",
@@ -4049,7 +6029,18 @@
       "korean": "개선식이 끝난 뒤 그는 삼니움군의 공격으로 불안한 베스키눔 영토에 군대를 이끌고 가 겨울을 나게 했다. 그동안 집정관 카르빌리우스는 에트루리아에서 먼저 트로일룸 공격에 나섰다. 그는 가장 부유한 사람 사백칠십 명에게서 거액을 받기로 약정하고 그곳을 떠나도록 놓아주었지만, 나머지 주민과 도시 자체는 무력으로 점령했다. 이어 요새화된 위치에 있는 성채 다섯 곳을 함락했다. 그곳에서 적 이천사백 명이 죽고 이천 명에 조금 못 미치는 사람이 붙잡혔다. 평화를 청한 팔리스키인들에게는 무거운 청동화 십만 아스와 그해 병사들의 급료를 받기로 약정하고 일 년의 휴전을 주었다.",
       "notes": [],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-46-013-016",
@@ -4076,7 +6067,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-47-001-004",
@@ -4103,7 +6105,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     },
     {
       "id": "livy-10-47-005-007",
@@ -4129,7 +6142,18 @@
         }
       ],
       "translationStatus": "first-pass",
-      "parallelRefs": []
+      "parallelRefs": [],
+      "chronology": {
+        "label": "기원전 293년경",
+        "yearStartBce": 293,
+        "yearEndBce": 293,
+        "certainty": "approximate",
+        "scope": "narrative",
+        "basis": "editorial",
+        "sourceIds": [
+          "attalus-livy"
+        ]
+      }
     }
   ]
 }
