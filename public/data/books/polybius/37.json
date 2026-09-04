@@ -13,7 +13,7 @@
   "periodLabel": "기원전 216–146년 · 부분 보존",
   "chapterCount": 1,
   "passageCount": 1,
-  "translationCount": 0,
+  "translationCount": 1,
   "chapters": [
     "1"
   ],
@@ -32,9 +32,13 @@
       "paragraph": 1,
       "ref": "Polyb. 37.1.1",
       "original": "Μούσειον, τόπος περὶ τὸν Ὄλυμπον τὸν ἐν Μακεδονίᾳ· Πολύβιος τριακοστῷ ἑβδόμῳ.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "무세이온: 마케도니아의 올륌포스산 부근에 있는 곳. 폴뤼비오스 제37권.",
+      "notes": [
+        {
+          "text": "제37권에서 현존하는 것은 후대 지명 사전에 인용된 이 한 문장뿐이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]
