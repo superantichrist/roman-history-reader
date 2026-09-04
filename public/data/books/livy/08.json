@@ -13,7 +13,7 @@
   "periodLabel": "기원전 389–293년",
   "chapterCount": 40,
   "passageCount": 156,
-  "translationCount": 0,
+  "translationCount": 156,
   "chapters": [
     "1",
     "2",
@@ -75,9 +75,9 @@
       "paragraph": 1,
       "ref": "Liv. 8.1.1–5",
       "original": "iam consules erant C. Plautius iterum, L. Aemilius Mamercinus, cum Setini Norbanique Romam nuntii defectionis Privernatium cum querimoniis acceptae cladis venerunt. Volscorum item exercitum duce Antiati populo consedisse ad Satricum adlatum est. utrumque bellum Plautio sorte evenit. prius ad Privernum profectus extemplo acie conflixit. haud magno certamine devicti hostes; oppidum captum redditumque Privernatibus praesidio valido inposito; agri partes duae ademptae. inde victor exercitus Satricum contra Antiatis ductus. ibi magna utrimque caede atrox proelium fuit; et cum tempestas eos neutro inclinata spe dimicantes diremisset, Romani, nihil eo certamine tam ambiguo fessi, in posterum diem proelium parant. Volscis recensentibus, quos viros in acie amisissent, haudquaquam idem animus ad iterandum periculum fuit; nocte pro victis Antium agmine trepido sauciis ac parte inpedimentorum relicta abierunt.",
-      "korean": "",
+      "korean": "가이우스 플라우티우스가 두 번째로, 루키우스 아이밀리우스 마메르키누스가 집정관이 되었을 때 세티아와 노르바에서 온 전령들이 로마에 이르렀다. 프리베르눔인이 이탈했다는 소식과 함께 자기들이 입은 피해를 호소했다. 안티움 인민을 지휘자로 삼은 볼스키군이 사트리쿰에 자리 잡았다는 보고도 들어왔다. 제비뽑기 결과 두 전쟁 모두 플라우티우스에게 돌아갔다. 그는 먼저 프리베르눔으로 나아가 곧장 회전을 벌였다. 적은 어렵지 않게 패했고 도시도 점령되었다. 강한 수비대를 배치한 뒤 프리베르눔인에게 도시를 돌려주되 영토의 3분의 2를 빼앗았다. 이어 승리한 군대를 사트리쿰으로 이끌어 안티움인과 맞섰다. 양쪽에서 큰 살육이 벌어진 사나운 전투였다. 승부가 어느 쪽으로도 기울지 않은 채 싸울 때 폭풍이 둘을 갈라놓았다. 로마인은 이처럼 결판나지 않은 싸움에도 전혀 지치지 않고 이튿날의 전투를 준비했다. 그러나 볼스키인은 전열에서 잃은 사람들을 헤아리고 나자 다시 위험을 감수할 마음이 전혀 남지 않았다. 밤중에 패배한 군대처럼 부상자와 짐 일부를 버리고 허둥대는 대오로 안티움으로 떠났다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -98,9 +98,14 @@
       "paragraph": 2,
       "ref": "Liv. 8.1.6–10",
       "original": "armorum magna vis cum inter caesa hostium corpora tum in castris inventa est. ea Luae matri dare se consul dixit finesque hostium usque ad oram maritumam est depopulatus. alteri consuli Aemilio ingresso Sabellum agrum non castra Samnitium, non legiones usquam oppositae. ferro ignique vastantem agros legati Samnitium pacem orantes adeunt; a quo reiecti ad senatum potestate facta dicendi positis ferocibus animis pacem sibi ab Romanis bellique ius adversus Sidicinos petierunt: quae se eo iustius petere, quod et in amicitiam populi Romani secundis suis rebus, non adversis, ut Campani, venissent et adversus Sidicinos sumerent arma, suos semper hostes, populi Romani numquam amicos, qui nec, ut Samnites, in pace amicitiam nec, ut Campani, auxilium in bello petissent, nec in fide populi Romani nec in dicione essent.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "죽은 적의 몸 사이와 진영에서 많은 무기가 발견되었다. 집정관은 그것들을 루아 마테르에게 바친다고 선언하고 적의 영토를 해안까지 황폐하게 했다. 다른 집정관 아이밀리우스가 사벨리인의 영토로 들어갔으나 삼니움인의 진영도 군단도 어디에도 맞서지 않았다. 그가 들판을 쇠와 불로 황폐하게 하자 삼니움 사절들이 찾아와 평화를 청했다. 집정관이 그들을 원로원으로 돌려보내고 발언 기회를 주자, 그들은 오만을 내려놓고 로마인에게는 평화를, 시디키니인을 상대로는 전쟁할 권리를 청했다. 자신들이 형편 좋을 때 로마 인민의 우호를 구했지 캄파니아인처럼 어려울 때 구한 것이 아니라는 점, 또 언제나 자기들의 적이었고 로마 인민의 벗인 적은 없는 시디키니인에게 무기를 드는 것이라는 점에서 이 요구가 더욱 정당하다고 했다. 시디키니인은 삼니움인처럼 평화 중에 우호를 청하지도, 캄파니아인처럼 전쟁 중 도움을 청하지도 않았고, 로마 인민의 보호 아래 있지도 지배 아래 있지도 않다는 것이었다.",
+      "notes": [
+        {
+          "label": "루아 마테르",
+          "text": "전쟁에서 빼앗은 무기를 파괴하여 바치던 고대 로마의 여신이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -121,9 +126,9 @@
       "paragraph": 3,
       "ref": "Liv. 8.2.1–5",
       "original": "cum de postulatis Samnitium T. Aemilius praetor senatum consuluisset reddendumque iis foedus patres censuissent, praetor Samnitibus respondit: nec, quo minus perpetua cum eis amicitia esset, per populum Romanum stetisse, nec contradici, quin, quoniam ipsos belli culpa sua contracti taedium ceperit, amicitia de integro reconcilietur; quod ad Sidicinos attineat, nihil intercedi, quo minus Samniti populo pacis bellique liberum arbitrium sit. foedere icto cum domum revertissent, extemplo inde exercitus Romanus deductus annuo stipendio et trium mensum frumento accepto, quod pepigerat consul, ut tempus indutiis daret, quoad legati redissent. Samnites copiis iisdem, quibus usi adversus Romanum bellum fuerant, contra Sidicinos profecti haud in dubia spe erant mature urbis hostium potiundae;",
-      "korean": "",
+      "korean": "법무관 티투스 아이밀리우스가 삼니움인의 요구를 원로원에 물었고, 귀족들은 조약을 돌려주기로 의결했다. 법무관은 삼니움인에게 답했다. 그들과 영원한 우호가 이어지지 못한 것은 로마 인민의 탓이 아니며, 자기 잘못으로 시작한 전쟁에 스스로 싫증이 났으니 우호를 새로 회복하는 데 반대하지 않겠다. 시디키니인에 관해서는 삼니움 인민이 평화와 전쟁을 자유롭게 결정하는 일을 막지 않겠다고 했다. 조약을 맺은 뒤 그들이 고향으로 돌아가자 로마군도 곧 철수했다. 집정관이 사절들이 돌아올 때까지 휴전 기간을 주는 조건으로 정한 1년 치 급료와 석 달 치 곡물을 받고서였다. 삼니움인은 로마 전쟁에 썼던 바로 그 병력을 이끌고 시디키니인에게 향했고, 적의 도시를 곧 차지하리라는 희망을 의심하지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -142,9 +147,9 @@
       "paragraph": 4,
       "ref": "Liv. 8.2.6–8",
       "original": "tum ab Sidicinis deditio prius ad Romanos coepta fieri est; dein, postquam patres ut seram eam ultimaque tandem necessitate expressam aspernabantur, ad Latinos iam sua sponte in arma motos facta est. ne Campani quidem — adeo iniuriae Samnitium quam beneficii Romanorum memoria praesentior erat — his se armis abstinuere. ex his tot populis unus ingens exercitus duce Latino fines Samnitium ingressus plus populationibus quam proeliis cladium fecit; et quamquam superiores certaminibus Latini erant, haud inviti, ne saepius dimicandum foret, agro hostium excessere.",
-      "korean": "",
+      "korean": "그러자 시디키니인은 먼저 로마인에게 항복하려 했다. 그러나 원로원은 너무 늦게, 최후의 궁지에 몰려서야 나온 항복이라며 물리쳤다. 그들은 이미 스스로 무기를 든 라틴인에게 항복했다. 캄파니아인도 삼니움인의 부정에 대한 기억이 로마인의 은혜보다 훨씬 생생했으므로 이 전쟁에서 빠지지 않았다. 이 모든 민족에서 모인 하나의 거대한 군대가 라틴인 지휘관 아래 삼니움 국경으로 들어가 전투보다 약탈로 더 큰 피해를 입혔다. 라틴인은 접전에서 우세했지만 싸움을 더 자주 치르지 않으려고 기꺼이 적의 영토에서 물러났다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -165,9 +170,9 @@
       "paragraph": 5,
       "ref": "Liv. 8.2.9–13",
       "original": "id spatium Samnitibus datum est Romam legatos mittendi; qui cum adissent senatum, conquesti eadem se foederatos pati, quae hostes essent passi, precibus infimis petiere, ut satis ducerent Romani victoriam quam Samnitibus ex Campano Sidicinoque hoste eripuisse, ne vinci etiam se ab ignavissimis populis sinerent; Latinos Campanosque, si sub dicione populi Romani essent, pro imperio arcerent Samniti agro, sin imperium abnuerent, armis coercerent. adversus haec responsum anceps datum, quia fateri pigebat in potestate sua Latinos iam non esse timebantque, ne arcendo abalienarent: Campanorum aliam condicionem esse, qui non foedere, sed per deditionem in fidem venissent; itaque Campanos, seu velint seu nolint, quieturos; in foedere Latino nihil esse, quo bellare, cum quibus ipsi velint, prohibeantur.",
-      "korean": "",
+      "korean": "이 틈에 삼니움인은 로마로 사절을 보냈다. 원로원에 들어온 그들은 동맹인 자기들이 적이었을 때와 똑같은 일을 당한다고 호소했다. 가장 낮은 자세로 간청하며, 로마인이 캄파니아와 시디키니라는 적을 삼니움인에게서 빼앗은 승리만으로 만족하고 자기들이 가장 비겁한 민족들에게까지 패하도록 내버려두지는 말라고 했다. 라틴인과 캄파니아인이 로마 인민의 지배 아래 있다면 명령으로 삼니움 영토에서 막고, 명령을 거부하면 무기로 억누르라는 것이었다. 로마는 라틴인이 더는 자기 통제 아래 있지 않다고 인정하기는 부끄러웠고, 막으려다 그들을 완전히 멀어지게 할까 두려웠으므로 모호하게 답했다. 조약이 아니라 항복을 통해 보호 아래 들어온 캄파니아인의 처지는 다르기에 그들은 원하든 원하지 않든 조용히 있을 것이지만, 라틴 조약에는 라틴인이 원하는 상대와 전쟁하는 것을 막는 조항이 없다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -186,9 +191,9 @@
       "paragraph": 6,
       "ref": "Liv. 8.3.1–3",
       "original": "quod responsum sicut dubios Samnites, quidnam facturum Romanum censerent, dimisit, ita Campanos metu abalienavit, Latinos, velut nihil iam non concedentibus Romanis, ferociores fecit. itaque per speciem adversus Samnites belli parandi crebra concilia indicentes omnibus consultationibus inter se principes occulte Romanum coquebant bellum. huic quoque adversus servatores suos bello Campanus aderat. sed quamquam omnia de industria celabantur — priusquam moverentur Romani, tolli ab tergo Samnitem hostem volebant —, tamen per quosdam privatis hospitiis necessitudinibusque coniunctos indicia coniurationis eius Romam emanarunt;",
-      "korean": "",
+      "korean": "이 답은 삼니움인이 로마의 행동을 어떻게 예상해야 할지 의심한 채 돌아가게 만들었고, 캄파니아인은 두려움 때문에 로마에서 멀어지게 했으며, 라틴인은 로마가 이제 무엇이든 허용하는 듯하여 더욱 사나워지게 했다. 그들은 삼니움 전쟁을 준비하는 체하며 회의를 자주 열었으나 지도자들은 모든 협의에서 은밀히 로마 전쟁을 익히고 있었다. 자기들을 구해준 자들을 상대로 벌이는 이 전쟁에도 캄파니아인은 함께했다. 로마인이 움직이기 전에 등 뒤의 적 삼니움인을 없애려 했기에 모든 일을 의도적으로 감추었지만, 개인적 환대와 친분으로 이어진 몇 사람을 통해 그 음모의 증거가 로마까지 새어나갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -208,9 +213,14 @@
       "paragraph": 7,
       "ref": "Liv. 8.3.4–7",
       "original": "iussisque ante tempus consulibus abdicare se magistratu, quo maturius novi consules adversus tantam molem belli crearentur, religio incessit ab eis, quorum inminutum imperium esset, comitia haberi. itaque interregnum initum. duo interreges fuere, M. Valerius ac M. Fabius; is creavit consules T. Manlium Torquatum tertium, P. Decium Murem. eo anno Alexandrum, Epiri regem, in Italiam classem appulisse constat; quod bellum, si prima satis prospera fuissent, haud dubie ad Romanos pervenisset. eadem aetas rerum magni Alexandri est, quem sorore huius ortum in alio tractu orbis, invictum bellis, iuvenem fortuna morbo extinxit.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "이토록 거대한 전쟁에 맞설 새 집정관들을 더 일찍 선출하기 위해 현 집정관들에게 임기가 끝나기 전에 사임하라고 명했다. 그러나 명령권이 단축된 사람들이 선거를 여는 데 종교적 거리낌이 생겨 중간 통치로 들어갔다. 중간 통치자는 마르쿠스 발레리우스와 마르쿠스 파비우스 두 사람이었고, 파비우스가 티투스 만리우스 토르콰투스를 세 번째 집정관으로, 푸블리우스 데키우스 무스를 동료 집정관으로 선출했다. 그해 에페이로스의 왕 알렉산드로스가 함대를 이끌고 이탈리아에 상륙한 것은 확실하다. 첫 전투들이 충분히 잘 풀렸다면 그 전쟁은 틀림없이 로마인에게까지 이르렀을 것이다. 이 시기는 위대한 알렉산드로스의 시대와 같다. 그는 이 왕의 누이에게서 태어나 세계의 다른 지역에서 전쟁에 패한 적 없이 싸웠으나, 젊은 나이에 운명이 병으로 그를 꺼버렸다.",
+      "notes": [
+        {
+          "label": "두 알렉산드로스",
+          "text": "에페이로스 왕 알렉산드로스 1세는 알렉산드로스 대왕의 외삼촌이었다. 전자는 남부 이탈리아에서, 후자는 동방에서 같은 시대에 원정했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -229,9 +239,9 @@
       "paragraph": 8,
       "ref": "Liv. 8.3.8–10",
       "original": "ceterum Romani, etsi defectio sociorum nominisque Latini haud dubia erat, tamen, tamquam de Samnitibus, non de se curam agerent, decem principes Latinorum Romam evocaverunt, quibus imperarent, quae vellent. praetores tum duos Latium habebat, L. Annium Setinum et L. Numisium Cerceiensem, ambo ex coloniis Romanis, per quos praeter Signiam Velitrasque, et ipsas colonias Romanas, Volsci etiam exciti ad arma erant; eos nominatim evocari placuit. haud cuiquam dubium erat, super qua re accirentur; itaque concilio prius habito praetores, quam Romam proficiscerentur, evocatos se ab senatu docent Romano, et quae actum iri secum credant, quidnam ad ea responderi placeat, referunt.",
-      "korean": "",
+      "korean": "로마인은 동맹들과 라틴 공동체의 이탈이 의심할 여지 없이 드러났는데도 마치 자기 일이 아니라 삼니움인의 일을 염려하는 듯, 원하는 명령을 내리려고 라틴의 지도자 열 명을 로마로 불렀다. 당시 라티움에는 두 법무관 루키우스 안니우스 세티누스와 루키우스 누미시우스 케르케이엔시스가 있었다. 둘 다 로마 식민시 출신이었고, 그들을 통해 시그니아와 벨리트라이—이들 역시 로마 식민시였다—뿐 아니라 볼스키인까지 무기를 들었다. 두 사람을 지명하여 소환하기로 했다. 무슨 문제로 부르는지는 누구도 의심하지 않았다. 그래서 법무관들은 로마로 떠나기 전에 먼저 회의를 열어 원로원이 자기들을 소환했다고 알리고, 무슨 논의를 할 것으로 보는지와 무엇이라 답하기를 원하는지를 물었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -250,9 +260,9 @@
       "paragraph": 9,
       "ref": "Liv. 8.4.1–3",
       "original": "cum aliud alii censerent, tum Annius: “quamquam ipse ego rettuli, quid responderi placeret, tamen magis ad summam rerum nostrarum pertinere arbitror, quid agendum nobis, quam quid loquendum sit. facile erit explicatis consiliis accommodare rebus verba. nam si etiam nunc sub umbra foederis aequi servitutem pati possumus, quid abest, quin proditis Sidicinis non Romanorum solum sed Samnitium quoque dicto pareamus respondeamusque Romanis nos, ubi innuerint, posituros arma? sin autem tandem libertatis desiderium remordet animos, si foedus sociale est, si societas aequatio iuris est, consanguineos nos Romanorumn esse, quod olim pudebat, nunc gloriari licet, si socialis illis exercitus is est, quo adiuncto duplicent vires suas, quem secernere ab se consilia bellis propriis ponendis sumendisque nolint, cur non omnia aequantur?",
-      "korean": "",
+      "korean": "저마다 다른 의견을 내놓자 안니우스가 말했다. ‘무엇이라 답하기를 원하는지 제가 물었지만, 무슨 말을 할지보다 우리가 무엇을 해야 하는지가 우리 전체의 운명에 더 중요하다고 생각합니다. 방책을 분명히 정하고 나면 사정에 맞는 말을 붙이기는 쉽습니다. 지금도 대등한 조약의 그림자 아래 노예살이를 견딜 수 있다면, 시디키니인을 배신하고 로마인뿐 아니라 삼니움인의 명령에도 복종하지 못할 이유가 무엇입니까? 로마인에게 그들이 눈짓만 하면 무기를 내려놓겠다고 답합시다. 그러나 마침내 자유에 대한 갈망이 마음을 물어뜯는다면, 동맹 조약이 진정한 동맹이고 동맹이 권리의 평등을 뜻한다면, 옛날에는 부끄러웠어도 이제는 우리가 로마인의 혈족임을 자랑할 수 있다면, 저들이 우리의 군대를 자기 군대에 더하여 힘을 두 배로 만드는 동맹군이라 부르고 자기들이 전쟁을 시작하고 끝내는 결정에서 떼어놓지 않으려 한다면, 어째서 모든 것을 평등하게 하지 않습니까?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -272,9 +282,9 @@
       "paragraph": 10,
       "ref": "Liv. 8.4.4–7",
       "original": "cur non alter ab Latinis consul datur? ubi pars virium, ibi et imperii pars esto. est quidem nobis hoc per se haud nimis amplum, quippe concedentibus Romam caput Latio esse; sed ut amplum videri posset, diuturna patientia fecimus. atqui si quando umquam consociandi imperii, usurpandae libertatis tempus optastis, en hoc tempus adest et virtute vestra et deum benignitate vobis datum. temptastis patientiam negando militem. quis dubitat exarsisse eos, cum plus ducentorum annorum morem solveremus? pertulerunt tamen hunc dolorem.",
-      "korean": "",
+      "korean": "‘어째서 집정관 한 사람을 라틴인이 내놓지 않습니까? 힘의 일부가 있는 곳에 지배권의 일부도 있어야 합니다. 로마가 라티움의 우두머리임을 우리가 인정하므로 이것 자체가 우리에게 지나치게 큰 영예는 아닙니다. 다만 오래 참고 견딘 탓에 큰 영예처럼 보이게 만들었을 뿐입니다. 지배권을 함께하고 자유를 행사할 때를 한 번이라도 바랐다면, 보십시오. 바로 지금이 여러분의 용맹과 신들의 호의로 주어진 그때입니다. 여러분은 병력 제공을 거부하여 저들의 인내를 시험했습니다. 200년이 넘은 관습을 우리가 깨뜨렸을 때 저들이 격분했다는 것을 누가 의심하겠습니까? 그런데도 그 고통을 참았습니다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -293,9 +303,9 @@
       "paragraph": 11,
       "ref": "Liv. 8.4.8–10",
       "original": "bellum nostro nomine cuin Paelignis gessimus; qui ne nostrorum quidem finium nobis per nos tuendorum ius antea dabant, nihil intercesserunt. Sidicinos in fidem receptos, Campanos ab se ad nos descisse, exercitus nos parare adversus Samnites, foederatos suos, audierunt nec moverunt se ab urbe. unde haec illis tanta modestia nisi a conscientia virium et nostrarum et suarum? idoneos auctores habeo querentibus de nobis Samnitibus ita responsum ab senatu Romano esse, ut facile appareret, ne ipsos quidem iam postulare, ut Latium sub Romano imperio sit. usurpate modo postulando quod illi vobis taciti concedunt.",
-      "korean": "",
+      "korean": "‘우리는 우리 이름으로 파엘리그니인과 전쟁을 치렀습니다. 전에는 저들이 우리 영토조차 스스로 지킬 권리를 주지 않았지만 이번에는 막지 않았습니다. 시디키니인을 보호 아래 받아들이고 캄파니아인이 자기들을 버리고 우리에게 왔으며, 우리가 자기들의 동맹인 삼니움인을 상대로 군대를 준비한다는 말을 듣고도 도시에서 움직이지 않았습니다. 저들의 힘과 우리의 힘을 스스로 알고 있지 않다면 이런 엄청난 절제가 어디서 나오겠습니까? 삼니움인이 우리를 고발했을 때 로마 원로원이 내놓은 답변을 믿을 만한 이들에게 들었습니다. 그 답만 보아도 저들조차 더는 라티움이 로마의 지배 아래 있다고 주장하지 않음이 쉽게 드러났습니다. 저들이 말없이 양보한 것을 여러분은 요구하여 차지하기만 하십시오.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -313,9 +323,9 @@
       "paragraph": 12,
       "ref": "Liv. 8.4.11–12",
       "original": "si quem hoc metus dicere prohibet, en ego ipse audiente non populo Romano modo senatuque, sed Iove ipso, qui Capitolium incolit, profiteor me dicturum, ut, si nos in foedere ac societate esse velint, consulem alterum ab nobis senatusque partem accipiant.” haec ferociter non suadenti solum, sed pollicenti clamore et adsensu omnes permiserunt, ut ageret diceretque, quae e re publica nominis Latini fideque sua viderentur.",
-      "korean": "",
+      "korean": "‘두려움 때문에 누구도 이 말을 하지 못한다면, 여기 제가 직접 나서겠습니다. 로마 인민과 원로원뿐 아니라 카피톨리움에 거주하는 유피테르 자신이 듣는 앞에서, 저들이 우리와 조약과 동맹을 유지하기 원한다면 우리에게서 집정관 한 명과 원로원의 절반을 받아들이라고 말하겠다고 선언합니다.’ 그는 사납게 권했을 뿐 아니라 자기가 하겠다고 약속했다. 모두가 함성과 찬성으로 라틴 공동체의 국익과 자기 신의에 맞다고 판단하는 대로 행동하고 말할 권한을 그에게 맡겼다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -334,9 +344,9 @@
       "paragraph": 13,
       "ref": "Liv. 8.5.1–3",
       "original": "ubi est Romam ventum, in Capitolio eis senatus datus est. ibi cum T. Manlius consul egisset cum eis ex auctoritate patrum, ne Samnitibus foederatis bellum inferrent, Annius, tamquam victor armis Capitolium cepisset, non legatus iure gentium tutus loqueretur: “tempus erat” inquit, “T. Manli vosque patres conscripti, tandem iam vos nobiscum nihil pro imperio agere, cum florentissimum deum benignitate nunc Latium armis virisque, Samnitibus bello victis, Sidicinis Campanisque sociis, nunc etiam Volscis adiunctis, videretis, colonias quoque vestras Latinum Romano praetulisse imperium.",
-      "korean": "",
+      "korean": "로마에 이르자 카피톨리움에서 원로원 회의에 들어갔다. 집정관 티투스 만리우스가 원로원의 권고에 따라 로마의 동맹인 삼니움인에게 전쟁을 걸지 말라고 요구했다. 그러자 안니우스는 만민법의 보호를 받는 사절이 아니라 무기로 승리하여 카피톨리움을 점령한 사람처럼 말했다. ‘티투스 만리우스와 원로원 의원들이여, 이제 여러분이 우리에게 지배자의 명령을 내리는 일을 마침내 그만둘 때입니다. 신들의 은혜로 지금 라티움은 무기와 장정이 가장 왕성하고, 전쟁에서 삼니움인을 꺾었으며, 시디키니인과 캄파니아인을 동맹으로 삼고 이제 볼스키인까지 합류했습니다. 여러분의 식민시들조차 로마의 지배보다 라틴의 지배를 택했다는 것을 보고 있지 않습니까?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -356,9 +366,9 @@
       "paragraph": 14,
       "ref": "Liv. 8.5.4–7",
       "original": "sed quoniam vos, regno inpotenti finem ut inponatis, non inducitis in animum, nos, quamquam armis possumus adserere Latium in libertatem, consanguinitati tamen hoc dabimus, ut condiciones pacis feramus aequas utrisque, quoniam vires quoque aequari dis inmortalibus placuit. consulem alterum Roma, alterum ex Latio creari oportet, senatus partem aequam ex utraque gente esse, unum populum, unam rem publicam fieri; et ut imperii eadem sedes sit idemque omnibus nomen, quoniam ab altera utra parte concedi necesse est, quod utrisque bene vertat, sit haec sane patria potior, et Romani omnes vocemur.” forte ita accidit, ut parem ferociae huius et Romani consulem T. Manlium haberent, qui adeo non tenuit iram, ut, si tanta dementia patres conscriptos cepisset, ut ab Setino homine leges acciperent, gladio cinctum in senatum venturum se esse palam diceret et, quemcumque in curia Latinum vidisset, sua manu interempturum.",
-      "korean": "",
+      "korean": "‘여러분은 제멋대로인 왕권을 끝내겠다는 생각을 하지 않으므로, 우리는 무기로 라티움의 자유를 주장할 수 있지만 혈족을 생각하여 양쪽에 평등한 평화 조건을 내놓겠습니다. 불멸의 신들이 힘도 같게 만들기를 뜻하셨기 때문입니다. 집정관 한 명은 로마에서, 한 명은 라티움에서 선출해야 합니다. 원로원의 절반도 두 민족이 똑같이 내어 하나의 인민, 하나의 공화국이 되어야 합니다. 지배의 수도가 하나이고 모두의 이름도 같으려면 어느 한쪽이 양보해야 하니, 양쪽 모두에게 좋은 결과가 되도록 이 조국을 우위에 두어도 좋습니다. 우리 모두 로마인이라 불립시다.’ 마침 로마인에게는 이 오만함과 맞먹는 집정관 티투스 만리우스가 있었다. 그는 분노를 조금도 억누르지 못했다. 원로원 의원들이 세티아 출신 사람에게 법을 받아들일 만큼 광기에 사로잡힌다면 칼을 차고 원로원에 들어와 의사당에서 보는 라틴인을 누구든 자기 손으로 죽이겠다고 공공연히 말했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -377,9 +387,9 @@
       "paragraph": 15,
       "ref": "Liv. 8.5.8–10",
       "original": "et conversus ad simulacrum Iouis “audi, Iuppiter, haec scelera” inquit; “audite, Ius Fasque. peregrinos consules et peregrinum senatum in tuo, Iuppiter, augurato templo captus ipse atque oppressus visurus es? haecine foedera Tullus, Romanus rex, cum Albanis, patribus vestris, Latini, haec L. Tarquinius vobiscum postea fecit? non venit in mentem pugna apud Regillum lacum? adeo et cladium veterum vestrarum et beneficiorum nostrorum ergo vos obliti estis?”",
-      "korean": "",
+      "korean": "그는 유피테르 신상을 향해 돌아서서 말했다. ‘유피테르여, 이 흉악한 말을 들으십시오. 법과 신의여, 들으십시오. 유피테르여, 당신 자신이 사로잡히고 짓눌린 이 신성한 신전에서 외국 집정관과 외국 원로원을 보게 될 것입니까? 라틴인이여, 로마 왕 툴루스가 너희 조상 알바인과 맺은 조약이 이런 것이었나? 뒤에 루키우스 타르퀴니우스가 너희와 맺은 조약이 이런 것이었나? 레길루스 호수의 전투가 생각나지 않느냐? 너희는 옛 패배도 우리가 베푼 은혜도 그토록 잊었단 말이냐?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -398,9 +408,14 @@
       "paragraph": 16,
       "ref": "Liv. 8.6.1–3",
       "original": "cum consulis vocem subsecuta patrum indignatio esset, proditur memoriae adversus crebram inplorationem deum, quos testes foederum saepius invocabant consules, vocem Anni spernentis numina Iovis Romani auditam. certe, cum commotus ira se a vestibulo templi citato gradu proriperet, lapsus per gradus capite graviter offenso inpactus imo ita est saxo, ut sopiretur. exanimatum auctores quoniam non omnes sunt, mihi quoque in incerto relictum sit, sicut inter foederum ruptorum testationem ingenti fragore caeli procellam effusam; nam et vera esse et apte ad repraesentandam iram deum ficta possunt.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "집정관의 말 뒤에 귀족들의 분노가 터져 나왔다. 집정관들이 조약의 증인인 신들을 거듭 부르는 가운데 안니우스가 로마의 유피테르 신성을 업신여기는 말도 했다고 전한다. 분노에 움직여 신전 앞뜰에서 빠른 걸음으로 뛰쳐나가다가 계단에서 미끄러져, 머리를 크게 부딪치며 맨 아래 돌에 떨어져 정신을 잃은 것만은 확실하다. 모든 저술가가 그가 죽었다고 하지는 않으므로 나도 확정하지 않겠다. 조약 파기를 증언하는 동안 하늘이 엄청난 굉음을 내고 폭풍우를 쏟았다는 이야기도 마찬가지다. 실제였을 수도 있고 신들의 분노를 생생히 나타내려고 알맞게 꾸민 것일 수도 있다.",
+      "notes": [
+        {
+          "label": "전승 비판",
+          "text": "리비우스는 안니우스의 죽음과 때맞춘 폭풍이라는 종교적 전승을 기록하면서도 확실성은 유보한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -420,9 +435,9 @@
       "paragraph": 17,
       "ref": "Liv. 8.6.4–7",
       "original": "Torquatus missus ab senatu ad dimittendos legatos cum iacentem Annium vidisset, exclamat, ita ut populo patribusque audita vox pariter sit: “bene habet; di pium movere bellum. est caeleste numen; es, magne Iuppiter; haud frustra te patrem deum hominumque hac sede sacravimus. quid cessatis, Quirites vosque patres conscripti, arma capere deis ducibus? sic stratas legiones Latinorum dabo, quem ad modum legatum iacentem videtis.” adsensu populi excepta vox consulis tantum ardoris animis fecit, ut legatos proficiscentes cura magistratuum magis, qui iussu consulis prosequebantur, quam ius gentium ab ira impetuque hominum tegeret. consensit et senatus bellum;",
-      "korean": "",
+      "korean": "원로원은 토르콰투스를 보내 사절들을 해산시켰다. 그는 쓰러진 안니우스를 보고 민중과 귀족이 똑같이 들을 만큼 외쳤다. ‘잘되었다. 신들이 경건한 전쟁을 일으키셨다. 하늘의 신성한 힘은 존재한다. 위대한 유피테르여, 당신은 존재하신다. 우리가 이 자리에 당신을 신과 인간의 아버지로 봉헌한 것은 헛되지 않았다. 로마 시민과 원로원 의원들이여, 무엇 때문에 무기 들기를 늦추는가? 신들을 지휘자로 삼자. 쓰러진 사절을 보듯 라틴 군단들도 그렇게 쓰러뜨려 보이겠다.’ 민중이 집정관의 말에 찬성하자 마음에 엄청난 열기가 일었다. 떠나는 사절들이 사람들의 분노와 충동에서 무사했던 것은 만민법보다 집정관의 명령으로 호송한 정무관들의 보호 덕분이었다. 원로원도 전쟁에 동의했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -442,9 +457,9 @@
       "paragraph": 18,
       "ref": "Liv. 8.6.8–11",
       "original": "consulesque duobus scriptis exercitibus per Marsos Paelignosque profecti adiuncto Samnitium exercitu ad Capuam, quo iam Latini sociique convenerant, castra locant. ibi in quiete utrique consuli eadem dicitur visa species viri maioris quam pro humano habitu augustiorisque, dicentis ex una acie imperatorem, ex altera exercitum deis Manibus matrique Terrae deberi. utrius exercitus imperator legiones hostium superque eas se devovisset, eius populi partisque victoriam fore. hos ubi nocturnos visus inter se consules contulerunt, placuit averruncandae deum irae victimas caedi, simul ut, si extis eadem, quae in somnio visa fuerant, portenderentur, alteruter consulum fata inpleret.",
-      "korean": "",
+      "korean": "집정관들은 두 군대를 징집하여 마르시인과 파엘리그니인 영토를 지나가고 삼니움군을 합친 뒤 카푸아에 진영을 세웠다. 라틴인과 동맹들은 이미 그곳에 모여 있었다. 그곳에서 잠든 두 집정관에게 인간의 모습보다 크고 위엄 있는 똑같은 남자의 형상이 나타났다고 한다. 한쪽 전열의 지휘관과 다른 쪽 전열의 군대가 지하 신들과 어머니 대지에게 빚으로 바쳐져 있다고 말했다. 어느 군대의 지휘관이 적의 군단들과 그 위에 자기 자신까지 제물로 바치느냐에 따라 그 민족과 편에 승리가 돌아갈 것이라고 했다. 두 집정관은 밤에 본 형상을 서로 비교한 뒤 신들의 분노를 물리치려고 제물을 잡기로 했다. 동시에 내장이 꿈에서 본 것과 같은 징조를 보이면 집정관 가운데 한 사람이 운명을 채우기로 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -464,9 +479,9 @@
       "paragraph": 19,
       "ref": "Liv. 8.6.12–15",
       "original": "ubi responsa haruspicum insidenti iam animo tacitae religioni congruerunt, tum adhibitis legatis tribunisque et imperiis deum propalam expositis, ne mors voluntaria consulis exercitum in acie terreret, conparant inter se, ut, ab utra parte cedere Romanus exercitus coepisset, inde se consul devoveret pro populo Romano Quiritibusque. agitatum etiam in consilio est, ut, si quando umquam severo ullum imperio bellum administratum esset, tunc utique disciplina militaris ad priscos redigeretur mores. curam acuebat, quod adversus Latinos bellandum erat, lingua, moribus, armorum genere, institutis ante omnia militaribus congruentes: milites militibus, centurionibus centuriones, tribuni tribunis conpares collegaeque iisdem praesidiis, saepe iisdem manipulis permixti fuerant.",
-      "korean": "",
+      "korean": "제관들의 답이 이미 마음을 사로잡은 말없는 종교적 두려움과 맞아떨어졌다. 두 사람은 부장들과 호민관들을 불러 신들의 명령을 공개적으로 설명했다. 집정관의 자발적인 죽음이 전열에서 군대를 놀라게 하지 않도록 준비한 것이다. 어느 쪽에서 로마군이 먼저 물러나기 시작하든 그쪽 집정관이 로마 인민과 로마 시민들을 위해 자신을 제물로 바치기로 합의했다. 회의에서는 엄격한 지휘권으로 전쟁을 수행한 적이 한 번이라도 있었다면 바로 지금 군율을 옛 관습으로 되돌려야 한다고도 논의했다. 라틴인은 언어와 풍습, 무기의 종류, 무엇보다 군사 제도가 로마와 같았기에 염려는 더욱 날카로웠다. 병사는 병사와, 백인대장은 백인대장과, 호민관은 호민관과 같은 수비대와 때로 같은 중대에 섞여 동료로 지낸 적이 있었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -483,9 +498,9 @@
       "paragraph": 20,
       "ref": "Liv. 8.6.16",
       "original": "per haec ne quo errore milites caperentur, edicunt consules, ne quis extra ordinem in hostem pugnaret.",
-      "korean": "",
+      "korean": "이런 사정 때문에 병사들이 어떤 착오에도 빠지지 않도록 집정관들은 누구도 대열을 벗어나 적과 싸우지 말라고 포고했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -505,9 +520,9 @@
       "paragraph": 21,
       "ref": "Liv. 8.7.1–4",
       "original": "forte inter ceteros turmarum praefectos, qui exploratum in omnes partes dimissi erant, T. Manlius consulis filius super castra hostium cum suis turmalibus evasit, ita ut vix teli iactu ab statione proxima abesset. ibi Tusculani erant equites; praeerat Geminus Maecius, vir cum genere inter suos tum factis clarus. is ubi Romanos equites insignemque inter eos praecedentem consulis filium — nam omnes inter se, utique inlustres viri, noti erant — cognovit, “unane” ait “turma, Romani, cum Latinis sociisque bellum gesturi estis?",
-      "korean": "",
+      "korean": "마침 사방으로 정찰을 나간 여러 기병대장 가운데 집정관의 아들 티투스 만리우스가 자기 기병대와 함께 적진 위쪽까지 나아갔다. 가장 가까운 경계대에서 투창 한 번 던질 거리도 채 떨어지지 않은 곳이었다. 그곳에는 투스쿨룸 기병들이 있었고 그들을 게미누스 마이키우스가 지휘했다. 자기 민족 가운데 혈통으로도 공적으로도 이름난 사람이었다. 그는 로마 기병들과 그중 눈에 띄게 앞장선 집정관의 아들을 알아보았다. 당시에 이름난 사람들은 특히 서로를 모두 알고 있었다. 그가 말했다. ‘로마인들이여, 기병대 하나로 라틴인과 동맹들을 상대로 전쟁을 치를 셈인가?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -526,9 +541,9 @@
       "paragraph": 22,
       "ref": "Liv. 8.7.5–7",
       "original": "quid interea consules, quid duo exercitus consulares agent?” “aderunt in tempore” Manlius inquit, “et cum illis aderit Iuppiter ipse, foederum a vobis violatorum testis, qui plus potest polletque. si ad Regillum lacum ad satietatem vestram pugnavimus, hic quoque efficiemus profecto, ne nimis acies vobis et conlata signa nobiscum cordi sint.” ad ea Geminus paulum ab suis equo provectus: “visne igitur, dum dies ista venit, qua magno conatu exercitus moveatis, interea tu ipse congredi mecum, ut nostro duorum iam hinc eventu cernatur, quantum eques Latinus Romano praestet?”",
-      "korean": "",
+      "korean": "‘그동안 두 집정관과 두 집정관 군대는 무엇을 할 텐가?’ 만리우스가 답했다. ‘때가 되면 올 것이다. 그들과 함께 너희가 깨뜨린 조약의 증인, 그 누구보다 강한 유피테르 자신도 오실 것이다. 레길루스 호수에서 너희가 질릴 만큼 싸워주었다면 이곳에서도 틀림없이 너희가 우리와 전열과 군기를 맞대는 일을 지나치게 좋아하지 않도록 해주겠다.’ 그러자 게미누스가 자기편에서 말을 조금 앞으로 몰았다. ‘대군이 움직일 그날이 올 때까지 기다리는 대신, 지금 너와 내가 맞붙어 라틴 기병이 로마 기병보다 얼마나 뛰어난지를 우리 둘의 결과로 미리 가려보지 않겠는가?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -548,9 +563,9 @@
       "paragraph": 23,
       "ref": "Liv. 8.7.8–11",
       "original": "mouet ferocem animum iuvenis seu ira seu detractandi certaminis pudor seu inexsuperabilis vis fati. oblitus itaque imperii patrii consulumque edicti praeceps ad id certamen agitur, quo vinceret an vinceretur haud multum interesset. equitibus ceteris velut ad spectaculum summotis spatio, quod vacui interiacebat campi, adversos concitant equos; et cum infestis cuspidibus concurrissent, Manli cuspis super galeam hostis, Maeci trans cervicem equi elapsa est. circumactis deinde equis cum prior ad iterandum ictum Manlius consurrexisset, spiculum inter aures equi fixit. ad cuius vulneris sensum cum equus prioribus pedibus erectis magna vi caput quateret, excussit equitem, quem cuspide parmaque innixum attollentem se ab gravi casu Manlius ab iugulo, ita ut per costas ferrum emineret, terrae adfixit;",
-      "korean": "",
+      "korean": "분노 때문이든 싸움을 피했다는 수치 때문이든 피할 수 없는 운명의 힘 때문이든, 이 도전은 젊은이의 사나운 마음을 움직였다. 아버지의 명령과 집정관들의 포고를 잊고 승리하든 패배하든 큰 차이가 없을 결투로 앞뒤 없이 달려갔다. 다른 기병들은 구경거리라도 보듯 물러나 그 사이의 빈 들판을 비웠다. 두 사람은 서로를 향해 말을 몰고 창끝을 겨눈 채 맞부딪쳤다. 만리우스의 창끝은 적의 투구 위를, 마이키우스의 창끝은 말의 목 너머를 스쳐갔다. 말을 돌린 뒤 만리우스가 먼저 몸을 일으켜 다시 찌르며 적의 말 두 귀 사이에 창을 꽂았다. 상처의 고통을 느낀 말이 앞다리를 치켜들고 머리를 세차게 흔들어 기병을 떨구었다. 마이키우스가 창과 작은 방패에 기대어 거센 낙마에서 몸을 일으키려 하자 만리우스는 목을 찔러 칼끝이 갈비뼈 사이로 나오게 하며 땅에 박아버렸다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -572,9 +587,9 @@
       "paragraph": 24,
       "ref": "Liv. 8.7.12–17",
       "original": "spoliisque lectis ad suos revectus cum ovante gaudio turma in castra atque inde ad praetorium ad patrem tendit, ignarus fati futurique, laus an poena merita esset. “ut me omnes” inquit, “pater, tuo sanguine ortum vere ferrent, provocatus equestria haec spolia capta ex hoste caeso porto.” quod ubi audivit consul, extemplo filium aversatus contionem classico advocari iussit. quae ubi frequens convenit, “quandoque” inquit “tu, T. Manli, neque imperium consulare neque maiestatem patriam veritus adversus edictum nostrum extra ordinem in hostem pugnasti et, quantum in te fuit, disciplinam militarem, qua stetit ad hanc diem Romana res, solvisti meque in eam necessitatem adduxisti, ut aut rei publicae mihi aut mei meorumque obliviscendum sit, nos potius nostro delicto plectemur, quam res publica tanto suo damno nostra peccata luat. triste exemplum, sed in posterum salubre iuventuti erimus.",
-      "korean": "",
+      "korean": "만리우스는 전리품을 거두고 자기편으로 말을 달렸다. 환호하며 기뻐하는 기병대와 함께 진영으로, 이어 아버지가 있는 지휘관 막사로 향했다. 자기 운명과 앞날을 알지 못한 채 칭찬과 벌 가운데 무엇을 얻었는지도 몰랐다. ‘아버지, 모두가 저를 참으로 당신의 피에서 태어난 사람이라 부르게 하려고, 도전을 받아들여 적을 죽이고 빼앗은 이 기병의 전리품을 가져왔습니다.’ 집정관은 이 말을 듣자 곧바로 아들에게 등을 돌리고 나팔을 불어 병사들을 모으라고 명했다. 사람들이 빽빽이 모이자 말했다. ‘티투스 만리우스, 너는 집정관의 명령도 아버지의 위엄도 두려워하지 않고 우리의 포고를 어겨 대열 밖에서 적과 싸웠다. 오늘까지 로마의 국운을 떠받쳐온 군율을 네 힘이 닿는 만큼 무너뜨렸고, 나를 공화국과 나 자신 및 내 가족 가운데 어느 한쪽을 잊어야만 하는 궁지로 몰았다. 국가가 그토록 큰 손실로 우리의 잘못을 갚기보다 우리가 우리의 죄로 벌받겠다. 우리는 슬픈 본보기가 되지만 뒤의 젊은이들에게는 유익할 것이다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -595,9 +610,14 @@
       "paragraph": 25,
       "ref": "Liv. 8.7.18–22",
       "original": "me quidem cum ingenita caritas liberum tum specimen istud virtutis deceptum vana imagine decoris in te movet; sed cum aut morte tua sancienda sint consulum imperia aut inpunitate in perpetuum abroganda, ne te quidem, si quid in te nostri sanguinis est, recusare censeam, quin disciplinam militarem culpa tua prolapsam poena restituas. i, lictor, deliga ad palum.” exanimati omnes tam atroci imperio nec aliter quam in se quisque destrictam cernentes securem, metu magis quam modestia quievere. itaque velut demerso ab admiratione animo cum silentio defixi stetissent, repente, postquam cervice caesa fusus est cruor, tam libero conquestu coortae voces sunt, ut neque lamentis neque execrationibus parceretur, spoliisque contectum iuvenis corpus, quantum militaribus studiis funus ullum concelebrari potest, structo extra vallum rogo cremaretur Manlianaque imperia non in praesentia modo horrenda, sed exempli etiam tristis in posterum essent.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "‘자식을 향한 타고난 사랑과 헛된 영예의 모습에 속기는 했으나 네가 보여준 용맹이 나를 움직인다. 그러나 집정관의 명령권을 네 죽음으로 확정하거나 네가 벌받지 않음으로써 영원히 없애버려야 한다. 네 안에 내 피가 조금이라도 있다면 네 잘못으로 무너진 군율을 네 벌로 다시 세우는 일을 너도 거부하지 않으리라 생각한다. 형리여, 가서 기둥에 묶어라.’ 모두가 그토록 끔찍한 명령에 넋을 잃었다. 저마다 도끼가 자기를 향해 뽑힌 것을 보는 듯했고, 절제보다 두려움 때문에 조용히 있었다. 경악에 마음이 가라앉아 말없이 꼼짝 않고 서 있다가 목이 잘려 피가 쏟아지는 순간, 갑자기 통곡과 저주를 가리지 않는 자유로운 절규가 터졌다. 젊은이의 몸을 전리품으로 덮고 방벽 밖에 장작더미를 쌓아 군대의 열정으로 장례 하나를 위해 할 수 있는 모든 예를 다해 화장했다. ‘만리우스식 명령’은 그때만 끔찍했던 것이 아니라 뒤에도 슬픈 본보기가 되었다.",
+      "notes": [
+        {
+          "label": "만리우스식 명령",
+          "text": "Manliana imperia는 개인의 용맹과 혈육보다 군율을 앞세운 가혹한 명령을 뜻하는 표현으로 남았다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -616,9 +636,9 @@
       "paragraph": 26,
       "ref": "Liv. 8.8.1–3",
       "original": "fecit tamen atrocitas poenae oboedientiorem duci militem, et praeterquam quod custodiae vigiliaeque et ordo stationum intentioris ubique curae erant, in ultimo etiam certamine, cum descensum in aciem est, ea severitas profuit. fuit autem civili maxime bello pugna similis; adeo nihil apud Latinos dissonum ab Romana re praeter animos erat. clipeis antea Romani usi sunt; dein, postquam stipendiarii facti sunt, scuta pro clipeis fecere; et quod antea phalanges similes Macedonicis, hoc postea manipulatim structa acies coepit esse: postremo in plures ordines instruebantur.",
-      "korean": "",
+      "korean": "하지만 처벌의 잔혹함은 병사들이 지휘관에게 더 복종하게 했다. 경비와 야간 보초, 각 경계대의 질서를 어디서나 더 세심히 돌보게 했을 뿐 아니라 전열로 내려가 벌인 마지막 싸움에서도 그 엄격함이 도움이 되었다. 전투는 시민끼리의 전쟁과 가장 비슷했다. 라틴인의 형편은 마음 말고는 로마와 다른 점이 전혀 없었다. 로마인은 전에는 둥근 방패를 썼지만 급료를 받는 병사가 된 뒤 둥근 방패 대신 긴 방패를 만들었다. 앞서 마케도니아식 팔랑크스와 비슷했던 전열은 뒤에 중대 단위로 편성되기 시작했고, 마침내 더 많은 층의 전열로 배열되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -638,9 +658,14 @@
       "paragraph": 27,
       "ref": "Liv. 8.8.4–7",
       "original": "ordo sexagenos milites, duos centuriones, vexillarium unum habebat. Prima acies hastati erant, manipuli quindecim, distantes inter se modicum spatium; manipulus levis vicenos milites, aliam turbam scutatorum habebat; leves autem, qui hastam tantum gaesaque gererent, vocabantur. haec prima frons in acie florem iuvenum pubescentium ad militiam habebat. robustior inde aetas totidem manipulorum, quibus principibus est nomen, hos sequebantur, scutati omnes, insignibus maxime armis. hoc triginta manipulorum agmen antepilanos appellabant, quia sub signis iam alii quindecim ordines locabantur, ex quibus ordo unus quisque tres partes habebat;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "한 대열 단위에는 병사 60명, 백인대장 두 명, 기수 한 명이 있었다. 제1선은 선봉병으로 15개 중대였고 중대 사이에는 조금씩 간격을 두었다. 한 중대에는 경무장병 20명과 긴 방패를 든 나머지 병사 무리가 있었다. 창과 가벼운 투창만 든 병사를 경무장병이라 불렀다. 전열의 맨 앞줄에는 군역 연령에 막 든 젊은이의 정예가 섰다. 그 뒤에는 더 단단한 나이의 병사들이 같은 수의 중대를 이루어 따랐고 ‘주력병’이라 불렸다. 모두 긴 방패를 들고 특히 훌륭한 무장을 갖추었다. 이 30개 중대의 대오를 ‘투창병 앞의 병사들’이라 불렀다. 군기 아래에는 다시 15개 대열 단위가 배치되었고, 각 단위는 세 부분으로 이루어졌다.",
+      "notes": [
+        {
+          "label": "군단 편제",
+          "text": "리비우스가 이 시기 로마군의 편제를 후대 용어로 설명하는 대목이다. 하스타티·프린키페스·트리아리이의 삼중 전열이 핵심이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -658,9 +683,9 @@
       "paragraph": 28,
       "ref": "Liv. 8.8.8–9",
       "original": "earum primam quamque primum pilum vocabant; tribus ex vexillis constabat; vexillum centum octoginta sex homines erant; primum vexillum triarios ducebat, veteranum militem spectatae virtutis, secundum rorarios, minus roboris aetate factisque, tertium accensos, minimae fiduciae manum; eo et in postremam aciem reiciebantur. ubi his ordinibus exercitus instructus esset, hastati omnium primi pugnam inibant. si hastati profligare hostem non possent, pede presso eos retro cedentes in intervalla ordinum principes recipiebant. tumprincipum pugna erat;",
-      "korean": "",
+      "korean": "각 단위의 첫째 부분을 ‘제1투창대’라 불렀고 세 개의 소대로 이루어졌다. 한 소대에는 186명이 있었다. 첫째 소대에는 용맹이 검증된 고참병인 후열병, 둘째에는 나이와 공적에서 그보다 약한 로라리이, 셋째에는 가장 믿기 어려운 병력인 보충병이 배속되었다. 이 때문에 그들은 가장 뒤의 전열로 물러나 있었다. 군대가 이런 전열로 편성되면 선봉병이 가장 먼저 싸움에 들어갔다. 선봉병이 적을 무너뜨리지 못하면 천천히 뒤로 물러났고 주력병이 대열 사이의 빈틈으로 그들을 받아들였다. 그러면 주력병이 싸웠다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -680,9 +705,9 @@
       "paragraph": 29,
       "ref": "Liv. 8.8.10–13",
       "original": "hastati sequebantur. triarii sub vexillis considebant sinistro crure porrecto, scuta innixa umeris, hastas subrecta cuspide in terra fixas, haud secus quam vallo saepta inhorreret acies, tenentes. si apud principes quoque haud satis prospere esset pugnatum, gradun a prima acie ad triarios sensim referebant. inde rem ad triarios redisse, cum laboratur, proverbio increbruit. triarii consurgentes, ubi in intervalla ordinum suorum principes et hastatos recepissent, extemplo conpressis ordinibus velut claudebant vias unoque continenti agmine iam nulla spe post relicta in hostem incidebant; id erat formidolosissimum hosti, cum velut victos insecuti novam repente aciem exsurgentem, auctam numero, cernebant.",
-      "korean": "",
+      "korean": "선봉병은 그들을 뒤따랐다. 후열병은 왼쪽 다리를 뻗은 채 군기 아래 앉아 방패를 어깨에 기대고, 창끝을 치켜세운 창을 땅에 박고 있었다. 마치 전열이 울타리에 둘러싸여 가시를 세운 듯했다. 주력병의 싸움도 충분히 잘 풀리지 않으면 제1선에서 후열병 쪽으로 조금씩 물러났다. 여기서 일이 어려움에 빠졌을 때 ‘후열병에게까지 갔다’는 속담이 널리 생겼다. 후열병은 일어서서 주력병과 선봉병을 자기 대열의 틈으로 받아들인 뒤 곧바로 대열을 압축하여 길을 닫았다. 뒤에는 아무 희망도 남기지 않고 하나로 이어진 대오로 적에게 덤벼들었다. 승리한 줄 알고 추격하던 적이 수까지 늘어난 듯한 새 전열이 갑자기 솟아나는 모습을 보았으므로 이것이 가장 두려운 순간이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -702,9 +727,9 @@
       "paragraph": 30,
       "ref": "Liv. 8.8.14–17",
       "original": "scribebantur autem quattuor fere legiones quinis milibus peditum, equitibus in singulas legiones trecenis. alterum tantum ex Latino dilectu adiciebatur, qui ea tempestate hostes erant Romanis eodemque ordine instruxerant aciem; nec vexilla cum vexillis tantum, universi hastati cum hastatis, principes cum principibus, sed centurio quoque cum centurione, si ordines turbati non essent, concurrendum sibi esse sciebat. duo primi pili ex utraque acie inter triarios erant, Romanus corpore haudquaquam satis validus, ceterum strenuus vir peritusque militiae, Latinus viribus ingens bellatorque primus, notissimi inter se, quia pares semper ordines duxerant.",
-      "korean": "",
+      "korean": "대개 보병 5천 명씩 네 군단을 징집했고 각 군단에는 기병 300명을 붙였다. 라틴 징집병으로 그와 똑같은 수를 더했다. 그러나 지금 그들은 로마의 적이었고 같은 방식으로 전열을 편성했다. 소대와 소대, 선봉병 전체와 선봉병, 주력병과 주력병만이 아니라 대열이 흐트러지지 않는다면 백인대장도 어느 백인대장과 맞붙을지 알고 있었다. 양쪽 전열의 후열병 사이에는 각각 최고 백인대장이 한 명씩 있었다. 로마인은 몸이 충분히 강하지 않았지만 활기차고 전쟁에 능숙했고, 라틴인은 힘이 대단한 최고의 전사였다. 두 사람은 늘 같은 계급의 대열을 지휘했기에 서로를 아주 잘 알았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -722,9 +747,9 @@
       "paragraph": 31,
       "ref": "Liv. 8.8.18–19",
       "original": "Romano haud satis fidenti viribus iam Romae permissum erat ab consulibus, ut subcenturionem sibi, quem vellet, legeret, qui tutaretur eum ab uno destinato hoste. isque iuvenis in acie oblatus ex centurione Latino victoriam tulit. pugnatum est haud procul radicibus Vesuvii montis, qua via ad Ueserim ferebat.",
-      "korean": "",
+      "korean": "로마 백인대장은 자기 힘을 충분히 믿지 못했기에 로마에 있을 때 이미 집정관들에게 허락을 받아 원하는 부백인대장 한 명을 골랐다. 자기를 상대하도록 정해진 적 한 사람에게서 지켜줄 사람이었다. 그 젊은이는 전열에서 라틴 백인대장과 맞붙어 승리를 거두었다. 전투는 베수비우스산 기슭에서 멀지 않은, 베세리스로 가는 길에서 벌어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -743,9 +768,14 @@
       "paragraph": 32,
       "ref": "Liv. 8.9.1–3",
       "original": "Romani consules, priusquam educerent in aciem, immolaverunt. Decio caput iocineris a familiari parte caesum haruspex dicitur ostendisse; alioqui acceptam dis hostiam esse; Manlium egregie litasse. “atqui bene habet” inquit Decius, “si ab collega litatum est.” instructis, sicut ante dictum est, ordinibus processere in aciem. Manlius dextro, Decius laevo cornu praeerat. primo utrimque aequis viribus, eodem ardore animorum gerebatur res; deinde ab laevo cornu hastati Romani, non ferentes inpressionem Latinorum, se ad principes recepere.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "로마 집정관들은 군대를 전열로 내보내기 전에 제물을 바쳤다. 제관은 데키우스에게 그의 편에 해당하는 간의 머리가 잘려나간 것을 보여주었다고 한다. 그 밖의 부분은 신들이 제물을 받아들이셨으며, 만리우스의 희생에서는 아주 좋은 징조가 나왔다고 했다. 데키우스가 말했다. ‘동료에게 길한 징조가 나왔다면 잘된 일이다.’ 앞에서 말한 방식대로 대열을 갖추고 전열로 나아갔다. 만리우스는 오른쪽 날개를, 데키우스는 왼쪽을 지휘했다. 처음에는 힘도 같고 마음의 열기도 같아 싸움이 팽팽했다. 그러다 왼쪽 날개의 로마 선봉병이 라틴인의 압박을 버티지 못하고 주력병에게 물러났다.",
+      "notes": [
+        {
+          "label": "간의 머리",
+          "text": "제물의 간에서 돌출된 부분을 caput iocineris라 불렀다. 이것이 없거나 손상된 것은 지휘자의 죽음을 예고하는 흉조로 해석되었다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -765,9 +795,9 @@
       "paragraph": 33,
       "ref": "Liv. 8.9.4–7",
       "original": "in hac trepidatione Decius consul M. Valerium magna voce inclamat: “deorum” inquit “ope, M. Valeri, opus est; agedum, pontifex publicus populi Romani praei verba, quibus me pro legionibus devoveam.” pontifex eum togam praetextam sumere iussit et velato capite, manu subter togam ad mentum exserta, super telum subiectum pedibus stantem sic dicere: “Iane, Iuppiter, Mars pater, Quirine, Bellona, Lares, divi Novensiles, di Indigetes, divi, quorum est potestas nostrorum hostiumque, dique Manes, vos precor, veneror, veniam peto oroque, uti populo Romano Quiritium vim victoriamque prosperetis hostesque populi Romani Quiritium terrore, formidine morteque adficiatis.",
-      "korean": "",
+      "korean": "이 혼란 속에서 데키우스 집정관은 큰 소리로 마르쿠스 발레리우스를 불렀다. ‘공공 대신관 마르쿠스 발레리우스여, 신들의 도움이 필요하다. 내가 군단들을 위해 나 자신을 바칠 수 있도록 기도문을 앞에서 일러주시오.’ 대신관은 그에게 자주색 가장자리 토가를 입고 머리를 가리며, 토가 아래로 한 손을 내어 턱을 잡고, 발밑에 놓은 투창 위에 서서 이렇게 말하라고 했다. ‘야누스여, 유피테르여, 아버지 마르스여, 퀴리누스여, 벨로나여, 라레스여, 새로 받아들인 신들이여, 토착 신들이여, 우리와 적에게 힘을 행사하는 신들이여, 지하 신들이여. 나는 여러분에게 빌고 경배하며 용서를 구하고 간청합니다. 로마 시민의 인민에게 힘과 승리를 번영하게 하시고 로마 시민의 인민의 적에게 두려움과 공포와 죽음을 내리십시오.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -786,9 +816,14 @@
       "paragraph": 34,
       "ref": "Liv. 8.9.8–10",
       "original": "sicut verbis nuncupavi, ita pro re publica Quiritium, exercitu, legionibus, auxiliis populi Romani Quiritium legiones auxiliaque hostium mecum deis Manibus Tellurique devoveo.” haec ita precatus lictores ire ad T. Manlium iubet matureque collegae se devotum pro exercitu nuntiare. ipse incinctus cinctu Gabino, armatus in equum insilivit ac se in medios hostes inmisit, conspectus ab utraque acie. aliquanto augustior humano visus, sicut caelo missus piaculum omnis deorum irae, qui pestem ab suis aversam in hostes ferret;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "‘제가 이 말로 서원한 대로, 로마 시민의 공화국과 로마 시민의 인민의 군대와 군단과 지원군을 위하여 적의 군단과 지원군을 저 자신과 함께 지하 신들과 대지에게 바칩니다.’ 이렇게 기도한 뒤 형리들에게 티투스 만리우스에게 가서 자기가 군대를 위해 몸을 바쳤음을 동료에게 빨리 알리라고 명했다. 자신은 가비이식으로 토가를 졸라매고 무장한 채 말에 뛰어올라 적진 한가운데로 몸을 던졌다. 양쪽 전열의 눈에 그는 인간보다 훨씬 위엄 있는 모습, 하늘에서 내려와 신들의 모든 분노를 달래고 자기편에서 재앙을 돌려 적에게 가져가는 제물처럼 보였다.",
+      "notes": [
+        {
+          "label": "데보티오",
+          "text": "지휘관이 자기 생명과 적군을 지하 신과 대지에 함께 바쳐 자기 군대의 승리를 비는 로마의 자기희생 의례다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -808,9 +843,9 @@
       "paragraph": 35,
       "ref": "Liv. 8.9.11–14",
       "original": "ita omnis terror pavorque cum illo latus signa prima Latinorum turbavit, deinde in totam penitus aciem pervasit. evidentissimum id fuit, quod, quacumque equo invectus est, ibi haud secus quam pestifero sidere icti pavebant; ubi vero corruit obrutus telis, inde iam haud dubie consternatae cohortes Latinorum fugam ac vastitatem late fecerunt. simul et Romani exsolutis religione animis velut tum primum signo dato coorti pugnam integram ediderunt; nam et rorarii procurrebant inter antepilanos addiderantque vires hastatis ac principibus, et triarii genu dextro innixi nutum consulis ad consurgendum expectabant.",
-      "korean": "",
+      "korean": "그리하여 그가 짊어진 모든 공포와 두려움이 라틴인의 선두 군기를 흐트러뜨린 뒤 전열 전체의 깊은 곳까지 퍼졌다. 그가 말을 타고 들어가는 곳마다 사람들이 역병의 별에 맞은 듯 겁에 질린 것이 가장 분명한 증거였다. 마침내 무기에 뒤덮여 쓰러지자 그곳에서부터 라틴 대대들은 의심할 여지 없이 공황에 빠져 넓은 곳을 비우며 달아났다. 동시에 로마인은 종교적 부담에서 마음이 풀려나 마치 그제야 처음 신호를 받은 것처럼 일어나 새 힘으로 싸웠다. 로라리이는 선두 전열 사이로 뛰어나와 선봉병과 주력병에게 힘을 보탰고, 후열병은 오른쪽 무릎을 세운 채 일어나라는 집정관의 신호를 기다렸다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -830,9 +865,9 @@
       "paragraph": 36,
       "ref": "Liv. 8.10.1–4",
       "original": "procedente deinde certamine cum aliis partibus multitudo superaret Latinorum, Manlius consul audito eventu collegae cum, ut ius fasque erat, lacrumis non minus quam laudibus debitis prosecutus tam memorabilem mortem esset, paulisper addubitavit, an consurgendi iam triariis tempus esset; deinde melius ratus integros eos ad ultimum discrimen servari, accensos ab novissima acie ante signa procedere iubet. qui ubi subiere, extemplo Latini, tamquam idem adversarii fecissent, triarios suos excitaverunt; qui aliquamdiu pugna atroci cum et semet ipsi fatigassent et hastas aut praefregissent aut hebetassent, pellerent vi tamen hostem, debellatum iam rati perventumque ad extremam aciem, tum consul triariis “consurgite nunc” inquit “integri adversus fessos, memores patriae parentumque et coniugum ac liberorum, memores consulis pro vestra victoria morte occubantis.”",
-      "korean": "",
+      "korean": "전투가 더 진행되면서 다른 구역에서는 라틴인의 수가 우세했다. 만리우스 집정관은 동료의 최후를 듣고 법과 신의가 요구하는 대로 눈물과 마땅한 찬사로 그토록 기억할 죽음을 기렸다. 그는 잠시 후열병이 이미 일어날 때인지 망설였으나, 지치지 않은 그들을 최후의 위기를 위해 남겨두는 편이 낫다고 보고 마지막 전열의 보충병에게 군기 앞으로 나아가라고 명했다. 그들이 앞으로 나오자 라틴인은 적도 같은 행동을 했다고 여기고 자기 후열병을 일으켰다. 이들은 한동안 사납게 싸워 자기들도 지치고 창이 부러지거나 무뎌졌으나 힘으로 적을 밀어냈다. 이미 전쟁을 끝내고 마지막 전열에 이르렀다고 생각할 때 집정관이 자기 후열병에게 말했다. ‘이제 일어나라. 지치지 않은 너희가 지친 자들과 맞서라. 조국과 부모, 아내와 자식을 기억하고, 너희 승리를 위해 죽은 집정관을 기억하라.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -852,9 +887,9 @@
       "paragraph": 37,
       "ref": "Liv. 8.10.5–8",
       "original": "ubi triarii consurrexerunt, integri, refulgentibus armis, nova ex inproviso exorta acies, receptis in intervalla ordinum antepilanis, clamore sublato principia Latinorum perturbant hastisque ora fodientes primo robore virorum caeso per alios manipulos velut inermes prope intacti evasere tantaque caede perrupere cuneos, ut vix quartam partem relinquerent hostium. Samnites quoque sub radicibus montis procul instructi praebuere terrorem Latinis. ceterum inter omnes cives sociosque praecipua laus eius belli penes consules fuit, quorum alter omnis minas periculaque ab deis superis inferisque in se unum vertit, alter ea virtute eoque consilio in proelio fuit, ut facile convenerit inter Romanos Latinosque, qui eius pugnae memoriam posteris tradiderunt, utrius partis T. Manlius dux fuisset, eius futuram haud dubie fuisse victoriam. Latini ex fuga se Minturnas contulerunt.",
-      "korean": "",
+      "korean": "후열병이 일어서자 빛나는 무장을 한 지치지 않은 새 전열이 뜻밖에 솟아났다. 선두 전열의 병사들을 대열 사이로 받아들인 뒤 함성을 올려 라틴의 최전선을 혼란에 빠뜨렸다. 창으로 얼굴을 찌르고 적의 정예를 베어 죽인 다음, 거의 상처 하나 없이 다른 중대들을 무장하지 않은 사람들처럼 뚫고 지나갔다. 쐐기 대형을 뚫으며 엄청나게 살육하여 적의 4분의 1도 거의 남기지 않았다. 산기슭 멀리 전열을 갖춘 삼니움인도 라틴인에게 공포를 주었다. 그러나 모든 시민과 동맹 가운데 그 전쟁의 가장 큰 찬사는 두 집정관에게 돌아갔다. 한 사람은 위와 아래의 신들이 내린 모든 위협과 위험을 자기 한 몸으로 돌렸고, 다른 사람은 전투에서 그토록 용감하고 현명했다. 이 전투의 기억을 후세에 전한 로마인과 라틴인은 티투스 만리우스가 어느 편의 지휘관이었든 그 편이 틀림없이 이겼으리라는 데 쉽게 의견을 같이했다. 달아난 라틴인은 민투르나이로 모였다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -874,9 +909,9 @@
       "paragraph": 38,
       "ref": "Liv. 8.10.9–12",
       "original": "castra secundum proelium capta, multique mortales ibi vivi oppressi, maxime Campani. Deci corpus ne eo die inveniretur, nox quaerentes oppressit; postero die inventum inter maximam hostium stragem coopertum telis; funusque ei par morti celebrante collega factum est. illud adiciendum videtur, licere consuli dictatorique et praetori, cum legiones hostium devoveat, non utique se, sed quem velit ex legione Romana scripta civem devovere. si is homo, qui devotus est, moritur, probe factum videri; ni moritur, tum signum septem pedes altum aut maius in terram defodi et piaculum hostiam caedi; ubi illud signum defossum erit, eo magistratum Romanum escendere fas non esse.",
-      "korean": "",
+      "korean": "전투 뒤 적진을 점령했고 그곳에서 많은 사람, 특히 캄파니아인이 산 채로 붙잡혔다. 찾던 사람들이 밤을 맞아 데키우스의 몸을 그날 발견하지 못했다. 이튿날 가장 큰 적의 시체 더미 속에서 무기에 덮인 채 발견했고, 동료는 그 죽음에 걸맞은 장례를 치렀다. 여기에는 한 가지를 덧붙여야 할 듯하다. 집정관·독재관·법무관이 적의 군단들을 제물로 바칠 때 반드시 자기 자신을 바칠 필요는 없고, 징집된 로마 군단에서 원하는 시민 한 사람을 바칠 수 있다. 몸을 바친 사람이 죽으면 의례가 올바로 이루어진 것으로 본다. 죽지 않으면 높이 7피트 이상의 형상을 땅에 묻고 속죄 제물을 잡는다. 그 형상을 묻은 곳에는 로마 정무관이 올라서는 것이 신법상 허용되지 않는다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -894,9 +929,14 @@
       "paragraph": 39,
       "ref": "Liv. 8.10.13–14",
       "original": "sin autem sese devovere volet, sicuti Decius devovit, ni moritur, neque suum neque publicum divinum pure faciet, sive hostia sive quo alio volet. qui sese devoverit, Vulcano arma sive cui alii divo vovere volet, ius est; telo, super quod stans consul precatus est, hostem potiri fas non est; si pQtiatur, Marti suovetaurilibus piaculum fieri.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "그러나 데키우스처럼 자기 자신을 바치려 했는데 죽지 않으면 개인 의례든 국가 의례든 정결하게 거행할 수 없다. 제물을 바치는 의례나 그 밖에 원하는 어떤 의례도 마찬가지다. 자기 몸을 바친 사람은 자기 무장을 불카누스 또는 원하는 다른 신에게 봉헌할 수 있다. 집정관이 그 위에 서서 기도한 투창을 적이 차지하는 것은 신법상 허용되지 않는다. 적이 차지했다면 마르스에게 돼지·양·황소의 세 희생 제물을 바쳐 속죄해야 한다.",
+      "notes": [
+        {
+          "label": "세 희생 제물",
+          "text": "suovetaurilia는 돼지(sus), 양(ovis), 황소(taurus)를 함께 바치는 대표적인 로마의 정화·속죄 의례다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -916,9 +956,9 @@
       "paragraph": 40,
       "ref": "Liv. 8.11.1–4",
       "original": "haec, etsi omnis divini humanique moris memoria abolevit nova peregrinaque omnia priscis ac patriis praeferendo, haud ab re duxi verbis quoque ipsis, ut tradita nuncupataque sunt, referre. Romanis post proelium demum factum Samnites venisse subsidio, expectato eventu pugnae, apud quosdam auctores invenio. Latinis quoque ab Lavinio auxilium, dum deliberando terunt tempus, victis demum ferri coeptum; et, cum iam portis prima signa et pars agminis esset egressa, nuntio adlato de clade Latinorum cum conversis signis retro in urbem rediretur, praetorem eorum nomine Milionium dixisse ferunt pro paulula via magnam mercedem esse Romanis solvendam.",
-      "korean": "",
+      "korean": "새롭고 외국에서 온 모든 것을 오래되고 조상에게서 물려받은 것보다 앞세워 신과 인간의 모든 옛 관습에 대한 기억이 사라졌지만, 나는 이 내용을 전해지고 서원된 바로 그 말로 옮겨 적는 것이 주제에서 벗어나지 않는다고 보았다. 몇몇 저술가의 기록에서는 로마의 전투가 끝난 뒤에야 삼니움인이 전투 결과를 지켜보다 지원하러 왔다고 한다. 라비니움에서 라틴인에게 오던 지원군도 의논으로 시간을 보내다가 패배 뒤에야 출발했다. 선두 군기들과 대오 일부가 이미 성문을 나섰을 때 라틴인의 패전 소식이 전해져 군기들을 돌려 도시로 돌아가자, 밀리오라는 이름의 그들 법무관이 ‘그 짧은 길을 갔다 온 대가로 로마인에게 큰 값을 치러야겠구나’라고 말했다고 한다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -937,9 +977,9 @@
       "paragraph": 41,
       "ref": "Liv. 8.11.5–7",
       "original": "qui Latinorum pugnae superfuerant multis itineribus dissipati cum se in unum conglobassent, Vescia urbs eis receptaculum fuit. ibi in conciliis Numisius, imperator eorum, ad renovandum bellum principes excitabat adfirmando communem vere Martem belli utramque aciem pari caede prostravisse victoriaeque nomen tantum penes Romanos esse, ceteram pro victis fortunam et illos gerere; funesta duo consulum praetoria, alterum parricidio filii, alterum consulis devoti caede; trucidatum exercitum omnem, caesos hastatos principesque, stragem et ante signa et post signa factam, triarios postremo rem restituisse;",
-      "korean": "",
+      "korean": "전투에서 살아남은 라틴인들은 여러 길로 흩어졌다가 한 무리로 뭉쳐 베스키아 시를 피난처로 삼았다. 그곳의 회의에서 지휘관 누미시우스가 지도자들에게 전쟁을 다시 일으키라고 부추겼다. ‘참으로 어느 편도 가리지 않는 전쟁의 마르스가 양쪽 전열을 같은 살육으로 쓰러뜨렸다. 로마인이 가진 것은 승리라는 이름뿐이고 나머지 운명은 그들도 패자와 같다. 두 집정관 막사는 상가가 되었다. 하나는 아들을 죽인 일로, 다른 하나는 자기 몸을 바친 집정관의 죽음으로 그러하다. 군대 전체가 도륙되고 선봉병과 주력병이 죽었으며, 군기 앞뒤로 시체가 쌓였다. 마지막에 후열병이 사태를 되돌렸을 뿐이다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -958,9 +998,9 @@
       "paragraph": 42,
       "ref": "Liv. 8.11.8–10",
       "original": "Latinorum etsi pariter accisae copiae sint, tamen supplemento vel Latium propius esse vel Volscos quam Romam; itaque, si videatur eis, se, ex Latinis et ex Volscis populis iuventute propere excita, rediturum infesto exercitu Capuam esse Romanosque nihil tum minus quam proelium expectantes necopinato adventu perculsurum. fallacibus litteris circa Latium nomenque Volscum missis, quia, qui non interfuerant pugnae, ad credendum temere faciliores erant, tumultuarius undique exercitus raptim conscriptus convenit.",
-      "korean": "",
+      "korean": "‘라틴 병력도 똑같이 꺾였지만 보충병을 구하기에는 로마보다 라티움과 볼스키인이 더 가깝다. 그러므로 여러분이 원한다면 라틴과 볼스키 공동체에서 젊은이들을 서둘러 불러내 적의를 품은 군대를 이끌고 카푸아로 돌아가겠다. 그때에는 싸움을 조금도 예상하지 않는 로마인을 갑작스러운 출현으로 덮칠 것이다.’ 그는 라티움과 볼스키 공동체 주변에 거짓된 내용의 편지를 보냈다. 전투에 참여하지 않은 사람들은 성급하게 믿기 쉬웠으므로 사방에서 급조한 군대가 서둘러 징집되어 모였다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -979,9 +1019,9 @@
       "paragraph": 43,
       "ref": "Liv. 8.11.11–13",
       "original": "huic agmini Torquatus consul ad Trifanum — inter Sinuessam Minturnasque is locus est — occurrit. priusquam castris locus caperetur, sarcinis utrimque in acervum coniectis pugnatum debellatumque est; adeo enim accisae res sunt, ut consuli victorem exercitum ad depopulandos agros eorum ducenti dederent se omnes Latini deditionemque eam Campani sequerentur. Latium Capuaque agro multati. Latinus ager, Privernati addito agro, et Falernus, qui populi Campani fuerat, usque ad Vulturnum flumen plebi Romanae dividitur.",
-      "korean": "",
+      "korean": "토르콰투스 집정관이 시누에사와 민투르나이 사이의 트리파눔에서 이 대오와 마주쳤다. 양쪽 모두 진영을 잡기도 전에 짐을 한 무더기로 던져두고 싸웠으며, 그것으로 전쟁이 끝났다. 사정이 그토록 절망적으로 무너져 집정관이 승리한 군대를 이끌고 그들의 영토를 황폐하게 하자 라틴인 전부가 항복했고 캄파니아인도 그 항복을 뒤따랐다. 라티움과 카푸아에서는 토지를 빼앗았다. 프리베르눔 영토를 더한 라틴의 땅과 캄파니아 인민의 것이던 볼투르누스강까지의 팔레르눔 땅을 로마 평민에게 나누어주었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1000,9 +1040,14 @@
       "paragraph": 44,
       "ref": "Liv. 8.11.14–16",
       "original": "bina in Latino iugera, ita ut dodrante ex Privernati conplerent, data, terna in Falerno quadrantibus etiam pro longinquitate adiectis. extra poenam fuere Latinorum Laurentes Campanorumque equites, quia non desciverant. cum Laurentibus renovari foedus iussum, renovaturque ex eo quotannis post diem decimum Latinarum. equitibus Campanis civitas Romana data, monumentoque ut esset, aeneam tabulam in aede Castoris Romae fixerunt. vectigal quoque eis Campanus populus iussus pendere in singulos quotannis — fuere autem mille et sescenti — denarios nummos quadringenos quinquagenos.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "각자 라틴 영토에서 2유게룸을 받고 프리베르눔 영토에서 4분의 3유게룸을 보충받았다. 팔레르눔에서는 3유게룸씩 받고, 먼 거리를 고려해 4분의 1유게룸을 더했다. 라틴인 가운데 라우렌툼인과 캄파니아 기병은 이탈하지 않았으므로 처벌에서 빠졌다. 라우렌툼인과는 조약을 갱신하라고 명했고, 그 뒤로 해마다 라틴 축제 열흘 뒤에 갱신한다. 캄파니아 기병에게는 로마 시민권을 주고 이를 기념하도록 로마의 카스토르 신전에 청동판을 세웠다. 캄파니아 인민에게는 1,600명이던 그 기병 한 사람 한 사람에게 해마다 450데나리우스씩 세금으로 지급하라고 명했다.",
+      "notes": [
+        {
+          "label": "토지 배분",
+          "text": "1유게룸은 약 0.25헥타르다. 멀리 있는 팔레르눔 토지에는 4분의 1유게룸을 추가해 거리를 보상했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1021,9 +1066,9 @@
       "paragraph": 45,
       "ref": "Liv. 8.12.1–3",
       "original": "ita bello gesto praemiis poenaque pro cuiusque z merito persolutis T. Manlius Romam rediit. cui venienti seniores tantum obviam exisse constat, iuventutem et tunc et omni vita deinde aversatam eum exsecratamque. Antiates in agrum Ostiensem, Ardeatem, Solonium incursiones fecerunt. Manlius consul, quia ipse per valetudinem id bellum exequi nequierat, dictatorem L. Papirium Crassum, qui tum forte erat praetor, dixit; ab eo magister equitum L. Papirius Cursor dictus. nihil memorabile adversus Antiates ab dictatore gestum est, cum aliquot menses stativa in agro Antiati habuisset.",
-      "korean": "",
+      "korean": "전쟁을 이렇게 치르고 각자의 공과에 따라 상과 벌을 내린 뒤 티투스 만리우스가 로마로 돌아왔다. 그를 맞으러 나온 사람은 노인들뿐이었고, 젊은이들은 그때에도 뒤의 평생에도 그를 피하고 저주했다고 전한다. 안티움인은 오스티아·아르데아·솔로니움 영토를 습격했다. 만리우스 집정관은 건강 때문에 이 전쟁을 수행할 수 없어 당시 법무관이던 루키우스 파피리우스 크라수스를 독재관으로 임명했다. 독재관은 루키우스 파피리우스 쿠르소르를 기병대장으로 삼았다. 안티움 영토에서 몇 달 동안 숙영했으나 안티움인을 상대로 기억할 만한 일은 하지 못했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1042,9 +1087,9 @@
       "paragraph": 46,
       "ref": "Liv. 8.12.4–6",
       "original": "anno insigni victoria de tot ac tam potentibus populis, ad hoc consulum alterius nobili morte, alterius sicut truci ita claro ad memoriam imperio, successere consules Ti. Aemilius Mamercinus Q. Publilius Philo, neque in similem materiam rerum, et ipsi aut suarum rerum aut partium in re publica magis quam patriae memores. Latinos ob iram agri amissi rebellantes in campis Fenectanis fuderunt castrisque exuerunt. ibi Publilio, cuius ductu auspicioque res gestae erant, in deditionem accipiente Latinos populos, quorum ibi iuventus caesa erat, Aemilius ad Pedum exercitus duxit.",
-      "korean": "",
+      "korean": "그해는 그토록 많고 강한 민족에게 거둔 승리, 집정관 한 사람의 고귀한 죽음, 다른 사람의 잔혹하지만 기억에 뚜렷한 명령으로 두드러졌다. 뒤를 이은 집정관은 티베리우스 아이밀리우스 마메르키누스와 퀸투스 푸블릴리우스 필로였다. 그러나 이들이 마주한 사건들은 같은 종류가 아니었고, 두 사람 자신도 조국보다 자기 일이나 정파를 더 기억했다. 잃은 토지 때문에 반란을 일으킨 라틴인을 페넥타나 평야에서 무찌르고 진영에서 몰아냈다. 그 전과를 자기 지휘와 길조로 이룬 푸블릴리우스가 그곳에서 젊은이들을 잃은 라틴 공동체들의 항복을 받아들이는 동안 아이밀리우스는 군대를 페둠으로 이끌었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1064,9 +1109,9 @@
       "paragraph": 47,
       "ref": "Liv. 8.12.7–10",
       "original": "Pedanos tuebatur Tiburs, Praenestinus Veliternusque populus; venerant et ab Lanuvio Antioque auxilia. ubi cum proeliis quidem superior Romanus esset, ad urbem ipsam Pedum castraque sociorum populorum, quae urbi adiuncta erant, integer labor restaret, bello infecto repente omisso consul, quia collegae decretum triumphum audivit, ipse quoque triumphi ante victoriam flagitator Romam rediit. qua cupiditate offensis patribus negantibusque nisi Pedo capto aut dedito triumphum, hinc alienatus ab senatu Aemilius seditiosis tribunatibus similem deinde consulatum gessit.",
-      "korean": "",
+      "korean": "페둠인은 티부르·프라이네스테·벨리트라이 인민의 보호를 받았고 라누비움과 안티움에서도 지원군이 왔다. 로마군은 전투들에서 우세했지만 페둠 시 자체와 도시에 붙어 있던 동맹 공동체의 진영을 공략하는 온전한 수고가 남아 있었다. 그런데 집정관은 동료에게 개선식이 의결되었다는 말을 듣자 전쟁을 끝내지 않고 갑자기 버린 채 자기도 승리 전에 개선식을 요구하러 로마로 돌아왔다. 이 탐욕에 불쾌해진 귀족들은 페둠을 점령하거나 항복시키기 전에는 개선식을 허락하지 않았다. 이 때문에 원로원과 멀어진 아이밀리우스는 뒤의 집정관 임기를 선동적인 호민관처럼 수행했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1088,9 +1133,14 @@
       "paragraph": 48,
       "ref": "Liv. 8.12.11–16",
       "original": "nam neque, quoad fuit consul, criminari apud populum patres destitit collega haudquaquam adversante, quia et ipse de plebe erat — materiam autem praebebat criminibus ager in Latino Falernoque agro maligne plebei divisus —, et postquam senatus, finire imperium consulibus cupiens, dictatorem adversus rebellantes Latinos dici iussit, Aemilius, cuius tum fasces erant, collegam dictatorem dixit; ab eo magister equitum Iunius Brutus dictus. dictatura popularis et orationibus in patres criminosis fuit, et quod tres leges secundissimas plebei, adversas nobilitati tulit: unam, ut plebi scita omnes Quirites tenerent, alteram, ut legum, quae comitiis centuriatis ferrentur, ante initum suffragium patres auctores fierent, tertiam, ut alter utique ex plebe, cum eo uentum sit, ut utrumque plebeium fieri liceret, censor crearetur.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "그는 집정관으로 있는 동안 민중 앞에서 귀족들을 고발하는 일을 멈추지 않았다. 동료도 자신이 평민이었기에 조금도 반대하지 않았다. 라티움과 팔레르눔 영토에서 평민에게 야박하게 나누어준 땅이 고발의 재료가 되었다. 원로원이 집정관들의 명령권을 끝내려고 반란을 일으킨 라틴인을 상대할 독재관을 임명하라 하자, 그때 파스케스를 지닌 아이밀리우스가 자기 동료를 독재관으로 임명했다. 푸블릴리우스는 유니우스 브루투스를 기병대장으로 삼았다. 그의 독재관직은 귀족을 고발하는 연설로도, 평민에게 매우 유리하고 귀족에게 불리한 세 법을 통과시킨 일로도 민중 편이었다. 첫째, 평민의 결의가 모든 로마 시민을 구속하게 했다. 둘째, 백인대 민회에 제출되는 법은 투표를 시작하기 전에 귀족들이 미리 승인하게 했다. 셋째, 두 감찰관을 모두 평민으로 뽑는 것이 허용된 마당에 적어도 한 명은 반드시 평민으로 선출하게 했다.",
+      "notes": [
+        {
+          "label": "푸블릴리우스 법",
+          "text": "귀족의 사후 승인으로 민중의 결정을 뒤집기 어렵게, 투표 전에 형식적 승인을 하도록 바꾼 조치다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1107,9 +1157,9 @@
       "paragraph": 49,
       "ref": "Liv. 8.12.17",
       "original": "plus eo anno domi acceptum cladis ab consulibus ac dictatore, quam ex victoria eorum bellicisque rebus foris auctum imperium patres credebant.",
-      "korean": "",
+      "korean": "귀족들은 그해 집정관과 독재관 때문에 국내에서 입은 손실이 그들의 승리와 국외 전공으로 늘어난 지배권보다 더 크다고 여겼다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1128,9 +1178,9 @@
       "paragraph": 50,
       "ref": "Liv. 8.13.1–3",
       "original": "anno insequenti, L. Furio Camillo C. Maenio consulibus, quo insignitius omissa res Aemilio, superioris anni consuli, exprobraretur, Pedum armis virisque et omni vi expugnandum ac delendum senatus fremit; coactique novi consules omnibus eam rem praeverti proficiscuntur. iam in Latio is status erat rerum, ut neque bellum neque pacem pati possent; ad bellum opes deerant; pacem ob agri adempti dolorem aspernabantur. mediis consiliis standum videbatur, ut oppidis se tenerent, ne lacessitus Romanus causam belli haberet, et, si cuius oppidi obsidio nuntiata esset, undique ex omnibus populis auxilium obsessis ferretur.",
-      "korean": "",
+      "korean": "이듬해 루키우스 푸리우스 카밀루스와 가이우스 마이니우스가 집정관이 되자 원로원은 전년의 집정관 아이밀리우스가 일을 버린 것을 더욱 두드러지게 꾸짖으려는 듯 외쳤다. 페둠을 무기와 병력과 모든 힘으로 공격하여 없애야 한다는 것이었다. 새 집정관들은 다른 모든 일보다 이 일을 앞세워 출정할 수밖에 없었다. 당시 라티움의 형세는 전쟁도 평화도 견딜 수 없는 지경이었다. 전쟁에는 재력이 부족했고 빼앗긴 땅에 대한 고통 때문에 평화를 거부했다. 중간 방책을 따라야 할 듯했다. 로마인을 자극하여 전쟁의 구실을 주지 않도록 도시 안에 머물되, 어느 도시가 포위되었다는 소식이 오면 모든 공동체에서 사방으로 지원군을 보내는 것이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1150,9 +1200,9 @@
       "paragraph": 51,
       "ref": "Liv. 8.13.4–7",
       "original": "neque tamen nisi admodum a paucis populis Pedani adiuti sunt. Tiburtes Praenestinique, quorum ager propior erat, Pedum pervenere; Aricinos Lanuuinosque et Veliternos Antiatibus Volscis se coniugentes ad Asturae flumen Maenius inproviso adortus fudit. Camillus ad Pedum cum Tiburtibus, maxime valido exercitu, maiore mole, quamquam aeque prospero eventu, pugnat. tumultum maxime repentina inter proelium eruptio oppidanorum fecit, in quos parte exercitus conversa Camillus non conpulit solum eos intra moenia, sed eodem etiam die, cum ipsos auxiliaque eorum perculisset, oppidum scalis cepit.",
-      "korean": "",
+      "korean": "그러나 페둠인을 도운 공동체는 극소수였다. 땅이 더 가까운 티부르인과 프라이네스테인이 페둠에 이르렀다. 아리키아인·라누비움인·벨리트라이인이 안티움의 볼스키인과 합류하려 할 때 마이니우스가 아스투라강에서 불시에 공격하여 무찔렀다. 카밀루스는 페둠에서 특히 강한 군대를 이룬 티부르인과 더 힘겨우나 똑같이 성공적인 전투를 벌였다. 전투 도중 도시 사람들이 갑자기 뛰쳐나와 큰 소란을 일으켰다. 카밀루스는 군대 일부를 그들에게 돌려 성벽 안으로 몰아넣었을 뿐 아니라, 같은 날 그들과 지원군을 꺾은 뒤 사다리를 대어 도시를 점령했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1172,9 +1222,9 @@
       "paragraph": 52,
       "ref": "Liv. 8.13.8–11",
       "original": "placuit inde iam maiore conatu animoque ab unius expugnatione urbis ad perdomandum Latium victorem circumducere exercitum. nec quievere, antequam expugnando aut in deditionem accipiendo singulas urbes Latium omne subegere. praesidiis inde dispositis per recepta oppida Romam ad destinatum omnium consensu triumphum decessere. additus triumpho honos, ut statuae equestres eis — rara illa aetate res — in foro ponerentur. priusquam comitiis in insequentem annum consules rogarent, Camillus de Latinis populis ad senatum rettulit atque ita disseruit: “patres conscripti, quod bello armisque in Latio agendum fuit, id iam deum benignitate ac virtute militum ad finem venit.",
-      "korean": "",
+      "korean": "한 도시를 공략한 데서 멈추지 않고 더 큰 노력과 기세로 라티움 전체를 완전히 굴복시키도록 승리한 군대를 돌리기로 했다. 각 도시를 공격하여 차지하거나 항복을 받아 라티움 전체를 복종시키기 전에는 쉬지 않았다. 되찾은 도시마다 수비대를 배치하고 모두의 합의로 예정된 개선식을 위해 로마로 돌아왔다. 개선식에는 그 시대에 드문 영예도 더해져 두 집정관의 기마상을 포룸에 세웠다. 이듬해 집정관을 뽑는 선거를 열기 전 카밀루스가 라틴 공동체의 처분을 원로원에 제안하며 이렇게 말했다. ‘원로원 의원들이여, 라티움에서 전쟁과 무기로 해야 할 일은 신들의 호의와 병사들의 용맹으로 이제 끝났습니다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1194,9 +1244,9 @@
       "paragraph": 53,
       "ref": "Liv. 8.13.12–15",
       "original": "caesi ad Pedum Asturamque sunt exercitus hostium; oppida Latina omnia et Antium ex Volscis aut vi capta aut recepta in deditionem praesidiis tenentur vestris. reliqua consultatio est, quoniam rebellando saepius nos sollicitant, quonam modo perpetua pace quietos obtineamus. di inmortales ita vos potentes huius consilii fecerunt, ut, sit Latium deinde an non sit, in vestra manu posuerint; itaque pacem vobis, quod ad Latinos attinet, parare in perpetuum vel saeviendo vel ignoscendo potestis. vultis crudeliter consulere in deditos victosque? licet delere omne Latium, vastas inde solitudines facere, unde sociali egregio exercitu per multa bella magnaque saepe usi estis;",
-      "korean": "",
+      "korean": "‘적의 군대들은 페둠과 아스투라에서 죽임당했습니다. 라틴의 모든 도시와 볼스키의 안티움은 무력으로 점령되거나 항복을 받아 여러분의 수비대가 지키고 있습니다. 남은 논의는 이들이 거듭 반란을 일으켜 우리를 괴롭히지 못하도록 어떤 방식으로 영원한 평온을 유지할 것인가입니다. 불멸의 신들은 라티움이 앞으로 존재할지 말지를 여러분의 손에 둘 만큼 이 결정에 대한 힘을 주었습니다. 그러므로 라틴인에 관한 한 가혹하게 처벌하든 용서하든 영원한 평화를 마련할 수 있습니다. 항복한 패자를 잔혹하게 처리하기 원합니까? 할 수 있습니다. 라티움 전체를 없애고, 우리가 수많은 큰 전쟁에서 자주 훌륭한 동맹군을 얻었던 곳을 넓은 황무지로 만들 수 있습니다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1215,9 +1265,9 @@
       "paragraph": 54,
       "ref": "Liv. 8.13.16–18",
       "original": "vultis exemplo maiorum augere rem Romanam victos in civitatem accipiendo? materia crescendi per summam gloriam suppeditat. certe id firmissimum longe imperium est, quo oboedientes gaudent. sed maturato opus est, quidquid statuere placet; tot populos inter spem metumque suspensos animi habetis; et vestram itaque de eis curam quam primum absolvi, et illorum animos, dum expectatione stupent, seu poena seu beneficio praeoccupari oportet. nostrum fuit efficere, ut omnium rerum vobis ad consulendum potestas esset, vestrum est decernere, quod optimum vobis reique publicae sit.”",
-      "korean": "",
+      "korean": "‘패자를 시민으로 받아들여 로마의 국력을 키운 조상들의 본을 따르고 싶습니까? 가장 큰 영예를 얻으며 성장할 재료가 충분합니다. 복종하는 자들이 기뻐하는 지배야말로 단연 가장 튼튼합니다. 그러나 무엇을 정하든 서둘러야 합니다. 그토록 많은 민족의 마음을 희망과 두려움 사이에 매달아두고 있습니다. 여러분은 그들에 대한 염려를 빨리 끝내야 하고, 그들도 기다림에 넋을 잃은 동안 벌이든 은혜든 먼저 마음을 사로잡아야 합니다. 여러분에게 모든 일을 결정할 권한이 생기게 하는 것은 우리의 몫이었고, 여러분과 공화국에 가장 좋은 것을 정하는 것은 여러분의 몫입니다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1237,9 +1287,14 @@
       "paragraph": 55,
       "ref": "Liv. 8.14.1–4",
       "original": "principes senatus relationem consulis de summa rerum laudare, sed, cum aliorum causa alia esset, ita expediri posse consilium dicere, ut pro merito cuiusque statueretur, si de singulis nominatim referrent populis. relatum igitur de singulis decretumque. Lanuvinis civitas data sacraque sua reddita cum eo, ut aedes lucusque Sospitae Iunonis communis Lanuvinis municipibus cum populo Romano esset. Aricini Nomentanique et Pedani eodem iure, quo Lanuvini, in civitatem accepti, Tusculanis servata civitas, quam habebant, crimenque rebellionis a publica fraude in paucos auctores versum.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "원로원의 지도자들은 전체 사태에 관한 집정관의 제안을 칭찬했다. 그러나 공동체마다 처지가 다르므로 하나씩 이름을 들어 논의하면 각자의 공과에 따라 정할 수 있다고 했다. 그리하여 각 공동체의 일을 따로 상정하여 결정했다. 라누비움인에게는 시민권을 주고 그들의 제의를 돌려주되, 소스피타 유노의 신전과 성림을 라누비움의 무니키피움 시민과 로마 인민이 공동으로 섬기게 했다. 아리키아인·노멘툼인·페둠인도 라누비움인과 같은 권리로 시민 공동체에 받아들였다. 투스쿨룸인은 이미 가진 시민권을 보존했고, 반란의 죄는 공동체의 배신이 아니라 몇몇 주동자에게 돌렸다.",
+      "notes": [
+        {
+          "label": "무니키피움",
+          "text": "정복 뒤 로마 시민 공동체에 편입되면서도 지방의 행정과 정체성을 일정 부분 유지한 자치시다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1259,9 +1314,9 @@
       "paragraph": 56,
       "ref": "Liv. 8.14.5–8",
       "original": "in Veliternos, veteres cives Romanos, quod totiens rebellassent, graviter saevitum; et muri deiecti et senatus inde abductus iussique trans Tiberim habitare, ut eius, qui cis Tiberim deprehensus esset, usque ad mille assium clarigatio esset nec prius quam aere persoluto is, qui cepisset, extra vincula captum haberet. in agrum senatorum coloni missi, quibus adscriptis speciem antiquae frequentiae Velitrae receperunt. et Antium nova colonia missa cum eo, ut Antiatibus permitteretur, si et ipsi adscribi coloni vellent; naves inde longae abactae interdictumque mari Antiati populo est et civitas data.",
-      "korean": "",
+      "korean": "오래된 로마 시민이면서 그토록 자주 반란한 벨리트라이인에게는 가혹하게 사나움을 부렸다. 성벽을 헐고 원로원 의원들을 끌어내 티베리스강 건너에 살라고 명했다. 강 이쪽에서 붙잡힌 자에게는 1천 아스를 요구할 수 있었고, 그 돈을 다 치르기 전에는 붙잡은 사람이 포로를 사슬 밖에 두지 못했다. 원로원 의원들의 땅에는 식민자를 보냈다. 이들이 시민 명부에 더해지자 벨리트라이는 옛날처럼 사람이 많은 모습을 되찾았다. 안티움에는 새 식민단을 보내되 안티움인도 원한다면 식민자로 등록할 수 있게 했다. 그들의 전함을 빼앗고 안티움 인민에게 바다로 나가는 일을 금지했으며 시민권을 주었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1280,9 +1335,14 @@
       "paragraph": 57,
       "ref": "Liv. 8.14.9–11",
       "original": "Tiburtes Praenestinique agro multati, neque ob recens tantum rebellionis commune cum aliis Latinis crimen, sed quod taedio imperii Romani cum Gallis, gente efferata, arma quondam consociassent. ceteris Latinis populis conubia commerciaque et concilia inter se ademerunt. Campanis, equitum honoris causa, quia cum Latinis rebellare noluissent, Fundanisque et Formianis, quod per fines eorum tuta pacataque semper fuisset via, civitas sine suffragio data. Cumanos Suessulanosque eiusdem iuris condicionisque, cuius Capuam, esse placuit.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "티부르인과 프라이네스테인에게서는 땅을 빼앗았다. 다른 라틴인과 함께 최근 반란한 죄뿐 아니라 로마의 지배에 싫증이 나서 야만적인 민족 갈리아인과 한때 무기를 합친 죄 때문이었다. 나머지 라틴 공동체들에서는 서로 통혼하고 거래하고 회의를 여는 권리를 빼앗았다. 라틴인과 함께 반란하지 않은 기병의 명예를 보아 캄파니아인에게, 또 자기들 영토를 지나는 길이 늘 안전하고 평온했던 일을 보아 푼디인과 포르미아이인에게 투표권 없는 시민권을 주었다. 쿠마이인과 수에술라인은 카푸아와 같은 권리와 처지에 두기로 했다.",
+      "notes": [
+        {
+          "label": "라틴 공동체의 분리",
+          "text": "로마는 공동체마다 다른 조건을 적용하고 라틴인끼리의 통혼·거래·공동회의를 끊어 하나의 연맹으로 다시 결집하기 어렵게 했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1299,9 +1359,14 @@
       "paragraph": 58,
       "ref": "Liv. 8.14.12",
       "original": "naves Antiatium partim in navalia Romae subductae partim incensae, rostrisque earum suggestum in foro exstructum adornari placuit, Rostraque id templum appellatum.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "안티움의 배들 가운데 일부는 로마의 선창으로 끌어올리고 일부는 불태웠다. 그 배들의 충각으로 포룸의 연단을 장식하기로 했고, 그 신성한 연단은 ‘로스트라’라 불렸다.",
+      "notes": [
+        {
+          "label": "로스트라",
+          "text": "rostrum은 배의 청동 충각이다. 안티움 전함의 충각들로 장식한 뒤 포룸의 연설 연단 전체를 복수형 Rostra라 부르게 되었다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1321,9 +1386,9 @@
       "paragraph": 59,
       "ref": "Liv. 8.15.1–4",
       "original": "C. Sulpicio Longo P. Aelio Paeto consulibus, cum omnia non opes magis Romanae quam beneficiis parta gratia bona pace obtineret, inter Sidicinos Auruncosque bellum ortum. Aurunci a T. Manlio consule in deditionem accepti nihil deinde moverant; eo petendi auxilii ab Romanis causa iustior fuit. sed priusquam consules ab urbe — iusserat enim senatus defendi Auruncos — exercitum educerent, fama adfertur Auruncos metu oppidum deseruisse profugosque cum coniugibus ac liberis Suessam communisse, quae nunc Aurunca appellatur, moenia antiqua eorum urbemque ab Sidicinis deletam.",
-      "korean": "",
+      "korean": "가이우스 술피키우스 롱구스와 푸블리우스 아일리우스 파이투스가 집정관일 때, 로마의 힘 못지않게 은혜로 얻은 호의 덕분에 모든 것을 평화롭게 지키고 있던 가운데 시디키니인과 아우룬키인 사이에 전쟁이 일어났다. 아우룬키인은 티투스 만리우스 집정관에게 항복한 뒤 아무런 움직임도 보이지 않았다. 따라서 로마인에게 도움을 청할 이유가 더 정당했다. 원로원은 아우룬키인을 지키라고 명했지만 집정관들이 군대를 도시 밖으로 내보내기도 전에, 아우룬키인이 두려움 때문에 도시를 버리고 아내와 자식을 데리고 수에사를 요새화했다는 소식이 왔다. 이곳은 오늘날 아우룬카라고 불린다. 그들의 옛 성벽과 도시는 시디키니인에게 파괴되었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1343,9 +1408,14 @@
       "paragraph": 60,
       "ref": "Liv. 8.15.5–8",
       "original": "ob ea infensus consulibus senatus, quorum cunctatione proditi socii essent, dictatorem dici iussit. dictus C. Claudius Inregillensis magistrum equitum C. Claudium Hortatorem dixit. religio inde iniecta de dictatore, et cum augures vitio creatum videri dixissent, dictator magisterque equitum se magistratu abdicarunt. eo anno Minucia Vestalis suspecta primo propter mundiorem iusto cultum, insimulata deinde apud pontifices ab indice servo, cum decreto eorum iussa esset sacris abstinere familiamque in potestate habere, facto iudicio viva sub terram ad portam Collinam extra viam stratam defossa Scelerato campo; credo ab incesto id ei loco nomen factum.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "집정관들의 지체 때문에 동맹이 배신당했다고 분노한 원로원은 독재관을 임명하라고 명했다. 가이우스 클라우디우스 인레길렌시스가 독재관으로 임명되어 가이우스 클라우디우스 호르타토르를 기병대장으로 삼았다. 그런데 독재관 임명에 종교적 의문이 제기되었다. 점복관들이 임명 절차에 하자가 있는 것으로 보인다고 하자 독재관과 기병대장은 관직에서 물러났다. 같은 해 베스타 여사제 미누키아는 처음에는 지나치게 화려한 옷차림 때문에 의심받았고, 뒤에는 노예 밀고자가 대신관들에게 고발했다. 대신관들의 결정으로 제의 참여를 금지당하고 자기 노예들을 처분하지 말고 그대로 두라는 명령을 받은 뒤 재판을 받았다. 그는 포장도로 바깥 콜리나 성문 가까운 ‘범죄의 들판’에서 산 채로 땅에 묻혔다. 나는 베스타 여사제의 순결을 깨뜨린 죄 때문에 그곳에 그런 이름이 붙었다고 생각한다.",
+      "notes": [
+        {
+          "label": "베스타 여사제의 처형",
+          "text": "여사제의 피를 직접 흘리지 않는다는 형식 아래 지하 방에 가두어 산 채로 매장했다. 원문의 incesto는 종교적 순결 위반을 뜻한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1362,9 +1432,9 @@
       "paragraph": 61,
       "ref": "Liv. 8.15.9",
       "original": "eodem anno Q. Publilius Philo praetor primus de plebe adversante Sulpicio consule, qui negabat rationem eius se habiturum, est factus senatu, cum in summis imperiis id non obtinuisset, minus in praetura tendente.",
-      "korean": "",
+      "korean": "같은 해 퀸투스 푸블릴리우스 필로가 평민 최초의 법무관이 되었다. 술피키우스 집정관은 그의 입후보를 받아들이지 않겠다고 반대했지만, 원로원은 최고 지휘권을 가진 관직들에서도 뜻을 이루지 못한 마당에 법무관직에서는 그만큼 끝까지 밀어붙이지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1384,9 +1454,9 @@
       "paragraph": 62,
       "ref": "Liv. 8.16.1–4",
       "original": "insequens annus, L. Papirio Crasso K. Duillio consulibus, Ausonum magis novo quam magno bello fuit insignis. ea gens Cales urbem incolebat; Sidicinis finitimis arma coniunxerat unoque proelio haud sane memorabili duorum populorum exercitus fusus propinquitate urbium et ad fugam pronior et in fuga ipsa tutior fuit. nec tamen omissa eius belli cura patribus, quia totiens iam Sidicini aut ipsi moverant bellum aut moventibus auxilium tulerant aut causa armorum fuerant. itaque omni ope adnisi sunt, ut maximum ea tempestate imperatorem M. Valerium Corvum consulem quartum facerent;",
-      "korean": "",
+      "korean": "이듬해 루키우스 파피리우스 크라수스와 카이소 두일리우스가 집정관일 때는 아우소니인의 전쟁이 있었다. 큰 전쟁이라기보다 새로운 전쟁이라는 점에서 두드러졌다. 이 민족은 칼레스 시에 살았으며 이웃 시디키니인과 무기를 합쳤다. 두 민족의 군대는 별로 기억할 만하지도 않은 한 차례 전투에서 패했다. 도시가 가까워 도망치려는 마음이 더 강했고 도주할 때에도 더 안전했다. 그래도 원로원은 이 전쟁에 대한 염려를 놓지 않았다. 시디키니인은 이미 그토록 자주 스스로 전쟁을 일으키고, 전쟁을 일으킨 자들을 돕고, 무기를 들게 하는 원인이 되었기 때문이다. 그리하여 당시 가장 뛰어난 지휘관 마르쿠스 발레리우스 코르부스를 네 번째 집정관으로 만들려고 온 힘을 다했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1406,9 +1476,9 @@
       "paragraph": 63,
       "ref": "Liv. 8.16.5–8",
       "original": "collega additus Corvo M. Atilius Regulus; et ne forte casu erraretur, petitum ab consulibus, ut extra sortem Corvi ea provincia esset. exercitu victore a superioribus consulibus accepto, ad Cales, unde bellum ortum erat, profectus cum hostes ab superioris etiam certaminis memoria providos clamore atque impetu primo fudisset, moenia ipsa oppugnare est adgressus. et militum quidem is erat ardor, ut iam inde cum scalis succedere ad muros vellent evasurosque contenderent; Corvus, quia id arduum factu erat, labore militum potius quam periculo peragere inceptum voluit. itaque aggerem et vineas egit turresque muro admovit, quarum usum forte oblata opportunitas praevertit.",
-      "korean": "",
+      "korean": "코르부스에게 마르쿠스 아틸리우스 레굴루스가 동료로 붙었다. 우연한 제비로 잘못 배정되는 일이 없도록 집정관들에게 이 전쟁은 추첨 없이 코르부스가 맡게 해달라고 요청했다. 그는 앞선 집정관들에게서 승리한 군대를 넘겨받아 전쟁이 시작된 칼레스로 향했다. 적은 지난 싸움의 기억 때문에 대비하고 있었지만 첫 함성과 돌격으로 무너뜨린 뒤 성벽 자체를 공격하기 시작했다. 병사들의 열기는 곧장 사다리를 들고 성벽으로 다가가 기어오르겠다고 주장할 만큼 뜨거웠다. 그러나 코르부스는 그 일이 어렵기에 병사들의 위험보다 수고를 들여 완수하기를 원했다. 둔덕을 쌓고 엄폐 통로를 밀며 공성탑을 성벽에 붙였다. 그런데 마침 생긴 기회 때문에 그것들을 쓸 필요가 없어졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1427,9 +1497,9 @@
       "paragraph": 64,
       "ref": "Liv. 8.16.9–11",
       "original": "namque M. Fabius, captiuus Romanus, cum per neglegentiam custodum festo die vinculis ruptis per murum inter opera Romanorum, religata ad pinnam muri reste suspensus, manibus se demisisset, perpulit imperatorein, ut vino epulisque sopitos hostes adgrederetur. nec maiore certamine capti cum urbe Ausones sunt, quam acie fusi erant. praeda capta ingens est praesidioque inposito Calibus reductae Romam legiones. consul ex senatus consulto triumphavit et, ne Atilius expers gloriae esset, iussi ambo consules adversus Sidicinos ducere exercitum.",
-      "korean": "",
+      "korean": "로마인 포로 마르쿠스 파비우스가 축제일에 경비병의 태만을 틈타 사슬을 끊었다. 그는 로마의 공성 시설들 사이에 있는 성벽의 흉벽에 밧줄을 묶어 매달린 뒤 두 손으로 몸을 낮춰 내려왔다. 그리고 적이 술과 잔치에 잠든 때 공격하라고 지휘관을 설득했다. 아우소니인과 그 도시는 앞서 전열에서 패했을 때보다 더 큰 싸움 없이 점령되었다. 막대한 전리품을 빼앗고 수비대를 칼레스에 배치한 뒤 군단들은 로마로 돌아갔다. 집정관은 원로원 결정에 따라 개선식을 거행했다. 아틸리우스도 영예에서 빠지지 않도록 두 집정관 모두 군대를 이끌고 시디키니인을 상대하라는 명령을 받았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1448,9 +1518,9 @@
       "paragraph": 65,
       "ref": "Liv. 8.16.12–14",
       "original": "dictatorem ante ex senatus consulto comitiorum habendorum causa dixerunt L. Aemilium Mamercinum; is magistrum equitum Q. Publilium Philonem dixit. dictatore comitia habente consules creati sunt T. Veturius Sp. Postumius. ei, etsi belli pars cum Sidicinis restabat, tamen, ut beneficio praevenirent desiderium plebis, de colonia deducenda Cales rettulerunt; factoque senatus consulto, ut duo milia quingenti homines eo scriberentur, triumviros coloniae deducendae agroque dividundo creaverunt K. Duillium, T. Quinctium, M. Fabium.",
-      "korean": "",
+      "korean": "그 전에 두 집정관은 원로원 결정에 따라 선거를 열도록 루키우스 아이밀리우스 마메르키누스를 독재관으로 임명했고, 그는 퀸투스 푸블릴리우스 필로를 기병대장으로 삼았다. 독재관이 선거를 열어 티투스 베투리우스와 스푸리우스 포스투미우스를 집정관으로 뽑았다. 시디키니인과 치를 전쟁이 일부 남아 있었지만, 새 집정관들은 평민이 바라기 전에 먼저 은혜를 베풀려고 칼레스에 식민시를 세우는 문제를 상정했다. 원로원은 2,500명을 등록하여 그곳으로 보내기로 의결했고, 식민단을 이끌고 토지를 나눌 삼인위원으로 카이소 두일리우스, 티투스 퀸크티우스, 마르쿠스 파비우스를 선출했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1470,9 +1540,9 @@
       "paragraph": 66,
       "ref": "Liv. 8.17.1–4",
       "original": "novi deinde consules a veteribus exercitu accepto ingressi hostium fines populando usque ad moenia atque urbem pervenerunt. ibi quia ingenti exercitu conparato Sidicini et ipsi pro extrema spe dimicaturi enixe videbantur et Samnium fama erat conciri ad bellum, dictator ab consulibus ex auctoritate senatus dictus P. Cornelius Rufinus, magister equitum M. Antonius. religio deinde incessit vitio eos creatos, magistratuque se abdicaverunt; et quia pestilentia insecuta est, velut omnibus eo vitio contactis auspiciis, res ad interregnum rediit.",
-      "korean": "",
+      "korean": "새 집정관들은 전임자에게 군대를 받아 적의 국경 안으로 들어갔다. 약탈하며 나아가 성벽과 도시에 이르렀다. 시디키니인도 마지막 희망을 위해 싸우려고 거대한 군대를 애써 마련한 듯했고 삼니움도 전쟁에 들고일어난다는 소문이 났다. 원로원의 권고에 따라 집정관들은 푸블리우스 코르넬리우스 루피누스를 독재관으로 임명했고, 마르쿠스 안토니우스가 기병대장이 되었다. 그런데 이들의 임명 절차에 하자가 있다는 종교적 의문이 제기되어 두 사람은 관직에서 물러났다. 이어 역병까지 일어나자 마치 그 하자가 모든 길조를 더럽힌 듯하여 다시 중간 통치로 돌아갔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1492,9 +1562,9 @@
       "paragraph": 67,
       "ref": "Liv. 8.17.5–8",
       "original": "ab interregno inito per quintum demum interregem, M. Valerium Corvum, creati consules A. Cornelius iterum et Cn. Domitius. Tranquillis rebus fama Gallici belli pro tumultu valuit, ut dictatorem dici placeret. dictus M. Papirius Crassus et magister equitum P. Valerius Publicola. a quibus cum dilectus intentius quam adversus finitima bella haberetur, exploratores missi attulerunt quieta omnia apud Gallos esse. Samnium quoque iam alterum annum turbari novis consiliis suspectum erat; eo ex agro Sidicino exercitus Romanus non deductus.",
-      "korean": "",
+      "korean": "중간 통치가 시작되고 나서 다섯 번째 중간 통치자 마르쿠스 발레리우스 코르부스에 이르러서야 아울루스 코르넬리우스가 두 번째로, 그나이우스 도미티우스가 집정관으로 선출되었다. 모든 일이 평온했으나 갈리아 전쟁이라는 소문만으로도 비상사태와 같은 힘을 가져 독재관을 임명하기로 했다. 마르쿠스 파피리우스 크라수스가 독재관으로, 푸블리우스 발레리우스 푸블리콜라가 기병대장으로 임명되었다. 그들이 이웃과의 전쟁 때보다 더 엄격하게 징집하자 정찰병을 보내 살폈고 갈리아 쪽은 모두 평온하다고 보고했다. 삼니움도 새로운 계획 때문에 벌써 2년째 소란스러워 의심을 받고 있었다. 그래서 로마군은 시디키니 영토에서 철수하지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1514,9 +1584,9 @@
       "paragraph": 68,
       "ref": "Liv. 8.17.9–12",
       "original": "ceterum Samnites bellum Alexandri Epirensis in Lucanos traxit, qui duo populi adversus regem escensionem a Paesto facientem signis conlatis pugnaverunt. eo certamine superior Alexander, incertum qua fide culturus, si perinde cetera processissent, pacem cum Romanis fecit. eodem anno census actus novique cives censi. tribus propter eos additae Maecia et Scaptia; censores addiderunt Q. Publilius Philo Sp. Postumius. Romani facti Acerrani lege ab L. Papirio praetore lata, qua civitas sine suffragio data. haec eo anno domi militiaeque gesta.",
-      "korean": "",
+      "korean": "그러나 에페이로스의 알렉산드로스가 벌인 전쟁 때문에 삼니움인은 루카니아인 쪽으로 끌려갔다. 알렉산드로스가 파이스툼에서 상륙하자 두 민족은 그 왕을 상대로 군기를 맞대고 싸웠다. 전투에서 이긴 알렉산드로스는 로마인과 평화를 맺었다. 나머지 일도 똑같이 잘 풀렸다면 그가 얼마나 믿음직하게 지켰을지는 알 수 없다. 같은 해 인구 조사를 실시하여 새 시민들도 명부에 올렸다. 그들을 위해 마이키아와 스캅티아 두 부족을 추가했으며, 감찰관 퀸투스 푸블릴리우스 필로와 스푸리우스 포스투미우스가 편입했다. 법무관 루키우스 파피리우스가 제출한 법으로 아케라이인은 투표권 없는 시민권을 받아 로마인이 되었다. 그해 국내외에서 이루어진 일은 이와 같다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1536,9 +1606,14 @@
       "paragraph": 69,
       "ref": "Liv. 8.18.1–4",
       "original": "foedus insequens annus seu intemperie caeli seu humana fraude fuit, M. Claudio Marcello C. Valerio consulibus. Flaccum Potitumque varie in annalibus cognomen consulis invenio; ceterum in eo parvi refert, quid veri sit; illud pervelim — nec omnes auctores sunt — proditum falso esse, venenis absumptos, quorum mors infamem annum pestilentia fecerit; sicut proditur tamen res, ne cui auctorum fidem abrogaverim, exponenda est. cum primores civitatis similibus morbis eodemque ferme omnes eventu morerentur, ancilla quaedam ad Q. Fabium Maximum aedilem curulem indicaturam se causam publicae pestis professa est, si ab eo fides sibi data esset, haud futurum noxae indicium.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "이듬해 마르쿠스 클라우디우스 마르켈루스와 가이우스 발레리우스가 집정관일 때는 날씨의 이상 때문인지 인간의 범죄 때문인지 추악한 해였다. 연대기에서는 그 집정관의 별명을 플라쿠스라고도 포티투스라고도 적는다. 무엇이 사실인지는 별로 중요하지 않다. 다만 죽음으로 그해 역병을 악명 높게 만든 사람들이 독약에 목숨을 잃었다는 전승만은—모든 저술가가 동의하지 않으므로—거짓이기를 진심으로 바란다. 그러나 전해지는 이야기이니 어느 자료의 신뢰도 내 마음대로 없애지 않도록 설명해야 한다. 시민 공동체의 지도자들이 비슷한 병에 걸려 거의 모두 같은 결말로 죽자, 한 여종이 귀족 조영관 퀸투스 파비우스 막시무스에게 찾아와 자기 밀고가 처벌되지 않는다는 약속을 해주면 국가적 역병의 원인을 밝히겠다고 했다.",
+      "notes": [
+        {
+          "label": "독살 전승",
+          "text": "리비우스 자신도 이 집단 독살 이야기를 모든 자료가 지지하지 않으며 거짓이기를 바란다고 명시한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1559,9 +1634,9 @@
       "paragraph": 70,
       "ref": "Liv. 8.18.5–9",
       "original": "Fabius confestim rem ad consules, consules ad senatum referunt, consensuque ordinis fides indici data. tum patefactum muliebri fraude civitatem premi matronasque ea venena coquere et, si sequi extemplo velint, manifesto deprehendi posse. secuti indicem et coquentis quasdam medicamenta et recondita alia invenerunt. quibus in forum delatis et ad viginti matronis, apud quas deprehensa erant, per viatorem accitis, duae ex eis, Cornelia ac Sergia, patriciae utraque gentis, cum ea medicamenta salubria esse contenderent, ab confutante indice bibere iussae, ut se falsum commentam arguerent, spatio ad conloquendum sumpto, cum summoto populo in conspectu omnium rem ad ceteras rettulissent, haud abnuentibus et illis bibere, epoto medicamento suamet ipsae fraude omnes interierunt.",
-      "korean": "",
+      "korean": "파비우스는 곧바로 집정관들에게, 집정관들은 원로원에 보고했고 원로원 전체의 동의로 밀고자에게 신변 보장을 주었다. 그러자 여자들의 범죄로 시민 공동체가 고통받고 있으며 귀부인들이 그 독약을 만들고 있다고 드러났다. 당장 자기를 따라오면 현장에서 붙잡을 수 있다고 했다. 사람들은 밀고자를 따라가 몇몇 여자가 약물을 달이는 모습과 감추어둔 다른 약물들을 발견했다. 그것들을 포룸으로 옮기고 발견된 집의 귀부인 약 20명을 하급 관리가 불러냈다. 그들 가운데 귀족 가문 출신인 코르넬리아와 세르기아 두 사람은 그 약물이 몸에 좋은 것이라고 주장했다. 밀고자가 반박하자 그 말이 거짓임을 증명하도록 직접 마시라는 명령을 받았다. 그들은 논의할 시간을 받아 민중을 물리고 모두가 보는 가운데 다른 여자들에게 사정을 알렸다. 다른 이들도 마시기를 거부하지 않았고, 약물을 마시자 모두 자기들의 범죄로 죽었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1581,9 +1656,9 @@
       "paragraph": 71,
       "ref": "Liv. 8.18.10–13",
       "original": "conprehensae extemplo earum comites magnum numerum matronarum indicaverunt; ex quibus ad centum septuaginta damnatae. neque de veneficiis ante eam diem Romae quaesitum est. prodigii ea res loco habita captisque magis mentibus quam consceleratis similis visa; itaque memoria ex annalibus repetita in secessionibus quondam plebis clavum ab dictatore fixum alienatasque discordia mentes hominum eo piaculo conpotes sui fuisse, dictatorem clavi figendi causa creari placuit. creatus Cn. Quinctilius magistrum equitum L. Valerium dixit, qui fixo clavo magistratu se abdicaverunt.",
-      "korean": "",
+      "korean": "곧 붙잡힌 그들의 동료들은 수많은 귀부인을 고발했고 약 170명이 유죄 판결을 받았다. 그날 이전에는 로마에서 독살 사건을 심리한 적이 없었다. 사람들은 이 일을 범죄라기보다 기이한 징조로 받아들였고, 여자들이 악행을 저질렀다기보다 정신이 사로잡힌 것처럼 보인다고 했다. 그리하여 옛 연대기의 기억을 되짚어, 한때 평민이 철수했을 때 독재관이 못을 박자 내분으로 제정신을 잃은 사람들이 그 속죄 의식으로 정신을 되찾았다는 이야기를 찾아냈다. 못을 박기 위한 독재관을 임명하기로 했다. 그나이우스 퀸크틸리우스가 임명되어 루키우스 발레리우스를 기병대장으로 삼았고, 못을 박은 뒤 두 사람은 관직에서 물러났다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1603,9 +1678,9 @@
       "paragraph": 72,
       "ref": "Liv. 8.19.1–4",
       "original": "creati consules L. Papirius Crassus iterum L. Plautius Venox. cuius principio anni legati ex Volscis Fabraterni et Lucani Romam venerunt orantes, ut in fidem reciperentur: si a Samnitium armis defensi essent, se sub imperio populi Romani fideliter atque oboedienter futuros. missi tum ab senatu legati denuntiatumque Samnitibus, ut eorum populorum finibus vim abstinerent; valuitque ea legatio, non tam quia pacem volebant Samnites, quam quia nondum parati erant ad bellum. eodem anno Privernas bellum initum, cuius socii Fundani, dux etiam fuit Fundanus Vitruvius Vaccus, vir non domi solum sed etiam Romae clarus; aedes fuere in Palatio eius, qua Vacci prata diruto aedificio publicatoque solo appellata.",
-      "korean": "",
+      "korean": "루키우스 파피리우스 크라수스가 두 번째로, 루키우스 플라우티우스 베녹스가 집정관으로 선출되었다. 연초에 볼스키의 파브라테리아인과 루카니아인 사절들이 로마에 와서 보호 아래 받아달라고 청했다. 삼니움인의 무기에서 지켜주면 로마 인민의 지배 아래 충실하고 순종하며 살겠다고 했다. 원로원은 사절을 보내 삼니움인에게 이 공동체들의 영토에서 폭력을 거두라고 경고했다. 삼니움인이 평화를 원해서라기보다 아직 전쟁 준비가 되지 않았기에 경고가 효력을 냈다. 같은 해 프리베르눔 전쟁이 시작되었다. 푼디인들이 그들의 동맹이었고 푼디인 비트루비우스 바쿠스가 지휘관까지 맡았다. 그는 고향뿐 아니라 로마에서도 이름난 사람이었다. 팔라티움에 그의 집이 있었고, 건물을 허물고 토지를 몰수한 뒤 그 자리를 ‘바쿠스의 들판’이라 불렀다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1626,9 +1701,9 @@
       "paragraph": 73,
       "ref": "Liv. 8.19.5–9",
       "original": "aduersus hunc vastantem effuse Setinum Norbanumque et Coranum agrum L. Papirius profectus haud procul castris eius consedit. Vitruvio nec, ut vallo se teneret adversus validiorem hostem, sana constare mens, nec, ut longius a castris dimicaret, animus suppetere; vix tota extra portam castrorum explicata acie, fugam magis retro quam proelium aut hostem spectante milite sine consilio, sine audacia depugnat. ut et levi momento nec ambigue est victus, ita brevitate ipsa loci facilique receptu in tam propinqua castra haud aegre militem a multa caede est tutatus, nec fere quisquam in ipso certamine, pauci in turba fugae extremae, cum in castra ruerent, caesi; primisque tenebris Privernum inde petitum agmine trepido, ut muris potius quam vallo sese tutarentur. a Priverno Plautius alter consul pervastatis passim agris praedaque abacta in agrum Fundanum exercitum inducit. ingredienti fines senatus Fundanorum occurrit;",
-      "korean": "",
+      "korean": "비트루비우스가 세티아·노르바·코라 영토를 억제 없이 황폐하게 하자 루키우스 파피리우스가 출정하여 그의 진영에서 멀지 않은 곳에 자리 잡았다. 더 강한 적을 상대로 방벽 안에 머물 만큼 비트루비우스의 정신이 건전하고 굳지도 않았고, 진영에서 더 멀리 떨어져 싸울 용기도 없었다. 대오 전체가 진영 문 밖에서 겨우 펼쳐졌고 병사들은 전투나 적보다 뒤로 달아날 길을 더 바라보았다. 그는 계획도 대담함도 없이 싸웠다. 아주 작은 충격에 분명히 패했지만, 장소가 좁고 가까운 진영으로 쉽게 물러날 수 있어 병사들을 큰 살육에서 어렵지 않게 지켰다. 전투 자체에서는 거의 아무도 죽지 않았고, 도주의 끝에 선 이들이 진영으로 몰릴 때 몇 명만 죽었다. 어둠이 처음 내리자 허둥대는 대오로 프리베르눔을 향했다. 방벽보다 성벽으로 자신을 지키려는 것이었다. 다른 집정관 플라우티우스는 프리베르눔에서 사방의 들판을 완전히 황폐하게 하고 전리품을 몰아온 뒤 푼디 영토로 군대를 이끌었다. 그가 국경에 들어설 때 푼디의 원로원이 마중 나왔다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1647,9 +1722,9 @@
       "paragraph": 74,
       "ref": "Liv. 8.19.10–12",
       "original": "negant se pro Vitruvio sectamque eius secutis precatum venisse, sed pro Fundano populo, quem extra culpam belli esse ipsum Vitruvium iudicasse, cum receptaculum fugae Privernum habuerit, non patriam Fundos. Priverni igitur hostes populi Romani quaerendos persequendosque esse, qui simul a Fundanis ac Romanis utriusque patriae inmemores defecerint; Fundanis pacem esse et animos Romanos et gratam memoriam acceptae civitatis. orare se consulem, ut bellum ab innoxio populo abstineat; agros, urbem, corpora ipsorum coniugumque ac liberorum suorum in potestate populi Romani esse futuraque.",
-      "korean": "",
+      "korean": "그들은 비트루비우스와 그 일파를 위해 간청하러 온 것이 아니라 전쟁의 죄가 없는 푼디 인민을 위해 왔다고 했다. 비트루비우스 자신이 도망칠 곳으로 고향 푼디가 아니라 프리베르눔을 택한 일이 이를 판정했다고 했다. 따라서 프리베르눔에서 로마 인민의 적들을 찾아 뒤쫓아야 한다는 것이었다. 그들은 양쪽 조국을 잊고 푼디인과 로마인에게서 동시에 이탈했지만, 푼디인에게는 평화와 로마인의 마음, 받은 시민권에 대한 고마운 기억이 있다고 했다. 집정관에게 죄 없는 인민에게서 전쟁을 거두어달라고 간청했다. 자기들의 들판과 도시, 자신과 아내와 자식의 몸은 로마 인민의 권한 아래 있으며 앞으로도 그러하리라고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1667,9 +1742,9 @@
       "paragraph": 75,
       "ref": "Liv. 8.19.13–14",
       "original": "conlaudatis Fundanis consul litterisque Romam missis, in officio Fundanos esse, ad Privernum flexit iter. prius animadversum in eos, qui capita coniurationis fuerant, a consule scribit Claudius; ad trecentos quinquaginta ex coniuratis vinctos Romam missos eamque deditionem ab senatu non acceptam, quod egentium atque humilium poena defungi velle Fundanum populum censuerint.",
-      "korean": "",
+      "korean": "집정관은 푼디인을 칭찬하고 그들이 의무를 지키고 있다는 서신을 로마로 보낸 뒤 길을 돌려 프리베르눔으로 향했다. 클라우디우스의 기록에서는 집정관이 먼저 음모의 우두머리들을 처벌했다고 한다. 공모자 약 350명을 결박하여 로마로 보냈지만 원로원은 그 항복을 받아들이지 않았다. 푼디 인민이 가난하고 비천한 사람들을 처벌하는 것으로 일을 끝내려 한다고 판단했기 때문이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1690,9 +1765,14 @@
       "paragraph": 76,
       "ref": "Liv. 8.20.1–5",
       "original": "Privernum duobus consularibus exercitibus cum obsideretur, alter consul comitiorum causa Romam revocatus. carceres eo anno in circo primum statuti. nondum perfunctos cura Privernatis belli tumultus Gallici fama atrox invasit haud ferme unquam neglecta patribus. extemplo igitur consules novi L. Aemilius Mamercinus et C. Plautius eo ipso die, kal. Quinctilibus, quo magistratum inierunt, conparare inter se provincias iussi et Mamercinus, cui Gallicum bellum evenerat, scribere exercitum sine ulla vacationis venia; quin opificum quoque vulgus et sellularii, minime militiae idoneum genus, exciti dicuntur Veiosque ingens exercitus contractus, ut inde obviam Gallis iretur; longius discedi, ne alio itinere hostis falleret ad urbem incedens, non placuit. paucos deinde post dies satis explorata temporis eius quiete a Gallis Privernum omnis conversa vis. duplex inde fama est;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "두 집정관 군대가 프리베르눔을 포위하는 동안 집정관 한 명은 선거 때문에 로마로 불려갔다. 그해 원형 경기장에 처음으로 출발 장벽을 설치했다. 프리베르눔 전쟁의 근심을 아직 끝내지 못했을 때 갈리아인의 비상사태라는 무서운 소문이 덮쳤다. 귀족들이 거의 한 번도 소홀히 하지 않은 위협이었다. 새 집정관 루키우스 아이밀리우스 마메르키누스와 가이우스 플라우티우스는 취임한 바로 그날, 7월 칼렌다이에 담당을 나누라는 명령을 받았다. 갈리아 전쟁을 맡은 마메르키누스는 어떤 면제도 없이 군대를 징집했다. 심지어 군 복무에 가장 어울리지 않는 부류인 보통 수공업자와 앉아서 일하는 장인까지 불러냈다고 한다. 거대한 군대가 베이이에 모여 그곳에서 갈리아인을 맞으러 나아가려 했다. 적이 다른 길로 도시를 향해 와서 속이는 일이 없도록 더 멀리 떠나지는 않기로 했다. 며칠 뒤 당시 갈리아 쪽이 평온하다는 사실을 충분히 확인하자 모든 힘을 프리베르눔으로 돌렸다. 그 뒤의 전승은 두 갈래다.",
+      "notes": [
+        {
+          "label": "출발 장벽",
+          "text": "carceres는 전차 경주의 출발 지점에 설치한 칸막이식 문이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1711,9 +1791,14 @@
       "paragraph": 77,
       "ref": "Liv. 8.20.6–8",
       "original": "alii vi captam urbem Vitruviumque vivum in potestatem venisse, alii, priusquam ultima adhiberetur vis, ipsos se in dicionem consulis caduceum praeferentes permisisse auctores sunt Vitruviumque ab suis traditum. senatus de Vitruvio Privernatibusque consultus consulem Plautium dirutis Priverni muris praesidioque valido inposito ad triumphum accersit; Vitruvium in carcere adservari iussit, quoad consul redisset, tum verberatum necari. aedes eius, quae essent in Palatio, diruendas, bona Semoni Sango censuerunt consecranda; quodque aeris ex eis redactum est, ex eo aenei orbes facti positi in sacello Sangus adversus aedem Quirini.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "어떤 이들은 도시를 무력으로 점령하고 비트루비우스를 산 채로 붙잡았다고 한다. 다른 이들은 최후의 공격을 가하기 전에 프리베르눔인들이 평화의 지팡이를 앞세우고 나와 집정관의 지배에 자신들을 맡겼으며 자기편이 비트루비우스를 넘겼다고 한다. 원로원은 비트루비우스와 프리베르눔인의 처분을 논의했다. 플라우티우스 집정관에게 프리베르눔의 성벽을 허물고 강한 수비대를 배치한 뒤 개선식을 위해 돌아오라고 했다. 비트루비우스는 집정관이 돌아올 때까지 감옥에 두었다가 매질한 뒤 죽이라고 명했다. 팔라티움에 있는 그의 집은 허물고 재산은 세모 산쿠스에게 봉헌하기로 했다. 그 재산을 팔아 얻은 청동으로 원반들을 만들어 퀴리누스 신전 맞은편의 산쿠스 성소에 놓았다.",
+      "notes": [
+        {
+          "label": "세모 산쿠스",
+          "text": "맹세와 신의, 계약의 성실성을 지키는 고대 이탈리아의 신이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1733,9 +1818,9 @@
       "paragraph": 78,
       "ref": "Liv. 8.20.9–12",
       "original": "de senatu Privernate ita decretum, ut, qui senator Priverni post defectionem ab Romanis mansisset, trans Tiberim lege eadem, qua Veliterni, habitaret. His ita decretis usque ad triumphum Plauti silentium de Privernatibus fuit; post triumphum consul necato Vitruvio sociisque eius noxae apud satiatos iam suppliciis nocentium tutam mentionem de Privernatibus ratus “quoniam auctores defectionis” inquit “meritas poenas et ab dis inmortalibus et a vobis habent, patres conscripti, quid placet de innoxia multitudine fieri? equidem, etsi meae partes exquirendae magis sententiae quam dandae sunt, tamen, cum videam Privernates vicinos Samnitibus esse, unde nunc nobis incertissima pax est, quam minimum irarum inter nos illosque relinqui velim.”",
-      "korean": "",
+      "korean": "프리베르눔 원로원에 관해서는 로마에서 이탈한 뒤에도 프리베르눔의 원로원 의원으로 남아 있던 자들을 벨리트라이인에게 적용한 것과 같은 법으로 티베리스강 건너에 살게 하기로 결정했다. 이렇게 결정한 뒤 플라우티우스의 개선식까지 프리베르눔인에 대한 논의는 없었다. 개선식 뒤 집정관은 비트루비우스와 그의 범죄 동료들을 죽였다. 죄인들의 처벌로 이제 만족한 이들 앞이라 죄 없는 프리베르눔인을 안전하게 언급할 수 있다고 여겨 말했다. ‘원로원 의원들이여, 이탈의 주동자들은 불멸의 신들과 여러분에게 마땅한 벌을 받았습니다. 죄 없는 군중은 어떻게 처리하기를 원하십니까? 제 역할은 의견을 내놓기보다 여러분의 의견을 묻는 데 있지만, 프리베르눔인은 삼니움인과 이웃해 있고 그쪽과의 평화가 지금 무엇보다 불확실하므로 우리와 그들 사이에 분노가 가능한 한 적게 남기를 바랍니다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1754,9 +1839,9 @@
       "paragraph": 79,
       "ref": "Liv. 8.21.1–3",
       "original": "cum ipsa per sese res anceps esset, prout cuiusque ingenium erat atrocius mitiusve suadentibus, tum incertiora omnia unus ex Privernatibus legatis fecit, magis condicionis, in qua natus esset, quam praesentis necessitatis memor, qui interrogatus a quodam tristioris sententiae auctore, quam poenam meritos Privernates censeret, “eam” inquit, “quam merentur qui se libertate dignos censent.” cuius cum feroci responso infestiores factos videret consul eos, qui ante Privernatium causam inpugnabant, ut ipse benigna interrogatione mitius responsum eliceret, “quid?",
-      "korean": "",
+      "korean": "사안 자체가 판단하기 어려워 성품이 더 가혹한 사람과 더 온건한 사람이 저마다 다른 의견을 권했다. 그런데 프리베르눔 사절 가운데 한 사람이 당장의 궁지보다 자기가 태어난 처지를 더 기억하며 모든 것을 더욱 불확실하게 만들었다. 더 가혹한 의견을 내놓은 의원 하나가 프리베르눔인은 어떤 벌을 받아 마땅하다고 보느냐고 묻자, 그는 ‘자신이 자유를 누릴 자격이 있다고 여기는 사람들이 받아야 할 벌입니다’라고 답했다. 이 사나운 대답 때문에 앞서부터 프리베르눔인의 사정을 공격하던 의원들이 더욱 적대적으로 변하는 것을 본 집정관은 자비로운 질문으로 더 온건한 대답을 끌어내려 했다. ‘그렇다면 어떠한가?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1776,9 +1861,9 @@
       "paragraph": 80,
       "ref": "Liv. 8.21.4–7",
       "original": "si poenam” inquit “remittimus vobis, qualem nos pacem vobiscum habituros speremus?” “si bonam dederitis” inquit, “et fidam et perpetuam; si malam, haud diuturnam.” tum vero minari, nec id ambigue, Privernatem quidam, et illis vocibus ad rebellandum incitari pacatos populos; pars mitior senatus ad meliora responsum trahere et dicere viri et liberi vocem auditam; an credi posse ullum populum aut hominem denique in ea condicione, cuius eum paeniteat, diutius, quam necesse sit, mansurum? ibi pacem esse fidam, ubi voluntarii pacati sint, neque eo loco, ubi servitutem esse velint, fidem sperandam esse.",
-      "korean": "",
+      "korean": "‘우리가 너희의 벌을 면해준다면 너희와 어떤 평화를 맺게 되리라 기대할 수 있겠는가?’ 사절이 답했다. ‘좋은 평화를 주신다면 믿을 만하고 영원한 평화가 될 것입니다. 나쁜 평화를 주신다면 오래가지 않을 것입니다.’ 그러자 몇몇은 프리베르눔인이 분명하게 위협하며 이 말로 평온해진 민족들을 반란으로 선동한다고 했다. 원로원의 더 온건한 쪽은 대답을 좋은 뜻으로 해석했다. 이것은 사내와 자유인의 목소리였다는 것이다. 어떤 민족이나 한 사람이라도 후회스러운 처지에 필요 이상 오래 머물 것이라고 믿을 수 있겠는가? 자발적으로 평온을 받아들인 곳에 믿을 만한 평화가 있으며, 사람들이 노예가 되기를 바라는 곳에서는 신의를 기대해서는 안 된다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1798,9 +1883,9 @@
       "paragraph": 81,
       "ref": "Liv. 8.21.8–11",
       "original": "in hanc sententiam maxime consul ipse inclinavit animos, identidem ad principes sententiarum consulares, uti exaudiri posset a pluribus, dicendo eos demum, qui nihil praeterquam de libertate cogitent, dignos esse, qui Romani fiant. itaque et in senatu causam obtinuere, et ex auctoritate patrum latum ad populum est, ut Privernatibus civitas daretur. eodem anno Anxur trecenti in coloniam missi sunt; bina iugera agri acceperunt.",
-      "korean": "",
+      "korean": "집정관 자신이 특히 이 의견으로 사람들의 마음을 기울게 했다. 그는 더 많은 이가 듣도록 의견을 이끄는 전직 집정관들에게 되풀이해 말했다. ‘자유 말고는 아무것도 생각하지 않는 사람이라야 비로소 로마인이 될 자격이 있습니다.’ 그리하여 프리베르눔인은 원로원에서 자기들의 주장을 관철했고, 원로원의 권고에 따라 그들에게 시민권을 주는 법안을 민중에게 제출했다. 같은 해 안크수르에 식민자 300명을 보내 각자 토지 2유게룸씩을 받게 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1821,9 +1906,14 @@
       "paragraph": 82,
       "ref": "Liv. 8.22.1–5",
       "original": "secutus est annus nulla re belli domive insignis, P. Plautio Proculo P. Cornelio Scapula consulibus, praeterquam quod Fregellas — Hernicorum is ager, deinde Volscorum fuerat — colonia deducta et populo visceratio data a M. Flavio in funere matris. erant, qui per speciem honorandae parentis meritam mercedem populo solutam interpretarentur, quod eum die dicta ab aedilibus crimine stupratae matris familiae absolvisset. data visceratio in praeteriti iudicii gratiam honoris etiam ei causa fuit. tribunatumque plebei proximis comitiis petentibus absens praefertur. Palaepolis fuit haud procul inde, ubi nunc Neapolis sita est; duabus urbibus populus idem habitabat. Cumis erant oriundi;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "푸블리우스 플라우티우스 프로쿨루스와 푸블리우스 코르넬리우스 스카풀라가 집정관이 된 이듬해는 전쟁터나 국내에서 두드러진 일이 없었다. 예외는 프레겔라이—원래 헤르니키인의 땅이었다가 뒤에는 볼스키인의 땅이 되었다—에 식민시를 세운 일과 마르쿠스 플라비우스가 어머니의 장례 때 민중에게 고기를 나누어준 일이었다. 어떤 이들은 부모를 공경한다는 겉모습 아래, 조영관들이 그에게 재판일을 지정했던 유부녀 간음 혐의에서 민중이 무죄를 선고해 준 대가를 갚은 것이라고 해석했다. 앞선 재판에 감사하여 고기를 나누어준 일은 그에게 관직을 얻게도 했다. 다음 선거에서 평민 호민관을 구하는 후보들 가운데 자리에 없으면서도 가장 많은 표를 얻었다. 팔라이폴리스는 오늘날 네아폴리스가 있는 곳에서 멀지 않았고, 같은 인민이 두 도시에 살았다. 그들은 쿠마이에서 나왔다.",
+      "notes": [
+        {
+          "label": "고기 배급",
+          "text": "visceratio는 희생 제물의 고기를 시민들에게 공개적으로 나누어주는 행사로, 정치적 호의를 얻는 수단이 되기도 했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1842,9 +1932,9 @@
       "paragraph": 83,
       "ref": "Liv. 8.22.6–8",
       "original": "Cumani Chalcide Euboica originem trahunt. classe, qua advecti ab domo fuerant, multum in ora maris eius, quod accolunt, potuere, primo in insulas Aenariam et Pithecusas egressi, deinde in continentem ausi sedes transferre. haec civitas cum suis viribus tum Samnitium infidae adversus Romanos societati freta, sive pestilentiae, quae Romanam urbem adorta nuntiabatur, fidens multa hostilia adversus Romanos agrum Campanum Falernumque incolentes fecit. igitur L. Cornelio Lentulo Q. Publilio Philone iterum consulibus, fetialibus Palaepolim ad res repetendas missis, cum relatum esset a Graecis, gente lingua magis strenua quam factis, ferox responsum, ex auctoritate patrum populus Palaepolitanus bellum fieri iussit.",
-      "korean": "",
+      "korean": "쿠마이인은 에우보이아의 칼키스에서 유래했다. 고향에서 타고 온 함대 덕분에 자기들이 사는 바다 연안에서 큰 힘을 누렸다. 먼저 아이나리아와 피테쿠사이 두 섬에 상륙했고, 뒤에는 대담하게 거처를 본토로 옮겼다. 이 공동체는 자기 힘과 로마를 향한 삼니움인의 믿을 수 없는 동맹 관계를 의지했고, 또는 로마 시에 역병이 덮쳤다는 소식을 믿고 캄파니아와 팔레르눔 영토에 사는 로마인에게 여러 적대 행위를 했다. 그리하여 루키우스 코르넬리우스 렌툴루스와 퀸투스 푸블릴리우스 필로가 두 번째로 집정관일 때 사제단을 팔라이폴리스로 보내 배상을 요구했다. 말은 행동보다 용감한 민족인 그리스인에게 오만한 답이 돌아오자, 원로원의 권고에 따라 민중은 팔라이폴리스 인민과 전쟁하기로 명했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1862,9 +1952,9 @@
       "paragraph": 84,
       "ref": "Liv. 8.22.9–10",
       "original": "inter consules provinciis conparatis bello Graeci persequendi Publilio evenerunt; Cornelius altero exercitu Samnitibus, si qua se moverent, oppositus. fama autem erat defectioni Campanorum inminentes adCapuam admoturos castra; ibi optumum visum Cornelio stativa habere.",
-      "korean": "",
+      "korean": "두 집정관이 전쟁 담당을 나누어 푸블릴리우스가 그리스인과의 전쟁을 맡았다. 코르넬리우스는 다른 군대로 삼니움인이 움직일 경우에 대비해 맞섰다. 삼니움인이 캄파니아인의 이탈을 기다리며 카푸아 가까이로 진영을 옮길 것이라는 소문이 있었다. 코르넬리우스는 그곳에 숙영지를 두는 것이 가장 좋다고 보았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1883,9 +1973,9 @@
       "paragraph": 85,
       "ref": "Liv. 8.23.1–3",
       "original": "ab utroque consule exiguam spem pacis cum Samnitibus esse certior fit senatus: Publilius duo milia Nolanorum militum et quattuor Samnitium, magis Nolanis cogentibus quam voluntate Graecorum, recepta Palaepoli scripserat Romam, Cornelius: compertum sehabere dilectum indictum a magistratibus universumque Samnium erectum ac vicinos populos, Privernatem Fundanumque et Formianum, haud ambigue sollicitari. ob haec cum legatos mitti placuisset prius ad Samnites, quam bellum fieret, responsum redditur ab Samnitibus ferox.",
-      "korean": "",
+      "korean": "원로원은 두 집정관 모두에게서 삼니움과 평화를 유지할 희망이 거의 없다는 확실한 보고를 받았다. 푸블릴리우스는 팔라이폴리스가 놀라인 병사 2천 명과 삼니움인 4천 명을 받아들였다고 로마에 썼다. 그리스인의 뜻보다 놀라인의 강요가 더 컸다. 코르넬리우스는 정무관들이 징집을 선포했고 삼니움 전체가 들고일어났으며, 이웃의 프리베르눔·푼디·포르미아이인에게도 분명히 이탈을 권한다고 확인했다고 했다. 이에 전쟁을 시작하기 전에 먼저 삼니움인에게 사절을 보내기로 했지만, 삼니움인은 오만하게 답했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1905,9 +1995,9 @@
       "paragraph": 86,
       "ref": "Liv. 8.23.4–7",
       "original": "ultro incusabant iniurias Romanorum; neque eo neglegentius ea, quae ipsis obicerentur, purgabant: haud ullo publico consilio auxiliove iuvari Graecos; nec Fundanum Formianumve a se sollicitatos; quippe minime paenitere se virium suarum, si bellum placeat. ceterum non posse dissimulare aegre pati civitatem Samnitium, quod Fregellas ex Volscis captas dirutasque ab se restituerit Romanus populus coloniamque in Samnitium agro inposuerint, quam coloni eorum Fregellas appellent; eam se contumeliam iniuriamque, ni sibi ab iis, qui fecerint, dematur, ipsos omni vi depulsuros esse.",
-      "korean": "",
+      "korean": "그들은 도리어 로마인의 부정을 고발하면서도 자기들이 받은 혐의를 해명하는 데 소홀하지 않았다. 공동체의 어떤 결정이나 지원으로도 그리스인을 돕지 않았고, 푼디나 포르미아이인을 선동하지도 않았다고 했다. 전쟁을 원한다면 자기 힘을 조금도 후회하지 않는다는 것이었다. 그러나 로마 인민이 삼니움인이 볼스키인에게서 빼앗아 파괴한 프레겔라이를 재건하고, 삼니움 영토에 식민시를 세워 식민자들이 프레겔라이라 부르게 한 일에 삼니움 공동체가 분노하는 것을 숨길 수는 없다고 했다. 그 일을 저지른 자들이 이 모욕과 부정을 없애지 않으면 자기들이 온 힘으로 몰아낼 것이라고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1926,9 +2016,9 @@
       "paragraph": 87,
       "ref": "Liv. 8.23.8–10",
       "original": "cum Romanus legatus ad disceptandum eos ad communes socios atque amicos vocaret, “quid perplexe agimus?” inquit; “nostra certamina, Romani, non verba legatorum nec hominum quisquam disceptator, sed campus Campanus, in quo concurrendum est, et arma et communis Mars belli decernet. proinde inter Capuam Suessulamque castra castris conferamus et, Samnis Romanusne imperio Italiam regat, decernamus.” legati Romanorum cum se non, quo hostis vocasset, sed quo imperatores sui duxissent, ituros esse respondissent, domum rediere. iam Publilius inter Palaepolim Neapolimque loco opportune capto diremerat hostibus societatem auxilii mutui, qua, ut quisque locus premeretur, inter se usi fuerant.",
-      "korean": "",
+      "korean": "로마 사절이 양쪽 공동 동맹과 벗들에게 이 분쟁을 판정받자고 하자 그들이 말했다. ‘왜 일을 복잡하게 하는가? 로마인이여, 우리의 다툼을 결정할 것은 사절의 말도 인간 판관도 아니다. 우리가 맞부딪칠 캄파니아 평야와 무기와 양쪽에 공평한 전쟁의 마르스다. 카푸아와 수에술라 사이에 진영을 마주 놓고 삼니움인과 로마인 가운데 누가 지배권으로 이탈리아를 다스릴지 결정하자.’ 로마 사절들은 적이 부른 곳이 아니라 자기 지휘관들이 이끄는 곳으로 갈 것이라고 답하고 고향으로 돌아왔다. 그때 푸블릴리우스는 팔라이폴리스와 네아폴리스 사이에 유리한 자리를 차지하여, 한쪽이 눌릴 때마다 서로 주고받던 적들의 지원 협력을 끊어놓았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1948,9 +2038,14 @@
       "paragraph": 88,
       "ref": "Liv. 8.23.11–14",
       "original": "itaque cum et comitiorum dies instaret et Publilium inminentem hostium muris avocari ab spe capiendae in dies urbis haud e re publica esset, actum cum tribunis est, ad populum ferrent, ut, cum Q. Publilius Philo consulatu abisset, pro consule rem gereret, quoad debellatum cum Graecis esset. L. Cornelio, quia ne eum quidem in Samnium iam ingressum revocari ab impetu belli placebat, litterae missae, ut dictatorem comitiorum causa diceret. dixit M. Claudium Marcellum; ab eo magister equitum dictus Sp. Postumius. nec tamen ab dictatore comitia sunt habita, quia, vitione creatus esset, in disquisitionem venit. consulti augures vitiosum videri dictatorem pronuntiaverunt.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "선거일은 다가오고 푸블릴리우스가 적의 성벽을 압박하여 날마다 도시 점령의 희망이 커지는 때에 불러들이는 것은 국익에 맞지 않았다. 호민관들과 협의하여 퀸투스 푸블릴리우스 필로가 집정관직에서 물러난 뒤에도 그리스인과의 전쟁을 끝낼 때까지 전직 집정관의 권한으로 지휘하게 하는 법안을 민중에게 제출하도록 했다. 이미 삼니움으로 들어간 루키우스 코르넬리우스도 전쟁의 기세에서 불러내지 않기로 하고 선거를 위한 독재관을 임명하라는 서신을 보냈다. 그는 마르쿠스 클라우디우스 마르켈루스를 임명했고, 독재관은 스푸리우스 포스투미우스를 기병대장으로 삼았다. 그러나 독재관 임명 절차에 하자가 있다는 조사가 시작되어 그가 선거를 열지는 못했다. 의견을 요청받은 점복관들은 독재관 임명에 하자가 있다고 선언했다.",
+      "notes": [
+        {
+          "label": "전직 집정관의 지휘권",
+          "text": "pro consule, 곧 프로콘술의 초기 사례다. 임기가 끝난 집정관에게 특정 전쟁을 마칠 때까지 명령권을 연장했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1969,9 +2064,9 @@
       "paragraph": 89,
       "ref": "Liv. 8.23.15–17",
       "original": "eam rem tribuni suspectam infamemque criminando fecerunt: nam neque facile fuisse id vitium nosci, cum consul oriens de nocte silentio diceret dictatorem, neque ab consule cuiquam publice privatimve de ea re scriptum esse, nec quemquam mortalium extare, qui se vidisse aut audisse quid dicat, quod auspicium dirimeret, neque augures divinare Romae sedentes potuisse, quid in castris consuli vitii obvenisset. cui non apparere, quod plebeius dictator sit, id vitium auguribus visum? haec aliaque ab tribunis nequiquam iactata; tandem ad interregnum res rediit, dilatisque alia atque alia de causa comitiis quartus decimus demum interrex L. Aemilius consules creat C. Poetelium L. Papirium Mugillanum; Cursorem in aliis annalibus invenio.",
-      "korean": "",
+      "korean": "호민관들은 이 일을 고발하여 의심스럽고 악명 높은 일로 만들었다. 집정관이 밤중에 조용히 일어나 독재관을 임명했으니 하자를 알아내기 쉽지 않았다는 것이다. 집정관은 이 일에 관해 누구에게도 공적으로나 사적으로 서신을 보내지 않았고, 길조를 깨뜨린 무언가를 보거나 들었다고 말하는 사람도 세상에 없었다. 로마에 앉아 있는 점복관들이 진영의 집정관에게 어떤 하자가 생겼는지 점쳐낼 수도 없었다. 독재관이 평민이라는 사실을 점복관들이 하자로 본 것임이 누구에게 분명하지 않겠느냐는 것이었다. 호민관들이 이런저런 말을 헛되이 떠들었으나 마침내 다시 중간 통치로 돌아갔다. 갖가지 이유로 선거가 계속 미뤄진 끝에 열네 번째 중간 통치자 루키우스 아이밀리우스가 가이우스 포이텔리우스와 루키우스 파피리우스 무길라누스를 집정관으로 뽑았다. 다른 연대기에서는 뒤의 이름을 쿠르소르라고 적는다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -1992,9 +2087,14 @@
       "paragraph": 90,
       "ref": "Liv. 8.24.1–5",
       "original": "eodem anno Alexandream in Aegypto proditum conditam, Alexandrumque Epiri regem ab exule Lucano interfectum sortes Dodonaei Iouis eventu adfirmasse. accito ab Tarentinis in Italiam data dictio erat, caveret Acherusiam aquam Pandosiamque urbem; ibi fatis eius terminumn dari. eoque ocius transmisit in Italiam, ut quam maxime procul abesset urbe Pandosia in Epiro et Acheronte amni, quem ex Molosside fluentem in stagna inferna accipit Thesprotius sinus. ceterum ut ferme fugiendo in media fata ruitur, cum saepe Bruttias Lucanasque legiones fudisset, Heracleam Tarentinorum coloniam ex Lucanis, Sipottum Apulorum Consentiamque Bruttiorum ac Terinam, alias inde Messapiorum ac Lucanorum cepisset urbes et trecentas familias inlustres in Epirum, quas obsidum numero haberet, misisset, haud procul Pandosia urbe, inminente Lucanis ac Bruttiis finibus, tris tumulos aliquantum inter se distantes insedit, ex quibus incursiones in omnem partem agri hostilis faceret;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "같은 해 이집트에 알렉산드리아가 세워졌다고 전한다. 에페이로스 왕 알렉산드로스가 루카니아 망명자에게 살해됨으로써 도도나의 유피테르가 내린 신탁도 결과로 확인되었다. 타렌툼인의 부름을 받아 이탈리아로 올 때 그는 아케루시아의 물과 판도시아 시를 조심하라는 신탁을 받았다. 그곳에 그의 운명이 끝날 때가 정해졌다는 것이었다. 그는 에페이로스의 판도시아 시와 몰로시아에서 흘러 테스프로티아 만의 지하 세계 늪으로 들어가는 아케론강에서 가능한 한 멀어지려고 더욱 서둘러 이탈리아로 건너왔다. 그러나 운명을 피하려다 그 한가운데로 달려가는 일이 흔하다. 그는 브루티움군과 루카니아군을 여러 차례 무찌르고, 루카니아인에게서 타렌툼의 식민시 헤라클레이아를, 아풀리아인에게서 시폰툼을, 브루티움인에게서 콘센티아와 테리나를 빼앗았으며, 그 밖에도 메사피아와 루카니아의 여러 도시를 점령했다. 명문가 300가족을 인질로 삼아 에페이로스로 보낸 뒤, 루카니아와 브루티움 국경을 굽어보는 판도시아 시에서 멀지 않은 곳에 서로 제법 떨어진 세 언덕을 차지했다. 그곳에서 적의 영토 사방으로 습격하려 했다.",
+      "notes": [
+        {
+          "label": "잘못 피한 신탁",
+          "text": "알렉산드로스는 에페이로스의 지명들을 뜻한다고 보았지만 남부 이탈리아에도 판도시아와 아케론강이 있었다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2013,9 +2113,9 @@
       "paragraph": 91,
       "ref": "Liv. 8.24.6–8",
       "original": "et ducentos ferme Lucanorum exules circa se pro fidis habebat, ut pleraque eius generis ingenia sunt, cum fortuna mutabilem gerentes fidem. Imbres continui campis omnibus inundatis cum interclusissent trifariam exercitum a mutuo inter se auxilio, duo praesidia, quae sine rege erant, inproviso hostium adventu opprimuntur; deletisque eis ad ipsius obsidionem omnes conversi. inde ab Lucanis exulibus ad suos nuntii missi sunt, pactoque reditu promissum est regem aut vivum aut mortuum in potestatem daturos.",
-      "korean": "",
+      "korean": "그의 곁에는 약 200명의 루카니아 망명자가 충성스러운 사람처럼 있었다. 그러나 이런 부류의 성품이 대개 그렇듯 운에 따라 신의를 바꾸었다. 계속 내린 비가 모든 평야를 물에 잠기게 하여 세 갈래 군대가 서로 돕지 못하게 끊어놓았다. 왕이 없는 두 수비대는 적이 갑자기 와서 짓밟았다. 그들을 없앤 적은 모두 왕 자신을 포위하는 쪽으로 돌았다. 그러자 루카니아 망명자들은 자기편에게 전령을 보냈다. 귀환을 약속받는 조건으로 왕을 산 채로든 죽여서든 넘기겠다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2035,9 +2135,14 @@
       "paragraph": 92,
       "ref": "Liv. 8.24.9–12",
       "original": "ceterum cum delectis ipse egregium facinus ausus per medios erumpit hostes et ducem Lucanorum comminus congressum obtruncat; contrahensque suos ex fuga palatos pervenit ad amnem, ruinis recentibus pontis, quem vis aquae abstulerat, indicantem iter. quem cum incerto vado transiret agmen, fessus metu ac labore miles increpans nomen abominandum fluminis “iure Acheros vocaris” inquit. quod ubi ad aures accidit regis, adiecit extemplo animum fatis suis substititque dubius, an transiret. tum Sotimus, minister ex regiis pueris, quid in tanto discrimine periculi cunctaretur, interrogans, indicat Lucanos insidiis quaerere locum.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "하지만 왕 자신은 정예병들과 함께 빼어난 용기를 내어 적진 한복판을 돌파하고, 가까이 맞선 루카니아 지휘관을 베어 죽였다. 도주로 흩어진 자기 병사들을 모으며 강에 이르렀다. 강물의 힘이 쓸어간 다리의 갓 무너진 잔해가 길을 가리키고 있었다. 대오가 물이 얼마나 깊은지 알 수 없는 여울을 건널 때 두려움과 수고에 지친 병사 하나가 흉한 강 이름을 꾸짖었다. ‘네가 아케론이라 불리는 것은 당연하구나.’ 이 말이 왕의 귀에 들어오자 곧 자기 운명으로 마음을 돌리고 건너야 할지 망설이며 멈춰 섰다. 그때 왕실 시종 소년 가운데 하나인 소티무스가 이처럼 위험한 위기에서 무엇 때문에 머뭇거리느냐고 물으며, 루카니아인들이 매복할 곳을 찾고 있다고 가리켰다.",
+      "notes": [
+        {
+          "label": "아케론",
+          "text": "그리스 신화에서 죽은 자들이 건너는 저승의 강 이름이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2056,9 +2161,9 @@
       "paragraph": 93,
       "ref": "Liv. 8.24.13–15",
       "original": "quos ubi respexit rex procul grege facto venientes, stringit gladium et per medium amnem transmittit equum; iamque in vadum egressum eminus veruto Lucanus exul transfigit. lapsum inde cum inhaerente telo corpus exanime detulit amnis in hostium praesidia. ibi foeda laceratio corporis facta. namque praeciso medio partem Consentiam misere, pars ipsis retenta ad ludibrium. quae cum iaculis saxisque procul incesseretur, mulier una ultra humanarum irarum fidem saevienti turbae inmixta, ut parumper sustinerent, precata, flens ait virum sibi liberosque captos apud hostes esse; sperare corpore regio utcumque mulcato se suos redempturam.",
-      "korean": "",
+      "korean": "왕은 뒤를 돌아 멀리 무리를 지어 오는 그들을 보자 칼을 뽑고 강 한가운데를 향해 말을 몰았다. 이미 여울 밖으로 나가려 할 때 루카니아 망명자 한 명이 멀리서 짧은 투창을 던져 그를 꿰뚫었다. 무기가 박힌 채 떨어진 생명 없는 몸은 강물에 실려 적의 수비대로 갔다. 그곳에서 몸을 추악하게 훼손했다. 가운데를 잘라 한쪽은 콘센티아로 보내고 다른 쪽은 자기들이 조롱하려고 남겼다. 멀리서 투창과 돌을 던져 그 부분을 욕보이던 중 여자 하나가 인간의 분노로 믿기 어려울 만큼 날뛰는 무리에 섞여 잠시 멈춰달라고 간청했다. 그는 울면서 남편과 자식들이 적에게 붙잡혀 있으며, 어떤 모습이 되었든 왕의 몸으로 자기 가족을 되찾기를 바란다고 말했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2077,9 +2182,9 @@
       "paragraph": 94,
       "ref": "Liv. 8.24.16–18",
       "original": "is finis lacerationi fuit, sepultumque Consentiae quod membrorum reliquum fuit cura mulieris unius, ossaque Metapontum ad hostes remissa, inde Epirum devecta ad Cleopatram uxorem sororemque Olympiadem, quarum mater magni Alexandri altera, soror altera fuit. haec de Alexandri Epirensis tristi eventu, quamquam Romano bello fortuna eum abstinuit, tamen, quia in Italia bella gessit, paucis dixisse satis sit.",
-      "korean": "",
+      "korean": "이것으로 훼손은 끝났다. 한 여자의 정성으로 남은 팔다리를 콘센티아에 묻었다. 뼈는 메타폰툼의 적들에게 보내졌고, 그곳에서 에페이로스로 운반되어 아내 클레오파트라와 누이 올림피아스에게 돌아갔다. 두 여자 가운데 한 사람은 알렉산드로스 대왕의 누이였고 다른 한 사람은 어머니였다. 에페이로스의 알렉산드로스가 맞은 슬픈 결말은 이만큼 말하는 것으로 충분하다. 운이 그를 로마와의 전쟁에서는 멀리했지만 이탈리아에서 전쟁을 벌인 사람이기 때문이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2098,9 +2203,9 @@
       "paragraph": 95,
       "ref": "Liv. 8.25.1–3",
       "original": "eodem anno lectisternium Romae, quinto post conditam urbem, iisdem, quibus ante, placandis habitum est deis. novi deinde consules iussu populi cum misissent, qui indicerent Samnitibus bellum, ipsi maiore conatu quam adversus Graecos cuncta parabant; et alia nova nihil tum animo tale agitantibus accesserunt auxilia: Lucani atque Apuli, quibus gentibus nihil ad eam diem cum Romano populo fuerat, in fidem venerunt, arma virosque ad bellum pollicentes; foedere ergo in amicitiam accepti. eodem tempore etiam in Samnio res prospere gesta.",
-      "korean": "",
+      "korean": "같은 해 로마에서는 도시 창건 뒤 다섯 번째로 신상 앞에 향연상을 차리는 의식을 열어 이전과 같은 신들을 달랬다. 새 집정관들은 민중의 명령에 따라 삼니움인에게 전쟁을 선포할 사람들을 보낸 뒤 그리스인과 싸울 때보다 더 큰 노력으로 모든 것을 준비했다. 당시 전혀 기대하지 않았던 새로운 지원군까지 더해졌다. 그날까지 로마 인민과 아무 관계도 없던 루카니아인과 아풀리아인이 로마의 보호 아래 들어와 전쟁에 무기와 병력을 제공하겠다고 약속했다. 로마는 조약을 맺어 그들을 우호 관계에 받아들였다. 같은 때 삼니움에서도 일이 잘 풀렸다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2119,9 +2224,9 @@
       "paragraph": 96,
       "ref": "Liv. 8.25.4–6",
       "original": "tria oppida in potestatem venerunt, Allifae Callifae Rufrium, aliusque ager primo adventu consulum longe lateque est pervastatus. hoc bello tam prospere commisso alteri quoque bello, quo Graeci obsidebantur, iam finis aderat. nam praeterquam quod intersaeptis munimentis hostium pars parti abscisa erat, foediora aliquanto intra muros iis, quibus hostis territabat patiebantur, et velut capti a suismet ipsi praesidiis indigna iam in liberis quoque ac coniugibus et quae captarum urbium extrema sunt patiebantur.",
-      "korean": "",
+      "korean": "알리파이·칼리파이·루프리움 세 도시가 로마의 수중에 들어왔고, 집정관들이 처음 도착하자마자 다른 지역도 사방으로 멀리까지 황폐해졌다. 이 전쟁이 이처럼 성공적으로 시작되자 그리스인들을 포위한 다른 전쟁도 이미 끝에 가까워졌다. 방어시설이 적의 양쪽을 막아 서로 떨어뜨려 놓았을 뿐 아니라, 그리스인들은 적이 위협하는 일보다 훨씬 더 추악한 일을 성벽 안에서 겪었다. 마치 자기 수비대에 사로잡힌 사람들처럼 자유민인 아내와 자식에게까지 모욕을 당하고, 함락된 도시에서 벌어지는 최악의 일들을 당했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2140,9 +2245,9 @@
       "paragraph": 97,
       "ref": "Liv. 8.25.7–9",
       "original": "itaque cum et a Tarento et a Samnitibus fama esset nova auxilia ventura, Samnitium plus, quam vellent, intra moenia esse rebantur, Tarentinorum iuventutem, Graeci Graecos, haud minus per quos Samniti Nolanoque quam ut Romanis hostibus resisterent, expectabant; postremo levissimum malorum deditio ad Romanos visa. Charilaus et Nymphius principes civitatis communicato inter se consilio partes ad rem agendam divisere, ut alter ad imperatorem Romanorum transfugeret, alter subsisteret ad praebendam opportunam consilio urbem.",
-      "korean": "",
+      "korean": "타렌툼과 삼니움에서 새 지원군이 온다는 소문이 났을 때 그들은 성벽 안에 이미 원하는 것보다 많은 삼니움인이 있다고 여겼다. 그리스인인 그들은 그리스인인 타렌툼 젊은이들이 오기를 기다렸지만, 이는 로마라는 적에게 저항하기 위해서 못지않게 삼니움인과 놀라인에게 저항하기 위해서였다. 마침내 로마인에게 항복하는 것이 여러 악 가운데 가장 가벼운 것으로 보였다. 시민 공동체의 지도자 카릴라오스와 뉨피오스는 서로 의논하여 일을 맡을 역할을 나누었다. 한 사람은 로마 지휘관에게 탈주하고 다른 사람은 도시에 남아 계획을 실행할 알맞은 기회를 마련하기로 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2162,9 +2267,9 @@
       "paragraph": 98,
       "ref": "Liv. 8.25.10–13",
       "original": "Charilaus fuit, qui ad Publilium Philonem venit et, quod bonum faustum felix Palaepolitanis populoque Romano esset, tradere se ait moenia statuisse. eo facto utrum ab se prodita an servata patria videatur, in fide Romana positum esse. sibi privatim nec pacisci quicquam nec petere; publice petere quam pacisci magis, ut, si successisset inceptis, cogitaret populus Romanus potius, cum quanto studio periculoque reditum in amicitiam suam esset, quam qua stultitia et temeritate de officio decessum. conlaudatus ab imperatore tria milia militum ad occupandam eam partem urbis, quam Samnites insidebant, accepit; praesidio ei L. Quinctius tribunus militum praepositus.",
-      "korean": "",
+      "korean": "퀸투스 푸블릴리우스 필로에게 온 사람은 카릴라오스였다. 그는 팔라이폴리스 인민과 로마 인민에게 좋고 길하며 복된 일이 되도록 성벽을 넘겨주기로 결심했다고 말했다. 그 행동 때문에 자기가 조국을 배신한 사람으로 보일지 구한 사람으로 보일지는 로마의 신의에 달렸다고 했다. 개인적으로는 어떤 조건도 협상하거나 요구하지 않았다. 공동체를 위해서는 거래보다 간청을 했다. 계획이 성공한다면 로마 인민은 자기들이 얼마나 어리석고 경솔하게 의무를 저버렸는지보다 얼마나 큰 열의와 위험을 감수하며 로마의 우호로 돌아왔는지를 생각해 달라는 것이었다. 지휘관은 그를 칭찬하고 삼니움인이 차지한 도시 구역을 점령하도록 병사 3천 명을 주었다. 군사 호민관 루키우스 퀸크티우스가 그 수비대를 지휘했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2186,9 +2291,9 @@
       "paragraph": 99,
       "ref": "Liv. 8.26.1–6",
       "original": "eodem tempore et Nymphius praetorem Samnitium arte adgressus perpulerat, ut, quoniam omnis Romanus exercitus aut circa Palaepolim aut in Samnio esset, sineret se classe circumvehi ad Romanum agrum, non oram modo maris sed ipsi urbi propinqua loca depopulaturum. sed, ut falleret, nocte proficiscendum esse extemploque naves deducendas. quod quo maturius fieret, omnis iuventus Samnitium praeter necessarium urbis praesidium ad litus missa. ubi dum Nymphius in tenebris et multitudine semet ipsa inpediente, sedulo aliis alia imperia turbans, terit tempus, Charilaus ex conposito ab sociis in urbem receptus, cum summa urbis Romano milite inplesset, tolli clamorem iussit; ad quem Graeci signo accepto a principibus quievere, Nolani per aversam partem urbis via Nolam ferente effugiunt. Samnitibus exclusis ab urbe ut expeditior in praesentia fuga, ita foedior, postquam periculo evaserunt, visa, quippe qui inermes nulla rerum suarum non relicta inter hostes, ludibrium non externis modo sed etiam popularibus, spoliati atque egentes domos rediere. haud ignarus opinionis alterius, qua haec proditio ab Samnitibus facta traditur, cum auctoribus hoc dedi, quibus dignius credi est, tum foedus Neapolitanum — eo enim deinde summa rei Graecorum venit — similius vero facit ipsos in amicitiam redisse.",
-      "korean": "",
+      "korean": "같은 때 뉨피오스도 계략으로 삼니움 법무관에게 접근했다. 로마군 전체가 팔라이폴리스 주변이나 삼니움에 있으니, 자기가 함대를 타고 로마 영토를 돌아 해안뿐 아니라 도시 가까운 곳까지 약탈하게 해달라고 설득했다. 그러나 적을 속이려면 밤에 출발하여 당장 배들을 물에 내려야 한다고 했다. 일을 더 빨리 하려고 도시 수비에 꼭 필요한 병력 외의 삼니움 젊은이 전부를 해안으로 보냈다. 어둠 속에서 많은 사람이 서로 방해하는 가운데 뉨피오스는 일부러 이 사람에게는 이 명령, 저 사람에게는 저 명령을 내려 혼란을 일으키며 시간을 끌었다. 약속대로 동맹군에게서 도시 안으로 받아들여진 카릴라오스는 도시의 높은 곳을 로마 병사들로 채우고 함성을 올리게 했다. 지도자들에게서 신호를 받은 그리스인들은 조용히 있었고, 놀라인들은 도시 뒤편의 놀라로 가는 길을 통해 달아났다. 도시에서 차단된 삼니움인에게는 당장의 도주가 더 쉬워 보였지만 위험을 벗어난 뒤에는 더 치욕스럽게 느껴졌다. 무기도 없이 자기 물건을 하나도 남김없이 적에게 버린 채, 외국인뿐 아니라 동족에게도 웃음거리가 되어 알몸이나 다름없는 빈손으로 고향에 돌아갔기 때문이다. 이 도시의 배신이 삼니움인에게서 나왔다는 다른 견해도 나에게 알려져 있다. 그러나 더 믿을 만한 저술가들에게서 받은 이 전승을 따르는 데다, 뒤에 그리스인 정세의 중심이 된 네아폴리스와 맺은 조약도 그들이 스스로 로마의 우호로 돌아왔다는 쪽을 더 사실답게 한다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2205,9 +2310,9 @@
       "paragraph": 100,
       "ref": "Liv. 8.26.7",
       "original": "Publilio triumphus decretus, quod satis credebatur obsidione domitos hostes in fidem venisse. duo singularia haec ei viro primum contigere, prorogatio imperii, non ante in ullo facta, et acto honore triumphus.",
-      "korean": "",
+      "korean": "포위로 충분히 굴복한 적이 로마의 보호 아래 들어왔다고 믿었으므로 푸블릴리우스에게 개선식이 의결되었다. 이 사람에게는 처음 일어난 두 가지 특별한 일이 있었다. 누구에게도 전례가 없던 명령권의 연장과, 관직에서 물러난 뒤 거행한 개선식이었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2226,9 +2331,9 @@
       "paragraph": 101,
       "ref": "Liv. 8.27.1–3",
       "original": "aliud subinde bellum cum alterius orae Graecis exortum. namque Tarentini, cum rem Palaepolitanam vana spe auxilii aliquamdiu sustinuissent, postquam Romanos urbe potitos accepere, velut destituti ac non qui ipsi destituissent, increpare Palaepolitanos, ira atque invidia in Romanos furere, eo etiam, quod Lucanos et Apulos — nam utraque eo anno societas coepta est — in fidem populi Romani venisse adlatum est: quippe propemodum perventum ad se esse, iamque in eo rem fore, ut Romani aut hostes aut domini habendi sint.",
-      "korean": "",
+      "korean": "곧이어 다른 해안의 그리스인과 또 하나의 전쟁이 일어났다. 타렌툼인은 팔라이폴리스가 도움을 받을 것이라는 헛된 희망으로 한동안 버티게 했다. 그러다 로마인이 도시를 차지했다는 소식을 듣자, 자기가 남을 저버린 사람이 아니라 남에게 버림받은 사람처럼 팔라이폴리스인을 꾸짖고 로마인을 향한 분노와 시샘으로 날뛰었다. 그해 우호 관계를 시작한 루카니아인과 아풀리아인 모두 로마 인민의 보호 아래 들어갔다는 보고까지 받았다. 로마인이 거의 자기들에게까지 이르렀으며, 이제는 로마인을 적으로 삼을지 주인으로 삼을지만 남았기 때문이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2248,9 +2353,9 @@
       "paragraph": 102,
       "ref": "Liv. 8.27.4–7",
       "original": "discrimen profecto rerum suarum in bello Samnitium eventuque eius verti; eam solam gentem restare, nec eam ipsam satis validam, quando Lucanus defecerit; quem revocari adhuc inpellique ad abolendam societatem Romanam posse, si qua ars serendis discordiis adhibeatur. haec consilia cum apud cupidos rerum novandarum valuissent, ex iuventute quidam Lucanorum pretio adsciti, clari magis inter populares quam honestly, inter se mulcati ipsi virgis cum corpora nuda intulissent in civium coetum, vociferati sunt se, quod castra Romana ingredi ausi essent, a consulibus virgis caesos ac prope securi percussos esse.",
-      "korean": "",
+      "korean": "자기들의 운명을 가를 결정은 틀림없이 삼니움 전쟁의 결과에 달렸다고 보았다. 남은 민족은 삼니움인 하나뿐이며, 루카니아인이 이탈한 이상 그들조차 충분히 강하지 않았다. 그러나 불화를 심는 계략을 쓴다면 아직 루카니아인을 되돌려 로마 동맹을 없애게 만들 수 있다고 했다. 변화를 갈망하는 자들이 이 방책을 받아들이자 루카니아 젊은이 몇 사람을 돈으로 샀다. 동족 사이에서는 정직함보다 명성이 더 알려진 자들이었다. 그들은 서로 옷을 벗긴 몸을 매질한 다음 시민들의 모임으로 들어가, 로마 진영에 감히 들어갔다는 이유로 집정관들에게 매질당했고 거의 도끼로 목이 잘릴 뻔했다고 외쳤다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2269,9 +2374,9 @@
       "paragraph": 103,
       "ref": "Liv. 8.27.8–10",
       "original": "deformis suapte natura res cum speciem iniuriae magis quam doli prae se ferret, concitati homines cogunt clamore suo magistratus senatum vocare, et alii circumstantes concilium bellum in Romanos poscunt, alii ad concitandam in arma multitudinem agrestium discurrunt, tumultuque etiam sanos consternante animos decernitur, ut societas cum Samnitibus renovaretur, legatique ad eam rem mittuntur. repentina res quia quam causam nullam tam ne fidem quidem habebat, coacti a Samnitibus et obsides dare et praesidia in loca munita accipere, caeci fraude et ira nihil recusarunt.",
-      "korean": "",
+      "korean": "본래부터 흉측한 광경은 계략보다 부정의 흔적을 더 뚜렷이 드러냈다. 격분한 사람들은 함성으로 정무관들에게 원로원을 소집하게 했다. 어떤 이들은 회의를 에워싸고 로마와 전쟁하라고 요구했고, 어떤 이들은 농촌 군중을 무장시키려고 사방으로 달려갔다. 소동이 건전한 마음을 지닌 사람들까지 공포에 빠뜨린 끝에 삼니움인과 동맹을 갱신하고 이를 위해 사절을 보내기로 의결했다. 아무 원인도 신빙성도 없는 돌발적인 일이었으므로 삼니움인은 그들에게 인질을 내놓고 요새화된 곳에 수비대를 받아들이라고 강요했다. 사기와 분노에 눈먼 그들은 아무것도 거절하지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2288,9 +2393,9 @@
       "paragraph": 104,
       "ref": "Liv. 8.27.11",
       "original": "dilucere deinde brevi fraus coepit, postquam criminum falsorum auctores Tarentum commigravere; sed amissa omni de se potestate nihil ultra, quam ut paeniteret frustra, restabat.",
-      "korean": "",
+      "korean": "거짓 혐의를 꾸민 자들이 타렌툼으로 이주한 뒤 속임수는 곧 드러나기 시작했다. 그러나 자기들에 대한 모든 결정권을 이미 잃었으므로 헛되이 후회하는 것 말고는 아무것도 할 수 없었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2309,9 +2414,14 @@
       "paragraph": 105,
       "ref": "Liv. 8.28.1–3",
       "original": "eo anno plebei Romanae velut aliud initium libertatis factum est, quod necti desierunt; mutatum autem ius ob unius faeneratoris simul libidinem simul crudelitatem insignem. L. Papirius is fuit, cui cum se C. Publilius ob aes alienum paternum nexum dedisset, quae aetas formaque misericordiam elicere poterant, ad libidinem et contumeliam animum accenderunt. ut florem aetatis eius fructum adventicium crediti ratus, primo perlicere adulescentem sermone incesto est conatus; dein, postquam aspernabantur flagitium aures, minis territare atque identidem admonere fortunae;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "그해 로마 평민의 자유에는 또 하나의 시작과 같은 일이 생겼다. 사람들이 더는 채무의 인신 구속에 들어가지 않게 된 것이다. 법을 바꾼 계기는 한 고리대금업자가 저지른 유난한 성욕과 잔혹함이었다. 루키우스 파피리우스라는 사람이었다. 가이우스 푸블릴리우스는 아버지의 빚 때문에 자기 몸을 그의 채무 담보로 넘겼다. 연민을 일으킬 만한 젊음과 아름다움이 오히려 파피리우스의 마음을 욕정과 모욕으로 불붙게 했다. 그는 젊은 나이의 꽃을 자기 대출에 딸려온 이익으로 여기고, 처음에는 음란한 말로 젊은이를 꾀려 했다. 귀가 그 수치를 거부하자 위협으로 겁을 주며 자기 처지를 되풀이해 일깨웠다.",
+      "notes": [
+        {
+          "label": "인신 담보 채무",
+          "text": "nexum은 채무자가 자신의 몸과 노동을 채권자의 권력 아래 두는 계약이었다. 이 사건에서는 채권자가 그 지위를 성적으로 악용하려 했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2331,9 +2441,9 @@
       "paragraph": 106,
       "ref": "Liv. 8.28.4–7",
       "original": "postremo, cum ingenuitatis magis quam praesentis condicionis memorem videret, nudari iubet verberaque adferri. quibus laceratus iuvenis cum se in publicum proripuisset, libidinem crudelitatemque conquerens faeneratoris, ingens vis hominum cum aetatis miseratione atque indignitate iniuriae accensa, tum suae condicionis liberumque suorum respectu, in forum atque inde agmine facto ad curiam concurrit; et, cum consules tumultu repentino coacti senatum vocarent, introeuntibus in curiam patribus laceratum iuvenis tergum, procumbentes ad singulorum pedes, ostentabant.",
-      "korean": "",
+      "korean": "마침내 젊은이가 눈앞의 처지보다 자유민 신분을 더 기억하는 것을 보자 옷을 벗기고 매질할 도구를 가져오라고 명했다. 채찍에 찢긴 젊은이는 거리로 뛰쳐나가 고리대금업자의 욕정과 잔혹함을 고발했다. 엄청난 군중이 그의 젊음을 불쌍히 여기고 부당한 폭행에 분노했다. 동시에 자기와 자기 자식들의 처지도 돌아보며 포룸으로, 이어 대오를 이루어 원로원 의사당으로 달려갔다. 갑작스러운 소동 때문에 집정관들이 원로원을 소집하자, 귀족 의원들이 의사당으로 들어가는 길에 사람들은 각자의 발 앞에 엎드려 젊은이의 찢긴 등을 보여주었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2351,9 +2461,9 @@
       "paragraph": 107,
       "ref": "Liv. 8.28.8–9",
       "original": "victum eo die ob inpotentem iniuriam unius ingens vinculum fidei; iussique consules ferre ad populum, ne quis, nisi qui noxam meruisset, donec poenam lueret, in compedibus aut in nervo teneretur; pecuniae creditae bona debitoris, non corpus obnoxium esset. ita nexi soluti, cautumque in posterum, ne necterentur.",
-      "korean": "",
+      "korean": "그날 한 사람의 제멋대로인 부정 때문에 신용을 묶던 거대한 사슬이 끊어졌다. 집정관들은 범죄하여 벌을 치르는 사람 말고는 누구도 족쇄나 차꼬에 가두지 못하게 하는 법안을 민중에게 제출하라는 명령을 받았다. 빌려준 돈에는 채무자의 재산이 담보가 되어야지 몸이 담보가 되어서는 안 되었다. 그렇게 인신 구속된 채무자들이 풀려났고, 앞으로도 그런 계약에 묶이지 못하게 규정했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2372,9 +2482,9 @@
       "paragraph": 108,
       "ref": "Liv. 8.29.1–3",
       "original": "eodem anno cum satis per se ipsum Samnitium bellum et defectio repens Lucanorum auctoresque defectionis Tarentini sollicitos haberent patres, accessit, ut et Vestinus populus Samnitibus sese coniungeret. quae res sicut eo anno sermonibus magis passim hominum iactata quam in publico ullo concilio est, ita insequentis anni consulibus, L. Furio Camillo iterum Iunio Bruto Scaevae, nulla prior potiorque visa est, de qua ad senatum referrent. et quamquam non nova res erat, tamen tanta cura patres incessit, ut pariter eam susceptam neglectamque timerent, ne aut inpunitas eorum lascivia superbiaque aut bello poenae expetitae metu propinquo atque ira concirent finitimos populos.",
-      "korean": "",
+      "korean": "같은 해 삼니움 전쟁과 루카니아인의 갑작스러운 이탈, 이탈을 부추긴 타렌툼인만으로도 귀족들이 충분히 불안했는데 베스티니 인민까지 삼니움인과 결합했다. 그해에는 공적인 어떤 회의보다 사람들 사이의 소문으로 떠돈 일이었지만, 이듬해 집정관 루키우스 푸리우스 카밀루스와 유니우스 브루투스 스카이바는 이 문제보다 먼저 원로원에 제출할 더 중요한 일이 없다고 보았다. 새로운 일은 아니었지만 귀족들은 이를 받아들이는 것과 무시하는 것을 똑같이 두려워했다. 처벌하지 않으면 그들의 방종과 오만이 커질 것이고, 전쟁으로 벌을 요구하면 가까이 닥친 두려움과 분노 때문에 이웃 민족들을 들고일어나게 할 수 있었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2395,9 +2505,9 @@
       "paragraph": 109,
       "ref": "Liv. 8.29.4–8",
       "original": "et erat genus omne abunde bello Samnitibus par, Marsi Paelignique et Marrucini: quos, si Vestinus attingeretur, omnes habendos hostes. vicit tamen pars, quae in praesentia videri potuit maioris animi quam consilii; sed eventus docuit fortes fortunam iuvare. bellum ex auctoritate patrum populus adversus Vestinos iussit. provincia ea Bruto, Samnium Camillo sorte evenit. exercitus utroque ducti, et cura tuendorum finium hostes prohibiti coniungere arma. ceterum alterum consulem L. Furium, cui maior moles rerum inposita erat, morbo gravi inplicitum fortuna bello subtraxit;",
-      "korean": "",
+      "korean": "그 모든 종족, 곧 마르시인·파엘리그니인·마루키니인은 힘이 삼니움인에 충분히 맞먹었다. 베스티니인을 건드리면 이들 모두를 적으로 삼아야 했다. 그래도 당장은 판단보다 용기가 더 큰 듯한 쪽의 의견이 이겼고, 결과는 운명이 용감한 자를 돕는다는 것을 보여주었다. 원로원의 권고에 따라 민중은 베스티니인에게 전쟁을 명했다. 제비뽑기 결과 브루투스가 그 전쟁을, 카밀루스가 삼니움을 맡았다. 두 곳 모두 군대를 보내 자기 국경을 지켜야 한다는 근심 때문에 적들이 병력을 합치지 못하게 했다. 그러나 더 큰 사태의 무게를 짊어진 다른 집정관 루키우스 푸리우스는 중병에 걸려 운명에 의해 전쟁에서 빠졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2417,9 +2527,9 @@
       "paragraph": 110,
       "ref": "Liv. 8.29.9–12",
       "original": "iussusque dictatorem dicere rei gerendae causa longe clarissimum bello ea tempestate dixit, L. Papirium Cursorem, a quo Q. Fabius Maximus Rullianus magister equitum est dictus: par nobile rebus in eo magistratu gestis, discordia tamen, qua prope ad ultimum dimicationis ventum est, nobilius. ab altero consule in Vestinis multiplex bellum nec usquam vario eventu gestum est. nam et pervastavit agros et populando atque urendo tecta hostium sataque in aciem invitos extraxit et ita proelio uno accidit Vestinorum res, haudquaquam tamen incruento milite suo, ut non in castra solum refugerent hostes sed iam ne vallo quidem ac fossis freti dilaberentur in oppida, situ urbium moenibusque se defensuri.",
-      "korean": "",
+      "korean": "전쟁을 수행할 독재관을 임명하라는 명령을 받은 그는 당시 전쟁에서 단연 가장 이름난 루키우스 파피리우스 쿠르소르를 임명했다. 독재관은 퀸투스 파비우스 막시무스 룰리아누스를 기병대장으로 삼았다. 이 관직에서 이룬 일로 이름난 두 사람의 조합이지만, 끝내 죽고 사는 싸움까지 갈 뻔한 불화로 더 유명해졌다. 다른 집정관은 베스티니에서 여러 종류의 전쟁을 치렀으나 어느 곳에서도 결과가 엇갈리지 않았다. 들판을 완전히 황폐하게 하고 적의 집과 곡식을 약탈하고 불태워 원치 않는 적을 전열로 끌어냈다. 한 번의 전투로 베스티니인의 형편을 무너뜨렸다. 자기 병사도 적지 않게 피를 흘렸지만, 적은 진영으로 달아났다가 이제 방벽과 해자조차 믿지 못하고 여러 도시로 흩어져 도시의 위치와 성벽으로 자신을 지키려 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2437,9 +2547,9 @@
       "paragraph": 111,
       "ref": "Liv. 8.29.13–14",
       "original": "postremo oppida quoque vi expugnare adortus primo Cutinam ingenti ardore militum a vulnerum ira, quod haud fere quisquam integer proelio excesserat, scalis cepit, deinde Cingiliam. utriusque urbis praedam militibus, quod eos neque portae nec muri hostium arcuerant, concessit.",
-      "korean": "",
+      "korean": "마침내 도시들까지 무력으로 공격했다. 전투를 온전히 빠져나온 사람이 거의 없었기에 상처로 분노한 병사들이 엄청난 열기를 보였고, 먼저 사다리를 대어 쿠티나를 점령한 뒤 킨길리아를 차지했다. 적의 성문도 성벽도 병사들을 막지 못했으므로 집정관은 두 도시의 전리품을 그들에게 주었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2460,9 +2570,14 @@
       "paragraph": 112,
       "ref": "Liv. 8.30.1–5",
       "original": "in Samnium incertis itum auspiciis est; cuius rei vitium non in belli eventum, quod prospere gestum est, sed in rabiem atque iras imperatorum vertit. namque Papirius dictator a pullario monitus cum ad auspicium repetendum Romam proficisceretur, magistro equitum denuntiavit, ut sese loco teneret neu absente se cum hoste manum consereret. Q. Fabius cum post profectionem dictatoris per exploratores conperisset perinde omnia soluta apud hostes esse, ac si nemo Romanus in Samnio esset, seu ferox adulescens indignitate accensus, quod omnia in dictatore viderentur reposita esse, seu occasione bene gerendae rei inductus, exercitu instructo paratoque profectus ad Imbrinium — ita vocant locum — acie cum Samnitibus conflixit. ea fortuna pugnae fuit, ut nihil relictum sit, quo, si adfuisset dictator, res melius geri potuerit; non dux militi, non miles duci defuit;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "불확실한 길조 아래 삼니움으로 나아갔다. 이 하자는 성공적으로 치른 전쟁의 결과가 아니라 지휘관들의 광기와 분노로 돌아갔다. 닭을 맡은 관리가 독재관 파피리우스에게 경고하자 그는 길조를 다시 받으려고 로마로 떠났다. 기병대장에게는 그 자리를 지키고 자기가 없는 동안 적과 교전하지 말라고 단단히 명했다. 독재관이 떠난 뒤 퀸투스 파비우스는 정찰병을 통해 삼니움에 로마인이 아무도 없는 것처럼 적의 모든 경계가 풀렸음을 알아냈다. 혈기왕성한 젊은이라 모든 것이 독재관 한 사람에게 달린 듯한 모욕에 격분했기 때문인지, 전과를 올릴 기회에 이끌렸기 때문인지 군대를 편성하고 준비하여 임브리니움이라 부르는 곳으로 나아가 삼니움인과 회전을 벌였다. 전투의 운은 독재관이 있었더라도 더 잘할 여지가 전혀 없을 만큼 좋았다. 지휘관은 병사를, 병사는 지휘관을 저버리지 않았다.",
+      "notes": [
+        {
+          "label": "성스러운 닭",
+          "text": "군사 원정에서는 닭이 먹이를 쪼는 모습을 관찰해 길조를 물었다. 이를 관리한 사람이 pullarius다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2482,9 +2597,9 @@
       "paragraph": 113,
       "ref": "Liv. 8.30.6–9",
       "original": "eques etiam auctore L. Cominio tribuno militum, qui aliquotiens impetu capto perrumpere non poterat hostium agmen, detraxit frenos equis atque ita concitatos calcaribus permisit, ut sustinere eos nulla vis posset; per arma, per viros late stragem dedere; secutus pedes impetum equitum turbatis hostibus intulit signa. viginti milia hostium caesa eo die traduntur. auctores habeo bis cum hoste signa conlata dictatore absente, bis rem egregie gestam; apud antiquissimos scriptores una haec pugna invenitur; in quibusdam annalibus tota res praetermissa, est. magister equitum, ut ex tanta caede, multis potitus spoliis congesta in ingentem acervum hostilia arma subdito igne concremavit, seu votum id deorum cuipiam fuit, seu credere libet Fabio auctori eo facturn, ne suae gloriae fructum dictator caperet nomenque ibi scriberet aut spolia in triumpho ferret.",
-      "korean": "",
+      "korean": "기병도 군사 호민관 루키우스 코미니우스의 제안에 따라 행동했다. 여러 차례 돌격했으나 적의 대오를 뚫지 못하자 말에서 고삐를 벗기고 박차로 몰아 그대로 내달리게 했다. 어떤 힘도 막을 수 없었고, 무기와 사람 사이를 뚫으며 넓게 시체를 쌓았다. 보병은 기병의 돌격을 뒤따라 혼란에 빠진 적에게 군기들을 들이밀었다. 그날 적 2만 명이 죽었다고 전한다. 독재관이 없는 동안 적과 두 번 전열을 맞대어 두 번 모두 훌륭한 성과를 거두었다는 저술가들도 있다. 가장 오래된 저술가들에서는 이 전투 한 번만 나오며, 몇몇 연대기에는 사건 전체가 빠져 있다. 기병대장은 그토록 큰 살육에서 얻은 많은 전리품을 거대한 더미로 쌓고 적의 무기에 불을 놓아 태웠다. 어떤 신에게 한 서원을 따른 것일 수도 있다. 또는 파비우스를 내세운 저술가의 말을 믿는다면, 독재관이 자기 영광의 열매를 차지하여 그곳에 자기 이름을 적거나 개선식에서 전리품을 나르는 일을 막으려 했던 것이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2503,9 +2618,9 @@
       "paragraph": 114,
       "ref": "Liv. 8.30.10–12",
       "original": "litterae quoque de re prospere gesta ad senatum, non ad dictatorem missae argumentum fuere minime cum eo communicantis laudes. ita certe dictator id factum accepit, ut laetis aliis victoria parta prae se ferret iram tristitiamque. misso itaque repente senatu se ex curia proripuit, tum vero non Samnitium magis legiones quam maiestatem dictatoriam et disciplinam militarem a magistro equitum victam et eversam dictitans, si illi inpune spretum imperium fuisset. itaque plenus minarum iraeque profectus in castra cum maximis itineribus isset, non tamen praevenire famamaduentus sui potuit;",
-      "korean": "",
+      "korean": "전과를 알리는 서신도 독재관이 아니라 원로원에 보냈으므로 영예를 조금도 나눌 뜻이 없었다는 증거가 되었다. 실제로 독재관은 다른 사람들이 승리를 기뻐하는 가운데 분노와 슬픔을 드러낼 만큼 그 행동을 받아들였다. 그는 원로원 회의를 갑자기 중단하고 의사당에서 뛰쳐나왔다. 기병대장이 삼니움 군단들보다 독재관의 위엄과 군율을 더 철저히 꺾어 무너뜨렸으며, 명령을 무시한 일이 벌받지 않으면 그렇게 되리라고 거듭 말했다. 위협과 분노로 가득하여 진영을 향해 하루 최대 거리를 강행군했으나, 자기가 온다는 소문보다 먼저 도착할 수는 없었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2522,9 +2637,9 @@
       "paragraph": 115,
       "ref": "Liv. 8.30.13",
       "original": "praecurrerant enim ab urbe, qui nuntiarent dictatorem avidum poenae venire, alternis paene verbis T. Manli factum laudantem.",
-      "korean": "",
+      "korean": "독재관이 벌을 갈망하며 오고 있고, 거의 두 마디에 한 번꼴로 티투스 만리우스의 행동을 칭찬한다는 것을 알리려고 사람들이 로마에서 앞질러 달려왔기 때문이다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2544,9 +2659,9 @@
       "paragraph": 116,
       "ref": "Liv. 8.31.1–4",
       "original": "Fabius contione extemplo advocata obtestatus milites est, ut, qua virtute rem publicam ab infestissimis hostibus defendissent, eadem se, cuius ductu auspicioque vicissent, ab inpotenti crudelitate dictatoris tutarentur: venire amentem invidia, iratum virtuti alienae felicitatique; furere, quod se absente res publica egregie gesta esset; malle, si mutare fortunam posset, apud Samnites quam Romanos victoriam esse; imperium dictitare spretum, tamquam non eadem mente pugnari vetuerit, qua pugnatum doleat: et tunc invidia inpedire virtutem alienam voluisse cupidissimisque arma ablaturum fuisse militibus, ne se absente moveri possent, et nunc id furere, id aegre pati, quod sine L. Papirio non inermes, non manci milites fuerint, quod se Q. Fabius magistrum equitum duxerit ac non accensum dictatoris.",
-      "korean": "",
+      "korean": "파비우스는 곧바로 병사들을 모아 간청했다. 극도로 적대적인 적에게서 공화국을 지킨 그 용맹으로, 자기 지휘와 길조 아래 승리한 자신도 독재관의 제멋대로인 잔혹함에서 지켜달라고 했다. 그는 남의 용맹과 행운을 시샘하여 미친 듯이 분노하며 오고 있었다. 자기가 없는 동안 국사가 훌륭히 이루어진 것을 보고 날뛰었고, 운을 바꿀 수 있다면 로마인보다 삼니움인이 승리하기를 바랐을 것이다. 싸움을 금한 것도 이제 패배한 명령권을 되풀이해 말하는 것과 같은 마음, 곧 전투가 벌어진 사실 자체를 미워하는 마음에서였다. 그때에는 시기심으로 남의 용맹을 막으려 했고, 자기가 없는 동안 조금도 움직이지 못하도록 싸움을 가장 갈망하는 병사들에게서 무기를 빼앗으려 했다. 이제는 루키우스 파피리우스가 없는데도 병사들이 무장도 못 하고 팔다리도 못 쓰는 사람들이 아니었다는 것, 퀸투스 파비우스가 자신을 독재관의 말단 보조원이 아니라 기병대장으로 여겼다는 것 때문에 날뛰고 괴로워했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2565,9 +2680,9 @@
       "paragraph": 117,
       "ref": "Liv. 8.31.5–7",
       "original": "quid illum facturum fuisse, si, quod belli casus ferunt Marsque communis, adversa pugna evenisset, qui sibi devictis hostibus, re publica bene gesta, ita ut non ab illo unico duce melius geri potuerit, supplicium magistro equitum minetur? neque illum magistro equitum infestiorem quam tribunis militum, quam centurionibus, quam militibus esse. si posset, in omnes saeviturum fuisse; quia id nequeat, in unum saevire; etiam invidiam tamquam ignem summa petere; in caput consilii, in ducem incurrere; si se simul cum gloria rei gestae extinxisset, tunc victorem velut in capto exercitu dominantem, quidquid licuerit in magistro equitum, in militibus ausurum. proinde adessent in sua causa omnium libertati.",
-      "korean": "",
+      "korean": "‘전쟁의 우연과 어느 편도 가리지 않는 마르스가 가져오는 대로 전투가 불리하게 끝났다면 저자는 어떻게 했겠는가? 적을 완전히 무찌르고 국사를 훌륭하게 이루어, 그 유일무이한 지휘관이 있어도 더 잘할 수 없었는데도 기병대장에게 처형을 위협하는 사람이다. 그는 기병대장에게만 적의를 품은 것이 아니라 군사 호민관과 백인대장과 병사 모두에게 적의를 품었다. 할 수 있었다면 모두에게 잔혹하게 굴었을 것이나 그럴 수 없어 한 사람에게 잔혹함을 쏟는다. 시기심도 불처럼 가장 높은 곳을 노린다. 방책의 머리이자 지휘관에게 달려든다. 만약 전과의 영예와 함께 나까지 없앤다면, 그는 포로로 잡은 군대를 지배하듯 승자 행세를 하며 기병대장에게 허용된 일을 병사들에게도 모조리 감행할 것이다. 그러므로 너희는 나를 지키는 일이 모두의 자유를 지키는 일임을 알고 나서라.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2585,9 +2700,9 @@
       "paragraph": 118,
       "ref": "Liv. 8.31.8–9",
       "original": "si consensum exercitus eundem, qui in proelio fuerit, in tuenda victoria videat et salutem unius omnibus curae esse, inclinaturum ad clementiorem sententiam animum; postremo se vitam fortunasque suas illorum fidei virtutique permittere.",
-      "korean": "",
+      "korean": "‘독재관이 전투에서 보았던 군대의 한마음을 승리를 지키는 일에서도 보고, 한 사람의 목숨을 모두가 염려한다는 것을 안다면 더 온건한 판단으로 마음을 기울일 것이다. 마지막으로 나는 내 생명과 운명을 너희의 신의와 용맹에 맡긴다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2606,9 +2721,9 @@
       "paragraph": 119,
       "ref": "Liv. 8.32.1–3",
       "original": "clamor e tota contione ortus, uti bonum animum haberet: neminem illi vim adlaturum salvis legionibus Romanis. haud multo post dictator advenit classicoque extemplo ad contionem advocavit. tum silentio facto praeco Q. Fabium magistrum equitum citavit. qui simul ex inferiore loco ad tribunal accessit, tum dictator “quaero” inquit “de te, Q. Fabi, cum summum imperium dictatoris sit pareantque ei consules, regia potestas, praetores, iisdem auspiciis quibus consules creati, aequum censeas necne magistrum equitum dicto audientem esse?",
-      "korean": "",
+      "korean": "집회 전체에서 함성이 터졌다. 용기를 가지며 로마 군단이 살아 있는 한 누구도 그에게 폭력을 쓰지 못하리라는 외침이었다. 얼마 지나지 않아 독재관이 도착하여 나팔을 불어 곧바로 병사들을 모았다. 모두가 조용해지자 전령이 기병대장 퀸투스 파비우스를 불렀다. 그가 낮은 자리에서 지휘석으로 다가오자 독재관이 말했다. ‘퀸투스 파비우스, 네게 묻겠다. 독재관은 최고 명령권을 가지며 집정관들, 왕에 버금가는 권력을 지닌 자들, 집정관과 같은 길조 아래 선출된 법무관들까지 그에게 복종한다. 그렇다면 기병대장도 명령에 복종하는 것이 옳다고 생각하느냐, 그렇지 않으냐?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2627,9 +2742,9 @@
       "paragraph": 120,
       "ref": "Liv. 8.32.4–6",
       "original": "itemque illud interrogo, cum me incertis auspiciis profectum ab domo scirem, utrum mihi turbatis religionibus res publica in discrimen committenda fuerit, an auspicia repetenda, ne quid dubiis dis agerem? simul illud, quae dictatori religio inpedimento ad rem gerendam fuerit, num ea magister equitum solutus ac liber potuerit esse? sed quid ego haec interrogo, cum, si ego tacitus abissem, tamen tibi ad voluntatis interpretationem meae dirigenda tua sententia fuerit? quin tu respondes, vetuerimne te quicquam rei me absente agere, vetuerimne signa cum hostibus conferre?",
-      "korean": "",
+      "korean": "‘또 이것을 묻겠다. 내가 불확실한 길조 아래 집을 떠났음을 알았을 때, 종교 의식이 흐트러진 채 공화국을 위험에 맡겨야 했는가, 아니면 신들의 뜻이 의심스러울 때 아무것도 하지 않도록 길조를 다시 받아야 했는가? 독재관의 종교적 거리낌이 군사 행동을 막았다면 기병대장만 거기에서 풀려 자유로울 수 있었는가? 하지만 내가 왜 이것을 묻고 있는가? 내가 아무 말 없이 떠났다 해도 너는 내 뜻을 해석하여 네 판단을 그에 맞추어야 했다. 어서 대답해 보아라. 내가 없는 동안 어떤 행동도 하지 말라고 금했느냐, 금하지 않았느냐? 적과 군기를 맞대어 싸우지 말라고 금했느냐?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2649,9 +2764,9 @@
       "paragraph": 121,
       "ref": "Liv. 8.32.7–10",
       "original": "quo tu imperio meo spreto, incertis auspiciis, turbatis religionibus adversus morem militarem disciplinamque maiorum et numen deorum ausus es cum hoste confligere. ad haec, quae interrogatus es, responde; at extra ea cave vocem mittas. accede, lictor.” aduersus quae singula cum respondere haud facile esset et nunc quereretur eundem accusatorem capitis sui ac iudicem esse, modo vitam sibi eripi citius quam gloriam rerum gestarum posse vociferaretur purgaretque se in vicem atque ultro accusaret, tunc Papirius redintegrata ira spoliari magistrum equitum ac virgas et secures expediri iussit.",
-      "korean": "",
+      "korean": "‘너는 그 명령을 업신여기고 불확실한 길조와 흐트러진 종교 의식 아래 군사 관습과 조상의 군율과 신들의 권능을 거슬러 감히 적과 싸웠다. 물은 것에 답하라. 그 밖의 말은 한마디도 내지 않도록 조심하라. 형리여, 다가가라.’ 파비우스는 이 질문들 하나하나에 답하기가 쉽지 않았다. 지금은 같은 사람이 자기 목숨의 고발자와 재판관을 함께 맡는다고 호소했고, 다음에는 자기 목숨은 전공의 영예보다 더 빨리 빼앗을 수 있을 뿐이라고 외쳤다. 번갈아 자신을 변호하고 도리어 독재관을 고발했다. 그러자 파피리우스는 분노가 다시 타올라 기병대장의 옷을 벗기고 매질 도구와 도끼를 준비하라고 명했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2670,9 +2785,9 @@
       "paragraph": 122,
       "ref": "Liv. 8.32.11–13",
       "original": "Fabius fidem militum inplorans lacerantibus vestem lictoribus ad triarios tumultum ultima in contione miscentes sese recepit. inde clamor in totam contionem est perlatus. alibi preces, alibi minae audiebantur; qui proximi forte tribunali steterant, quia subiecti oculis imperatoris noscitari poterant, orabant, ut parceret magistro equitum neu cum eo exercitum damnaret; extrema contio et circa Fabium globus increpabant inclementem dictatorem nec procul seditione aberant. ne tribunal quidem satis quietum erat;",
-      "korean": "",
+      "korean": "형리들이 옷을 찢자 파비우스는 병사들의 신의를 부르며 집회 맨 뒤에서 소동을 일으키던 후열병들 사이로 물러났다. 그곳의 고함이 집회 전체로 퍼졌다. 한쪽에서는 간청이, 다른 쪽에서는 위협이 들렸다. 지휘석 가까이 서서 지휘관의 눈에 띄어 얼굴이 기억될 수 있던 자들은 기병대장을 살려주고 그와 함께 군대 전체를 유죄로 만들지 말라고 빌었다. 집회 뒤쪽과 파비우스를 에워싼 무리는 무자비한 독재관을 꾸짖으며 반란을 일으키기 직전까지 갔다. 지휘석 주변조차 충분히 평온하지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2691,9 +2806,9 @@
       "paragraph": 123,
       "ref": "Liv. 8.32.14–16",
       "original": "legati circumstantes sellam orabant, ut rem in posterum diem differret et irae suae spatium et consilio tempus daret: satis castigatam adulescentiam Fabi esse, satis deformatam victoriam; ne ad extremum finem supplicii tenderet neu unico iuveni, neu patri eius, clarissimo viro, neu Fabiae genti eam iniungeret ignominiam. cum parum precibus, parum causa proficerent, intueri saevientem contionem iubebant: ita inritatis militum animis subdere ignem ac materiam seditioni non esse aetatis, non prudentiae eius;",
-      "korean": "",
+      "korean": "의자를 에워싼 부장들은 사안을 이튿날로 미루어 자기 분노에는 가라앉을 틈을, 판단에는 생각할 시간을 달라고 간청했다. 파비우스의 젊음은 충분히 꾸지람을 받았고 승리도 충분히 욕을 보았으니 형벌의 마지막 끝까지 밀어붙이지 말며, 그 유일한 젊은이와 이름난 그의 아버지와 파비우스 가문에 그런 치욕을 지우지 말라고 했다. 간청도 명분도 별 소용이 없자 격노한 집회 군중을 보라고 했다. 병사들의 마음이 이토록 자극된 때에 불을 붙이고 반란의 땔감을 더하는 것은 그의 나이에도 지혜에도 어울리지 않는다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2711,9 +2826,9 @@
       "paragraph": 124,
       "ref": "Liv. 8.32.17–18",
       "original": "neminem id Q. Fabio poenam deprecanti suam vitio versurum, sed dictatori, si occaecatus ira infestam multitudinem in se pravo certamine movisset. postremo, ne id se gratiae dare. Q. Fabi crederet, se ius iurandum dare paratos esse non videri e re publica in Q. Fabium eo tempore animadverti.",
-      "korean": "",
+      "korean": "자기 벌을 면해달라고 청하는 퀸투스 파비우스를 어느 누구도 비난하지 않겠지만, 분노에 눈이 멀어 적대적인 군중을 그릇된 싸움으로 자기에게 몰아세운다면 독재관을 비난할 것이라고 했다. 마지막으로 파비우스에게 잘 보이려고 하는 말로 여기지 않도록, 지금 퀸투스 파비우스를 처벌하는 것은 국익에 맞지 않는다고 본다는 맹세도 기꺼이 하겠다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2733,9 +2848,9 @@
       "paragraph": 125,
       "ref": "Liv. 8.33.1–4",
       "original": "his uocibus cum in se magis incitarent dictatorem quam magistro equitum placarent, iussi de tribunali descendere legati; et silentio nequiquam per praeconem temptato, cum prae strepitu ac tumultu nec ipsius dictatoris nec apparitorum eius vox audiretur, nox velut in proelio certamini finem fecit. magister equitum, iussus postero die adesse, cum omnes adfirmarent infestius Papirium exarsurum, agitatum contentione ipsa exacerbatumque, clam ex castris Romam profugit; et patre auctore M. Fabio, qui ter iam consul dictatorque fuerat, vocato extemplo senatu cum maxime conquereretur apud patres vim atque iniuriam dictatoris, repente strepitus ante curiam lictorum summoventium auditur;",
-      "korean": "",
+      "korean": "이 말들은 기병대장을 향한 독재관의 마음을 누그러뜨리기보다 부장들을 향한 분노를 더 일으켰다. 그는 부장들에게 지휘석에서 내려가라고 명했다. 전령이 조용히 하라고 해도 소용없었고, 고함과 소동 때문에 독재관 자신과 집행 관리들의 목소리도 들리지 않았다. 마치 전투에서처럼 밤이 다툼을 끝냈다. 기병대장은 이튿날 출석하라는 명령을 받았다. 모두가 논쟁 자체로 더 격앙되고 자극받은 파피리우스가 한층 맹렬하게 타오르리라고 단언하자, 파비우스는 몰래 진영을 떠나 로마로 달아났다. 세 차례 집정관과 독재관을 지낸 아버지 마르쿠스 파비우스의 권고에 따라 곧바로 원로원을 소집했다. 그가 의원들에게 독재관의 폭력과 부정을 한창 호소하던 때 갑자기 의사당 앞에서 형리들이 군중을 물리치는 소리가 났다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2755,9 +2870,14 @@
       "paragraph": 126,
       "ref": "Liv. 8.33.5–8",
       "original": "et ipse infensus aderat, postquam conperit profectum ex castris, cum expedito equitatu secutus. iterata deinde contentio, et prendi Fabium Papirius iussit. ubi cum deprecantibus primoribus patrum atque universo senatu perstaret in incepto inmitis animus, tum pater M. Fabius “quando quidem” inquit “apud te nec auctoritas senatus nec aetas mea, cui orbitatem paras, nec virtus nobilitasque magistri equitum a te ipso nominati valet nec preces, quae saepe hostem mitigavere, quae deorum iras placant, tribunos plebis appello et provoco ad populum eumque tibi, fugienti exercitus tui, fugienti senatus iudicium, iudicem fero, qui certe unus plus quam tua dictatura potest polletque. videro, cessurusne provocationi sis, cui rex Romanus Tullus Hostilius cessit.” ex curia in contionem itur.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "기병대장이 진영을 떠났다는 것을 알자 가벼운 기병대를 이끌고 뒤쫓은 독재관이 적의를 품은 채 직접 도착한 것이다. 다툼이 다시 시작되었고 파피리우스는 파비우스를 붙잡으라고 명했다. 원로원의 지도자들과 의원 전체가 간청해도 그의 가혹한 마음은 뜻을 굽히지 않았다. 그러자 아버지 마르쿠스 파비우스가 말했다. ‘원로원의 권위도, 자식 잃은 사람으로 만들려는 이 늙은이의 나이도, 당신 자신이 임명한 기병대장의 용맹과 고귀함도, 자주 적마저 누그러뜨리고 신들의 분노를 달래는 간청도 당신에게 효력이 없으니, 나는 평민 호민관에게 도움을 청하고 민중에게 상소하겠소. 당신 군대의 판결과 원로원의 판결에서 달아나는 당신에게 당신의 독재관직보다 틀림없이 더 큰 힘을 지닌 유일한 재판관을 세우겠소. 로마 왕 툴루스 호스틸리우스조차 받아들인 상소를 당신이 받아들이는지 보겠소.’ 사람들은 의사당에서 민중 집회로 갔다.",
+      "notes": [
+        {
+          "label": "민중에게 상소",
+          "text": "provocatio ad populum은 정무관의 강제력이나 사형 판결에 맞서 로마 시민이 민중의 판단을 요구하는 권리다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2777,9 +2897,9 @@
       "paragraph": 127,
       "ref": "Liv. 8.33.9–12",
       "original": "quo cum paucis dictator, cum omni agmine principum magister equitum cum escendisset, deduci eum de rostris Papirius in partem inferiorem iussit. secutus pater “bene agis” inquit, “cum eo nos deduci iussisti, unde et private vocem mittere possemus.” ibi primo non tam perpetuae orationes quam altercatio exaudiebantur; vicit deinde strepitum vox et indignatio Fabi senis increpantis superbiam crudelitatemque Papiri: se quoque dictatorem Romae fuisse, nec a se quemquam, ne plebis quidem hominem, non centurionem, non militem violatum;",
-      "korean": "",
+      "korean": "독재관은 몇 사람만 데리고, 기병대장은 지도자들의 모든 대오와 함께 연단에 올랐다. 파피리우스는 파비우스를 연단에서 아래쪽으로 끌어내리라고 명했다. 아버지가 뒤따르며 말했다. ‘잘했소. 우리를 아래로 끌어내리라 명했으니, 이제 사인의 자리에서도 목소리를 낼 수 있겠소.’ 처음에는 이어진 연설보다 말다툼만 들렸다. 뒤에는 늙은 파비우스의 목소리와 분노가 소란을 이겼다. 그는 파피리우스의 오만과 잔혹함을 꾸짖었다. 자신도 로마에서 독재관을 지냈지만 평민 한 사람도, 백인대장도, 병사도 해친 적이 없다고 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2799,9 +2919,9 @@
       "paragraph": 128,
       "ref": "Liv. 8.33.13–16",
       "original": "Papirium tamquam ex hostium ducibus, sic ex Romano imperatore victoriam et triumphum petere. quantum interesse inter moderationem antiquorum et novam superbiam crudelitatemque. dictatorem Quinctium Cincinnatum in L. Minucium consulem ex obsidione a se ereptum non ultra saevisse, quam ut legatum eum ad exercitum pro consule relinqueret. M. Furium Camillum in L. Furio, qui contempta sua senectute et auctoritate foedissimo cum eventu pugnasset, non solum in praesentia moderatum irae esse, ne quid de collega secus populo aut senatui scriberet, sed, cum revertisset, potissimum ex tribunis consularibus habuisse, quem, ex collegis optione ab senatu data, socium sibi imperii deligeret.",
-      "korean": "",
+      "korean": "파피리우스는 적장에게서 구하듯 로마 지휘관에게서 승리와 개선의 영예를 얻으려 한다고 했다. 옛사람의 절제와 새로운 오만과 잔혹함 사이에는 얼마나 큰 차이가 있는가. 독재관 퀸크티우스 킨킨나투스는 자신이 포위에서 구해준 집정관 루키우스 미누키우스에게 가혹하게 굴어도, 집정관의 권한을 지닌 부장으로 군대에 남겨두는 데 그쳤다. 마르쿠스 푸리우스 카밀루스는 자기 노령과 권위를 무시하고 지극히 추악한 결과를 낸 전투를 벌인 루키우스 푸리우스에게도 당장은 분노를 억눌렀다. 동료에 관해 민중이나 원로원에 나쁜 내용을 쓰지 않았을 뿐 아니라, 돌아온 뒤에는 원로원이 동료 군사 호민관들 가운데 한 사람을 공동 지휘자로 고르라고 했을 때 가장 먼저 바로 그를 선택했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2820,9 +2940,9 @@
       "paragraph": 129,
       "ref": "Liv. 8.33.17–19",
       "original": "nam populi quidem, penes quem potestas omnium rerum esset, ne iram quidem umquam atrociorem fuisse in eos, qui temeritate atque inscitia exercitus amisissent, quam ut pecunia eos multaret; capite anquisitum ob rem bello male gestam de imperatore nullo ad eam diem esse. nunc ducibus populi Romani, quae ne victis quidem bello fas fuerit, virgas et secures victoribus et iustissimos meritis triumphos intentari. quid enim tandem passurum fuisse filium suum, si exercitum amisisset, si fusus, fugatus, castris exutus fuisset? quo ultra iram violentiamque eius excessuram fuisse, quam ut verberaret necaretque?",
-      "korean": "",
+      "korean": "모든 결정권을 가진 민중조차 무모함과 무지로 군대를 잃은 지휘관에게 가장 가혹하게 분노했을 때도 벌금을 물리는 데 그쳤다. 전쟁을 잘못 치른 일로 지휘관의 목숨을 심리한 적은 그날까지 한 번도 없었다. 그런데 로마 인민의 지휘관들에게는 전쟁에서 패한 자에게도 쓰는 것이 신법에 어긋날 매질 도구와 도끼를 들이대고 있다. 승리하여 개선식의 가장 정당한 공을 세운 사람들에게 말이다. ‘내 아들이 군대를 잃었거나 패하고 쫓겨나 진영마저 빼앗겼다면 대체 무엇을 당했겠소? 매질하여 죽이는 데서 당신의 분노와 폭력이 더 어디까지 나아갈 수 있었겠소?’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2842,9 +2962,9 @@
       "paragraph": 130,
       "ref": "Liv. 8.33.20–23",
       "original": "quam conveniens esse, propter Q. Fabium civitatem in laetitia, victoria, supplicationibus ac gratulationibus esse, eum, propter quem deum delubra pateant, arae sacrificiis fument, honore donis cumulentur, nudatum virgis lacerari in conspectu populi Romani, intuentem Capitolium atque arcem deosque ab se duobus proeliis haud frustra aduocatos. quo id animo exercitum, qui eius ductu auspiciisque vicisset, laturum? quem luctum in castris Romanis, quam laetitiam inter hostes fore! haec simul iurgans, querens, deum hominumque fidem obtestans et complexus filium plurimis cum lacrumis agebat.",
-      "korean": "",
+      "korean": "‘퀸투스 파비우스 때문에 시민 공동체가 기쁨과 승리와 감사 의식과 축하로 가득하고, 그 때문에 신들의 성소가 열리고 제단에서 제물 연기가 오르며 신들이 영예와 선물로 가득한데, 바로 그가 로마 인민이 보는 앞에서 옷이 벗겨져 매질당하는 것이 어찌 어울리겠소? 두 차례 전투에서 헛되이 부르지 않았던 카피톨리움과 성채와 신들을 바라보면서 말이오. 그의 지휘와 길조 아래 승리한 군대는 어떤 마음으로 이를 받아들이겠소? 로마 진영에는 얼마나 큰 슬픔이, 적들 사이에는 얼마나 큰 기쁨이 생기겠소?’ 그는 이렇게 꾸짖고 호소하며 신과 인간의 신의를 부르고 많은 눈물을 흘리며 아들을 껴안았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2863,9 +2983,9 @@
       "paragraph": 131,
       "ref": "Liv. 8.34.1–3",
       "original": "stabat cum eo senatus maiestas, favor populi, tribunicium auxilium, memoria absentis exercitus; ex parte altera imperium invictum populi Romani et disciplina rei militaris et dictatoris edictum pro numine semper observatum et Manliana imperia et posthabita filii caritas publicae utilitati iactabantur. hoc etiam L. Brutum, conditorem Romanae libertatis, antea in duobus liberis fecisse; nunc patres comes et senes faciles de alieno imperio spreto, tamquam rei parvae, disciplinae militaris eversae iuventuti gratiam facere.",
-      "korean": "",
+      "korean": "원로원의 위엄, 민중의 호의, 호민관의 보호, 자리에 없는 군대에 대한 기억이 파비우스의 편에 섰다. 반대편에서는 로마 인민의 꺾인 적 없는 명령권, 군율, 언제나 신의 명령처럼 지켜진 독재관의 포고, 국가의 이익을 아들의 사랑보다 앞세운 ‘만리우스식 명령’을 내세웠다. 로마 자유의 창건자 루키우스 브루투스도 일찍이 두 아들에게 같은 일을 했다는 것이었다. 그런데 이제 귀족과 원로원의 노인들은 남의 명령권이 무시된 일을 사소한 일처럼 쉽게 여기며 군율을 무너뜨린 젊은이에게 은혜를 베풀려 했다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2889,9 +3009,9 @@
       "paragraph": 132,
       "ref": "Liv. 8.34.4–11",
       "original": "se tamen perstaturum in incepto nec ei, qui adversus dictum suum turbatis religionibus ac dubiis auspiciis pugnasset, quicquam ex iusta poena remissurum. maiestas imperii perpetuane esset, non esse in sua potestate; L. Papirium nihil eius deminuturum; optare, ne potestas tribunicia, inviolata ipsa, violet intercessione sua Romanum imperium, neu populus in se potissimum dictatore ius dictaturae extinguat. quod si fecisset, non L. Papirium, sed tribunos, sed pravum populi iudicium nequiquam posteros accusaturos, cum polluta semel militari disciplina non miles centurionis, non centurio tribuni, non tribunus legati, non legatus consulis, non magister equitum dictatoris pareat imperio, nemo hominum, nemo deorum verecundiam habeat, non edicta imperatorum, non auspicia observentur, sine commeatu vagi milites in pacato, in hostico errent, inmemores sacramenti licentia sola se, ubi velint, exauctorent, infrequentia deserantur signa neque conveniatur ad edictum nec discernatur, interdiu nocte, aequo iniquo loco, iussu iniussu imperatoris pugnent, et non signa, non ordines servent, latrocinii modo caeca et fortuita pro sollemni et sacrata militia sit; — “horum criminum vos reos in omnia saecula offerte, tribuni plebi, vestra obnoxia capita pro licentia Q. Fabi obicite.”",
-      "korean": "",
+      "korean": "독재관은 그래도 뜻을 굽히지 않고, 자기 명령을 거슬러 종교 의식이 흐트러지고 길조가 의심스러운데 싸운 자에게 정당한 벌을 조금도 덜어주지 않겠다고 했다. 명령권의 위엄이 영원히 지속될지는 자기 손에 있지 않지만 루키우스 파피리우스는 그 위엄을 조금도 줄이지 않을 것이라고 했다. 침해받지 않는 호민관 권력이 거부권을 행사해 로마의 명령권을 침해하지 않고, 민중이 하필 자기가 독재관일 때 독재관직의 권리를 없애지 않기를 바란다고 했다. 그렇게 한다면 후세는 루키우스 파피리우스가 아니라 호민관들과 민중의 그릇된 판결을 헛되이 비난하게 될 것이다. 군율이 한번 더럽혀지면 병사가 백인대장의, 백인대장이 호민관의, 호민관이 부장의, 부장이 집정관의, 기병대장이 독재관의 명령에 복종하지 않을 것이다. 어떤 사람도 어떤 신도 두려워하지 않고 지휘관의 포고도 길조도 지키지 않을 것이다. 병사들은 휴가 허가도 없이 평온한 땅과 적의 땅을 떠돌며 맹세를 잊고 자기 방종만으로 원할 때 군 복무를 그만둘 것이다. 군기들은 병력이 모자란 채 버려지고 소집 명령에도 모이지 않을 것이다. 낮인지 밤인지, 평지인지 불리한 땅인지, 지휘관의 명령이 있는지 없는지 가리지 않고 싸울 것이며 군기도 대열도 지키지 않을 것이다. 정규적이고 신성한 군 복무가 눈먼 우연에 맡긴 산적질처럼 될 것이다. ‘평민 호민관들이여, 이 모든 죄목을 모든 시대에 걸쳐 너희 책임으로 떠안아라. 퀸투스 파비우스의 방종을 위해 너희 목숨을 내놓아라.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2911,9 +3031,9 @@
       "paragraph": 133,
       "ref": "Liv. 8.35.1–4",
       "original": "stupentes tribunos et suam iam vicem magis anxios quam eius, cui auxilium ab se petebatur, liberavit onere consensus populi Romani ad preces et obtestationem versus, ut sibi poenam magistri equitum dictator remitteret. tribuni quoque inclinatam rem in preces subsecuti orare dictatorem insistunt, ut veniam errori humano, veniam adulescentiae Q. Fabi daret; satis eum poenarum dedisse. iam ipse adulescens, iam pater M. Fabius contentionis obliti procumbere ad genua et iram deprecari dictatoris. tum dictator silentio facto “bene habet” inquit, “Quirites. vicit disciplina militaris, vicit imperii maiestas, quae in discrimine fuerunt, an ulla post hanc diem essent.",
-      "korean": "",
+      "korean": "호민관들은 넋을 잃고 이제 도움을 청한 사람보다 자기들의 처지를 더 걱정했다. 그러나 로마 인민 전체가 간청과 애원으로 돌아서서 기병대장의 벌을 자기들에게 면해달라고 독재관에게 청하면서 부담을 풀어주었다. 호민관들도 일이 간청 쪽으로 기울자 독재관에게 인간의 잘못과 퀸투스 파비우스의 젊음을 용서해 달라고 거듭 빌었다. 그는 이미 충분한 벌을 받았다고 했다. 젊은이 자신과 아버지 마르쿠스 파비우스도 다툼을 잊고 무릎 앞에 엎드려 독재관의 분노를 풀어달라고 청했다. 독재관은 주위를 조용하게 한 뒤 말했다. ‘잘되었다, 로마 시민들이여. 군율이 승리했고 명령권의 위엄이 승리했다. 오늘 이후에도 그것들이 존재할지가 위험에 놓였었다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2932,9 +3052,9 @@
       "paragraph": 134,
       "ref": "Liv. 8.35.5–7",
       "original": "non noxae eximitur Q. Fabius, qui contra edictum imperatoris pugnavit, sed noxae damnatus donatur populo Romano, donatur tribuniciae potestati, precarium, non iustum auxilium ferenti. vive, Q. Fabi, felicior hoc consensu civitatis ad tuendum te quam qua paulo ante exsultabas victoria; vive, id facinus ausus, cuius tibi ne parens quidem, si eodem loco fuisset, quo fuit L. Papirius, veniam dedisset. mecum, ut voles, reverteris in gratiam; populo Romano, cui vitam debes, nihil maius praestiteris, quam si hic tibi dies satis documenti dederit, ut bello ac pace pati legitima imperia possis.”",
-      "korean": "",
+      "korean": "‘지휘관의 포고를 거슬러 싸운 퀸투스 파비우스가 죄에서 벗어나는 것은 아니다. 유죄로 판정된 그를 로마 인민에게 선물하고, 정당한 권리가 아니라 간청에 의지한 도움을 주는 호민관 권력에게 선물한다. 퀸투스 파비우스여, 조금 전 자랑하던 승리보다 너를 지키려고 한 시민 공동체의 이 합의로 더 큰 행운을 얻어 살아라. 루키우스 파피리우스의 자리에 네 아버지가 있었어도 용서하지 않았을 일을 저지르고도 살아라. 나와는 네가 원하는 때 화해할 수 있다. 네가 목숨을 빚진 로마 인민에게는 오늘 하루를 충분한 교훈으로 삼아 전쟁과 평화에서 정당한 명령권에 복종하는 것보다 더 큰 보답을 할 수 없다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2953,9 +3073,9 @@
       "paragraph": 135,
       "ref": "Liv. 8.35.8–10",
       "original": "cum se nihil morari magistrum equitum pronuntiasset, degressum eum templo laetus senatus, laetior populus, circumfusi ac gratulantes hinc magistro equitum hinc dictatori, prosecuti sunt, firmatumque imperium militare haud minus periculo Q. Fabi quam supplicio miserabili adulescentis Manli videbatur. forte ita eo anno evenit, ut, quotiescumque dictator ab exercitu recessisset, hostes in Samnio moverentur. ceterum in oculis exemplum erat Q. Fabius M. Valerio legato, qui castris praeerat, ne quam vim hostium magis quam trucem dictatoris iram timeret.",
-      "korean": "",
+      "korean": "기병대장을 더 붙들지 않겠다고 선언하자 그는 신전에서 내려갔다. 기뻐하는 원로원과 더 기뻐하는 민중이 양쪽에서 기병대장과 독재관을 에워싸 축하하며 따라갔다. 군사 명령권은 젊은 만리우스의 가련한 처형 못지않게 퀸투스 파비우스가 겪은 위험으로도 굳게 세워진 듯했다. 공교롭게도 그해 독재관이 군대를 떠날 때마다 삼니움의 적이 움직였다. 그러나 진영을 맡은 부장 마르쿠스 발레리우스의 눈앞에는 적의 어떤 공격보다 독재관의 험악한 분노를 더 두려워하게 하는 퀸투스 파비우스의 본보기가 있었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2973,9 +3093,9 @@
       "paragraph": 136,
       "ref": "Liv. 8.35.11–12",
       "original": "itaque frumentatores cum circumventi ex insidiis caesi loco iniquo essent, creditum vulgo est subveniri eis ab legato potuisse, ni tristia edicta exhorruisset. ea quoque ira alienavit a dictatore militum animos, iam ante infensos, quod inplacabilis Q. Fabio fuisset et, quod suis precibus negasset, eius populo Romano veniam dedisset.",
-      "korean": "",
+      "korean": "그 때문에 곡식을 모으던 병사들이 매복에 포위되어 불리한 곳에서 죽었을 때, 부장이 음울한 포고를 두려워하지 않았더라면 구할 수 있었다고 널리 믿었다. 이 일도 병사들의 마음을 독재관에게서 멀어지게 했다. 이미 그들은 파비우스에게 화해할 수 없을 만큼 가혹했다는 이유로, 자기들의 간청에는 거부한 용서를 로마 인민에게는 내주었다는 이유로 독재관에게 적의를 품고 있었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -2994,9 +3114,9 @@
       "paragraph": 137,
       "ref": "Liv. 8.36.1–3",
       "original": "postquam dictator praeposito in urbe L. Papirio Crasso, magistro equitum Q. Fabio vetito quicquam pro magistratu agere, in castra rediit, neque civibus satis laetus adventus eius fuit nec hostibus quicquam attulit terroris. namque postero die, seu ignari venisse dictatorem, seu, adesset an abesset, parvi facientes, instructa acie ad castra accesserunt. ceterum tantum momenti in uno viro L. Papirio fuit, ut, si ducis consilia favor subsecutus militum foret, debellari eo die cum Samnitibus potuisse pro haud dubio habitum sit;",
-      "korean": "",
+      "korean": "독재관은 루키우스 파피리우스 크라수스에게 로마를 맡기고, 기병대장 퀸투스 파비우스에게는 그 직권으로 어떤 일도 하지 못하게 한 뒤 진영으로 돌아왔다. 그의 귀환은 시민들에게 그다지 기쁜 일이 아니었고 적들에게도 아무런 두려움을 안겨주지 못했다. 이튿날 적은 독재관이 돌아온 줄 몰랐거나, 그가 있든 없든 대수롭지 않게 여겼는지 전열을 갖추어 진영 가까이 다가왔다. 그러나 루키우스 파피리우스 한 사람의 역량이 워낙 컸기에, 지휘관의 계책에 병사들의 호의만 뒤따랐다면 그날 삼니움인들과의 전쟁을 끝낼 수 있었으리라는 데 의심의 여지가 없다고 여겨졌다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3015,9 +3135,9 @@
       "paragraph": 138,
       "ref": "Liv. 8.36.4–6",
       "original": "ita instruxit aciem, ita loco ac subsidiis, ita omni arte bellica firmavit. cessatum a milite ac de industria, ut obtrectaretur laudibus ducis, inpedita victoria est. plures Samnitium cecidere, plures Romani vulnerati sunt. sensit peritus dux, quae res victoriae obstaret: temperandum ingenium suum esse et severitatem miscendam comitate. itaque adhibitis legatis ipse circumiens saucios milites, inserens in tentoria caput singulosque, ut sese haberent, rogitans curam eorum nominatim legatis tribunisque et praefectis demandabat.",
-      "korean": "",
+      "korean": "그만큼 그는 전열을 훌륭히 짜고, 지형과 예비대와 온갖 전술을 활용해 단단히 다져 놓았다. 그러나 병사들이 지휘관의 명성을 깎으려고 일부러 힘을 다하지 않은 탓에 승리는 가로막혔다. 삼니움인 전사자도 많았지만 로마군 부상자도 많았다. 노련한 지휘관은 무엇이 승리를 가로막는지 알아차렸다. 자기 기질을 누그러뜨리고 엄격함에 친절을 섞어야 했다. 그래서 부장들을 대동하고 몸소 부상병들을 돌아보며 천막 안으로 머리를 들이밀어 한 사람 한 사람에게 몸이 어떠냐고 물었고, 그들의 간호를 각자의 이름을 들어 부장·군사 호민관·지휘관들에게 맡겼다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3036,9 +3156,9 @@
       "paragraph": 139,
       "ref": "Liv. 8.36.7–9",
       "original": "rem per se popularem ita dextere egit, ut medendis corporibus animi multo prius militum imperatori reconciliarentur nec quicquam ad salubritatem efficacius fuerit, quam quod grato animo ea cura accepta est. refecto exercitu cum hoste congressus haud dubia spe sua militumque ita fudit fugavitque Samnites, ut ille ultimus eis dies conferendi signa cum dictatore fuerit. incessit deinde, qua duxit praedae spes, victor exercitus perlustravitque hostium agros, nulla arma, nullam vim nec apertam nec ex insidiis expertus.",
-      "korean": "",
+      "korean": "그는 본래 사람들의 호감을 사는 이 일을 매우 능숙하게 해냈다. 병사들의 몸이 낫기 훨씬 전에 마음부터 지휘관과 화해했고, 그의 배려를 고마운 마음으로 받아들인 것이 어떤 치료보다도 회복에 큰 힘이 되었다. 군대가 다시 건실해지자 그는 승리를 확신하는 병사들과 함께 적과 맞붙어 삼니움인들을 완전히 무찔러 달아나게 했다. 그날이 삼니움인들이 독재관과 전열을 맞대어 싸운 마지막 날이었다. 승리한 군대는 전리품을 바랄 만한 곳으로 진군하여 적의 영토를 두루 훑었지만, 무장한 저항도 공개적인 공격도 매복 공격도 전혀 만나지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3057,9 +3177,14 @@
       "paragraph": 140,
       "ref": "Liv. 8.36.10–12",
       "original": "addebat alacritatem, quod dictator praedam omnem edixerat militibus; nec ira magis publica quam privatum compendium in hostem acuebat. his cladibus subacti Samnites pacem a dictatore petiere; cum quo pacti, ut singula vestimenta militibus et annuum stipendium darent, cum ire ad senatum iussi essent, secuturos se dictatorem responderunt, unius eius fidei virtutique causam suam commendantes. ita deductus ex Samnitibus exercitus.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "독재관이 모든 전리품을 병사들에게 주겠다고 공표한 것도 활기를 더했다. 공적인 분노뿐 아니라 사사로운 이익까지 병사들을 적에게 더욱 날카롭게 몰아붙였다. 이런 참패에 굴복한 삼니움인들은 독재관에게 평화를 청했다. 병사마다 옷 한 벌과 일 년 치 급료를 주기로 그와 약정한 뒤 원로원으로 가라는 명령을 받자, 그들은 독재관을 따라가 자기들의 사정을 오직 그의 신의와 용맹에 맡기겠다고 대답했다. 이렇게 군대는 삼니움에서 철수했다.",
+      "notes": [
+        {
+          "label": "강화 조건",
+          "text": "삼니움인들은 평화 자체를 확정받은 것이 아니라 로마 원로원의 심의를 받기 위해 일단 병사들의 의복과 일 년 치 급료를 부담하기로 했다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3079,9 +3204,14 @@
       "paragraph": 141,
       "ref": "Liv. 8.37.1–4",
       "original": "dictator triumphans urbem est ingressus; et, cum se dictatura abdicare vellet, iussu patrum, priusquam abdicaret, consules creavit C. Sulpicium Longum iterum Q. Aemilium Cerretanum. Samnites infecta pace, quia de condicionibus ambigebatur, indutias annuas ab urbe rettulerunt. nec earum ipsarum sancta fides fuit; adeo, postquam Papirium abisse magistratu nuntiatum est, arrecti ad bellandum animi sunt. C. Sulpicio Q. Aemilio — Aulium quidam annales habent — consulibus ad defectionem Samnitium Apulum novum bellum accessit. utroque exercitus missi. Sulpicio Samnites, Apuli Aemilio sorte evenerunt. sunt, qui non ipsis Apulis bellum inlatum, sed socios eius gentis populos ab Samnitium vi atque iniuriis defensos scribant;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "독재관은 개선식을 거행하며 로마에 들어왔다. 독재관직에서 물러나려 하자 원로원은 사임하기 전에 집정관 선거를 치르라고 명했고, 그는 가이우스 술피키우스 롱구스를 두 번째 집정관으로, 퀸투스 아이밀리우스 케레타누스를 그 동료로 선출했다. 강화 조건을 두고 이견이 있어 평화를 이루지 못한 삼니움인들은 로마에서 일 년의 휴전을 얻어 돌아갔다. 그러나 그 휴전조차 신의 있게 지켜지지 않았다. 파피리우스가 관직에서 물러났다는 소식이 전해지자 그들의 전의가 그만큼 다시 솟구쳤다. 가이우스 술피키우스와 퀸투스 아이밀리우스—일부 연대기는 아울리우스라고 기록한다—가 집정관이던 해에는 삼니움인들의 이반에 더해 아풀리아인들과의 새로운 전쟁이 일어났다. 양쪽으로 군대가 파견되었고, 추첨으로 술피키우스는 삼니움인들을, 아이밀리우스는 아풀리아인들을 맡았다. 어떤 저자들은 로마가 아풀리아인들 자체를 공격한 것이 아니라, 삼니움인들의 폭력과 부당한 침해로부터 그 민족의 동맹 부족들을 지켜주었다고 쓴다.",
+      "notes": [
+        {
+          "label": "아풀리아",
+          "text": "이탈리아반도 남동부, 오늘날 풀리아 일대다. 리비우스는 이 전쟁의 상대와 발단을 두고 전승이 엇갈렸음을 함께 기록한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3100,9 +3230,9 @@
       "paragraph": 142,
       "ref": "Liv. 8.37.5–7",
       "original": "ceterum fortuna Samnitium, vix a se ipsis eo tempore propulsantium bellum, propius ut sit vero facit, non Apulis ab Samnitibus arma inlata, sed cum utraque simul gente bellum Romanis fuisse. nec tamen res ulla memorabilis acta; ager Apulus Samniumque evastatum; hostes nec hic nec illic inventi. Romae nocturnus terror ita ex somno trepidam repente civitatem excivit, ut Capitolium atque arx moeniaque et portae plena armatorum fuerint; et, cum concursatum conclamatumque ad arma omnibus locis esset, prima luce nec auctor nec causa terroris conparuit.",
-      "korean": "",
+      "korean": "그러나 그 무렵 자기들에게 닥친 전쟁조차 간신히 막아내던 삼니움인들의 형편을 생각하면, 삼니움인들이 아풀리아인들을 공격했다기보다 로마인들이 두 민족과 동시에 전쟁을 벌였다고 보는 편이 사실에 더 가까워 보인다. 그렇다 해도 주목할 만한 일은 없었다. 아풀리아와 삼니움의 들판을 황폐하게 만들었지만 어느 쪽에서도 적군을 만나지 못했다. 로마에서는 한밤중의 공포가 잠든 도시를 갑자기 혼란에 빠뜨렸다. 카피톨리움과 성채, 성벽과 성문이 무장한 사람들로 가득 찼고 사방에서 사람들이 몰려다니며 무장을 외쳤으나, 동이 틀 때까지도 공포를 일으킨 사람도 원인도 나타나지 않았다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3122,9 +3252,18 @@
       "paragraph": 143,
       "ref": "Liv. 8.37.8–11",
       "original": "eodem anno de Tusculanis Flavia rogatione populi fuit iudicium. M. Flavius tribunus plebis tulit ad populum, ut in Tusculanos animadverteretur, quod eorum ope ac consilio Veliterni Privernatesque populo Romano bellum fecissent. populus Tusculanus cum coniugibus ac liberis Romam venit. ea multitudo veste mutata et specie reorum tribus circumit, genibus se omnium advolvens. plus itaque misericordia ad poenae veniam inpetrandam quam causa ad crimen purgandum valuit. tribus omnes praeter Polliam antiquarunt legem. Polliae sententia fuit, puberes verberatos necari, coniuges liberosque sub corona lege belli venire;",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "같은 해 플라비우스 법안에 따라 투스쿨룸인들에 대한 민중의 심판이 열렸다. 평민 호민관 마르쿠스 플라비우스는 벨리트라이인들과 프리베르눔인들이 로마 인민에게 전쟁을 벌이는 데 투스쿨룸인들이 원조와 조언을 제공했다는 이유로 그들을 처벌하자는 안을 민중에게 제출했다. 투스쿨룸의 온 시민이 아내와 자식과 함께 로마로 왔다. 그 무리는 상복으로 갈아입고 피고인의 모습을 한 채 각 부족을 돌며 모든 사람의 무릎 앞에 엎드렸다. 그리하여 혐의를 벗겨준 것은 그들의 변론보다 연민이었다. 폴리아 부족을 제외한 모든 부족이 법안을 부결시켰다. 폴리아 부족의 표결은 성년 남자들을 매질한 뒤 죽이고, 아내와 자식은 전쟁법에 따라 경매에 부쳐 노예로 팔자는 것이었다.",
+      "notes": [
+        {
+          "label": "부족 표결",
+          "text": "로마 민회에서는 시민이 행정·투표 단위인 부족(tribus)별로 표를 냈다. 법안을 ‘폐기하다’(antiquare)는 반대표를 뜻한다."
+        },
+        {
+          "label": "창 아래 팔다",
+          "text": "sub corona venire는 전쟁 포로를 노예 경매에 넘긴다는 관용적 표현이다. 본문은 그 법적 효과를 풀어 옮겼다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3141,9 +3280,14 @@
       "paragraph": 144,
       "ref": "Liv. 8.37.12",
       "original": "memoriamque eius irae Tusculanis in poenae tam atrocis auctores mansisse ad patrum aetatem constat, nec quemquam ferme ex Pollia tribu candidatum Papiriam ferre solitum.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "그처럼 잔혹한 형벌에 찬성한 자들을 향한 분노는 투스쿨룸인들의 기억 속에 우리 아버지 세대까지 남아 있었다고 한다. 그래서 폴리아 부족 출신 후보가 파피리아 부족의 표를 얻는 일은 거의 없었다.",
+      "notes": [
+        {
+          "label": "파피리아 부족",
+          "text": "투스쿨룸 시민들은 로마 시민권을 얻은 뒤 파피리아 부족에 등록되었다. 이 문장은 폴리아 부족의 가혹한 표결을 세대에 걸쳐 선거에서 되갚았다는 뜻이다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3163,9 +3307,9 @@
       "paragraph": 145,
       "ref": "Liv. 8.38.1–4",
       "original": "insequenti anno, Q. Fabio L. Fulvio consulibus, A. Cornelius Arvina dictator et M. Fabius Ambustus magister equitum metu gravioris in Samnio belli — conducta enim pretio a finitimis iuventus dicebatur — intentiore dilectu habito egregium exercitum adversus Samnites duxerunt. castra in hostico incuriose ita posita, tamquam procul abesset hostis, cum subito advenere Samnitium legiones tanta ferocia, ut vallum usque ad stationem Romanam inferrent. nox iam adpetebat; id prohibuit munimenta adoriri; nec dissimulabant orta luce postero die facturos. dictator ubi propiorem spe dimicationem vidit, ne militum virtuti damno locus esset, ignibus crebris relictis, qui conspectum hostium frustrarentur, silentio legiones educit; nec tamen fallere propter propinquitatem castrorum potuit.",
-      "korean": "",
+      "korean": "이듬해 퀸투스 파비우스와 루키우스 풀비우스가 집정관일 때, 아울루스 코르넬리우스 아르비나가 독재관으로, 마르쿠스 파비우스 암부스투스가 기병대장으로 임명되었다. 인접 부족들이 돈을 주고 젊은이들을 고용했다는 소문 때문에 삼니움에서 더 큰 전쟁이 일어날까 두려웠던 두 사람은 한층 엄격하게 징병하여 뛰어난 군대를 이끌고 삼니움인들을 향해 갔다. 적이 멀리 떨어져 있다고 생각한 듯 적지에 진영을 허술하게 세웠는데, 삼니움 군단들이 갑자기 대단한 기세로 나타나 자기들의 방벽을 로마군 초소 바로 앞까지 밀고 왔다. 이미 밤이 다가와 로마군 방어 시설을 공격하지 못했으나, 그들은 날이 밝으면 이튿날 공격하겠다는 뜻을 숨기지도 않았다. 독재관은 예상보다 빨리 싸우게 되었음을 알고 병사들의 용맹이 불리한 조건에서 헛되이 소모되지 않게 하려고, 적의 눈을 속일 불을 곳곳에 남겨둔 채 군단들을 소리 없이 이끌고 나왔다. 하지만 진영들이 가까웠기 때문에 적을 속일 수 없었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3184,9 +3328,9 @@
       "paragraph": 146,
       "ref": "Liv. 8.38.5–7",
       "original": "eques extemplo insecutus ita institit agmini, ut, donec lucesceret, proelio abstineret; ne pedestres quidem copiae ante lucem castris egressae; eques luce demum ausus incursare in hostem carpendo novissimos premendoque iniquis ad transitum locis agmen detinuit. interim pedes equitem adsecutus; et totis iam copiis Samnis urgebat. tum dictator, postquam sine magno incommodo progredi non poterat, eum ipsum, in quo constiterat, locum castris dimetari iussit. id vero, circumfuso undique equitatu, ut vallum peteretur opusque inciperet, fieri non poterat.",
-      "korean": "",
+      "korean": "적의 기병은 즉시 뒤쫓아 로마군 행렬에 바짝 달라붙었지만 날이 밝기 전에는 교전을 삼갔다. 보병 병력도 동이 트기 전에는 진영을 나서지 않았다. 날이 밝고서야 기병이 적에게 달려들어 후미를 조금씩 갉아먹고, 건너가기 불리한 곳에서 압박하여 행군을 지체시켰다. 그 사이 보병이 기병을 따라잡아 삼니움군의 전 병력이 로마군을 몰아붙였다. 독재관은 큰 손실 없이는 더 나아갈 수 없게 되자 멈춰 선 바로 그곳에 진영 터를 측량하라고 명했다. 그러나 사방에서 기병이 에워싸고 있어 방벽을 세우러 가거나 공사를 시작할 수 없었다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3205,9 +3349,14 @@
       "paragraph": 147,
       "ref": "Liv. 8.38.8–10",
       "original": "itaque ubi neque eundi neque manendi copiam esse videt, instruit aciem inpedimentis ex agmine remotis. instruunt contra et hostes, et animis et viribus pares. auxerat id maxime animos, quod ignari, loco iniquo non hosti cessum, velut fugientes ac territos terribiles ipsi secuti fuerant. id aliquamdiu aequavit pugnam iam pridem desueto Samnite clamorem Romani exercitus pati. at hercule illo die ab hora diei tertia ad octavam ita anceps dicitur certamen stetisse, ut neque clamor, ut primo semel concursu est sublatus, iteratus sit neque signa promota loco retrove recepta neque recursum ab ulla sit parte.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "독재관은 전진할 수도 머물 수도 없음을 깨닫고 행군 대열에서 짐을 치운 뒤 전열을 갖추었다. 적도 맞서 전열을 세웠으며 사기와 전력은 서로 팽팽했다. 로마군이 적에게 밀린 것이 아니라 지형이 불리해 물러났다는 사실을 몰랐던 삼니움인들은, 도망치며 겁먹은 군대를 뒤쫓았다고 생각하여 사기가 특히 높아져 있었다. 이 때문에 한동안 전투가 균형을 이루었다. 삼니움인은 오래전부터 로마군의 함성을 견디는 데 익숙하지 않았는데도 그러했다. 참으로 그날 전투는 제3시부터 제8시까지 그토록 우열을 가릴 수 없었다고 한다. 첫 돌격 때 한 번 터져 나온 함성은 다시 오르지 않았고, 군기들은 그 자리에서 앞으로 나아가지도 뒤로 물러나지도 않았으며, 어느 쪽도 물러섰다가 다시 달려들지 않았다.",
+      "notes": [
+        {
+          "label": "로마의 시각",
+          "text": "제3시는 대략 오전 9시, 제8시는 대략 오후 2시에 해당한다. 계절에 따라 실제 길이는 달라졌다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3227,9 +3376,9 @@
       "paragraph": 148,
       "ref": "Liv. 8.38.11–14",
       "original": "in suo quisque gradu obnixi, urgentes scutis, sine respiratione ac respectu pugnabant; fremitus aequalis tenorque idem pugnae in defatigationem ultimam aut noctem spectabat. iam viris vires, iam ferro sua vis, iam consilia ducibus deerant, cum subito Samnitium equites, cum, turma una longius provecta, accepissent inpedimenta Romanorum procul ab armatis sine praesidio, sine munimento stare, aviditate praedae impetum faciunt. quod ubi dictatori trepidus nuntius attulit, “sine modo” inquit, “sese praeda praepediant.” alii deinde super alios diripi passim ferrique fortunas militum vociferabantur. tum magistro equitum accito “vides tu” inquit, “M. Fabi, ab hostium equite omissam pugnam? haerent inpediti inpedimentis nostris.",
-      "korean": "",
+      "korean": "모두가 제 위치에서 버티며 방패로 밀어붙였고, 숨 돌리거나 뒤돌아볼 틈도 없이 싸웠다. 한결같은 아우성과 변함없는 전투의 흐름은 양군이 완전히 지치거나 밤이 올 때까지 계속될 듯했다. 병사들의 힘도, 쇠붙이의 위력도, 지휘관들의 계책도 이미 바닥나고 있었다. 그때 멀리 앞서 나간 삼니움 기병 한 개 기병대가 로마군의 수레와 짐이 무장 병력에게서 멀리 떨어져 아무런 경비도 방벽도 없이 놓여 있음을 알아차리고, 전리품에 눈이 멀어 달려들었다. 당황한 전령이 이 사실을 독재관에게 알리자 그는 ‘그대로 두어라. 전리품에 스스로 걸려들게 하라’고 말했다. 뒤이어 전령들이 잇달아 와서 여기저기서 병사들의 재산을 약탈해 가져간다고 외쳤다. 그러자 독재관은 기병대장을 불러 말했다. ‘마르쿠스 파비우스여, 적 기병이 전투를 버린 것이 보이는가? 그들은 우리 짐에 들러붙어 꼼짝 못 하고 있다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3247,9 +3396,9 @@
       "paragraph": 149,
       "ref": "Liv. 8.38.15–16",
       "original": "adgredere, quod inter praedandum omni multitudini evenit, dissipatos raros equis insidentes, raros quibus ferrum in manu sit invenies; se equosque dum praeda onerant, caede inermes cruentamque illis praedam redde. mihi legiones peditumque pugna curae erunt; penes te equestre sit decus.”",
-      "korean": "",
+      "korean": "‘약탈할 때의 무리는 언제나 그렇듯 흩어져 있다. 공격하라. 말을 탄 자도 드물고 손에 칼을 쥔 자도 드물 것이다. 그들이 자기 몸과 말에 전리품을 싣는 동안 무방비한 자들을 베어 그 전리품을 피로 물들여라. 군단과 보병의 싸움은 내가 맡겠다. 기병의 영예는 네 것이다.’",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3269,9 +3418,9 @@
       "paragraph": 150,
       "ref": "Liv. 8.39.1–4",
       "original": "equitum acies, qualis quae esse instructissima potest, invecta in dissipatos inpeditosque hostes caede omnia replet. inter sarcinas omissas repente, obiacentes pedibus fugientium consternatorumque equorum, neque pugnae neque fugae satis potentes caeduntur. tum deleto prope equitatu hostium M. Fabius circumductis paulum alis ab tergo pedestrem aciem adoritur. clamor inde novus accidens et Samnitium terruit animos, et dictator, ubi respectantes hostium antesignanos turbataque signa et fluctuantem aciem vidit, tum appellare, tum adhortari milites, tribunos principesque ordinum nominatim ad iterandam secum pugnam vocare.",
-      "korean": "",
+      "korean": "최상의 전열을 갖춘 기병대가 흩어져 짐까지 진 적에게 돌진하여 사방을 주검으로 채웠다. 전리품 꾸러미들이 갑자기 내버려져 달아나는 자들의 발과 놀란 말 앞에 가로놓이자, 삼니움 기병들은 싸우지도 달아나지도 못한 채 살육당했다. 적 기병을 거의 전멸시킨 마르쿠스 파비우스는 양쪽 기병대를 조금 우회시켜 보병 전열의 뒤를 공격했다. 그곳에서 새로 터진 함성은 삼니움인들의 마음을 두렵게 했다. 독재관은 적의 선두 병사들이 뒤돌아보고 군기들이 흐트러지며 전열이 흔들리는 것을 보자 병사들을 부르고 격려하기 시작했다. 군사 호민관들과 선두 백인대장들을 이름까지 불러 자기와 함께 싸움을 새로 시작하자고 외쳤다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3291,9 +3440,9 @@
       "paragraph": 151,
       "ref": "Liv. 8.39.5–8",
       "original": "novato clamore signa inferuntur, et, quidquid progrediebantur, magis magisque turbatos hostes cernebant. eques ipse iam primis erat in conspectu, et Cornelius respiciens ad manipulos militum, quod manu, quod voce poterat, monstrabat vexilla se suorum parmasque cernere equitum. quod ubi auditum simul visumque est, adeo repente laboris per diem paene totum tolerati vulnerumque obliti sunt, ut haud secus, quam si tum integri e castris signum pugnae accepissent, concitaverint se in hostem. nec ultra Samnis tolerare terrorem equitum peditumque vim potuit; partim in medio caesi, partim in fugam dissipati sunt.",
-      "korean": "",
+      "korean": "다시 함성을 올리며 군기들이 앞으로 나아갔고, 전진할수록 적이 더욱더 혼란에 빠지는 것이 보였다. 이제 기병대 자체가 선두에서도 눈에 들어왔다. 코르넬리우스는 병사들의 중대를 돌아보며 손짓과 목소리로 자기 편 기병의 깃발과 둥근 방패가 보인다고 힘껏 가리켰다. 이 말을 듣고 광경까지 보자 병사들은 거의 온종일 견딘 고통과 상처를 갑자기 완전히 잊었다. 마치 그제야 온전한 몸으로 진영에서 출전 신호를 받은 듯 적에게 몸을 내던졌다. 삼니움인은 더 이상 기병의 공포와 보병의 힘을 견디지 못했다. 일부는 그 자리에서 살육당하고 일부는 뿔뿔이 달아났다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3312,9 +3461,9 @@
       "paragraph": 152,
       "ref": "Liv. 8.39.9–11",
       "original": "pedes restantes ac circumventos cecidit; ab equite fugientium strages est facta, inter quos et ipse imperator cecidit. hoc demum proelium Samnitium res ita infregit, ut omnibus conciliis fremerent minime id quidem mirum esse, si inpio bello et contra foedus suscepto, infestioribus merito deis quam hominibus, nihil prospere agerent; expiandum id bellum magna mercede luendumque esse; id referre tantum, utrum supplicia noxio paucorum an omnium innoxio praebeant sanguine; audebantque iam quidam nominare auctores armorum.",
-      "korean": "",
+      "korean": "보병은 버티거나 포위된 자들을 죽였고, 기병은 달아나는 자들을 도륙했다. 그들 가운데 적의 지휘관도 전사했다. 이 전투는 마침내 삼니움인들의 형세를 완전히 꺾었다. 그들은 모든 회의에서 신을 저버리고 조약을 거슬러 시작한 전쟁이니, 당연히 인간보다 신들이 더 적대하는 가운데 아무 일도 순조롭지 않은 것은 조금도 이상하지 않다고 떠들었다. 이 전쟁을 속죄해야 하고 큰 대가를 치러야 한다는 것이었다. 다만 중요한 것은 죄를 지은 소수가 그 피로 벌을 바칠 것인가, 죄 없는 모두가 바칠 것인가뿐이었다. 이제 어떤 이들은 감히 전쟁을 일으킨 자들의 이름까지 입에 올렸다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3333,9 +3482,14 @@
       "paragraph": 153,
       "ref": "Liv. 8.39.12–14",
       "original": "unum maxime nomen per consensum clamantium Brutuli Papi exaudiebatur. vir nobilis potensque erat, hauddubie proximarum indutiarum ruptor. de eo coacti referre praetores decretum fecerunt, ut Brutulus Papius Romanis dederetur et cum eo praeda omnis Romana captivique ut Romam mitterentur, quaeque res per fetiales ex foedere repetitae essent, secundum ius fasque restituerentur. fetiales Romam, ut censuerunt, missi et corpus Brutuli exanime; ipse morte voluntaria ignominiae se ac supplicio subtraxit. placuit cum corpore bona quoque eius dedi.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "한목소리로 외치는 가운데 특히 브루툴루스 파피우스의 이름이 들렸다. 그는 귀족이며 권세 있는 사람으로, 최근의 휴전을 깨뜨린 장본인이 틀림없었다. 이 문제를 회의에 부치도록 강요받은 법무관들은 브루툴루스 파피우스를 로마인들에게 넘기고, 그와 함께 로마군에게서 빼앗은 모든 전리품과 포로들을 로마로 보내며, 조약에 따라 제사장들이 돌려달라고 요구한 것들을 인간과 신의 법에 맞게 반환한다는 결의를 이끌어냈다. 결의대로 제사장들이 로마로 파견되었고 브루툴루스의 시신도 보내졌다. 그는 치욕과 처형을 피하려고 스스로 목숨을 끊었던 것이다. 그의 재산도 시신과 함께 넘기기로 했다.",
+      "notes": [
+        {
+          "label": "페티알레스",
+          "text": "전쟁 선포와 조약, 배상 요구의 종교적·법적 절차를 맡은 로마의 제사장단이다. 본문에서는 문맥에 맞게 ‘제사장들’로 옮겼다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3353,9 +3507,9 @@
       "paragraph": 154,
       "ref": "Liv. 8.39.15–16",
       "original": "nihil tamen earum rerum praeter captivos ac si qua cognita ex praeda sunt acceptum est; ceterarum rerum inrita fuit deditio. dictator ex senatus consulto triumphavit. hoc bellum a consulibus bellttum quidam auctores sunt eosque de Samnitibus triumphasse; Fabium etiam in Apuliam processisse atque inde magnas praedas egisse.",
-      "korean": "",
+      "korean": "그러나 로마인들은 포로들과 전리품 가운데 주인을 확인할 수 있는 것 외에는 어느 것도 받지 않았다. 나머지 것들을 넘기겠다는 제의는 효력이 없었다. 독재관은 원로원 결의에 따라 개선식을 거행했다. 어떤 저자들은 이 전쟁을 집정관들이 치렀고 그들이 삼니움인들을 이긴 개선식을 거행했다고 전한다. 또 파비우스는 아풀리아까지 진군하여 그곳에서 막대한 전리품을 가져왔다고 한다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3375,9 +3529,14 @@
       "paragraph": 155,
       "ref": "Liv. 8.40.1–4",
       "original": "nec discrepat, quin dictator eo anno A. Cornelius fuerit; id ambigitur, belline gerendi causa creatus sit, an ut esset, qui ludis Romanis, quia L. Plautius praetor gravi morbo forte inplicitus erat, signum mittendis quadrigis daret functusque eo haud sane memorandi imperii ministerio se dictatura abdicaret. nec facile est aut rem rei aut auctorem auctori praeferre. vitiatam memoriam funebribus laudibus reor falsisque imaginum titulis, dum familiae ad se quaeque famam rerum gestarum honorumque fallenti mendacio trahunt.",
-      "korean": "",
-      "notes": [],
-      "translationStatus": "untranslated",
+      "korean": "그해 독재관이 아울루스 코르넬리우스였다는 데에는 이견이 없다. 논란이 되는 것은 그가 전쟁을 치르려고 임명되었는지, 아니면 법무관 루키우스 플라우티우스가 마침 중병에 걸렸기 때문에 로마 경기에서 사두마차를 출발시키는 신호를 줄 사람이 필요해 임명되었고, 기억할 가치도 별로 없는 그 직무를 마친 뒤 독재관직에서 물러났는지다. 한 사건보다 다른 사건을, 한 저자보다 다른 저자를 앞세우기는 쉽지 않다. 가문마다 업적과 관직의 명성을 자기 것으로 끌어오려고 거짓말을 꾸며내는 바람에, 장례식의 찬사와 조상 초상에 새긴 거짓 명문이 과거의 기억을 망가뜨렸다고 나는 생각한다.",
+      "notes": [
+        {
+          "label": "로마 경기",
+          "text": "해마다 거행된 루디 로마니를 가리킨다. 전차 경주의 출발 신호는 본래 법무관이 맡았으나, 여기서는 그의 중병 때문에 대행자가 필요했다는 전승을 소개한다."
+        }
+      ],
+      "translationStatus": "first-pass",
       "parallelRefs": []
     },
     {
@@ -3394,9 +3553,9 @@
       "paragraph": 156,
       "ref": "Liv. 8.40.5",
       "original": "inde certe et singulorum gesta et publica monumenta rerum confusa; nec quisquam aequalis temporibus illis scriptor extat, quo satis certo auctore stetur.",
-      "korean": "",
+      "korean": "그 때문에 개인들의 업적도 국가의 역사 기록도 분명히 뒤섞였다. 더구나 그 시대와 동시대에 살았던 저자는 한 사람도 남아 있지 않아, 충분히 확실한 권위로 삼을 만한 이도 없다.",
       "notes": [],
-      "translationStatus": "untranslated",
+      "translationStatus": "first-pass",
       "parallelRefs": []
     }
   ]
