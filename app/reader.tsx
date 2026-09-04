@@ -246,6 +246,7 @@ export function RomanHistoryReader({
   );
   const searchCache = useRef(new Map<SourceId, SearchRow[]>());
   const touchStartX = useRef<number | null>(null);
+  const lastSavedPosition = useRef<string | null>(null);
 
   const collections = useMemo(
     () =>
@@ -291,6 +292,42 @@ export function RomanHistoryReader({
     }, 60);
   }, []);
 
+  const saveReadingPosition = useCallback(
+    (sourceId: SourceId, volumeNumber: number, passage?: Passage) => {
+      const positionKey = passage?.id ?? `${sourceId}:${volumeNumber}`;
+      if (lastSavedPosition.current === positionKey) return;
+      lastSavedPosition.current = positionKey;
+
+      const url = new URL(window.location.href);
+      url.searchParams.set('source', sourceId);
+      url.searchParams.set('book', String(volumeNumber));
+      if (passage) {
+        url.searchParams.set('chapter', passage.chapter);
+        url.searchParams.set('section', passage.sectionStart);
+      } else {
+        url.searchParams.delete('chapter');
+        url.searchParams.delete('section');
+      }
+      window.history.replaceState(window.history.state, '', url);
+
+      try {
+        window.localStorage.setItem(
+          'roma-fontes-position',
+          JSON.stringify({
+            sourceId,
+            book: volumeNumber,
+            chapter: passage?.chapter,
+            section: passage?.sectionStart,
+            passageId: passage?.id,
+          }),
+        );
+      } catch {
+        // The URL still preserves the reading location when storage is unavailable.
+      }
+    },
+    [],
+  );
+
   const loadBook = useCallback(
     async (sourceId: SourceId, volumeNumber: number, targetId?: string) => {
       const volume = findVolume(sourceId, volumeNumber);
@@ -309,7 +346,6 @@ export function RomanHistoryReader({
           bookCache.current.set(key, nextBook);
         }
         setBook(nextBook);
-        setActivePassage(1);
         const passage = targetId?.startsWith('@')
           ? (() => {
               const [chapter, section] = targetId.slice(1).split('|');
@@ -323,21 +359,8 @@ export function RomanHistoryReader({
           : targetId
             ? nextBook.passages.find((candidate) => candidate.id === targetId)
             : nextBook.passages[0];
-        const url = new URL(window.location.href);
-        url.searchParams.set('source', sourceId);
-        url.searchParams.set('book', String(volumeNumber));
-        if (passage) {
-          url.searchParams.set('chapter', passage.chapter);
-          url.searchParams.set('section', passage.sectionStart);
-        } else {
-          url.searchParams.delete('chapter');
-          url.searchParams.delete('section');
-        }
-        window.history.replaceState({}, '', url);
-        window.localStorage.setItem(
-          'roma-fontes-position',
-          JSON.stringify({ sourceId, book: volumeNumber, passageId: passage?.id }),
-        );
+        setActivePassage(passage?.paragraph ?? 1);
+        saveReadingPosition(sourceId, volumeNumber, passage);
         scrollToPassage(passage?.id);
       } finally {
         setLoading(false);
@@ -345,7 +368,7 @@ export function RomanHistoryReader({
         setSearchOpen(false);
       }
     },
-    [basePath, findVolume, scrollToPassage],
+    [basePath, findVolume, saveReadingPosition, scrollToPassage],
   );
 
   useEffect(() => {
@@ -399,13 +422,18 @@ export function RomanHistoryReader({
           .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
         if (!visible) return;
         const node = visible.target as HTMLElement;
-        setActivePassage(Number(node.dataset.paragraph || 1));
+        const passage = book.passages.find(
+          (candidate) => candidate.id === node.dataset.passageId,
+        );
+        if (!passage) return;
+        setActivePassage(passage.paragraph);
+        saveReadingPosition(book.sourceId, book.book, passage);
       },
       { rootMargin: '-18% 0px -68% 0px' },
     );
     nodes.forEach((node) => observer.observe(node));
     return () => observer.disconnect();
-  }, [book]);
+  }, [book, saveReadingPosition]);
 
   const chooseFilter = (nextFilter: SourceFilter) => {
     setFilter(nextFilter);
@@ -486,10 +514,7 @@ export function RomanHistoryReader({
     );
     if (!passage) return;
     setActivePassage(passage.paragraph);
-    const url = new URL(window.location.href);
-    url.searchParams.set('chapter', passage.chapter);
-    url.searchParams.set('section', passage.sectionStart);
-    window.history.replaceState({}, '', url);
+    saveReadingPosition(book.sourceId, book.book, passage);
     scrollToPassage(passage.id);
   };
 
@@ -701,6 +726,7 @@ export function RomanHistoryReader({
                   id={`passage-${passage.id}`}
                   key={passage.id}
                   data-passage
+                  data-passage-id={passage.id}
                   data-paragraph={passage.paragraph}
                 >
                   <header className="passage-meta">
