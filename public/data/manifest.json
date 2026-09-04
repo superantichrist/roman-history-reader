@@ -7,7 +7,7 @@
     "books": 91,
     "passages": 10295,
     "originalWords": 823096,
-    "translatedPassages": 6686
+    "translatedPassages": 6863
   },
   "timeline": [
     {
@@ -104,7 +104,7 @@
       "id": "livy",
       "bookCount": 35,
       "passageCount": 6310,
-      "translationCount": 2701,
+      "translationCount": 2878,
       "searchPath": "data/search/livy.json",
       "volumes": [
         {
@@ -284,7 +284,7 @@
           "periodLabel": "기원전 218–201년",
           "chapterCount": 41,
           "passageCount": 177,
-          "translationCount": 0,
+          "translationCount": 177,
           "path": "data/books/livy/25.json"
         },
         {
