@@ -6,7 +6,6 @@ from __future__ import annotations
 import hashlib
 import json
 import re
-import shutil
 import sys
 import unicodedata
 import xml.etree.ElementTree as ET
@@ -265,6 +264,9 @@ def load_translations(source_id: str, book: int) -> dict[str, Any]:
     passages = payload.get("passages")
     if not isinstance(passages, dict):
         raise ValueError(f"Translation passages must be an object: {path}")
+    for passage_id, passage in passages.items():
+        if not isinstance(passage, dict) or not isinstance(passage.get("korean"), str):
+            raise ValueError(f"Translation must contain Korean text: {path} {passage_id}")
     return passages
 
 
@@ -738,6 +740,8 @@ def validate_chronology() -> None:
                 f"{rule['start']}–{rule['end']}" if "end" in rule else rule["start"]
             )
             errors.append(f"Reversed BCE range: {key} {location}")
+        if rule.get("certainty") not in {"exact", "range", "approximate"}:
+            errors.append(f"Unknown chronology certainty: {key} {rule['start']}")
         source_ids = rule.get("sources", [rule.get("source")])
         if not source_ids or any(not source_id for source_id in source_ids):
             errors.append(f"Missing chronology source: {key} {rule['start']}")
@@ -777,18 +781,29 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
                 source_id == "polybius" and book["book"] == 17
             ):
                 errors.append(f"Empty volume: {source_id} {book['book']}")
-            for passage in book["passages"]:
+            seen_locations = set()
+            for index, passage in enumerate(book["passages"], start=1):
                 if passage["id"] in ids:
                     errors.append(f"Duplicate passage ID: {passage['id']}")
                 ids.add(passage["id"])
                 if not passage["original"]:
                     errors.append(f"Empty original: {passage['id']}")
+                if passage["sourceId"] != source_id or passage["book"] != book["book"]:
+                    errors.append(f"Wrong passage volume: {passage['id']}")
+                if passage["paragraph"] != index:
+                    errors.append(f"Nonsequential paragraph: {passage['id']}")
+                locations = passage.get("locations", [f"{passage['chapter']}.{section}" for section in passage["sectionRefs"]])
+                if not locations or len(locations) != len(set(locations)) or seen_locations.intersection(locations):
+                    errors.append(f"Missing or repeated section locations: {passage['id']}")
+                seen_locations.update(locations)
                 if passage["translationStatus"] not in {
                     "untranslated",
                     "first-pass",
                     "reviewed",
                 }:
                     errors.append(f"Bad translation status: {passage['id']}")
+                if bool(passage["korean"]) != (passage["translationStatus"] != "untranslated"):
+                    errors.append(f"Translation text/status mismatch: {passage['id']}")
                 if source_id == "livy" and not passage.get("chronology"):
                     errors.append(f"Missing Livy chronology: {passage['id']}")
                 for note in passage["notes"]:
@@ -839,7 +854,7 @@ def validate_corpus(corpus: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
     }
 
 
-def main() -> None:
+def build_artifacts() -> tuple[dict[Path, Any], dict[str, Any]]:
     source_manifest = read_json(SOURCE_MANIFEST)
     validate_sources(source_manifest)
     validate_chronology()
@@ -850,12 +865,7 @@ def main() -> None:
     }
     stats = validate_corpus(corpus)
 
-    if BOOKS_OUTPUT.exists():
-        shutil.rmtree(BOOKS_OUTPUT)
-    if SEARCH_OUTPUT.exists():
-        shutil.rmtree(SEARCH_OUTPUT)
-    BOOKS_OUTPUT.mkdir(parents=True)
-    SEARCH_OUTPUT.mkdir(parents=True)
+    artifacts: dict[Path, Any] = {}
 
     collections = []
     for source_id, books in corpus.items():
@@ -863,7 +873,7 @@ def main() -> None:
         search_rows = []
         for book in books:
             relative = f"data/books/{source_id}/{book['book']:02d}.json"
-            write_json(OUTPUT / relative[len("data/"):], book)
+            artifacts[OUTPUT / relative[len("data/"):]] = book
             volume = {
                 key: book[key]
                 for key in (
@@ -893,7 +903,7 @@ def main() -> None:
                 }
                 for passage in book["passages"]
             )
-        write_json(SEARCH_OUTPUT / f"{source_id}.json", search_rows)
+        artifacts[SEARCH_OUTPUT / f"{source_id}.json"] = search_rows
         collections.append(
             {
                 **SOURCE_META[source_id],
@@ -921,7 +931,14 @@ def main() -> None:
         "collections": collections,
         "sources": source_manifest,
     }
-    write_json(OUTPUT / "manifest.json", manifest)
+    artifacts[OUTPUT / "manifest.json"] = manifest
+    return artifacts, stats
+
+
+def main() -> None:
+    artifacts, stats = build_artifacts()
+    for path, payload in artifacts.items():
+        write_json(path, payload)
     print(json.dumps(stats, ensure_ascii=False, indent=2))
 
 

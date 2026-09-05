@@ -8,13 +8,14 @@
   "scripts": {
     "dev": "vinext dev",
     "build:data": "python scripts/build_data.py",
-    "build": "vinext build",
+    "build": "node scripts/build.mjs",
     "build:pages": "npm run build && python scripts/prepare_pages.py",
     "start": "wrangler dev --config dist/server/wrangler.json",
-    "lint": "oxlint app && tsc --noEmit",
+    "lint": "oxlint app lib/reader-navigation.ts lib/reader-clipboard.ts && tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
     "validate": "python scripts/validate_data.py",
-    "check": "npm run validate && npm run lint && npm run build",
-    "check:pages": "npm run validate && npm run lint && npm run build:pages",
+    "check": "npm run validate && npm run test && npm run lint && npm run build",
+    "check:pages": "npm run validate && npm run test && npm run lint && npm run build:pages",
     "format": "oxfmt"
   },
   "dependencies": {

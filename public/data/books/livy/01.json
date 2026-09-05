@@ -833,9 +833,14 @@
       "paragraph": 24,
       "ref": "Liv. 1.6.1–2",
       "original": "Numitor inter primum tumultum hostis invasisse urbem atque adortos regiam dictitans, cum pubem Albanam in arcem praesidio armisque obtinendam avocasset, postquam iuvenes perpetrata caede pergere ad se gratulantes vidit, extemplo advocato concilio scelera in se fratris, originem nepotum, ut geniti, ut educati, ut cogniti essent, caedem deinceps tyranni seque eius auctorem ostendit. iuvenes per mediam contionem agmine ingressi cum avum regem salutassent, secuta ex omni multitudine consentiens vox ratum nomen imperiumque regi efficit.",
-      "korean": "소동이 처음 일어났을 때 누미토르는 적들이 도시에 침입해 왕궁을 공격한다고 거듭 외치며 알바의 장정들을 성채를 지키고 무장하게 하려고 그곳으로 보냈다. 젊은이들이 살해를 끝내고 축하하며 자기에게 오는 것을 보자 곧바로 집회를 소집했다. 그는 형이 자신에게 저지른 범죄, 손자들의 출생, 그들이 어떻게 태어나고 자라고 신원이 밝혀졌는지, 이어 폭군의 죽음과 자신이 그 일을 지휘했다는 사실을 드러냈다. 젊은이들이 대열을 지어 집회 한가운데로 들어와 할아버지를 왕이라 부르자, 온 군중이 한목소리로 뒤따라 왕의 칭호와 지배권을 확정했다.",
-      "notes": [],
-      "translationStatus": "first-pass",
+      "korean": "소동이 처음 일어났을 때 누미토르는 적들이 도시에 침입해 왕궁을 공격한다고 거듭 외치며 알바의 장정들을 불러내 성채를 무장해 수비하도록 보냈다. 젊은이들이 살해를 끝내고 축하하며 자기에게 오는 것을 보자 곧바로 집회를 소집했다. 그는 동생이 자신에게 저지른 범죄, 손자들의 출생과 성장, 자신이 그들을 알아보게 된 경위를 밝히고, 이어 폭군이 살해되었으며 자신이 그 일을 주도했다고 말했다. 젊은이들이 대열을 지어 집회 한가운데로 들어와 할아버지를 왕이라 부르자, 온 군중이 한목소리로 호응하여 왕의 칭호와 지배권을 확정했다.",
+      "notes": [
+        {
+          "label": "누미토르의 동생",
+          "text": "frater는 형과 남동생을 모두 뜻한다. 여기서는 1.3.10–11에서 형 누미토르를 몰아내고 왕위를 빼앗은 동생 아무리우스를 가리킨다."
+        }
+      ],
+      "translationStatus": "reviewed",
       "parallelRefs": [],
       "chronology": {
         "label": "기원전 1200–754년경",

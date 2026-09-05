@@ -10,6 +10,8 @@
 
 모든 생성 단락에는 저자·권·장·절 범위와 원래 절 번호 배열을 보존한다. 원문 파일, upstream commit, SHA-256은 `sources/manifest.json`에 기록되어 있다.
 
+단, 문장별 절 번호가 없는 페리오카이 원문에는 이 독서판의 문장 번호를 붙였다. `Liv. Per. 12.1` 등의 마지막 숫자는 이 사이트의 탐색·인용 번호이며, 다른 판본이나 외부 웹사이트의 절 번호와 일치한다고 가정해서는 안 된다.
+
 ## 라틴어
 
 - Titus Livius, *Ab urbe condita*, Wilhelm Weissenborn · Hermann Johannes Müller 편, Teubner, 1884–1911. PerseusDL `canonical-latinLit`, `urn:cts:latinLit:phi0914.phi001.perseus-lat2`.

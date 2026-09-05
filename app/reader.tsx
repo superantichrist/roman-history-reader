@@ -17,16 +17,30 @@ import {
   X,
 } from 'lucide-react';
 import Image from 'next/image';
+import { tryWriteClipboard } from '../lib/reader-clipboard';
 import {
   useCallback,
   useEffect,
   useMemo,
   useRef,
   useState,
+  type ReactNode,
   type TouchEvent,
 } from 'react';
+import {
+  collectSearchResults,
+  findReadingIndex,
+  isSourceId,
+  normalizeSearch,
+  parseSavedPosition,
+  readingUrl,
+  resolveReadingTarget,
+  swipeDirection,
+  type ReadingPosition,
+  type ReadingTarget,
+  type SourceId,
+} from '../lib/reader-navigation';
 
-type SourceId = 'livy' | 'periochae' | 'polybius';
 type SourceFilter = 'all' | SourceId;
 type ViewMode = 'parallel' | 'original' | 'korean';
 
@@ -212,6 +226,61 @@ function parseTimelineTarget(value: string): { sourceId: SourceId; book: number 
   return { sourceId, book: Number(range.split('-')[0]) };
 }
 
+function readPreference(key: string) {
+  try {
+    return window.localStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
+
+function writePreference(key: string, value: string) {
+  try {
+    window.localStorage.setItem(key, value);
+  } catch {
+    // Device preferences are optional; navigation still works through the URL.
+  }
+}
+
+function ReaderDialog({ label, className, onClose, children }: {
+  label: string;
+  className: string;
+  onClose: () => void;
+  children: ReactNode;
+}) {
+  const dialogRef = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    const dialog = dialogRef.current!;
+    const previousOverflow = document.body.style.overflow;
+    const previousScrollY = window.scrollY;
+    dialog.showModal();
+    document.body.style.overflow = 'hidden';
+    return () => {
+      dialog.close();
+      document.body.style.overflow = previousOverflow;
+      window.scrollTo({ top: previousScrollY, behavior: 'instant' });
+    };
+  }, []);
+  useEffect(() => {
+    const dialog = dialogRef.current!;
+    const dismissBackdrop = (event: MouseEvent) => {
+      if (event.target !== dialog) return;
+      const rect = dialog.getBoundingClientRect();
+      if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) onClose();
+    };
+    dialog.addEventListener('click', dismissBackdrop);
+    return () => dialog.removeEventListener('click', dismissBackdrop);
+  }, [onClose]);
+  return (
+    <dialog
+      ref={dialogRef}
+      className={className}
+      aria-label={label}
+      onCancel={(event) => { event.preventDefault(); onClose(); }}
+    >{children}</dialog>
+  );
+}
+
 export function RomanHistoryReader({
   initialBook,
   manifest,
@@ -226,16 +295,23 @@ export function RomanHistoryReader({
     volumeKey(initialBook.sourceId, initialBook.book),
   );
   const [filter, setFilter] = useState<SourceFilter>('all');
+  const [tocFilter, setTocFilter] = useState<SourceFilter>('all');
   const [viewMode, setViewMode] = useState<ViewMode>('parallel');
   const [loading, setLoading] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [sourcesOpen, setSourcesOpen] = useState(false);
   const [copiedId, setCopiedId] = useState<string | null>(null);
+  const [copyFallback, setCopyFallback] = useState('');
   const [activePassage, setActivePassage] = useState(1);
+  const [activeChapter, setActiveChapter] = useState(initialBook.passages[0]?.chapter ?? '');
+  const [scrollTarget, setScrollTarget] = useState<{ id?: string; sequence: number } | null>(null);
+  const [loadError, setLoadError] = useState<ReadingPosition | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const [searching, setSearching] = useState(false);
   const [searchError, setSearchError] = useState('');
+  const [searchTotal, setSearchTotal] = useState(0);
+  const [submittedQuery, setSubmittedQuery] = useState('');
   const [searchResults, setSearchResults] = useState<
     Array<SearchRow & { sourceId: SourceId }>
   >([]);
@@ -245,8 +321,16 @@ export function RomanHistoryReader({
     ]),
   );
   const searchCache = useRef(new Map<SourceId, SearchRow[]>());
-  const touchStartX = useRef<number | null>(null);
-  const lastSavedPosition = useRef<string | null>(null);
+  const touchStart = useRef<{ x: number; y: number; time: number } | null>(null);
+  const lastSavedPosition = useRef<ReadingPosition | null>(null);
+  const restoringPosition = useRef(true);
+  const scrollSequence = useRef(0);
+  const bookRequest = useRef(0);
+  const searchRequest = useRef(0);
+  const loadedBook = useRef(initialBook);
+  const fetchController = useRef<AbortController | null>(null);
+  const copyTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const viewportWidth = useRef(0);
 
   const collections = useMemo(
     () =>
@@ -263,6 +347,10 @@ export function RomanHistoryReader({
         ? allVolumes
         : collections.get(filter)?.volumes ?? [],
     [allVolumes, collections, filter],
+  );
+  const tocVolumes = useMemo(
+    () => tocFilter === 'all' ? allVolumes : collections.get(tocFilter)?.volumes ?? [],
+    [allVolumes, collections, tocFilter],
   );
   const currentCollection = collections.get(book.sourceId)!;
   const currentVolumeIndex = currentCollection.volumes.findIndex(
@@ -285,155 +373,180 @@ export function RomanHistoryReader({
   );
 
   const scrollToPassage = useCallback((targetId?: string) => {
-    window.setTimeout(() => {
-      const target = targetId ? document.getElementById(`passage-${targetId}`) : null;
-      if (target) target.scrollIntoView({ block: 'start', behavior: 'auto' });
-      else window.scrollTo({ top: 0, behavior: 'auto' });
-    }, 60);
+    restoringPosition.current = true;
+    setScrollTarget({ id: targetId, sequence: ++scrollSequence.current });
   }, []);
 
   const saveReadingPosition = useCallback(
-    (sourceId: SourceId, volumeNumber: number, passage?: Passage) => {
-      const positionKey = passage?.id ?? `${sourceId}:${volumeNumber}`;
-      if (lastSavedPosition.current === positionKey) return;
-      lastSavedPosition.current = positionKey;
-
-      const url = new URL(window.location.href);
-      url.searchParams.set('source', sourceId);
-      url.searchParams.set('book', String(volumeNumber));
-      if (passage) {
-        url.searchParams.set('chapter', passage.chapter);
-        url.searchParams.set('section', passage.sectionStart);
-      } else {
-        url.searchParams.delete('chapter');
-        url.searchParams.delete('section');
+    (position: ReadingPosition, historyMode: 'push' | 'replace' = 'replace') => {
+      const previous = lastSavedPosition.current;
+      const url = readingUrl(window.location.href, position);
+      if (url.href !== window.location.href) {
+        if (historyMode === 'push') window.history.pushState(window.history.state, '', url);
+        else window.history.replaceState(window.history.state, '', url);
       }
-      window.history.replaceState(window.history.state, '', url);
-
-      try {
-        window.localStorage.setItem(
-          'roma-fontes-position',
-          JSON.stringify({
-            sourceId,
-            book: volumeNumber,
-            chapter: passage?.chapter,
-            section: passage?.sectionStart,
-            passageId: passage?.id,
-          }),
-        );
-      } catch {
-        // The URL still preserves the reading location when storage is unavailable.
+      if (JSON.stringify(previous) !== JSON.stringify(position)) {
+        lastSavedPosition.current = position;
+        writePreference('roma-fontes-position', JSON.stringify(position));
       }
     },
     [],
   );
 
   const loadBook = useCallback(
-    async (sourceId: SourceId, volumeNumber: number, targetId?: string) => {
+    async (sourceId: SourceId, volumeNumber: number, target: ReadingTarget = {}, historyMode: 'push' | 'replace' = 'push') => {
       const volume = findVolume(sourceId, volumeNumber);
       if (!volume) return;
       const key = volumeKey(sourceId, volumeNumber);
+      const request = ++bookRequest.current;
+      fetchController.current?.abort();
+      const controller = new AbortController();
+      fetchController.current = controller;
+      restoringPosition.current = true;
       setRequestedKey(key);
       setLoading(true);
+      setLoadError(null);
       try {
         let nextBook = bookCache.current.get(key);
         if (!nextBook) {
           const response = await fetch(publicDataUrl(basePath, volume.path), {
             cache: 'no-store',
+            signal: controller.signal,
           });
           if (!response.ok) throw new Error(`Failed to load ${key}`);
           nextBook = (await response.json()) as BookData;
+          if (nextBook.sourceId !== sourceId || nextBook.book !== volumeNumber || !Array.isArray(nextBook.passages)) throw new Error('Invalid volume data');
           bookCache.current.set(key, nextBook);
         }
+        if (request !== bookRequest.current) return;
+        loadedBook.current = nextBook;
         setBook(nextBook);
-        const passage = targetId?.startsWith('@')
-          ? (() => {
-              const [chapter, section] = targetId.slice(1).split('|');
-              return nextBook.passages.find(
-                (candidate) =>
-                  (candidate.locations?.includes(`${chapter}.${section}`) ??
-                    (candidate.chapter === chapter &&
-                      candidate.sectionRefs.includes(section))),
-              );
-            })()
-          : targetId
-            ? nextBook.passages.find((candidate) => candidate.id === targetId)
-            : nextBook.passages[0];
+        setFilter((current) => current !== 'all' && current !== sourceId ? 'all' : current);
+        const { passage, chapter, section } = resolveReadingTarget(nextBook.passages, target);
         setActivePassage(passage?.paragraph ?? 1);
-        saveReadingPosition(sourceId, volumeNumber, passage);
+        setActiveChapter(chapter ?? '');
+        saveReadingPosition({ sourceId, book: volumeNumber, passageId: passage?.id, chapter, section }, historyMode);
         scrollToPassage(passage?.id);
+      } catch {
+        if (request !== bookRequest.current) return;
+        setRequestedKey(volumeKey(loadedBook.current.sourceId, loadedBook.current.book));
+        setFilter((current) => current !== 'all' && current !== loadedBook.current.sourceId ? 'all' : current);
+        setLoadError({ sourceId, book: volumeNumber, ...target });
       } finally {
-        setLoading(false);
-        setMenuOpen(false);
-        setSearchOpen(false);
+        if (request === bookRequest.current) {
+          setLoading(false);
+          setMenuOpen(false);
+          setSearchOpen(false);
+        }
       }
     },
     [basePath, findVolume, saveReadingPosition, scrollToPassage],
   );
 
+  const cancelPendingWork = useCallback(() => {
+    ++bookRequest.current;
+    fetchController.current?.abort();
+    if (copyTimer.current) clearTimeout(copyTimer.current);
+  }, []);
+
   useEffect(() => {
-    const savedMode = window.localStorage.getItem('roma-fontes-view') as ViewMode;
+    const savedMode = readPreference('roma-fontes-view') as ViewMode;
     if (['parallel', 'original', 'korean'].includes(savedMode)) {
       setViewMode(savedMode);
     }
-    const url = new URL(window.location.href);
-    const querySource = url.searchParams.get('source') as SourceId | null;
-    const queryBook = Number(url.searchParams.get('book'));
-    const chapter = url.searchParams.get('chapter');
-    const section = url.searchParams.get('section');
-    if (
-      querySource &&
-      ['livy', 'periochae', 'polybius'].includes(querySource) &&
-      findVolume(querySource, queryBook)
-    ) {
-      const locator = chapter && section ? `@${chapter}|${section}` : undefined;
-      void loadBook(querySource, queryBook, locator);
-      return;
-    }
-    const saved = window.localStorage.getItem('roma-fontes-position');
-    if (saved) {
-      try {
-        const position = JSON.parse(saved) as {
-          sourceId?: SourceId;
-          book?: number;
-          passageId?: string;
-        };
-        if (
-          position.sourceId &&
-          position.book &&
-          findVolume(position.sourceId, position.book)
-        ) {
-          void loadBook(position.sourceId, position.book, position.passageId);
-        }
-      } catch {
-        // A malformed local preference should never prevent the first volume opening.
+    const previousRestoration = window.history.scrollRestoration;
+    window.history.scrollRestoration = 'manual';
+    const restore = (useSaved: boolean) => {
+      const url = new URL(window.location.href);
+      const sourceId = url.searchParams.get('source');
+      const volume = Number(url.searchParams.get('book'));
+      if (isSourceId(sourceId) && findVolume(sourceId, volume)) {
+        void loadBook(sourceId, volume, {
+          chapter: url.searchParams.get('chapter') ?? undefined,
+          section: url.searchParams.get('section') ?? undefined,
+        }, 'replace');
+        return;
       }
-    }
-  }, [findVolume, loadBook]);
+      const saved = useSaved ? parseSavedPosition(readPreference('roma-fontes-position')) : undefined;
+      if (saved && findVolume(saved.sourceId, saved.book)) {
+        void loadBook(saved.sourceId, saved.book, saved, 'replace');
+      } else {
+        void loadBook(initialBook.sourceId, initialBook.book, {}, 'replace');
+      }
+    };
+    restore(true);
+    const onPopState = () => restore(false);
+    window.addEventListener('popstate', onPopState);
+    return () => {
+      window.removeEventListener('popstate', onPopState);
+      window.history.scrollRestoration = previousRestoration;
+      cancelPendingWork();
+    };
+  }, [cancelPendingWork, findVolume, initialBook, loadBook]);
 
   useEffect(() => {
-    const nodes = Array.from(
-      document.querySelectorAll<HTMLElement>('[data-passage]'),
-    );
-    const observer = new IntersectionObserver(
-      (entries) => {
-        const visible = entries
-          .filter((entry) => entry.isIntersecting)
-          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
-        if (!visible) return;
-        const node = visible.target as HTMLElement;
-        const passage = book.passages.find(
-          (candidate) => candidate.id === node.dataset.passageId,
-        );
-        if (!passage) return;
-        setActivePassage(passage.paragraph);
-        saveReadingPosition(book.sourceId, book.book, passage);
-      },
-      { rootMargin: '-18% 0px -68% 0px' },
-    );
-    nodes.forEach((node) => observer.observe(node));
+    const shell = document.querySelector<HTMLElement>('.reader-shell')!;
+    const sizes = [['.site-header', '--header-height'], ['.source-strip', '--source-height'], ['.reader-toolbar', '--toolbar-height']] as const;
+    const measure = () => sizes.forEach(([selector, property]) => {
+      const element = document.querySelector(selector);
+      if (element) shell.style.setProperty(property, `${element.getBoundingClientRect().height}px`);
+    });
+    const observer = new ResizeObserver(measure);
+    sizes.forEach(([selector]) => observer.observe(document.querySelector(selector)!));
+    measure();
     return () => observer.disconnect();
-  }, [book, saveReadingPosition]);
+  }, []);
+
+  useEffect(() => {
+    if (!scrollTarget) return;
+    let frame = window.requestAnimationFrame(() => {
+      const target = scrollTarget.id ? document.getElementById(`passage-${scrollTarget.id}`) : null;
+      if (target) target.scrollIntoView({ block: 'start', behavior: 'instant' });
+      else window.scrollTo({ top: 0, behavior: 'instant' });
+      frame = window.requestAnimationFrame(() => { restoringPosition.current = false; });
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [scrollTarget, viewMode]);
+
+  useEffect(() => {
+    const nodes = Array.from(document.querySelectorAll<HTMLElement>('[data-passage]'));
+    if (!viewportWidth.current) viewportWidth.current = window.innerWidth;
+    let frame = 0;
+    const updatePosition = () => {
+      frame = 0;
+      if (viewportWidth.current !== window.innerWidth) {
+        viewportWidth.current = window.innerWidth;
+        if (!loading && !loadError) scrollToPassage(lastSavedPosition.current?.passageId);
+        return;
+      }
+      if (restoringPosition.current || loading || loadError || menuOpen || sourcesOpen || searchOpen || copyFallback) return;
+      const top = Math.max(...['.site-header', '.source-strip', '.reader-toolbar'].map((selector) => document.querySelector(selector)?.getBoundingClientRect().bottom ?? 0));
+      // Read just inside the restored passage, beyond its 10px scroll margin.
+      // Fractional CSS pixels at browser zoom must not select the previous row.
+      const readingLine = Math.min(window.innerHeight - 32, top + 14);
+      const atEnd = window.scrollY > 0 && window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - 2;
+      const index = findReadingIndex(nodes.length, (i) => nodes[i].getBoundingClientRect().bottom, readingLine, atEnd);
+      const passage = book.passages[index];
+      if (!passage || lastSavedPosition.current?.passageId === passage.id) return;
+      setActivePassage(passage.paragraph);
+      setActiveChapter(passage.chapter);
+      saveReadingPosition({ sourceId: book.sourceId, book: book.book, passageId: passage.id, chapter: passage.chapter, section: passage.sectionStart });
+    };
+    const schedule = () => { if (!frame) frame = window.requestAnimationFrame(updatePosition); };
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule);
+    window.addEventListener('pagehide', updatePosition);
+    const observer = new ResizeObserver(schedule);
+    const list = document.querySelector('.passage-list');
+    if (list) observer.observe(list);
+    return () => {
+      window.cancelAnimationFrame(frame);
+      window.removeEventListener('scroll', schedule);
+      window.removeEventListener('resize', schedule);
+      window.removeEventListener('pagehide', updatePosition);
+      observer.disconnect();
+    };
+  }, [book, loading, loadError, menuOpen, sourcesOpen, searchOpen, copyFallback, saveReadingPosition, scrollToPassage]);
 
   const chooseFilter = (nextFilter: SourceFilter) => {
     setFilter(nextFilter);
@@ -444,8 +557,10 @@ export function RomanHistoryReader({
   };
 
   const changeView = (nextMode: ViewMode) => {
+    if (nextMode === viewMode) return;
+    scrollToPassage(activeRow?.id);
     setViewMode(nextMode);
-    window.localStorage.setItem('roma-fontes-view', nextMode);
+    writePreference('roma-fontes-view', nextMode);
   };
 
   const copyPassage = async (passage: Passage) => {
@@ -460,18 +575,34 @@ export function RomanHistoryReader({
       passage.original,
     ];
     if (passage.korean) parts.push('', passage.korean);
+    if (passage.notes.length) {
+      parts.push('', '[각주]', ...passage.notes.map((note, index) => `${note.label ?? index + 1}. ${note.text}`));
+    }
     parts.push('', url.toString());
-    await navigator.clipboard.writeText(parts.join('\n'));
-    setCopiedId(passage.id);
-    window.setTimeout(() => setCopiedId(null), 1400);
+    const text = parts.join('\n');
+    if (await tryWriteClipboard(text, navigator.clipboard)) {
+      setCopiedId(passage.id);
+      if (copyTimer.current) clearTimeout(copyTimer.current);
+      copyTimer.current = setTimeout(() => setCopiedId(null), 1400);
+    } else {
+      setCopyFallback(text);
+    }
   };
 
   const runSearch = async () => {
-    const query = searchQuery.trim().toLocaleLowerCase();
-    if (query.length < 2) return;
+    const request = ++searchRequest.current;
+    const query = normalizeSearch(searchQuery);
+    setSubmittedQuery(searchQuery.trim());
+    setSearchOpen(true);
+    setSearchResults([]);
+    setSearchTotal(0);
+    if (query.length < 2) {
+      setSearching(false);
+      setSearchError('검색어를 두 글자 이상 입력해 주세요.');
+      return;
+    }
     setSearching(true);
     setSearchError('');
-    setSearchOpen(true);
     try {
       const ids: SourceId[] =
         filter === 'all' ? ['livy', 'periochae', 'polybius'] : [filter];
@@ -490,36 +621,34 @@ export function RomanHistoryReader({
           }
           return index
             .filter((row) =>
-              `${row.original} ${row.korean} ${row.ref}`
-                .toLocaleLowerCase()
-                .includes(query),
+              normalizeSearch(`${row.original} ${row.korean} ${row.ref}`).includes(query),
             )
-            .slice(0, 40)
             .map((row) => ({ ...row, sourceId }));
         }),
       );
-      setSearchResults(rows.flat().slice(0, 80));
+      if (request !== searchRequest.current) return;
+      setSearchTotal(rows.reduce((total, group) => total + group.length, 0));
+      setSearchResults(collectSearchResults(rows));
     } catch {
+      if (request !== searchRequest.current) return;
       setSearchResults([]);
       setSearchError('검색 색인을 불러오지 못했습니다. 잠시 뒤 다시 시도해 주세요.');
     } finally {
-      setSearching(false);
+      if (request === searchRequest.current) setSearching(false);
     }
   };
 
   const goToChapter = (chapter: string) => {
-    const passage = book.passages.find(
-      (candidate) =>
-        candidate.chapterRefs?.includes(chapter) ?? candidate.chapter === chapter,
-    );
+    const { passage, section } = resolveReadingTarget(book.passages, { chapter });
     if (!passage) return;
     setActivePassage(passage.paragraph);
-    saveReadingPosition(book.sourceId, book.book, passage);
+    setActiveChapter(chapter);
+    saveReadingPosition({ sourceId: book.sourceId, book: book.book, passageId: passage.id, chapter, section }, 'push');
     scrollToPassage(passage.id);
   };
 
   const moveFromSearch = (result: SearchRow & { sourceId: SourceId }) => {
-    void loadBook(result.sourceId, result.book, result.id);
+    void loadBook(result.sourceId, result.book, { passageId: result.id });
   };
 
   const goToTimeline = (value: string) => {
@@ -529,17 +658,28 @@ export function RomanHistoryReader({
   };
 
   const onTouchStart = (event: TouchEvent<HTMLElement>) => {
-    touchStartX.current = event.touches[0]?.clientX ?? null;
+    const target = event.target as HTMLElement;
+    if (loading || event.touches.length !== 1 || target.closest('button, a, input, select, textarea, .mobile-timeline, .reader-toolbar') || window.getSelection()?.toString()) {
+      touchStart.current = null;
+      return;
+    }
+    touchStart.current = { x: event.touches[0].clientX, y: event.touches[0].clientY, time: Date.now() };
   };
 
   const onTouchEnd = (event: TouchEvent<HTMLElement>) => {
-    if (touchStartX.current === null) return;
-    const end = event.changedTouches[0]?.clientX ?? touchStartX.current;
-    const distance = end - touchStartX.current;
-    touchStartX.current = null;
-    if (Math.abs(distance) < 90) return;
-    const target = distance < 0 ? nextVolume : previousVolume;
+    const start = touchStart.current;
+    touchStart.current = null;
+    const end = event.changedTouches[0];
+    if (!start || !end || event.touches.length || window.getSelection()?.toString()) return;
+    const direction = swipeDirection(end.clientX - start.x, end.clientY - start.y, Date.now() - start.time);
+    if (!direction) return;
+    const target = direction > 0 ? nextVolume : previousVolume;
     if (target) void loadBook(book.sourceId, target.book);
+  };
+
+  const openContents = () => {
+    setTocFilter(filter);
+    setMenuOpen(true);
   };
 
   const timeline = (
@@ -567,7 +707,12 @@ export function RomanHistoryReader({
     <div className="reader-shell">
       <div className="reading-progress" style={{ width: `${progress}%` }} />
       <header className="site-header">
-        <a className="brand" href={basePath || '/'} aria-label="처음으로">
+        <a className="brand" href={`${basePath || '/'}?source=${initialBook.sourceId}&book=${initialBook.book}`} aria-label="처음으로" onClick={(event) => {
+          if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          event.preventDefault();
+          setFilter('all');
+          void loadBook(initialBook.sourceId, initialBook.book);
+        }}>
           <span className="brand-seal" aria-hidden="true">SPQR</span>
           <span>
             <strong>ROMA · FONTES</strong>
@@ -575,25 +720,22 @@ export function RomanHistoryReader({
           </span>
         </a>
 
-        <div className="header-search">
+        <form className="header-search" aria-label="전체 본문 검색" onSubmit={(event) => { event.preventDefault(); void runSearch(); }}>
           <Search aria-hidden="true" />
           <input
             value={searchQuery}
             onChange={(event) => setSearchQuery(event.target.value)}
-            onKeyDown={(event) => {
-              if (event.key === 'Enter') void runSearch();
-            }}
             placeholder="라틴어·그리스어·한국어 검색"
             aria-label="전체 본문 검색"
           />
-          <button type="button" onClick={() => void runSearch()}>검색</button>
-        </div>
+          <button type="submit">검색</button>
+        </form>
 
         <div className="header-actions">
-          <button type="button" className="source-button" onClick={() => setSourcesOpen(true)}>
+          <button type="button" className="source-button" aria-label="판본" onClick={() => setSourcesOpen(true)}>
             <LibraryBig /> <span>판본</span>
           </button>
-          <button type="button" className="menu-button" onClick={() => setMenuOpen(true)}>
+          <button type="button" className="menu-button" aria-label="목차" onClick={openContents}>
             <Menu /> <span>목차</span>
           </button>
         </div>
@@ -637,8 +779,10 @@ export function RomanHistoryReader({
         <main
           className="reading-main"
           aria-busy={loading}
+          data-active-passage={activeRow?.id}
           onTouchStart={onTouchStart}
           onTouchEnd={onTouchEnd}
+          onTouchCancel={() => { touchStart.current = null; }}
         >
           <div className="mobile-timeline">{timeline}</div>
 
@@ -647,6 +791,7 @@ export function RomanHistoryReader({
               <label className="volume-select">
                 <span className="sr-only">권 선택</span>
                 <select
+                  aria-label="권 선택"
                   value={requestedKey}
                   onChange={(event) => {
                     const [sourceId, volume] = event.target.value.split(':') as [SourceId, string];
@@ -663,7 +808,7 @@ export function RomanHistoryReader({
               {book.chapters.length > 1 && (
                 <label className="chapter-select">
                   <span className="sr-only">장 선택</span>
-                  <select value={activeRow?.chapter ?? book.chapters[0]} onChange={(event) => goToChapter(event.target.value)}>
+                  <select aria-label="장 선택" value={activeChapter || book.chapters[0]} disabled={loading} onChange={(event) => goToChapter(event.target.value)}>
                     {book.chapters.map((chapter) => (
                       <option key={chapter} value={chapter}>
                         {chapter === 'pr' ? '서문' : chapter === 'per' ? '요약' : `제${chapter}장`}
@@ -686,6 +831,8 @@ export function RomanHistoryReader({
                   type="button"
                   key={mode}
                   data-active={viewMode === mode}
+                  aria-pressed={viewMode === mode}
+                  disabled={loading}
                   onClick={() => changeView(mode)}
                 >
                   {label}
@@ -693,6 +840,12 @@ export function RomanHistoryReader({
               ))}
             </div>
           </section>
+
+          {loading && <output className="reader-notice">본문을 불러오는 중…</output>}
+          {loadError && <div className="reader-notice load-error" role="alert">
+            <span>{SOURCE_LABELS[loadError.sourceId].label} 제{loadError.book}권을 불러오지 못했습니다. 연결을 확인하고 다시 시도해 주세요.</span>
+            <button type="button" onClick={() => void loadBook(loadError.sourceId, loadError.book, loadError)}>다시 시도</button>
+          </div>}
 
           <header className="book-heading">
             <div>
@@ -709,7 +862,7 @@ export function RomanHistoryReader({
 
           <aside className={`preservation-note ${book.sourceKind}`}>
             <FileWarning aria-hidden="true" />
-            <p><strong>{book.preservationLabel}</strong>{STATUS_EXPLANATIONS[book.sourceKind]}</p>
+            <p><strong>{book.preservationLabel}</strong>{STATUS_EXPLANATIONS[book.sourceKind]}{book.sourceId === 'periochae' && ' 절 번호는 이 독서판에서 라틴어 문장을 나눈 번호입니다.'}</p>
           </aside>
 
           {book.passages.length === 0 ? (
@@ -812,7 +965,7 @@ export function RomanHistoryReader({
           <nav className="volume-navigation" aria-label="앞뒤 권">
             <button
               type="button"
-              disabled={!previousVolume}
+              disabled={!previousVolume || loading}
               onClick={() => previousVolume && void loadBook(book.sourceId, previousVolume.book)}
             >
               <ChevronLeft />
@@ -821,7 +974,7 @@ export function RomanHistoryReader({
             <span>{currentVolumeIndex + 1} / {currentCollection.volumes.length}</span>
             <button
               type="button"
-              disabled={!nextVolume}
+              disabled={!nextVolume || loading}
               onClick={() => nextVolume && void loadBook(book.sourceId, nextVolume.book)}
             >
               <span><small>다음 권</small>{nextVolume ? `제${nextVolume.book}권` : '끝'}</span>
@@ -833,19 +986,17 @@ export function RomanHistoryReader({
       </div>
 
       {menuOpen && (
-        <div className="overlay">
-          <button className="overlay-dismiss" type="button" onClick={() => setMenuOpen(false)} aria-label="목차 닫기" />
-          <dialog open className="drawer toc-drawer" aria-label="전체 목차">
+          <ReaderDialog className="drawer toc-drawer" label="전체 목차" onClose={() => setMenuOpen(false)}>
             <header><div><span>INDEX LIBRORUM</span><h2>전체 목차</h2></div><button type="button" onClick={() => setMenuOpen(false)} aria-label="닫기"><X /></button></header>
             <div className="drawer-filters">
               {(['all', 'livy', 'periochae', 'polybius'] as SourceFilter[]).map((id) => (
-                <button type="button" key={id} data-active={filter === id} onClick={() => chooseFilter(id)}>
+                <button type="button" key={id} data-active={tocFilter === id} aria-pressed={tocFilter === id} onClick={() => setTocFilter(id)}>
                   {id === 'all' ? '전체' : SOURCE_LABELS[id].label}
                 </button>
               ))}
             </div>
             <div className="volume-grid">
-              {visibleVolumes.map((volume) => (
+              {tocVolumes.map((volume) => (
                 <button
                   type="button"
                   key={volumeKey(volume.sourceId, volume.book)}
@@ -859,19 +1010,15 @@ export function RomanHistoryReader({
                 </button>
               ))}
             </div>
-          </dialog>
-        </div>
+          </ReaderDialog>
       )}
 
       {sourcesOpen && (
-        <div className="overlay">
-          <button className="overlay-dismiss" type="button" onClick={() => setSourcesOpen(false)} aria-label="판본 닫기" />
-          <dialog open className="drawer sources-drawer" aria-label="판본과 원문 출처">
+          <ReaderDialog className="drawer sources-drawer" label="판본과 원문 출처" onClose={() => setSourcesOpen(false)}>
             <header><div><span>FONTES</span><h2>판본과 원문 출처</h2></div><button type="button" onClick={() => setSourcesOpen(false)} aria-label="닫기"><X /></button></header>
             <p className="source-intro">원문은 고정된 공개 학술 데이터의 커밋과 해시를 기록해 재현할 수 있게 했습니다. 번역은 이 프로젝트에서 원문으로부터 직접 작성합니다.</p>
             <div className="source-cards">
               {manifest.sources.sources
-                .filter((source) => ['livy-01-40', 'livy-periochae-46-142', 'polybius-histories'].includes(source.id))
                 .map((source) => (
                   <article key={source.id}>
                     <span>{source.id}</span>
@@ -893,19 +1040,16 @@ export function RomanHistoryReader({
                 </article>
               ))}
             </div>
-          </dialog>
-        </div>
+          </ReaderDialog>
       )}
 
       {searchOpen && (
-        <div className="overlay">
-          <button className="overlay-dismiss" type="button" onClick={() => setSearchOpen(false)} aria-label="검색 결과 닫기" />
-          <dialog open className="search-dialog" aria-label="검색 결과">
+          <ReaderDialog className="search-dialog" label="검색 결과" onClose={() => setSearchOpen(false)}>
             <header>
-              <div><span>QUAERE</span><h2>“{searchQuery.trim()}” 검색</h2></div>
+              <div><span>QUAERE</span><h2>“{submittedQuery}” 검색</h2></div>
               <button type="button" onClick={() => setSearchOpen(false)} aria-label="닫기"><X /></button>
             </header>
-            <p className="search-summary">{searching ? '색인을 불러오는 중…' : searchError || `${searchResults.length}개 결과${searchResults.length === 80 ? ' (상위 80개)' : ''}`}</p>
+            <output className="search-summary">{searching ? '색인을 불러오는 중…' : searchError || `${searchTotal.toLocaleString()}개 결과${searchTotal > searchResults.length ? ` 중 ${searchResults.length}개 표시 · 저작을 선택하면 범위를 좁힐 수 있습니다.` : ''}`}</output>
             <div className="search-results">
               {!searching && searchResults.map((result) => (
                 <button type="button" key={`${result.sourceId}-${result.id}`} onClick={() => moveFromSearch(result)}>
@@ -916,14 +1060,19 @@ export function RomanHistoryReader({
               ))}
               {!searching && !searchError && searchResults.length === 0 && <p className="empty-search">검색 결과가 없습니다.</p>}
             </div>
-          </dialog>
-        </div>
+          </ReaderDialog>
       )}
 
+      {copyFallback && <ReaderDialog className="search-dialog copy-dialog" label="원문과 직역 복사" onClose={() => setCopyFallback('')}>
+        <header><h2>원문과 직역 복사</h2><button type="button" onClick={() => setCopyFallback('')} aria-label="닫기"><X /></button></header>
+        <p className="source-intro">자동 복사가 허용되지 않았습니다. 아래 내용을 선택해 복사해 주세요.</p>
+        <textarea aria-label="복사할 원문과 직역" readOnly value={copyFallback} onFocus={(event) => event.currentTarget.select()} />
+      </ReaderDialog>}
+
       <div className="mobile-book-nav" aria-label="모바일 앞뒤 권">
-        <button type="button" disabled={!previousVolume} onClick={() => previousVolume && void loadBook(book.sourceId, previousVolume.book)}><ArrowLeft /> 이전</button>
-        <button type="button" onClick={() => setMenuOpen(true)}><BookOpen /> 목차</button>
-        <button type="button" disabled={!nextVolume} onClick={() => nextVolume && void loadBook(book.sourceId, nextVolume.book)}>다음 <ArrowRight /></button>
+        <button type="button" disabled={!previousVolume || loading} onClick={() => previousVolume && void loadBook(book.sourceId, previousVolume.book)}><ArrowLeft /> 이전</button>
+        <button type="button" onClick={openContents}><BookOpen /> 목차</button>
+        <button type="button" disabled={!nextVolume || loading} onClick={() => nextVolume && void loadBook(book.sourceId, nextVolume.book)}>다음 <ArrowRight /></button>
       </div>
     </div>
   );
